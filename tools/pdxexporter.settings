@@ -1,0 +1,10 @@
+animations = { "idle" "moving" "attack" "none" "death" "retreat" }
+materials = {
+	
+	{ shader = "PdxMeshColor"					shader_file = "gfx/FX/pdxmesh.shader" }
+	{ shader = "PdxMeshStandard" 				shader_file = "gfx/FX/pdxmesh.shader" }
+	{ shader = "PdxMeshTextureAtlas"			shader_file = "gfx/FX/pdxmesh.shader" }
+	{ shader = "PdxMeshSnow"					shader_file = "gfx/FX/pdxmesh.shader" }
+	{ shader = "Collision" }
+}
+version = 1

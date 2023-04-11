@@ -1,0 +1,23 @@
+echo This script integrates a couple of countries around the world with England, allowing the followup script a few years later to verify fleet distributions.
+tag ENG
+ti
+fow
+add_heir
+stability
+tech 40
+nowar
+norevolts
+invasion_target -1
+integrate MNG
+integrate VIJ
+integrate ZAN
+integrate MAL
+integrate KON
+integrate SND
+integrate COC
+integrate CLM
+integrate MIK
+integrate BTS
+runyear 1448 ai_test_naval_distribution_2.txt
+speed 5
+observe

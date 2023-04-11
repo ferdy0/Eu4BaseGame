@@ -1,0 +1,5 @@
+echo Deadline reached, will test if fleets are distributed properly!
+speed 0
+tag ENG
+test naval_distribution
+

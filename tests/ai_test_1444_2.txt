@@ -1,0 +1,6 @@
+echo Test Denmark having exterminated their rebels
+tag DAN
+assert NOT = { num_of_rebel_controlled_provinces = 1 }
+assert NOT = { num_of_rebel_armies = 1 }
+echo Last test so pause
+speed 0

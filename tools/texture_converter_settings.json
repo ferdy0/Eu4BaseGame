@@ -1,0 +1,79 @@
+[
+  {
+    "base_directory": "",
+    "name": "default",
+    "outputs": [
+      {
+        "channel_count": 3,
+        "inputs": [
+          {
+            "input_channel": "red",
+            "map": "diffuse",
+            "output_channel": "red"
+          },
+          {
+            "input_channel": "green",
+            "map": "diffuse",
+            "output_channel": "green"
+          },
+          {
+            "input_channel": "blue",
+            "map": "diffuse",
+            "output_channel": "blue"
+          }
+        ],
+        "name": "_diffuse",
+        "trim": true
+      },
+      {
+        "channel_count": 3,
+        "inputs": [
+          {
+            "input_channel": "red",
+            "map": "normal",
+            "output_channel": "red"
+          },
+          {
+            "input_channel": "green",
+            "map": "normal",
+            "output_channel": "green"
+          },
+          {
+            "input_channel": "blue",
+            "map": "normal",
+            "output_channel": "blue"
+          }
+        ],
+        "name": "_normal",
+        "trim": false
+      },
+      {
+        "channel_count": 4,
+        "inputs": [
+          {
+            "input_channel": "red",
+            "map": "color1",
+            "output_channel": "red"
+          },
+          {
+            "input_channel": "green",
+            "map": "color2",
+            "output_channel": "green"
+          },
+          {
+            "input_channel": "blue",
+            "map": "color3",
+            "output_channel": "blue"
+          },
+          {
+            "input_channel": "red",
+            "map": "specular",
+            "output_channel": "alpha"
+          }
+        ],
+        "name": "_spec",
+        "trim": false
+      }
+    ]
+  }
+]

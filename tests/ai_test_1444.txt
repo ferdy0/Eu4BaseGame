@@ -1,0 +1,8 @@
+echo Standard scenario start, no wars/new rebels.
+ti
+fow
+nowar
+norevolts
+runyear 1448 ai_test_1444_2.txt
+speed 5
+observe
