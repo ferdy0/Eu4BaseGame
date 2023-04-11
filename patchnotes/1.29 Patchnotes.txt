@@ -1,0 +1,259 @@
+############################################################
+######################### 1.29.1.0 #########################
+############################################################
+
+###################
+# Free Features
+###################
+  - Switched the game to 64 bits. Minimum OS requirements are now Windows 7 64 bits, Ubuntu 16.04 64 bits and macOS Sierra (10.12) or later.
+  - Added unique national ideas to the Oirats, the Mongol Khanate, and Chagatai.
+  - Added Korean mission tree with 27 missions in total
+  - Added Tumu Crisis event chain for Oirat and Ming. If the Oirats capture the Emperor and win the siege of Beijing, they can force the surrender of northern China
+  - Added mission tree for the Mongols. Available to all countries with Mongol, Chahar, Khalka, and Oirat primary culture. 15 missions are available to all, 1 is unique to the Oirats.
+  - Added new Korean events about the Peasant Uprisings and Factional Strife
+  - Changed the Literati Purges so you can choose who to purge.
+  - Added new event 'The Zunghars', which adds Zunghar cores to North and South Zungaria if Oirat has less than 10 cities after 1600
+  - Added new startup screens for the Jurchens and Mongols
+  - Host can now be observer in multiplayer games
+  - Ming's startup screen further elaborates on the realm's foreign and domestic challenges, including more recent additions to the game.
+  - Portions of Central Asia's province and area layout have been reworked
+  - Added Jurchen, Manchu, and Qing ideas, replacing old Manchu ideas
+  - Added new Jurchen/Manchu/Qing mission tree, with 16 new missions unique to Qing and 23 in total
+  - Added Crisis of the Ming Dynasty disaster. Includes events for Li Zicheng's rebellion and releasing the Three Feudatories in southern China if the disaster is mismanaged.
+  - Added startup screen for Korea.
+  - Added Shun ideas based on Li Zicheng's Rebellion
+  - Added Koxinga event. When things are looking dire for Ming, Koxinga will flee to Taiwan and claim any empty provinces for the new nation of Tungning.
+  - Added Return to the Wokou Era event for So, giving them the option to become a Pirate Republic with Golden Century enabled
+  - Japanese domains get a new, unified mission tree. The old separate mission trees for Japan and the Daimyos are redundant and defunct now.
+###################
+# Gamebalance
+###################
+# Government
+  - Added personality traits for the Emperor of China: "Humane" grants +0.05 monthly mandate, "Petty" gives -0.05
+  - Being Bankrupt will now give -0.1 yearly mandate.
+  - Countries that manage to claim the Mandate of Heaven will now gain 0.05 mandate per month for the first 25 years.
+  - Having 0 Meritocracy will now cause +0.1 corruption, with the effect scaled from 0 impact at 50 Meritocracy.
+  - Having a Mandate of 0 or losing the Mandate will now give -200% mercenaries available (up from -100%) and -0.5 manpower (all scaled from 0 effect at 50 Mandate)
+  - Having a Mandate of 100 will now give -0.03 war exhaustion (scaled from 0 effect at 50 Mandate).
+  - Reduced meritocracy per level of advisor skill from 0.5 to 0.25.
+  - The "Unguarded Nomadic Border" disaster now counts the horde's non-tributary subjects' development in the requirement that a neighbouring horde has 300 development.
+  - The Emperor of China will gain 0.05 mandate per month when fighting a war using the Unify China casus belli.
+  - The Emperor of China will no longer lose mandate from non-tributary neighbours e.g. Russia.
+  - The Emperor of China will now lose 0.05 mandate a year per city if he does not own and control Beijing, Nanjing or Canton (i.e. -0.15 if he controls none of them).
+
+# War & Peace
+  * The Shogun cannot use the Take Mandate of Heaven CB
+  - Japanese CBs will now give 75% AE for all provinces held by Daimyos, Independent Daimyos and the Shogunate, rather than 50% for all provinces which you have claims on.
+
+# Other
+  * Major Ming disaster events will now also fire when Unguarded Nomadic Frontier is active
+  - 1 Banner per 15 development
+  - Banners cost 25% manpower now
+  - Banners no longer counts as mercs and are no longer removed if they take damage at zero strength.
+  - Banners only get 5% discipline now
+  - Banners reinforce half as slowly.
+  - Halved maintenance cost of Banner regiments
+  - Increased mandate loss from devastation
+  - Lowered Aachen idea 2 to 0.3 Republican Tradition Gain
+  - Lowered Colonial idea 1 to 0.3 Republican Tradition Gain
+  - Lowered Cossack idea 2 to 0.3 Republican Tradition Gain
+  - Lowered Custom nation Republican Tradition base cost to 20 and 60.
+  - Lowered Custom nation Republican Tradition to 0.15 and 0.30
+  - Lowered Hamburger idea 2 to 0.3 Republican Tradition Gain
+  - Lowered Ismaili School Republican Tradition Gain to 0.2
+  - Lowered Novgorod idea 3 to 0.3 Republican Tradition Gain
+  - Lowered Offaly idea 6 to 0.3 Republican Tradition Gain
+  - Lowerer Latin ideas Republican Tradition gain to 0.3
+  - Lowered mandate gain from prosperity
+  - Made Jianzhou/Manchu/Qing historical lucky nations
+  - Penalty for mandate from Devastation only applies to stated provinces.
+
+
+###################
+# AI
+###################
+# Other
+  - Will now consider it's mandate if it needs to peace out.
+
+
+###################
+# Interface
+###################
+# Mapmodes
+  - Added cultural mapmode to lobby
+  - Grasslands in Simple Terrian mode is a hue darker now
+
+# Tooltips
+  - Tooltip for monthly mandate increase now sums up to the actual value.
+  - the "lack-of-mercenary" alert now shows 0 even it fhe mercenary force limit is below 0 (like with 0 mandate for Ming)
+
+# Unitmodels
+  - Ensured that the Dzungars use the Oirat unit model and Khalkha uses the Mongolian.
+
+# Other
+  - Will now show country largest heathen religion icon in religion screen
+  - Will now show country largest herestic religion icon in religion screen
+  - Players can now be kicked from running game through right-clicking in outliner
+
+
+###################
+# Usermodding
+###################
+# Effects
+  * Add clear_rebels effect that if used in a province scope will clear all the rebels in there.
+
+# Triggers
+  * Add development_in_provinces trigger that takes a value and triggers for the provinces to be included and check for the total development
+  * is_ruler_commanding_unit, inside unit scope, will triggers if the unit is commanded by the owner ruler
+  * province_getting_expelled_minority trigger added, checks if the province in the scope is getting minorities
+
+# Other
+  - Added total_own_and_non_tributary_subject_development trigger
+  - Disasters now have a on_progress_effect which will have the disaster progress set into disaster_key_progress variable.
+
+
+###################
+# Script
+###################
+# Achievements
+  - Made Narcissist achievement even more narcissistic
+  - Qing of China achievement now requires owning the entire China superregion
+  - Updated "A Hero's Welcome" achievement description to clarify it requires starting as Karaman
+  - Fixed spelling error of Gorkha in achievement desc for "The Pheasant Strut"
+
+# Decisions
+  - Forming Manchu no longer requires Hinggan province
+  - Forming Manchu now requries 20 core provinces with Manchu or Jurchen culture
+  - Forming Yuan now only requries EoC if any country is Emperor
+  - Forming Yuan no longer requires owning Kaifeng and Xiangyang.
+  - Forming Yuan no longer requires owning all Uighur culture provinces
+  - Forming Qing now requires claiming the Mandate of Heaven, or being Empire rank without Mandate of Heaven.
+  - Pagan decision to adopt Vajrayana now requires either Vajrayana dominant religion or at least Age of Absolutism
+  - Removed old Green Standard Army and Eight Banners decisions
+  - Removed Korean Hall of Worthies decision as it had already been founded in 1420 (and was disbanded in 1456).
+
+# Events
+  - Boundary Dispute event option 2 now reduces prestige by 5 instead of stability by 1.
+  - Complaints about Bailiff event now costs 10 legitimacy/devotion for monarchies/theocracies instead of 10 prestige. Republics can gain 5 RT and 2 corruption instead. Event will no longer fire for tribes or natives.
+  - Manchu Rebellion event for Ming now costs Mandate to ignore the rebels, and gives Mandate for confronting them.
+  - Ming Famine event rebalanced. First two options will now cost Mandate. Final option now costs 1 year of income, up from 0.5.
+  - Prutenic Tables now only reduces tech cost by 10%, down from 25%. No longer reduces idea cost.
+  - Rebalanced Warriors Do Not read Books event. Stab hit replaced with -10% ADM and DIP tech cost for 10 years.
+  - Removed old Li Zicheng event. Replaced with more comprehensive Disaster.
+  - Removed version of Heshen event for Ming. Deemed historically implausible.
+  - Reparing the Great Wall events for Ming rebalanced. Repairing will cost more income and give defensiveness in northern forts instead of army tradition. Not repairing will cost Mandate with MoH enabled.
+  - Revolt of the Three Feudatories event entirely re-written to tie in to new Qing missions. Now creates a revolt of the vassals gained during the conquest of southern China.
+  - The Strategic Decision after Zheng Ho's Journey event will now only fire if Ming has Chinese factions. The monarch point bonuses have also been removed.
+  - White Lotus events for Ming will now give Mandate for confronting the cultists, and cost Mandate to ignore.
+  - Added notifications for the relevant nomad country that it is set to cause the Emperor of China to experience the Unguarded Nomadic Frontier disaster (at 10% and 75% progress), as well as if it no longer qualifies to cause said disaster.
+  - Cheating at Examinations event now adds 2 corruption.
+  - Korean event "Hyo-jong's Northern Expedition" can now fire if Korea borders on any country of the Manchu culture (including Qing), rather than just the Manchu tag. It will now also give you something even if you already have claims on the relevant provinces, and will refer to the name of the current king.
+
+# Ideas
+
+# Missions
+  - Amur Acquisition mission updated to reflect 1.29 map changes.
+
+# Setup
+  - Added 20 provinces and revised setup for the Mongolia region
+  - Added 12 provinces to the Manchuria region
+  - Added 4 new countries to the Manchuria region in 1444
+  - Added Chahar cores to several provinces in 1444
+  - Added Changbai Mountain triggered modifier to Jianzhou province.
+  - Added Evenk ideas (used by Nivkh and Solon).
+  - Added Tsushia province to Japan, home to a new Daimyo, So.
+  - Chagatai now accepts Uyghur culture in 1444
+  - Changed Chahar's primarily culture to Mongol
+  - Changed capital of Notce to Naklo, and capital of Kuyavia to Brzesc Kujawski
+  - Haixi and Jianzhou now begin as tributaries of Ming
+  - Jurchen tribes will now start with Jurchen culture. Forming Manchu will change primary culture to Manchu.
+  - Mongolia now accepts Khalkha culture
+  - North Hamgyeong and Yukjin provinces now begin with Jurchen culture, formerly Korean.
+  - Northern Manchuria no longer embraces Feudalism in 1444
+  - Oirat now accepts Khalkha culture
+  - Removed Buryatia from 1444 setup. Its former provinces are now colonizable.
+  - Removed Jianzhou cores on northern Korea as Jianzhou had helped Korea conquer those territories.
+  - Removed historical rivalry between Oirat and Mongolia.
+  - Removed some inland and northern Wu cores
+  - Renamed Chahar culture to Korchin
+  - Yumen province now owned by Kara Del, formerly Ming.
+  - Jianzhou now a Ming tributary in 1444
+  - Changed map topography and terrain to accentuate the Changbai Mountains
+
+# Other
+  * Added define CELESTIAL_EMPIRE_MANDATE_PER_5_LOANS for the yearly change in mandate depending on the number of loans (in batches of 5)
+  - Consolidated areas in East Siberia
+  - Dutch Republics cannot choose the Sortition reform and have two elections on a ruler's death
+  - Multiple dynamic province names added for several East Asian cultures and culture groups
+  - Some Lithuanian dynamic province names and province capital names in Eastern Europe now reflect the appropriate cultures
+  - Updated names for Gotland
+  - Improved the Korean name lists.
+
+
+
+###################
+# Bugfixes
+###################
+  * Added fictional rulers to Udige and Donghai
+  * CTD in AI evaluation of nationalism wars peace deals
+  * Countries will not be able anymore to concede to be tributary of themselves in a peace deal.
+  * Fix CTD when spectating on a province state
+  * Fix a crash when using loan diplo dialog
+  * Fixed CTD in CKnowledgeSharingAction due to subject type not set
+  * Fixed OOS due to rulers not getting all personalitites when hotjoining (introduced 3/7 19)
+  * Fixed Resume in launcher trying to load oos/hotjoin saves
+  * Fixed legacy reforms getting removed when natives reform without Dharma
+  * Fixed occasional 119 OOS after selecting national ideas for Custom Nations
+  * Fixed the Vajrayana decision
+  * Fixed tribal feud event giving stability and not accounting for non-hordes
+  * Horde mechanics are explained in the startup screen only for hordes
+  * The DLC called 'Asian Navies' in the launcher has been renamed 'Asian Ships', as it is currently titled on Steam.
+  * The app for macOS will now show the proper icon in the dock
+  * fix the issue that was preventing sometimes the troops to reach their destination with an automatic transport mission.
+  * fixed "server lost" issue when client loads faster than host in MP games
+  * regiments in the unit reorganization screen should have their proper banner back
+  * revert on mac and linux the fix used for the random flags in windows
+  - AI will now properly evaluate which provinces to take a in nationalism war peace deal
+  - All the calculations related to the mandate monthly change are now computed with only two decimals.
+  - Applied Chinese dynamic province names to all Chinese tags, rather than just Yan.
+  - Arabic numbers in custom monarch names should not be interpreted as dynatic numbers
+  - Clicking on players in outliner will correctly generate a comma in the whisper macro
+  - Corrected a variety of historical accuracy issues in the Japanese history files, thanks to Yoshihiko Hayashi!
+  - Daimyo event "Returned to Fold" will no longer fire for a Pirate Republic, so that So can remain pirates for longer than a month.
+  - Enforced consistency of spelling on everything Dzungar.
+  - Enforcing a personal union will now properly transfer all subjects again
+  - Fixed CTD for empty OR triggers
+  - Fixed CTD when reassigning leader after leader panel was updated.
+  - Fixed HRE Imperial Authority monthly increase differing if you are playing as the Emperor or not
+  - Fixed Host window not hidden when pressing back in MP lobby
+  - Fixed Imperial Authority modifier applied twice on monthly increase
+  - Fixed Mac/Linux MP crash due to generating textures on wrong thread
+  - Fixed OOS after selecting countries in quick succession
+  - Fixed a case through which the Shogun could end up at war with a Daimyo without the subject-overlord relation being broken.
+  - Fixed several instances of "that that" in loc
+  - Fixed some Spanish missions being impossible without RoM
+  - Fixed various minor script issues in Ming dynamic historical events
+  - Fixes bug related to missing events in countries after loading a multiplayer game and selecting a different country.
+  - Great Wall events now check for province controller
+  - Improved the readability of the tooltip for "has_manufactory_trigger" (used e.g. in Polish mission "Invest in Eastern Poland").
+  - MP clients will no longer be assigned the host country savegame country on some rare cases
+  - Moved version info from error log to game log
+  - Opening diplomacy with another country while a war confirmation popup is active will no longer crash the game
+  - Reverse opinion modifier from improve relations should not decay while the diplomat is working on it
+  - Some dynamic province name rendering errors due to encoding issues have been resolved.
+  - States eligible for Manchu banners should not give player another state interaction once they are all raised
+  - The States General reform will now be abolished if you form Prussia as the Prussian Monarchy reform overlaps with its UI.
+  - The event "The House of [consort dynasty]" can no longer fire without a province allocated as the consort family's governing seat.
+  - The first letter of the event "Increased Demand for [trade good]" will no longer display as lowercase.
+  - The province modifier "Cotton Gin" (gained via USA event "The Invention of the Cotton Gin") no longer disappears after one tick.
+  - The province modifier "St Paul's College" (gained via the Ming event of the same name) no longer disappears after one tick.
+  - Updated the startup screen to describe government reforms from Dharma and hordes from The Cossacks
+  - Various Japanese daimyos' country and provincial histories have been corrected, with additional personalities also added to later rulers
+  - add_ruler_personality will not allow to go over limit anymore
+  - fix micro-freezing when switching to some map modes due to buffered logging
+  - losing your last port will now properly update your supply range and prevent out of syncs with hotjoin
+  - morale boost at the end of a battle should account for all troops that participated, even if they retreated before the end
+  - past enforce peace offers should not come back to haunt the player anymore
+  - Fix potential OOS when client changed gameplay settings
+  - Fixed occasional CTD when hovering over modifier elements in province/colonisation view
+  - Fixed replace_path not working with absolute paths

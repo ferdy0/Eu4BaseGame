@@ -1,0 +1,277 @@
+###################
+# Free Features
+###################
+  - Added support for Steam Rich Presence.
+  - New Lottery Election mechanic
+  - New unique government for Venice
+  - New Sortition reform on tier 3 that enables Lottery election. (Dharma)
+  - Added Bureaucratic Aparatus and Appointment by Committee government reforms for republics. (Dharma)
+  - Removed old Sortition reform. (Dharma)
+  - Added Arrival of the Kalmyks event
+  - Added Prussian Confederation event chain
+  - Added Roman of Moldavia event chain
+  - Added mission trees for Poland, Lithuania, Romanian Group, Tatar Hordes.
+  - Added descision to form the Ilkhanate.
+  - Added Great Mongol State government for Mongol Empire (Free), allowing Banners in primary culture provinces(Mandate of Heaven).
+  - Added new government reform 'Permanent Marathas Council' for Indian nations with the Maratha estate. +5% discipline and changes Recruit Minister interaction to give a general with +1 shock instead of an advisor. (Dharma)
+  - Added new government reform 'Governmental Purbias Register' for Indian nations with the Rajput estate. Changes Recruit Purbias interaction to give +5% discipline to Rajput regiments. (Dharma)
+
+
+###################
+# Gamebalance
+###################
+# Economy
+  - Disable Charter Company if the country is highly in debt to avoid saving money in other countries.
+  - Tariffs are now only counted on income from Production, Gold and Trade.
+  - Tariffs overlord operate on now match how much the CN actually pays.
+
+# Governments
+  - Added the missing max absolutism malus for republics.
+  - Increased losing 4 reforms to 7 for Seize Executive Power Reform.
+  - Increased losing 6 reforms to 8 for Proclaim Divine Guidance Reform.
+  - Nepotism candidates in elections are now aged randomly between 30 and 50.
+  - Reduced losing 6 reforms to 3 for Become a Republic Reform.
+  - Tribals Civil Society Reform now gives additional -0.05 corruption
+  - Tribals Lip Service Reform modifier reduced to 10% Land Maintenance Modifier.
+  - Tribals Religious Societies Reform now gives additional 15% Religious Unity
+  - Bishoprics can no longer have their rulers made into generals at all while the Monastic Orders can have any of their rulers made into a general. The Hochmeister strikes back.
+
+# Units
+  - Rajput regiments base modifiers changed to -25% drill decay, -50% reinforce cost, and +5% morale
+
+# Other
+  - Added 0.33 monthly support for local heir on loyal nobility estate
+  - Switched out Papacy government prestige gain to Prestige per development from missionary.
+  - Switched out Prestige gain in Glory of Rome of the Pope idea set for -1% Prestige Decay.
+  - Switched out The Vatican Museums for -10% Dip Advisor Cost(+1 Free Dip Policy for Dharma)
+  - Vatican Library Administrative Edition now gives -5% administrative tech.
+  - Vatican Library Diplomatic Edition now gives -5% diplomatic tech.
+  - Vatican Library Military Edition now gives -5% military tech and 50% army tradition from battle.
+  - Vatican Library Military edition no longer gives 5% discipline.
+  - Contamination Detected, initiating Quarantine Protocols.
+  - Vijayanagari mission 'Divert Trade from Bengal' will not only upgrade CoT's to level 2.
+  - World Port now gives 0.2% naval tradition decay instead of 0.25 yearly naval tradition.
+  - Religious ideas finisher now let's you convert in territories.
+  - Territory provinces have an additional -2 missionary strength malus.
+  - Dhimmi given provinces now provide less to the overal religious unity. -50% at Neutral, -100% at Loyal.
+  - No longer gain Global Trade embracement boost from Marketplace, Trade Depot, Stock Exchange because you already get a lot from trade power which these buildings boost.
+  - Gain 0.5 Global Trade embracement scaled from level 3 CoT, 0.1 from Level 2 CoT
+  - Restricted somewhat where Manufacturing can spawn so we don't get it spawning in 5 dev desert province
+  - Reduce how much Manufacturing spread you get on continents where it did not spawn.
+  - Restricted somewhat where Enlightenment can spawn so we don't get it spawning in 5 dev desert province
+  - Reduce how much Enlightenment spread you get on continents where it did not spawn.
+
+
+###################
+# AI
+###################
+# Economy
+  - Fix AI taking unnessecary loans when recruiting
+  - Fix AI not disbanding fleets when over force limit
+  - Fix AI offering no money in charter province action to players.
+
+# War
+  - Include forts ZoC when recomputing path for unexiled armies
+  - sieging the wargoal does not give anymore a penalty if the AI is the defender and a peace is offered
+
+# Other
+  - Fixed indecisive colonisation/settlement growth planning and budgeting AI
+
+
+###################
+# Interface
+###################
+# Country
+  - In subject view, clicking on the shield of a trade company will center the map on that trade company.
+  - Parliament issues now have a scrollbar so you can see the entire effect of some of the issues.
+
+# Icons/Art
+  - Cleaned up gender icons to look a bit clearer.
+
+# Other
+  - Add history entries when a province is subject of Charter Company diplomatic action.
+  - Battles involving condottieri should pop up the combat view.
+  - Do not show the automatic transport dialog if trying to move during battles.
+
+
+###################
+# Usermodding
+###################
+# Effects
+  - Can no longer set dynasty on republican leaders in define_ruler effects. Dynasty argument is reused to let you set last name now.
+  - Added add_next_institution_embracement_scaled which behaves like devving in a province
+  - Added adm_power_cost, dip_power_cost, mil_power_cost effects & triggers that scales with the power cost modifier
+  - All Variable effects can be defined with `= { var_name = value }` now.
+  - Added set_base_tax, set_base_production, set_base_manpower effects
+
+# Modifiers
+  - Implemented monthly_support_heir_gain modifier
+  - Added new modifier that increases how much PP you get from an insult.
+  - has_banners modifier now will work for every country and is no more limited to Manchu
+  - Added static modifier that is applied to all territory provinces.
+  - Added local_religious_unity_contribution modifier.
+
+# Triggers
+  - Added has_unembraced_institution trigger.
+  - All Variable triggers can be defined with `= { var_name = value }` now.
+
+# Other
+  - Can now access exiled monarchs in localisation
+  - Can now define the age range of a ruler
+  - Can now flag a government reform that it triggers elections upon death.
+
+
+###################
+# Script
+###################
+# Decisions
+  - Added decision to form the Mongol Empire
+  - Added decision to restore the Ilkhanate as a March
+  - Moving the capital to St. Petersberg will now upgrade its Center of Trade level.
+
+# Events
+  - Added option to 'Cultural Ties Weakened' event to convert to American primary culture. First option now adds American as an accepted culture.
+  - Rewrote Vlad the Impaler event. Vlad will now appear more regularly as a ruler.
+
+# Ideas
+  - Added Chernigov national ideas
+  - Added Crimean national ideas
+  - Added Ilkhanid national ideas
+  - Added National Ideas for dynamic Cossack nations
+  - Added Rigan national ideas
+
+# Setup
+  - Added the Mongol Empire and Kalmyk tags
+  - Poland now accepted Ruthenian culture in 1444
+
+# Other
+  - Added new free and possible policy modifiers as custom ideas
+  - Added startup screen for Wallachia and Moldavia
+  - Added startup screen for the Tatar hordes
+  - Transoxiana is now a slightly different shade of blue
+
+
+###################
+# Bugfixes
+###################
+  - Fixed CTD when when loading old saves with owned provinces changed to wasteland in later version
+  - 'Japan Discovered' event now allows for Anglicans
+  - 'Missionaries in the Spice Islands' event now converts some provinces in the Spice Islands to Catholicism
+  - Added fallback requirement for VIJ War Plunder mission
+  - Added missing % sign to Nobles of the Robe tooltip
+  - Added tooltip for Conform to Template view when province is not controlled by you or your overlord
+  - Added tooltip to Italian Wars event explaining that relations with Spain will be worsened.
+  - All subsidies are now canceled when going bankrupt
+  - Anglicanism will no longer spawn in a country that is a junior partner in a PU
+  - Any siege is now ended when abandoning a colony
+  - Apply local autonomy penalty from estate removal after it been removed.
+  - Aristocracies and Hordes once again have access to Aristoractic ideas
+  - Army Professionalism parliament bribe now costs 2 army professionalis rather than 200
+  - Assigned Cayenne to correct colonial region
+  - Aurangabad modifier from Mughal mission now gives local rather than global development cost.
+  - Can no longer become an Iqta as an Indian Sultanate (no Dharma)
+  - Can no longer form Mughals as the Celestial Emperor
+  - Can no longer get Talented and Ambitious Daughter event with States General reform
+  - Can now hear elephants in battle without Dharma enabled if you have any Dharma unit pack enabled
+  - Changing to and from Steppe Horde government with Dharma will now change your tech and unit group to and from the nomad group.
+  - Colonial subjects are now blocked from fabricating claims overseas
+  - Corrected province highlighting in VIJ mission 'South Indian trade'
+  - Countries in Random Setup that get specific tags can no longer get reforms unique to those tags
+  - Dimitri event for Russia will no longer fire if country is a junior partner in PU
+  - Election event will use correct pronouns if current ruler is female.
+  - Event option to cede Goa to Portugal will no longer be available if a player owns Goa
+  - Event to pick Dutch Republic now removes Parliament reform if it has been picked
+  - Event to remove Free City reform now fires correctly
+  - Events that change government type refund some reform progress
+  - Fix the automatic transportation feature
+  - Fixed CTD when selecting abandoned colony with invalid siege
+  - Fixed Eat Your Greens and The Ostenders achievements being completable by any nation despite not being visible.
+  - Fixed Gujarati Textiles mission applying wrong trade goods size modifier
+  - Fixed Kiowa culture not being on map
+  - Fixed Mughal Open China mission attempting to reward local goods produced modifier to the whole country.
+  - Fixed Question of Rights event being able to take land from own colonial nations
+  - Fixed Sleepless in Seattle achievement requiring wrong province. Seattle is actually in Salish province.
+  - Fixed Trade Company Region not updated on Trade Nodes after loading save, leading to CTD trying to access deleted memory
+  - Fixed Unite Japan decision tooltip claiming that Daimyos will become Feudal Monarchies
+  - Fixed Vaishyas estate event using country instead of province flag, prevent modifiers from being applied
+  - Fixed breaking to rebels sometimes causing an extra stab hit, especially as the Pope
+  - Fixed changing away from Muslim as Feudal Theocracy without Dharma not giving new government
+  - Fixed city placement in Garwhal
+  - Fixed decision to convert ruler religion being available to junior union partners
+  - Fixed event allowing female consort for female ruler
+  - Fixed highlighting issues in Bahmani mission Persianate Empire
+  - Fixed missing title text for Mamluk event 'The Emissaries return with good news'
+  - Fixed spelling of Minnesota area
+  - Fixed wrong culture name in nation designer trigger for Gond Kingdom
+  - Fixed wrong institution in Cabinet of Curiosities event
+  - Fixed wrong legacy government given in election event for tribes
+  - Fixed wrong mission icon for Taungu mission Annex Prome
+  - Foreign Talent event will no longer fire for subject nations
+  - Forming Egypt now gives claims on unowned provinces in the Egypt region
+  - Forming Great Britain now always completes the War of the Roses mission
+  - Forming Ireland now requires owning all of Ireland. Decision now refers to areas instead of provinces.
+  - Forming Japan now disallows the Japanese gov reforms (Shogunate, Daimyo, Ind. Daimyo)
+  - Forming Qing decision description no longer refers to having already united China
+  - Forming Rajputana or Marathas now sets tech and unit group to Indian
+  - Forming the Mughal Empire will now enact unique Mughal government reforms up to the currently unlocked reform tier.
+  - Forming the Mughals with States General reform will now remove that reform
+  - Gujarati event 'An Embassy to the Ottoman Sultan' now only fires if Portugal owns a province in India
+  - If you don't have elections, taking reforms that gives you duration time no longer gives you term election.
+  - Indian Sultanate reform no longer invalid when switching capital outside of India
+  - Jain and Hindu Merchant Community event no longer affects Jain loyalty twice.
+  - Janos Hunyadi now has fixed stats and appropriate age
+  - Junior monarchies in a personal union under a non-monarch will now have their own legitimacy instead of being stuck at 0. (Yes there are very strict specific circumstance where non-monarchy can have a PU)
+  - Korean mission "Conquer Huncun"  reward is no longer redundant. Adds claims needed for next mission.
+  - Land of Churches mission will now accept either churches or cathedrals in any arrangement
+  - Mewar mission Rajput Trasde Guilds now completable with any set of estates
+  - Move Capital to Pegu mission now requires Pegu to be the capital.
+  - Natives no longer use legitimacy mechanic
+  - No Dharma - Indian Sultanates can no longer Indianize their Sultanate
+  - Novogorod mission now gives claims on Vologda
+  - Only provinces within the country border (or the non-tributary subjects' ones) can be released in a peace deal.
+  - Orangist candidates no longer get double names. They should simply be Van Oranje now.
+  - Piety change when declaring war as Muslim now refers to Mysticism as well as Legalism
+  - Primitives are no longer able to select Naval Doctrines
+  - Qing now uses 'Empire' government name at rank 3 instead of 'Khaganate'
+  - Random events no longer give reform progress to primitives
+  - Reduce Champaner mission now requires a core on the province
+  - Reduced size of mission tooltip for Bengali Clear the Delta mission
+  - Releasing Deccan from Mughal mission should now give Deccan a government
+  - Remove Presidential Dictatorship reform when dictator dies and a new republican leader is elected.
+  - Removed references in several events to old center of trade modifiers
+  - Removed remove_non_electors_emperors_from_empire_effect from some Dharma formables
+  - Rulers given by pretenders and events now add +200 support for monarchists with the States General mechanic
+  - Sweet Home Qaraqorum, Ganges Khan and Maharana Pratap achievements no longer allow custom nations.
+  - Tartar and Altaic nations with Tribal government type can now pick Steppe Horde
+  - The Anjou Claims event now gives a claim on Abruzzi
+  - The effects of Rise of a Despot event now happen immediately rather than after choosing the option
+  - Unite Japan mission now requires direct ownership of most of the Japan region.
+  - When playing without CoC, a tooltip will now inform the player that The Janissaries event will fire in 12 years when enacting the Devshirne System decision.
+  - Will no longer swap mission trees when forming an Indian nation without unique missions except for Punjab
+  - players cannot anymore create infinite-points custom nations exploiting the play button enabled while confirmation modal is visible
+  - Fix OOS caused by not updating religious school modifiers
+  - Remove invalid reforms on tag switch
+  - Fixed Daimyos sometimes having two vassals
+  - Fixed papacy not being restored when releasing PAP as vassal
+  - Education of Daughters custom idea is temporarily disabled because of unforseen bug right before release, will be returned as soon as we can.
+  - Fixed so One King To Rule achievement requires 50 absolutism. Should now be possible for people not owning Dharma to get the achievement.
+  - Fixed bug where define_advisor was not creating advisors
+  - Fixed trade league disbanding after forming a new nation.
+  - Fix raze tech power decrease being uncapped
+  - Can no longer scorch earth with exiled units.
+  - Fix primitives being able to select Naval Doctrines
+  - Junior legitimacy no longer affected by dynasty change in overlord.
+  - Junior legitimacy will no longer be reset on monthly if overlord is not a monarchy.
+  - Former tributaries shouldn't be considered  ex-subjects when going at war against their overlord.
+  - Shogun can no longer move their capital to prevent bunch of nasty bugs with that.
+  - Supply Convoys policy increased to 0.2% liberty_desire_from_subject_development from 0.02%
+  - Fixed Revolutionary governments losing all reform progress. They will now get reform progress as if they had switched using reforms.
+  - Mewar Never Changes achievement now visible to any nation that can access its mission tree
+  - Fixed broken Combat role bonus modifier for sieges with blockade.
+  - Fix game not exiting properly on Alt.-F4 when music player is open.
+  - Human should now be removed properly if player drops and ingame lobby does not exist.
+  - Fix alert about AI team member wanting to break alliance
+  - The seller of a province in Charter Company will gain inflation like province selling, but only based on the amount of money gained (not the administrative costs).
+  - Fixed exploit where Europeans could get Trade Company Trade Goods bonus in their own province.
+  - Optimized code that generated the weather texture.
+

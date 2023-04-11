@@ -1,0 +1,272 @@
+##############################################################
+######################## 1.24 Japan ##########################
+##############################################################
+
+###################
+# Free Features
+###################
+- Optimized save file transfer, host was copying the file a bit too many times
+- Optimized AI Performance in evaluating threat, they now all help each other out to make it faster.
+- Improved thread utilisation of AI
+- Optimized MTTH based events evaluation
+- Improved countries usage of several threads for event evaluation, all on_bi_yearly_pulse are run multithreaded now
+
+###################
+# Gamebalance
+###################
+
+# Economy
+- Interest reduction modifiers have been reduced in impact
+- Minimum interest rate set to 1.0
+- Low mandate now impacts on available mercs and unrest, up to -100% and +5 respectively
+- Effects of devastation on Mandate increased
+- Now need to have fully cored a province in a state for it to count towards heathen development when raising Janissaries.
+
+# Governments
+- Steppe Nomad government type grants faster movement speed for units.
+- Mamluk Government now costs 60 points in the Nation Designer.
+- The Horde Estate is less crippling to Horde Unity when mad.
+- Tribal Allegiance decay is now capped to not be more than -3.0/year.
+
+# Units
+- Unit movement speed reduced from 1 to 0.7.
+- Drilled armies now have an increased movement speed. 20% faster at 100%. Mercenaries will however slow them down.
+- Overlord can no longer build units in Tributary States.
+
+# War & Peace
+- Switched Army Professionalism Bonuses: Reserves morale impact and General Costs.
+- Supply Depot now lasts 5 years instead of 2.
+
+###################
+# AI
+###################
+
+# Diplomacy
+- Subjects no longer start out as rebellious due to uncalculated army power cache during initialization.
+- AI will no longer guarantee rivals under any circumstances.
+- Tributaries and daimyos now do power balancing internally in realm.
+- Religious league leader now gets a -1000 penalty on allying opposing league leaders.
+- Rebels (or other occupants) controlling provinces no longer influence want provinces the AI desires.
+- AI is able to break alliances again.
+- Unknown attitude now gives -1000 acceptance for Support Independence requests (fixing e.g. Transoxia getting support from Ming at game start).
+- AI should now avoid warning much smaller nations.
+
+# Economy
+- Fixed that AI still cheated with fort maintenance sometimes.
+- Dependent subjects allow a larger amount of their income to go to loan interest prior to declaring bankruptcy.
+- Dependent subjects no longer recruit if they have any loans, provided their Liberty desire is low and they have no rebels.
+- Dependent subjects will never lower autonomy.
+- Subjects no longer spend twice as much on forts as non-subjects.
+
+# War
+- Improved AI for strategic regional planning.
+- Improved AI for coordinated attacks.
+- Improved AI logic for when to interrupt an enemy siege.
+- AI now more careful with issuing assaults.
+- The AI is now more likely to stand its ground when an enemy army approaches if in favorable terrain.
+- AI now considers progress of siege when deciding whether to leave it.
+- Improved AI siege logic.
+- Fixed that AI sometimes thought it could attack a target from a neighboring wasteland, causing inaction.
+- AI prefers to siege with 1 or 3 regs above minimum of limit now to avoid attrition.
+- AI armies currently receiving attrition will no longer be drilled (this to prevent additional decision complexity, as well as risk of losing drilled troops to sustained attrition).
+- Fixed another AI recruit - disband issue.
+- AI armies waiting to be transported are now free to move normally until transports are available, this should e.g. lessen attrition and inactivity.
+- Identified where approximately in code AI fort ZoC ignore bug comes from and tried to suppress it.
+- Fixed eternal wars with other AI due to demanding provinces in areas without any forts controlled.
+- Fixed some instances of AI fleets disobeying movement lock when cancelling movement.
+- If an ally is asked to Prepare for War, they will now stop drilling to raise their morale.
+- Splinter armies are a bit more likely to gather up with main close by rather than derping off elsewhere in a few cases.
+- Fixed case of AI having much lower acceptable battle balance if a province was on the way to a target rather than the target itself, leading to suicidal behavior.
+- Splinter armies will no longer stall offensives (should reduce sleepiness somewhat).
+- Made offensives more likely to gather up properly.
+- AI no longer tries to merge together fleets that have no ships in them, it discards them instead as it should.
+
+#Other
+- Improved AI for handling attrition.
+- Improved AI for handling rebels overseas.
+- AI no longer afraid of rebel armies more than one province away.
+- Indulgent Personality AI no longer make random troop moves (just made the AI worse, and harder to debug).
+- AI is (much) more likely to avoid reassigning leaders for drilling units while at peace.
+- Reserved margin for rounding error in drilling logic, should eliminate a few on-off cycles.
+- Fixed exiled armies refusing to path home through uncolonized land due to high threat levels.
+
+###################
+# Interface
+###################
+
+
+# Icons/Art
+- Added new flag for Great Horde.
+- Added new flag for Shirvan.
+- Advisors now look at their own culture first for portrait graphics, then the province.
+
+# Other
+- Army Mintenance is no longer a thing.
+- When you don't have a nation selected you now see all victory cards in the world in the victory card mapmode.
+- Will now push decisions you've marked as uninteresting to the bottom of the list.
+- Intel HD chipset users now only get told once that they don't have enough VRAM instead of every time they start the game.
+
+###################
+# Usermodding
+###################
+- Added defines ACCEPTABLE_BALANCE_DEFAULT and ACCEPTABLE_BALANCE_FRIEND_IN_COMBAT to specify thresholds for AI to join battle (also to clean up by centralizing lobotomized code).
+- Fixed "else" effects within "if" effects being executed when that "if" failed even if it were immediately preceded by an "if" on the same level. In the below example, that means that the "else" would get executed if the limit of "If 1" failed rather than "If 2":
+	if = { # If 1
+		if = {} # If 2
+		else = {}
+	}
+- It is now possible to scope to provinces in localisation. Example: [1234.GetName]
+- Added transfer_subjects_when_made to subject types to encode personal union exception for subject takeovers.
+- Added Drill decay modifier
+- Added Province Triggered Modifiers which are way faster than the global triggered modifiers. They also have on_activation and on_deactivation effects you can do fun stuff with.	
+- Can now refer to first province in a state with FROM in potential and allow script
+- Fixed misspelled on_janissares_raised, it is now spelled on_janissaries_raised.
+- Fixed crash in religious school triggers caused by you removing muslim religion group.
+- Added army wide drill modifier which uses the armies average drill value.
+
+
+###################
+# Script
+###################
+# Achievements
+- The Rags to Riches achievement now requires that you start with no province over 10 development.
+- The "It all belongs to Mother Russia" Achievement is now available for countries that start as Muscovite, Ryazanian or Novgorodian culture. Rather than just Muscovite.
+- The "Definitely the Sultan of Rum" achievement is now available to both Ottomans and Rum.
+- Venetian Sea achievement now requires 75% trade power instead of 90%
+
+# Decisions
+- Mutually exclusive religion decisions should now have clearer tooltips.
+- The decision to move capital to Constantinople for the Ottomans and Rum now checks that you are in the Muslim religion group rather than just Sunni.
+- Decisions that remove provinces from the Holy Roman Empire should now do so more consistently.
+- Decisions that remove provinces from the Holy Roman Empire no longer list all provinces affected.
+- You can now form Egypt even with a Mamluk government. This will however still change your government to an Administrative Monarchy.
+- Added decision to increase missionary strength against heretics for Muslim countries, replacing the old Sheikh-ul-Islam decision.
+- Muslim states can now adopt the Iqta government.
+
+# Events
+- Talented Qadi can no longer target your capital state.
+- The Dalai Lama Flavor event for Tibet now changes your religion to Vajrayana.
+- The event "Secrets in our Alliance" will no longer trigger unless your ally is actually spying on you.
+- Added 26 flavor events for various playable countries in Japan.
+- The Ottoman events regarding Crimea no longer transfers Crimeas vassals to the Ottoman Empire.
+- Converting to a non-muslim religion will now make you lose the Mamluk government.
+- The event "Secrets in our Alliance" will no longer trigger unless your ally is actually spying on you.
+
+# Ideas
+- Malayan and Moluccan Ideas now give Settler Increase instead of an extra colonist.
+- Added Kitabatake ideas.
+- Added Madjas Ideas.
+- Added Oda Ideas.
+- Added Tokugawa Ideas.
+- Added Luzon Ideas.
+- Added Cebu Ideas.
+- Added Butuan Ideas.
+- Added Mindanao Ideas.
+- Added Ainu Ideas.
+- Added Hojo Ideas.
+- Added Mori Ideas.
+- Added Asakura Ideas.
+- Added Chosokabe Ideas.
+- Timurid tradition now +1 land leader shock instead of reduced nationalism on conquests
+- Timurid idea Mantle of Great Khan now gives +10% land morale instead of +20% Cavalry power.
+
+# Missions
+- Upped the weights for the Ottoman mission to conquer Constantinople even more.
+
+# Modifiers
+- Added Jingdezhen Kilns, a Goods Produced modifier for Chinaware in the Poyang province.
+
+# Setup
+- American Republic and Federal Republic now available in Nation Designer.
+- Added 9 provinces in the Philippines.
+- Added the provinces of Ise and Mikawa in Japan.
+- Added Pangasinan tag.
+- Added Tondo tag.
+- Added Madjas tag.
+- Added Cebu tag.
+- Added Maynila tag.
+- Added Butuan tag.
+- Added Kitabatake tag.
+- Oda is now a playable Daimyo in 1444.
+- Tokugawa is now a playable Daimyo in 1444.
+- Sulu is now a playable country in 1444.
+- Maguindanao is now a playable country in 1444.
+- Qara Qoyunlu no longer accepts Armenian culture in 1444.
+- Mzab now starts as a feudal theocracy.
+- Brunei, Maldives, Yarkand, Kanem Bornu, Songhai, Kedah, Pasai and Siak now start as Iqtas.
+- Changed the map color of Isshiki.
+- Added some starting alliances to Japan.
+
+###################
+# Bugfixes
+###################
+- Changed two instances of too much green in tooltips for culture and religion event 2.
+- Tributary subjects that attach to someone will no longer be exiled due to tributary overlord lacking access.
+- Imperial mapmode is now updated when adding/removing provinces to/from the HRE.
+- Harmonized some hyphen usage.
+- Chukoruva area now properly named Çukurova.
+- You must now have no provinces outside the British region at start to be eligible for the 'Around the world in 80 years' achievement.
+- Fixed bug where Culture and Religion event 11, 'Rising support among the x Population', triggered correctly but referred to the wrong advisor name in the text.
+- Fixed some issues with Culture and Religion event 10, 'Intrigues in Capital' that made it unable to trigger under some circumstances.
+- Reduced the chance of the religious harmony event.
+- Propagate Religion Trading Policy: Fixed Religious Centers being limited to 3 per religion (e.g. max 3 Sunni centers in the world).
+- Fixed that Non-Accepted was spelled Non-Accpeted in the accepted culture slot tooltip.
+- Removed extra word in chapter 3, page 10 of the tutorial.
+- Rewrote the tooltip for declaring bankruptcy to be clear and readable.
+- Tutorial chapter introductions should now be more consistent in their coloring.
+- Expected date for next favor point will now be yellow in the tooltip for favor.
+- Enforced more consistent capitalization of "Go to".
+- The Ambrosian republic event now triggers a few days after the death of the Milanese monarch instead of immediately upon succession. This means it will no longer check triggers miliseconds before the country might have fallen under personal union, which made the checks against such unions fail.
+- Hordes no longer get information about regencies in their startup screen.
+- Fixed potential CTD in CTradeCompanyRegionTrigger if Trade Company Regions were modded.
+- Fixed potential CTD in CTradeGoodsDataBase::ReadPrices if trade goods were modded.
+- Fixed trigger switch effect not propagating selected event option (causing e.g. Ruler always getting name from first option).
+- Fixed bug that caused AI to be stuck on "Hunt for the Seven Cities" for ever.
+- Fixed rulers created from rebel leaders sometimes getting skills higher than 6.
+- Fixed that depletion chance of gold mines was truncated to whole percentage points in calculation.
+- The Start Screen text on war declarations and piety is now clearer on the fact that heretics also count the same as heathens.
+- Fixed that Culture and Religion event 16 displayed the country religion instead of the local religion in one of the sentences of the descrioption.
+- Fixed a few text problems in startup screen texts.
+- MP: Players can now join if Custom Nations were created after creating Random New World.
+- MP: Players can now join if Custom Nations were created after loading a save
+- Bugged armies pretending to be navies by swimming in the ocean will no longer CTD game when hovering mouse over them.
+- It is again possible to cancel an autotransport mission by moving or retreating transporting fleet.
+- If you order an autotransport fleet to move or cancel, any army loaded will stop the autotransport mission (this is more intuitive rather than needing to issue an additional cancellation order to loaded army).
+- Fixed Become Tributary treaty inhibiting other treaties such as cede province.
+- Game will print (at most one) name of a missing variable to error.log rather than crash when executing CSetVariableEffect.
+- Added guard against crash in naval mission with unknown cause.
+- Noculture provinces will no longer cause crashes when trying to recruit advisors from them.
+- You can now transfer control of your subjects' occupied provinces to yourself again.
+- Suez cannal now requires Sharqiya instead of Dumyat.
+- Decision to form Byzantium now gives better permanent claim distribution for the new map.
+- Fixed bad trigger in the "Trust Your Neighbor" corruption event.
+- Fixed typo in Startup Screen for Muscovy.
+- Perfume no longer spelled "Pefume" in some events.
+- The Safi Trade Node no longer count some provinces twice.
+- Did some Startup Screen dynasty name polishing.
+- Personal union juniors can no longer demand that their ruler convert to their religion, often resulting in the ruler constantly being asked first by their juniors to change and then by their own countries to change back.
+- Adjusted some remaining events related to piety.
+- Forming Armenia now properly requires the Van province and not Warangal in India.
+- Fixed nation designer templates with republics being considered corrupted.
+- Moses Mendelson now correctly jewish when created.
+- Strong trade company merchant bonus fixed.
+- It's no longer offered by GUI to transfer occupation to existing controller (i.e. for no net change).
+- Tweaked some missions scripts that had target province checks that didn't match the requirements to be available.
+- Unite Georgia decision now correctly looks for Kartli instead of Tao twice.
+- Fixed a number of improperly scripted cultures and religions for historical characters.
+- Fixed issue that could make centers of reformation not appear if the reformation started in a place where centers of reformation weren't allowed to spawn.
+- Fixed bug where the "Adopt Islam as State Religion" decision could be taken by subjects other than tributaries.
+- Fixed issue with the mission for Coptic countries to conquer Alexandria that would make it instantly complete.
+- Fixed estimation of relative strength of alliances (Fixes Demand Unlawful Territory, Threaten War and various AI strategy issues)
+- Added check so that only non-subject USA will switch to American government.
+- Added missing word in description for the "Poor of X" muslim school event.
+- Orthodox Event 5 will now generate a proper name for its foreign advisor.
+- Fixed unintended takeover of subjects when creating dependencies other than personal unions.
+- Building units and regiments in a subject when you have an overlord of your own (e.g. Ming) no longer auto-deletes them without refund the next day.
+- Not demanding independence in a peace deal of an independence war where you become Shogun now keeps daimyos as tooltip says.
+- Added missing word in description for the "Poor of X" muslim school events.
+- Fixed bug that could give the Safavid Order modifier to Ardabili provinces.
+- Fixed bad tooltip for the followup event for the coming of the Oromo.
+- Fixed a number of minor script errors.
+- Fixed that the decision to accept Rhodians into the knights gave a local modifier to a country scope, giving no effect.
+- Fixed "Enthrone Timurid Ruler" decision not giving the ruler promised by tooltip.

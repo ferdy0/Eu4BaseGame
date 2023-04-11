@@ -1,0 +1,289 @@
+##############################################################
+######################### 1.21 ###############################
+##############################################################
+
+###################
+# Gamebalance
+###################
+
+# Colonization 
+- Colonies can no longer attack all neighboring primitives (and they are now protected against them by their overlord).
+- Colonies can now attack all independent nations with their capital in the New World (and are not protected against them by their overlord).
+
+# Diplomacy
+- You now need at least 12 months of war before you can unconditionally surrender.
+- Transfer Subject peace treaty can no longer be used on Tributaries.
+
+# Economy
+- Each development now provides 30 instead of 25 sailors.
+- Naval Tradition provides 20% faster sailor recovery instead of +10%.
+- Autononmy from Burghers Estate no longer impact sailors from development.
+
+# Governments
+- Lost Mandate now lasts for 20 years and in addition to its old effects it also reduces diplomacy gain and includes effects from being at 0 Mandate.
+- Losing Mandate now lowers stability by 2.
+- Having lost Mandate makes separatist rebels more likely.
+- The Unguarded Nomadic Frontier disaster will now progress more quickly.
+- Reforming society now requires ADM tech 8.
+
+# HRE
+- Subjects can no longer add provinces to the HRE.
+
+# Ideas & Policies
+- Strengthened the Naval Idea group.
+
+# Technology
+- Institutions will no longer spread automatically in Trade Company member provinces after the owning country due to the owner country embracing them.
+- Docks now comes before Shipyars in technology.
+
+# Units
+- Ships on the seas now have a sailors maintainance cost of about 2% each month. Some ideas and effects can reduce it.
+
+###################
+# AI
+###################
+# Diplomacy
+- Heavily reduced colonial AIs' desire to put vital interest everywhere.
+- Fixed issues with AI who wants to make you a Tributary not being aggressive/punishing enough when you decline.
+- Fixed that AI considering attacking a Tributary heavily underestimated power of the overlord if the latter would join.
+- Improved AI power balance estimates in war declaration logic.
+- AI Tributary States, Colonial Subjects, and Daimyo Vassals now build spy networks only on their own behalf (not for their overlord).
+- Improved risk evaluation for AI armies.
+- Added AI setting to Keep All Treaties.
+- AI nations might now join the HRE if they need the Emperor's protection and have a friendly attitude towards the Emperor.
+- AI now cares more about the Treaty of Tordesillas (especially when allied with claimant).
+- Fixed bug that caused AI to get way over allowed number of diplomatic relations.
+- Fixed that AI couldn't select peace treaties with a capped war score cost, if the uncapped cost was above 100%.
+- When the AI declares a war to punish for not accepting tributary status or refusing to pay tribute, they are now less eager to have peace.
+- AI now cares more about not getting above number of allowed relations (-50 instead of -20).
+- Tweaked AI somewhat to make a more diverse (less blobby) HRE.
+- AI HRE Emperor now acts more to release princes and return provinces to their rightful owners.
+- Fixed bug that caused AI to never leave a coalition.
+
+# Economy
+- AI now tries to reduce war exhaustion down to almost 0 when at peace.
+- AI can now go above budget to recruit enough troops for a siege (though not over force limit).
+
+# War
+- AI Tributaries no longer think their Overlord makes them safe when in important/critical wars.
+- Fixed case where AI naval transport could get stuck forever.
+- Fixed case where AI war allies could together siege down a fort, but not each individually, and both just stayed home.
+- Fixed issue where AI didn't send well needed reinforcements to battles.
+
+###################
+# Interface
+###################
+
+# Country
+- Fixed that only one personality was shown for foreign rulers in an elective monarchy.
+- Text telling you when you get your next favor now also lists the year.
+- Scrollbar scrolling speed now better adapted to amount of text in textboxes with scrollbars.
+- Government View: Improved absolutism tooltips.
+- Fixed that sorting by Liberty Desire in subjects view didn't work for all subject types.
+- Diplomacy view Personal Union relation tooltip now shows information about inheritance and chance to break free again.
+- Diplomacy view Tributary relation tooltip now shows Tributary information also on Tributary's screen.
+
+# Ledger
+- Improved devastation display on page 9 of the ledger.
+
+# Pop-ups
+- Added a separate popup for being dragged into a subject's war.
+
+# Provinces
+- State View: Improved tooltips for Raise Banners GUI elements.
+- State View: Banner GUI elements are now shown if you or the selected province's owner has the possibility to raise banners (Manchu as primary culture).
+- Added an option to disallow manual changes to province names in multiplayer.
+- Estimate for how much you will earn from making a state now also assumes you will make it a full core.
+
+# Tooltips
+- Fixed that coalition warning in peace view always said coalition would form against you, even when it should say them.
+- Fixed that coalition warning in peace view didn't show Tributaries or Daimyos.
+- "Embargo Rivals" subject interaction now has a separate tooltip for cancelling.
+- State Maintenance reduction values are now shown when building buildings with modifiers to State Maintenance.
+- War declaration dialog co-belligerent tooltips will now refer to either "ally" or the subject type name.
+- Fixed Demand Unlawful Territory acceptance (has a claim) tooltip missing province name.
+- Fixed that War declaration dialog co-belligerent tooltips refered to enemy allies as "the enemy Tributary/Colony/Daimyo" if they were a subject to someone else.
+- Added a warning to razing tooltip when you would not get any monarch power due to penalties.
+- Added more information about cavalry to infantry ratio in the military view tooltip for the value.
+- Reworded cavalry to infantry ratio to be more readable. 
+
+###################
+# Usermodding
+###################
+# Buildings
+- Added the attribute "indestructible" to buildings, setting it to yes will exempt that type of building from being destroyed by bankruptcy.
+
+# Defines
+- Added defines BANKRUPTCY_BUILDING_DESTRUCTION_THRESHOLD, BANKRUPTCY_PROVINCE_DEVASTATION_GAIN.
+
+# Effects
+- Added add_adm_tech, add_dip_tech, add_mil_tech effects.
+- Added add_next_institution_embracement = <int> province effect.
+
+# Logging
+- Error log now gets two backups ("error_old.log" and "error_old_old.log").
+
+# Modifiers
+- Added new country modifier 'sailor_maintenance_modifer'
+- imperial_authority_value modifier now only affects HRE Authority.
+- imperial_mandate modifier instead added to affect Mandate.
+
+# Triggers
+- Fixed that "is_owned_by_trade_company = no" didn't take the "no" part.
+- Added is_potential_overlord and can_be_established to subject types, and can_be_overlord trigger, checking against the former.
+- Added revanchism trigger.
+- Added log effect and trigger.
+- Added add_active_policy and had_active_policy effect and trigger.
+- Added scripted function can_declare_bankruptcy.
+- Added scripted function can_colonize_province.
+- is_incident_active trigger now supports = any/yes/no/none.
+
+# Other
+- Scripted diplomatic actions (partially) supported, intended to allow for modded subject types.
+- variable_arithmetic_trigger allows for defining, adding, subtracting, multiplying, dividing and checking variables locally.
+
+
+###################
+# Script
+###################
+
+# Decisions
+- Can now form Manchu tag as long as you have Manchu culture, instead of having to be one of the three Jurchen tags.
+- Added Decision to form Great Yuan.
+- Decision to restore the Chinese Empire if held by someone not in China removed.
+- AI now even more reluctant to make the decision to fight Cossack revolters in the disloyal Cossack event for having angered the Cossack estate.
+
+# Events
+- Renamed Shushi-Gaku incident to Neo-Confucianism.
+- Timer for new shinto incident now counts from end of last incident instead of begining.
+- Price change event for chinaware now triggers at 5% trade share for a european power rather than 10%.
+- Bötger Event for reducing the price of Chinaware now requires the price to have gone up first (so that there is a demand for it).
+- Adjusted some price change events based on European demand to be more accessible for non-europeans if they own land in Europe.
+- Added new flavor events for Hungary.
+- Added event to allow Dai Viet to choose between Confucianism and Mahayana Buddhism in the early game for owners of Mandate of Heaven.
+- The Estate event Disloyal Cossacks will now only spawn peasant rebels and never nationalists.
+- The Russian flavor event for the Grand Embassy will now add a small amount of institution progress to the latest non-present institution in their capital.
+
+# Governments
+- If an outside power takes Kyoto and the old Shogunate retains other provinces they will now lose the Shogunate status and forfiet their Daimyo. As before a Daimyo can re-establish the Shogunate by conquering Kyoto.
+
+# Ideas
+- Added Great Yuan Ideas.
+
+# Modifiers
+- add_manpower with decimal values between (but not including) -1, 1 no longer means "fraction of max manpower". Use add_yearly_manpower for this purpose instead.
+- Updated scripts to use add_yearly_manpower instead of deprecated use of add_manpower to add percentage of total pool.
+- Empire of China now makes the Righteous personality invalid.
+
+# Setup
+- Capital of Changthang changed to Balkhuduk.
+- The Vistula Spit now extends all the way from Danzig to Königsberg. Marienburg and Ermland are no longer ports.
+- Split Moravia province into Brno and Olomouc
+- Split Breslau province into Breslau and Leignitz
+- Added Fejér province.
+- Added Belgrade province (Nándorfehérvár at start due to being owned by Hungary).
+- Added Trencin Province and redrew Slovakia slightly.
+- Renamed Ersekujvar to Hont in 1444.
+- Added Moravian revolter tag.
+- Corrected province assignment for the parts of the Chukotka peninsula that shows.
+- Fixed colormap problem near Rybinsk.
+- Adjusted the borders of Canton to be more clear.
+- Cleaned up province histories in Hungary
+- Pest is now and inland Center of Trade.
+- Socotra is now in Asia.
+- Changsheng is now properly the primary tag for the Zhuang culture.
+- Gyeongsung and Yukjin now start with Korean culture.
+- Manchu culture is now part of the Evenk culture group.
+
+###################
+# Bugfixes
+###################
+- Checks for allowing migration and provinces you can migrate to are now more consistent.
+- Fixed crash after deleting Custom Country after rulers were given random personalities.
+- New Ironman save files are now created when starting game instead of when selecting file name.
+- Spanish Philipines now cored at the apropriate date in historical starts.
+- Personality Event 49 will no longer have you inviting yourself to a party if you hold more than one throne.
+- Can no longer develop or build in undiscovered provinces.
+- Countries now get Parliaments when switching to government forms that have them enabled.
+- Corrected some triggers that looked for ruler instead of consort in consort_events.303 to 305.
+- Wanting subjects' provinces is now separate from wanting owned provinces.
+- Removed extra Cape in the province name of "Cape Cà Mau."
+- Expanded mechanic explanation for Shinto mechanic tooltip.
+- Autonomous rebel suppression no longer send units to hunt rebels in your Tributaries.
+- Fixed bug that could potentially allow incidents to trigger before the current incident had been seen to completion.
+- Fixed some typos in the Austrian mission, "Reclaim the Imperial Crown".
+- Fixed issue where achivements for an Ironman save could be disabled just after creating the save and quitting the game using Alt-F4.
+- Province/State View: Fixed missing localisation for "Culture".
+- Papal annulment popup should no longer claim that it is the pope who is getting a divorce.
+- Subject Interaction Event 40 "Rightful Ownership" will now refer to what province it targets and the AI will evaluate their decision to grant or retain it more carefully.
+- Gelre now properly has an heir in 1444.
+- Fixed colonial nations losing cores and/or disappearing when executing history.
+- Transfer Occupation window now gets closed when province view does.
+- Estimated arrival date for units will now be more correct.
+- Units will no longer lose movement progress to the next province on arrival.
+- Fixed renaming of files (including save files) not working on Windows if user account name contained special characters like "Ł".
+- Revolt popup now checks the owner of the province if the controller isn't real.
+- Improved selection of Byzantine Missions and Purple Phoenix Missions and made them more consistent in not targeting allies or vassals in all but a select few cases.
+- Moving capital will now clear estates from the new capital.
+- Popup for another country joining your trade league now uses more lines to avoid overflow.
+- Fixed bad unit position in Bohuslän.
+- Can no longer get "trading in" bonus for a trade good from an undiscovered trade node.
+- All of Karenni area now part of the Siam Trade node.
+- Noble disaster will no longer change government for Shogunate or Daimyo.
+- Ryuku no longer a subject of non-existant Ashikaga in the later start dates. Instead they are a subject of Tokugawa.
+- Fixed title of first Shimazu idea.
+- Fixed some duplicated province capital names in America.
+- More triggers and effects are now properly capitalized.
+- Added colors to spy network event effect tooltip.
+- Fixed wrong province used in description text for Shinto Event 3.
+- Ambition bonus now consistently written as that rather than 'Ambitions'.
+- Fixed battles not ending in some cases after a complete collapse of one side.
+- Qing now starts as a Celestial Empire after 1644.10.30.
+- Hindu events should now compensate you with some monarch power if you cannot benefit from their stat boosts.
+- Fixed faulty trigger in Nanban Incident that made it unable to trigger.
+- Event 9030 "Traveling Monk" will now only trigger for one province nations that might still care about such visitors.
+- The Shadow Kingdom now corresponds to new map areas better.
+- The Pope will no longer worry that he might catch himself doing espionage in the Seal of Confession event.
+- Independent Colonial Nations will no longer turn back to colonies if they should keep their independence when executing history.
+- Tooltip for inviting to trade league will no longer also complain about transferred trade power if the recipient is already in a league.
+- Estate event "Popular Religion" now blocked for Confucian countries.
+- Fixed issue that could make the Christianity in japan incident chain end prematurely.
+- Subjects no longer give their overlord the glory of owning all provinces of the subject's culture, and keep it for themselves instead.
+- Tooltip for free slots in macro builder province building list will now state the amount of buildings in the province too.
+- Japanese flavor event "Attempted Coup" now much more rare.
+- Fixed edict icon vanishing after opening a territory state window and then switching to a real state.
+- Added PS_WAR_TAXES_LIMIT_MIN (= 0 by default) to limit the minimum cost of war taxes.
+- kill_leader effect will no longer kill all leaders of a given type.
+- Fixed Tributaries not getting e.g. Conquest Casus Belli based on vassals' claims.
+- OSX/Linux: Fixed CTD when showing message regarding tributaries not able to pay their yearly tribute.
+- Fixed state view province list sort being very unruly.
+- Tributaries can now Vassalize other Tributaries.
+- Fixed Korea not having an old era for the confucian event about an old text.
+- Vassals of a country annexed by a Tributary now correctly goes to the Tributary and not their overlord.
+- Fixed CTD in CCountry::ClearRelations.
+- Province view buildings list button will no longer disappear if the institution window was open when vising the state view, and then got closed.
+- add_harmonized_religion tooltip will now correctly include the name of the religion.
+- Japanese Colonial Nation rebels will no longer secede from the CN to become daimyos of Japan.
+- Can no longer cancel Tributary Status while having a truce.
+- Tributaries can now upgrade their Government Rank.
+- Fixed regular (not territorial) cores sometimes disappearing when annexing countries.
+- A country's delayed events are now updated to the new tag when forming a new tag.
+- Pretender rebels from tribal succession crisis will now start with one province controlled.
+- Tribal succession crisis can now only trigger for hordes bigger than 3 provinces.
+- The War of the Roses event for lack of an heir will no longer trigger if you already have that personality. The infertile personality now counts as if you had the modifier given by this event for purposes of disaster progress after the year of 1455.
+- Buddhist nations now pay Diplomatic Power for taking provinces in peace deals.
+- Added checks to a few heir spawning events that lacked them for being lesser in union.
+- Countries will no longer think their tributaries contribute to their relative strength.
+- A Country will no longer consider its own colonies but not the enemy's in relative strength calculation.
+- Fixed that popup said regent (or consort regent) had died when a Unior Partner declared an independence war.
+- Fixed some inconsistencies in the reform society decision.
+- Fixed that Personal Union juniors kept their heir even when he/she succeeded to the throne.
+- No longer possible to cancel trade power transfer as a subject if Divert Trade is enabled.
+- Warnings and Guarantees now get cleared when entering a subject relation.
+- Fixed is_dynamic_tag trigger returning wrong value when used with NOT.
+- Can no longer call in allies in a voluntary subject relationship against their overlord.
+- Fixed some provinces belonging to both Gulf of St Lawrence and Hudson Bay Trade nodes.
+- Fixed bad scoping in ai idea weights.
+- Can now only scorch earth in provinces either controlled by you or owned by your enemies.
+- Fixed bug where Ming would accidentally forcibly convert all christians under their rule, regardless of how many and where in the world they reside.
+- Fixed crash in COfferCondottieriAction.

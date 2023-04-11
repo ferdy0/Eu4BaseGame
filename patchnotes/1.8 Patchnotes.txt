@@ -1,0 +1,691 @@
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+¤ Paid Features from Art of War
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+- It's now possible to declare a "support rebels"-war against a country that you're supporting rebels in
+- It's now possible to set an allied in war to prioritise sieging a specific province
+- It's now possible to set the military focus for your subjects to be Aggressive, Supportive or None, which changes what tactics they will use during war
+- You can now mothball fleets, which means they will cost less maintainance, but slowly detoriate in the port
+- You can now designate your vassal into a march They will no longer pay tax to you and you can't annex them, but they will get bonuses in warfare
+- It's now possible to use your subjects CB/Wargoals when declaring a war
+- Units with names edited by player are now tagged as custom-named, and will take priority when merging
+- Added Client States mechanics, where you can now create new custom vassals, decide their name, flag & color, and assign them territory as soon as you reach a certain tech level
+- You can now sell ships to other nations
+- It is now possible to transfer control of a province to someone you are allied with in a war
+- Added peace option "Give up claims" that forces the enemy to give up all their claims on you
+- Added peace option "War Reparations" that forces the enemy to pay a fraction of their income to you each month for 10 years
+- Added the possibility to upgrade fleets in one click if you can afford it
+- Garrisons can now sortie from their fortress against a besieging force
+- Added the option to abandon your foreign cores for a one-time prestige cost
+- Added abandon idea group functionality, where you can change your countries setup for the future
+- You can now toggle your fleets to let your allies & subjects load armies on them
+- The Holy Roman Empire now have a mechanics for internal religious wars, including leagues for Catholics and Protestants that fight over the faith of the Empire
+- Implemented a new Unit Builder, where you can build entire new armies or fleets in one click
+- Over 25 flavor events for playing in West Africa
+- 50 events related to the Thirty Years War
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+¤ Free stuff
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+###################
+# New Features
+###################
+- The map now have 45% more detail, adding over 900 new provinces, with the vast majority of them making sure the rest of the world is as detailed as Europe
+- Severe optimisations on the game, to have it run basically the same as 17 with all the new provinces and countries added
+- Three new tradegoods added: Silk, Dyes & Tropical Wood
+- Added Support for compressed save games
+- Rebels no longer revolt in individual provinces Instead of revolt risk, provinces now have Unrest and each province belongs to a particular rebel faction When provinces have unrest, that rebel faction will gain progress towards a revolt based on the amount of unrest, and will revolt in one or more consolidated armies upon progress hitting 100%
+- Accepting rebel demands is now always the same as rebels enforcing their demands
+- Provinces now have local autonomy Local autonomy reduces the income, manpower, force limits, and trade power provided by a province, and also lowers the cost of taking that province in a peace dela Local autonomy is gained on conquest Local autonomy can now be reduced or increased every 30 years resulting in increased or lowered revolt risk
+- Overseas provinces now have a minimum autonomy of 75% instead of the 'distant overseas' penalty
+- All colonized provinces now have a minimum autonomy of 50% unless the owner is a Colonial Nation or former Colonial Nation
+- The Protestant and Reformed religions now have Centers of Reformation in certain provinces that convert nearby Catholic provinces to their religion Centers of Reformation are awarded to the country where the religion is founded and the first two other countries to convert to that faith, and replace the old province events that spread those religion Centers of Reformation are removed if their province is converted to another faith
+- The College of Cardinals system has been replaced with a system where cardinals are based in provinces and new ones are created once per year in rich Catholic European provinces Each Cardinal gives some Papal Influence which can either be spent on special 'Papal Actions' that grant bonuses and resources to your country, or invested towards becoming the Papal Controller when a new Pope is elected
+- The Supply and Demand pricing system has been replaced with a system where each resource has a base price that can be modified by various major events, such as the Triangle Trade driving up the price of slaves and the Grand Banks Fisheries lowering the price of fish
+- The tradenode setup have been severly overhauled, with lots of new tradenodes
+- Leader assignment has been improved Leaders that are already assigned will show up in the list of available leaders in other units Those leaders can be assigned to those units, which cause them to be removed from their old units 
+
+
+
+###################
+# Gamebalance
+###################
+# War 
+- Wars will now only ever change leaders when an overlord joins a subject's war and during league wars
+- When declaring war, you can now choose which enemy allies you want to call fully into the war Allies that are fully called in can call their own allies
+- Fixed issue where Military access to enemy's ally wasn't removed while at war
+- Warexhaustion can now be reduced when below 2
+- Tweaked battle warscore to scale to size of alliances involved in the war
+
+# Peace
+- Can now always sign peace with warleaders, even if they have become subjects
+- AE gained from taking provinces, vassalizing and returning cores is now calculated off base tax rather than number of provinces
+- Taking things off an ally that is not fully called into a war now costs double the warscore
+- You can no longer get 100% warscore from just fully occupying warleader unless warleader is alone in the war OR war has been going on for at least 5 years
+- Minimum ducats taken from giver in peace deal is no longer restricted by minimum offer from taker Any remaining ducats below the minimum offer can be taken, and will add to the peace offer
+- Annul treaties now removes fleet basing rights, transfer trade power and giving military access
+
+# Coalitions
+- Nations that lose a war against a coalition target now gets kicked out of the coalition
+- No longer to join a coalition against a nation with which you have a truce
+
+# Diplomacy
+- The price of selling a province is now based on basetax in the interface  0-200x basetax
+- Rebel support price is now 50-100% rather than 0-100%
+- The Coalition CB is now a superiority CB and not a Take Capital CB
+- Can no longer sell provinces outside coring range to subjects, even if you yourself have a core on it
+- Selling a core province to a colony now makes it a core of that colony
+- Sending warning to countries now affects their opinion of the player
+- No longer possible to block warleader from negotiating for you (They can still only negotiate for occupied territory however)
+- Removed stab hit when joining aggressive vassal war after peace deal
+
+# Rival
+- Can now use Humiliate peace demand on rivals, this gives you 30 power projection and takes away 30 power projection from them
+- Insulting a rival that you do not have a truce with will now give you 5 power projection, unless you already have power projection from a previous insult
+- Lowered power projection bonus for having long term rivals
+- Power projection added on FULL annexation too
+- Rivals now properly updates (including enemies in list of possible rivals) when a rival is removed
+- Losing a rival due to growing too strong compared to them now gives a temporary boost to power projection to make up for the loss from Long Term Rival
+- Should now be possible to select rivals after union break (strategy now calculated on union break)
+- Can now rival hordes even if tech group speed difference is more than 50%
+
+# Economy
+- Inflation can now be reduced when below 2
+- Vassal tax now consistently calculated
+
+# Religion
+- Only Christians can now form Personal Unions
+- Non-Christian religions can now form royal marriages with other non-Christian religions, even if they are of different religion
+- Subject countries no longer remain defender of the faith
+- Converting to a religion now has a cooldown of ten years 
+
+# Combat
+- Each province now has only one terrain
+- You no longer get river-crossing penalties if you have higher manuever than the defender
+- Combat damage from dice rolls and modifiers is now a linear curve
+
+# Units
+- Units are now almost completely balanced between tech groups Different tech groups still peak at different points in the game
+- Can no longer recruit units from another tech group from foreign cores
+- No longer possible to reduce build time to less than 20% of normal
+- Looting provinces in the Holy Roman Empire now works when you are in war with the Emperor You can still only loot provinces of countries you are at war with
+- Mercenary pool is now swapping out mercenaries that are obsolete quicker, not waiting until its 2 generations behind
+
+# Trade
+- If you don't collect trade anywhere else, your tradepower in your tradecapital grows by up to 10% per merchant active transferring trade, pending your relative power in the node that merchant is in
+- Privateers can no longer be sent to trade nodes that has nations you have a truce with (where you lost the war) if they have a trade power of 20 % or larger 
+- Improved starting merchant positioning
+- Merchant Republic no longer provides production bonus in countries that transfer trade power to them
+
+# Colonial Nations
+- Colonial Nations no longer get nationalism when conquering territories from other colonial nations
+- Halved amount of forcelimits you get from colonial nations
+- Colonial Nations now elect their own leaders
+- Colonial Assembly now gives +5% liberty desire instead of -5%
+- Colonial Nations no longer get diplomatic relations penalty with parent when parent enters separate peace
+- WE in homeland now increases liberty desire
+
+# Subjects
+- Speed of annexing/integrating is no longer +1 month per basetax, but progress towards total cost of 10*BT (down from 15, and modified by )  Each month the progress tick is 1, +1 if same religion, +1 if same culture group, and +/-X diplomatic reputation
+- Scaled diplomatic reputation to be 1/5th of before in values, impact is similar
+- Hostile core creation now also adds to the cost of diplo-annexing
+- Annexing or integrating another nation diplomatically is no longer  a penalty to legitimacy or republican tradition, but instead -3 diplomatic reputation for 10 years
+- Diplovassalizing a country will now release that country's subjects
+- Can no longer diplovassalize countries with more than 40 base tax
+- Protectorates no longer transfer occupation to overlord
+- Breaking Protectorate or Vassalization now exiles units in the involved countries that no longer have access
+- Supply range is now given by Vassals and PU
+- Will now get Colonialism CB on provinces adjacent to subjects
+- Only vassals and unions get +200 relation improvement cap, no other subjects
+
+# Westernisation
+- Westernisation rebels now only reduce progress by 10 if they win a siege
+- Unrest from Westernisation is now +5 instead of +10
+- Minimum monthly Westernization progress is now 5 per monarch power (up from 1)
+
+# Rebels
+- Lollards now have a larger support, and accepting them penalizes papal influence
+- Religious rebels will no longer transfer troops to country they rebelled against
+- Rebelhunting will now also include subjects' territory
+- No longer possible to support rebels in subjects
+- You will now correctly get siege ability bonuses against rebels
+- There is no longer nationalist or patriot rebels for cultures without a primary tag
+
+# Score
+- The revolution target now get 50% more score
+- Scoreimpact from won/lost wars is now -25% to 25% instead of -01 to +01
+- Scoregain is now +10% for each rival ahead of you in score, and -10% if your rivals is all behind you
+- Enforced clamping on scores from war
+
+# HRE
+- Enforce Religious Unity will no longer be disabled in 1650
+- The HRE will now automatically be dismantled if there is nobody eligible to be elected Emperor
+
+# Misc
+- Reduced effects of Inward Perfection and factions and made the factions more about long-term effects rather than having to switch to bureaucrats to boost stability, etc
+- Federation leader is updated when monarch of leading nation dies and player is notified with a pop-up
+- Negative federal authority capped at -100
+- The triggered modifier vive_la_revolution is now a static modifier instead
+- Added global_unrest effects to the triggered modifiers counter_revolution & reaction
+- Capped relations penalty from losing election to -20
+- Relations penalty from losing election removed when election is won
+- Occupying Rome as a Catholic (who is not the Papal States) will now penalize Papal Influence
+- Removed large tribe penalties
+- Trade company provinces no longer get penalties for intolerance or non-accepted culture
+
+
+###################
+# Interface
+###################
+# Launcher
+- Launcher now has a select/deselect all DLC button
+
+# Alerts
+- Added alert for "costly trade embargoes" against non-rivals
+- Improved the text of the too few rivals alert tooltip to be more grammatically correct
+- Diplomatic notifiers are now shown for 2 months instead of just 1
+
+# Misc Countryviews
+- Added a icon in government screen to show that you're revolution target
+- New tooltip for upgradeable technology when Military Power Monthly Increase is negative It no longer display a date before the player's current date
+- Added detailed culture info about loss/gain at the cultureicon in court view
+- Possible policies is now seen by hovering over ideagroup name instead of bonus (so you can actually see the bonus)
+- Next federation leader is now displayed correctly in tooltip even when all members have negative federal authority
+- Date for next election is now correct and only displayed when statists are in power
+- Release subject screen text revised to correcly use the terms vassal and subject
+
+# Diplomacy View
+- Diplomacy view now shows CB of most relevant countries
+- Sorting the subject list no longer defaults the trade power to a corrupt value for protectorates
+- Union tooltip in diplomacy view now shows date for when union becomes stable
+- Vassal tooltip in diplomacy view now shows when vassalage started
+- Displaying information about army when selecting rival is now displayed correctly when either side has no army
+- Peace offer view now correctly displays recipient when transferring the trade power of another nation, including when this is offered by the player
+- When selecting a rival for a slot that has none, the tooltip when looking at possible selections now reads "Click to set as Rival" in stead of the old "Click to change Rival"
+- Vassals and junior partners in a PU no longer display enemies and no longer allow rivals to be chosen Interface now says "No possible rivals" if the nation is a vassal or junior partner in a PU
+- Added some more filters to vassal related actions so they do not show up unnecessarily
+- Made new wars more apparent when vassalizing in peace deal
+- Remove Guarantee window now asks if the player wants to remove the guarantee and warns that this will result in a truce
+- Fixed some interface issues with vassalization and suggest offer / suggest demands
+
+# Economy View
+- Repay All Loans button now allow you to repay as many loans as you have ducats for
+- Fixed interest expense shown as "00" in economy view for very low values
+- Total province count is now a delayed tooltip for basetax in the economy view
+
+# Mapmodes
+- Removed some map modes: Manpower, Trade Value and Missionary
+- Remade some map modes: Sphere of influence, Economic
+- Added fort level mapmode
+- Added map mode for Local Autonomy
+- Added a 'simple terrain' mapmode that colors each province in one color
+- Player mapmode will now show vassals/protectorates/colonies
+- Vassals now have same color as overlord in playermapmode
+
+# Ledger
+- Added a ledgerpage for tradecompaison between countries
+- Added mercenaries count to ledger
+
+# Combat Interfaces
+- 3D models of land units are now shown in the end of combat-screen
+- Now possible watch battles that allies in war fight
+- Will now get Battle results when targetting allied units in battle
+
+# Macrobuilder
+- Missionaries now sort on time in the macrobuilder, just like in the religion screen
+- Build buildings alert now opens building tab in macrobuild
+- Clicking a unit while in macro build will no longer select the unit and take you out of the macro build interface
+- Mercenaries in macro build interface are now green
+- Macro build interface change culture tooltip changed to always state that it costs DIPLOMATIC power
+
+# Outliner
+- Rebel factions now show up in outliner
+- Diplomatics working on annex, integrate or fabricate claim will now display % progress in the outliner
+- Outliner for merchants now show income or transfer value
+- Tooltip for fleet in outliner now says "Privateering trade node <node name>"
+- Fabricating claim will now show discovery chance based on capital(thats how it is calculated daily)
+
+# Provinceview
+- Trade goods price now shown on main province view
+- Added truce end date to tooltip for foreign province view
+- Hovering over terrain in province view now shows defensive bonus and combat width from that terrain type
+- Viewing a vassal's province view now shows the conversion and units progress bar
+- Cancel button for conversion and unit progress bar now no longer shows when viewing a vassal's province view
+- Trade company button no longer shows up for non-western nations in province & trade view
+- Base warscore cost of a province is now shown in province interface
+- Unrest area now shows the icon for potential rebel
+
+# Waroverview
+- Added ticking warscore indicator icon
+- Warshield warscore is now colored accordingly
+- Added detailed tooltips to units in war overview
+
+# Messages
+- Fleet basing right messages has been changed and improved to keep the descriptions consistent between each other
+- Colonization range is no longer mentioned in messages when nations accepts request for fleet basing rights 
+- Message when turning from a Dictatorship to a Monarchy on ruler death now correctly refers to the new ruler with the new monarch title
+
+# Trade Interface
+- Trade mission buttons are now properly greyed out in nodes outside trade range
+- Enabled the browse buttons in tradenode interface
+- Added some direct information in tradeinterface to how much you earn, or pullforward from a tradenode (without scrolling lists)
+
+# Map
+- Coastlines now have the subtle outlines that islands does
+- All combat modifiers are now shown in the tooltip for the icon at the on-map combat mini-interface
+- Added a line on the movement arrow to show when the unit will move to the next province
+- Dharmic missionaries no longer default to a crane on the map and are replaced with an asian missionary
+- Leader stars now counts siege & manuever less (as they are not important when determining combat odds)
+- Trade node map icon does not display decimals for amount of money collected to save space (still available in tooltip) The textbox is also slightly wider, looks OK even for three figure amounts
+
+# Frontend
+- Improved front end display of economy/army/navy
+- Selecting a bookmark will now center map on the first country listed in that bookmark if no center province exists
+- Credits window now closes after credits stop rolling
+
+# Misc
+- Added setting to pause on event
+- Added mechanic to tell you if a client can handle the current gamespeed
+- When you have an army selected, you now see if you cross a river or strait when having the mouse over a neighboring province in terrain mapmode
+- Loading tips updated to accurately reflect changes in Art of War
+- Added tooltips and loading screen tip for possibility of deleting saves from start screen
+- Fixed alignment of radial buttons when right-clicking on shields
+- Added confirmation dialogue when recruiting leaders
+- Selecting currently selected unit now closes the the window
+- Truce end date now displayed in the peace deal summary
+- You can now hold down alt to select only fleets
+- Improved lots and lots of tooltips at various places
+
+
+
+###################
+#AI
+###################
+
+# Diplomatic
+- Major optimization/improvements to military access AI
+- AI vassals should now make use of fabricate claims
+- Now more aggressive towards weak countries holding their cores
+- Much more aggressive against countries that are at war with its allies
+- Will no longer have a penalty to joining wars that have been going on for over 60 days
+- Far more reluctant to ally with nations that are at war unless those nations are already winning or are fighting defensive wars against their rivals
+- No longer willing to join an offensive war if the call would draw them into multiple wars
+- Will now only give claims and cores in war to human
+- Colonial nation AI: More likely to turn hostile to Overlord at high liberty desire
+- Will no longer accept a peace consisting of things it wants if there is something left out that it wants very badly
+
+# War
+- Major improvements to naval invasion AI
+- Revolutionary and League Wars now add a big boost to AI war enthusiasm
+- More prio on sieging wargoal
+- Will no longer lift sieges so that warleader can take over
+- Will now transfer control of provinces they don't want for themselves to warleader
+
+# Economic
+- More priority on building transport ships
+
+# Religious
+- Larger AI nations will now convert as soon as possible to take advantages of a reformation center (ie, after religion existed for a year)
+
+# Multiplayer
+- AI will no longer abandon missions if the country has been played by puny humans
+
+# Script
+- Austrian AI will no longer colonize
+- Will now revoke policies with ai_will_do that resolves to 0, even if policy cost is also 0
+
+# Misc
+- Better at fulfulling requirements for reforming Tribal government
+- Smarter about when to Westernize
+- Will now build lots of cheap galleys if they have an inland sea capital area strait to defend
+- Native AI: Now more inclined to migrate to the same terrain type
+- Native AI: Now less inclined to migrate to the coasts if not already coastal
+
+# Bugfixes
+- Fixed a major inconsistency in AI combat odds calculation that was causing freezes and failures to attack
+- Fixed a bug where the AI would start a vassalization war, win it, and then end it without vassalizing the target
+- Fixed a bug in call to arms where an Emperor defending the empire would dishonor despite having more positive than negative reasons
+- Fixed a bug that was blocking the AI from adding provinces to the HRE
+- Fixed numerous bugs that resulted in AI armies being 'frozen'
+- AI will longer be upset for not getting provinces in a war that they couldn't be given due to being a non-isolated capital
+- Fixed a bug where the AI would fail to attack rebels despite having superior forces
+- Fixed a bug where the AI would endlessly choose and then lose a country as a rival
+
+
+
+###################
+# Multiplayer
+###################
+- Servers now allow up to 256 players to join through steam (if anyone got good enough pc for that)
+- Added private option for server as well as a filter for servers in which your friends are on
+- Filter servers that has your Steam friends playing
+- Added Abandon multiplayer game confirmation dialogue
+- Added peacetreaties to log for standalone server
+
+
+###################
+# Usermodding
+###################
+# New Mechanics
+- Added commandline 'show_errors' to show all error messages in errorlog
+- Added mod version check to launcher First two numbers of "supported_version" in mod file must match current version of EU4 or the mod will be disabled
+
+# Enhancements
+- Can now script CBs to have a modifier on AI war enthusiasm
+- Added support for dynamic script flags
+- Unit types can now have a scripted trigger
+- Can now set min_autonomy on govtype, this restricts provinces owned by that government to no less than the set amount of local autonomy
+- Possible to mod so starting armies no longer contains infantry
+- Setting a bookmark to default=yes will now list it before all non-default bookmarks
+- Can now set a bookmark to center on a specific province when selected
+- Added system to override province terrain in terraintxt through ‘terrain_override = {}’
+- Variable name and value can now be displayed in localisation
+
+# Defines
+- Added define NDefine::NGraphics::END_OF_COMBAT_GFX If this is set to 0, the 3D models in end of combat is disabled
+- Added defines for controlling weighting on random lucky
+- Split define REGIMENT_MANPOWER_COST into inf, cav, art
+- Split define BUY_LEADER into general, admiral, conquistador, explorer
+- Added STARTING_ARMY_SIZE to defines
+- Added STARTING_ARMY_SIZE_AT_WAR to defines
+- Added STARTING_ARMY_SIZE_REBEL_THREAT to defines
+- Whether it is possible to block warleader from negotiating is now controlled with define ALLOW_LEADER_DEMAND_TOGGLE
+- Wasteland provinces whose adjacent controllable provinces are all owned by one country will now take on the color of that country in political mapmode, if the COLOR_WASTELANDS define is set to 1
+- Exported INTEGRATE_UNION_MIN_YEARS to defines
+- Exported INTEGRATE_VASSAL_MIN_YEARS to defines
+- Leader max pips can now be modded in defines
+- Exported max rival tech group speed difference to defines
+- Added MIN_ARMY_MAINTENANCE/MIN_NAVY_MAINTENANCE defines to prevent total Army/Navy maintenance modifier below -100% from giving money
+
+# Modifiers
+- Added a new modifier called colonial_liberty_desire which increases liberty desire in colonies
+- Added two new modifiers in global_autonomy & local_autonomy to effect monthly ticks up and down on autonomy
+- Added new modifier province_warscore_cost that reduces cost of province oriented peace deals such conquering, vassalizing and releasing nations
+
+# On Actions
+- Added OnAction event on_enforce_rebel_demands
+- Added on_war_won and on_war_lost on actions
+- Added on_startup on action
+
+# Events
+- Adding is_mtth_scaled_to_size to an event will now scale the MTTH to the country's number of provinces
+- Events can now be set to hidden = yes to fire in the background
+- Added effect save_event_target_as
+- Saved event targets possible to use as right-side arguments
+- Saved event targets possible to use in localization
+- The syntax [event ID]_[event picture name] to specify pictures for specific events now works with events which use namespaces
+
+# Triggers
+- Improved error logging for colonial_region & culture triggers
+- Trigger has_harsh_treatment now works correctly
+- Trigger controlled_by and sieged_by now accept rebel types as arguments
+- Variable triggers and effects can compare variables between types of scopes (country/province) 
+- Added trigger has_guaranteed
+- Added trigger guaranteed_by
+- Added trigger is_league_leader=yes/no
+- added a calc_true_if = { <trigger> amount = num ] trigger
+- Added trigger is_in_league_war that checks whether a country is in a Religious League war
+- Added a has_rebel_faction province trigger
+- Added trigger has_terrain
+- Added is_client_nation/is_client_nation_of triggers
+
+# Effects
+- break_union effect now creates a new monarch for the junior partner
+- Added effects add_cardinal/remove_cardinal
+- Added effect switch_tag
+- Added effect create_guarantee
+- Added effect convert_ruler_to_general
+- Added effect convert_heir_to_general
+- Added effect define_ruler_to_general
+- Added effect define_heir_to_general
+- Added effects join_league, leave_league and remove_center_of_reformation
+- Added save_global_event_target_as effect
+- Added clear_global_event_target effect
+- Added clear_global_event_targets effect
+- Added change_price = { trade_goods = X key = txt value = perc duration = days } effect
+
+#Console
+- Added console commands create_march, remove_march, lucky, and possility to spawn events for other countries, while you choose option
+- Added console command 'ideadump' that dumps all countries with generic  to gamelog
+- The 'help' command in the console now lists all available commands when not given any arguments
+- Added console cmd "revolution_target <TAG>" that sets who's revolutionary target
+- Console commands where it makes sense to use a target country tag should now accept it Player tag is assumed if no tag is provided
+- Added console commands 'testprovs <id1> <id2>', this command will change owner of all land provinces in the specified range to you and spawn a unit (and boat if coastal) there, allowing for easy position testing
+
+
+
+###################
+# Script
+###################
+# Achievements
+- 10 New Achievements added
+ + Total Control - 100 provinces owned, and no autonomy nor unrest
+ + Centre of Attention - Own both a protestant and a reformed centre of reform
+ + This Revolution was Crushed - Control capital & have >99 WS against revolution target
+ + A Manchurian Candidate - Start as a Jurchen, and form Qing
+ + Land of Eastern Jade - Colonise mexico as a Buddhist country
+ + Thats a Silk Road - Own all Silk Provinces
+ + My True Friend - Help a rebelfaction win in another country
+ + Marshy March - Have a march with at least 2 marsh provinces
+ + Shahanshah - Form Persia as Tabarestan
+ + Die Please Die -  Have a Monarch with <2 in all stats reach age 80
+- The Grand Armada achievement now correctly checks that the player has no loans
+
+# Decisions
+- Added unification decisions for Manchu, Arabia, Tibet, Ruthenia, Morocco, Inca, Algiers, Tunis and Tripoli
+- Added decision to form Great Britain diplomatically
+- Forming Bukhara no longer gives a claim on the Bukhara province, since it is required to take the decision
+- Sakoku Law decision now only affects those Japanese nations which are subjects of the Shogun who enacts it
+- Decision to release the Kingdom of Jerusalem now updated for new map and will form Jerusalem instead if playing as KNI or CYP
+- Qing can now use Manchu 'Green Standard Army' and 'Eight Banners' decisions
+- Loosened up requirements for forming a Republic via decision a bit
+- Haridasa and Advaita decisions for Hindus are now mutually exclusive again, but give +2% missionary strength instead of +1%
+- Prussian forming decision now takes new provinces into account
+- Forming Courland now correctly adds the "Secularized Monastic Order" opinion boost to monarchy neighbors
+
+# Events
+- Added DHE for Jaunpur, Malacca, Mewar, Janjira, Mali, Gujarat, Ethiopia, Bahmanis, Morocco, Vijayanagar, Bengal
+- Added event to spawn the Sultanate of Sulu after 1450
+- Added new option to Comet Sighted event
+- Added 12 new events about Centers of Reformations
+- Added 30 new events about war and religious conflict
+- Added event for Ashanti to appear
+- Moved all random province events relating to a specific tradegoods to be possible "bi-yearly" country random events with more interesting effects
+- Rebalanced Peasants’ War for new rebel system
+- Orthodox flavor events are now a bit more interesting
+- Updated old events and scripts to use new autonomy system instead of the old modifier from rebels
+- Tweaked existed trade good events for the new map, added events for Dyes and Tropical Wood
+- Revolution now triggers more easily for both France and other countries
+- Nations besides France can now become the revolution target through event
+- Republican tradition cost from events now matches the description
+- American Revolution event will no longer trigger for countries with their capital outside Europe
+- Event "The Habsburg Dynasty" (flavor_hab7) can now only happen to monarchies
+- Changed MTTH modifiers on events 5001-5004 (Christian/Muslim Influences), the events now take twice as long to happen if any other of them can happen These events should no longer trigger frequently when having both Catholic, Protestant, Sunni and Shiite neighbors as a pagan nation
+- dutch_republic18 (The Orange Road to Glory) no longer displays the same option twice, but two separate ones
+- The election held when a ruler dies in a Dutch Republic (elections721) now correctly mentions two candidates
+- The first option in republican_dictatorship7 now correctly costs diplomatic power, while republican_dictatorship8 costs military power
+- Event trade1 (Respect our Flag) can no longer give a casus belli against yourself, even if you are the strongest trade power in your capital when you select the option
+- Event 2037 (Religious Civil Disorder for Muslims) can no longer trigger when religious unity is above 09 or the nation has had religious turmoil before
+- All Republican Dictatorship events (republican_dictatorship1-10) now add/remove twice as much republican tradition as before (events that changed it by 10 now use 20, and those which used 5 now use 10)
+- Tweaked text of "Rush of Merchants" event (5023) to remove references to maritime trade, so it makes sense for landlocked countries
+- Event about merchant expedition to find a route to India (881) now only triggers for countries based in Europe
+- Ghulams event (muslim_dlc17) now prints the third option correctly, rather than printing the second twice
+- Pirates Seeking Allegiance event (privateers7) no longer triggers the follow-up event for the country that gets the first event
+- Tweaked a few events to increase autonomy when giving concessions
+- Event By Fire (native_americans17) now happens much less frequently and the MTTH scales with number of provinces
+- Moved more province events to be country events, to avoid players in large empires being spammed with irrelevant stuff
+- Province events previously on thri_yearly_pulse are now normal events using the new is_mtth_scaled_to_size modifier
+- A few random events now got triggers that make them not feel anachronistic when they spawn
+- Event Shiva Concealed (hindu_events8) now correctly refers to the philosopher mentioned by name
+- Event Influenza! (random_event23) can now only trigger in the Americas if a nation has been in contact with someone outside of the Americas
+- Tweaked Sikh events to reflect new province setup and better represent Nanak's travels
+- Event "Court Painter Available" (6012) now uses the monarch title rather than just the word "monarch"
+- In the event "Seeing the real you", option B now gives half a year of income instead of 1/5
+- Dutch Republic events "Orangist Ties in the Army" (dutch_republic14) and "General Demands Control" (dutch_republic14) can now also trigger from having conquistadors
+- Events related to wine (6419 and 6420) now remove Piety for Muslim nations when the vintage is good and add Piety when the vintage is bad
+- In event "Convert Hagia Sophia into a Mosque" (muslim_dlc20) the local revolt now only triggers when Constantinople is Christian, halved MTTH to 1000 months, doubled prestige and piety effects to +20 of both in first option and -20 piety in second option The event now also appropriately converts the city to Ibadi if that is the owner's religion
+- In event "The Great Naval Reform" (flavor_tur3367), option A now has no monetary cost and the MTTH has been halved to 300 months
+- Wars of Religion in France and its followup events now trigger more easily, can trigger anytime after the Reformation rather than being bound to certain years and France no longer gets the generic Religious Civil Disorder events
+- Rebalanced Mercantilism events for specific countries, the vast majority should now give 25-10% rather than the higher values used before
+- The Counter Reformation now ends if Ecumenism or "Liberté, Égalité, Fraternité" are adopted by the country
+
+# Missions
+- The mission "Remove [Country] from the map!" now checks that the other country has actually been annexed completely, in addition to checking that the target provinces are conquered
+- Missions which require an idea group to take are now aborted if that idea group is removed
+- Specific missions to colonize Canada and Thirteen Colonies now no longer trigger for Castile, Spain or Portugal
+- Added Japanese mission 'Recover our Cultural Heritage'
+- Generic missions to improve fort defenses in a province will no longer appear for the same provinces as the missions to improve forts next to a threat
+- Added mission to take the key provinces for forming Manchu
+- The Scottish Auld alliance mission can now only be taken if relations with France are lower than 100
+- Ottoman missions now use new regions and are in certain cases available to other applicable nations
+- Added Ottoman mission to vassalize Ramazan
+- Added Ottoman mission to conquer the Algerian region if Algeria does not exist
+- Mission to make a province a core is now called "Make [Province] a Core"
+- The mission Continue the Reconquista now only gives 100 ADM when completed, as opposed to the previous 200 ADM
+- Mission to improve relations with an Elector now gives 10 ADM power, 5 legitimacy and 5 Imperial influence instead of 1 stability and 5 Imperial influence
+- Mission to conquer a province now check that the province is not a capital, unless it is the last province of that country
+- Added one new Mission for Gujarat
+- Tooltip for cooldown has been added
+- Establish Trade in India mission now accounts for the new Goa tradenode
+
+
+# National Ideas
+- Added National Ideas for Client States, Sumatran Muslim nations, Jaunpur, Javan nations, Wallachia, Afghanistan, Hausan States, Mesoamerican States, Pacific North West Native States, Tarascans, Fulani Jihad States, Mossi States, Air, Kanem Bornu, Theodoro, Silesia, Danzig, Krakow, Ryazan, Tver, Yaroslavl, Pskov, Smolensk, Ajuuraan, Bosnia, Siberian natives, Moldavia, Navarra, Ruthenia, Aztecs and Dahomey, Croatia, Cyprus, Georgia, Provence, Mughal , Karaman, Charruan, Guarani, Lan Xan, Circassian, Caucasian, Khivan, Bahmani , Siddi, Hamburg, Mogadishu, Trebizond and Swahili culture nations
+- English Ambition is now +1 leader pool
+- England: Navigation Acts is now 15% trade income, but no lifght ship
+- England: British Bill of Rights now has +10% global tariffs as well
+- England: Sick and Hurt Board is now +5% ship durability instead
+- England tradition for accepted culture is now 20% instead of 10%
+- Spain: Land Morale Tradition boosted to +15%
+- Spain: Removed penalties
+- Spain: Inter Caetera is now 3rd idea and gives +1 colonist
+- Spain: Devout Catholics is now 4th idea
+- Spain: Reconquista is now +5% discipline but does not give colonists
+- Portugal: Legacy of the Navigator is now the first idea
+- Austria: Military Border - Is now 25% defensiveness instead of 20%
+- Austria: Traditions Lost diplo annex cost, and now gives +10% Land Morale instead
+- Austria: Hofkriegsrat now also gives +3% Discipline
+- Added an ideagroup for Central Indic Culture
+- Irish Ideas  now give Trade Efficiency as a starter bonus rather than finisher
+- Boosted Manchu ideas to be at least on par with Horde 
+- Quality finisher is now 5% instead of 75% discipline
+- Flexible Negotiations (Diplomatic) is now -20% Province Warscore Cost
+- Postal Service (Influence) is now +1 diplomatic relations instead of +10% imperial authority
+- Marcher Lords (Influence) is now +50% Subject Forcelimits Contribution (up from +33%)
+- State Propaganda (Influence) is now -20% Aggressive Expansion Impact (up from -10%)
+- Influence finisher is now -50% Unjustified Demands
+- Boosted some weak idea sets
+
+# Policies
+- Tweaked policies to be significantly better overall
+- The policy The Colonial Settlement Act now gives 10 additional settlers per months, rather than the negligible 01 before
+- No longer get policies for having two of the same type of idea group (military, diplomatic, etc)
+
+# Setup
+- Added Andean Tech Group and assigned it to relevant tags
+- Maltese is now in Latin culture group
+- Basque is now in Iberian culture group
+- Mombasa, Malindi, Sofala, Zwahili, Mogadishu & Zimbabwe are now Indian technologygroup
+- Adal, Ajuraan, Ethiopia, Funj are now muslim technology group
+- Added new dynamic province names for North America
+- Revised Danish monarch names
+- Changed the name of the "Osmanli" dynasty to "Osmanoglu"
+- Dutch fleet names now correctly uses compound words
+- Mexico colonized by Castile is now called New Castile, similar to New Spain
+- Added starting Autonomy in some places around the world
+- Breslau no longer has the highest base manpower in the world
+- All cultures now have a primary tag when possible
+- Added dynasty names for Kurdish and Mazandarani cultures
+- Mali now uses Influence rather than Diplomatic , now as its fourth idea group
+- Added Temple in Constantinople from gamestart to represent the Hagia Sophia
+- Added potential dynasty names for several cultures, including those in the Oghuz group, Arabian cultures, Andalucian and Romanian cultures
+- Religious rebels no longer try to defect, fixing their issue with not spawning when they can't find a appropriate defection target
+- Moldavia now starts the game as a March rather than a vassal in 1444
+- Sub-Saharan tech group is now +60% penalty instead of +100%, and starts at level 2
+- The California trade node is now graphically focused on Miwok (2021) and the the province has been given an Important Center of Trade modifier
+- Kongo losts its center of trade
+- Aragon and Provence are now historical rivals
+- Fixed Country file for Buryats and Japan
+- Tsaritsyn, South Norwegian Sea, Peremyshl, Shekty, Tortkara, Chelyaba, Ili, Kochkor, Yashilkul now known by Muslims
+- Crimea is now a march of a Ottomans in 1478, rather than a vassal in 1475
+- References to Hedjaz changed to Hejaz, according to the country name change
+- Changed Mameluk core on Ar-Raqqah (407) to a claim and added a claim on Rahba (2314)
+- Bosphorous Sound Toll and Sound Toll modifiers now give 25% extra province trade power and Free Shipping Through The Sound now gives 15 province trade power plus the additional 25% similar to the Tolls
+- Transylvanian cores on provinces 154, 156, 157, 158 and 162 now exist from the start of the game, allowing Transylvania to be created from rebels
+- Danzig now exists as a core from the start
+- The island previously named Bourbon (1103) is now named "Île Bourbon" to avoid confusion with the other province named Bourbon
+- Shifted position of the port in Naxos (164) to avoid its model being cut by the strait
+- Changed War of Devolution setup France is now trying to take Brabant instead of Aragón and has claims on the affected provinces instead of cores
+- Changed references to Shetlands to Shetland, singular normally being used for the islands Also corrected capital name to Lerwick
+- Added some new Dynamic Provinces names for the Dutch
+- Brandenburg and Poland are now historically lucky countries
+
+# Misc
+- Added 3 new bookmarks (Grand Campaign starts in Asia, America and Africa)
+- To work with other references in events, general "A von Wallenstein" is now simply referred to as "Wallenstein"
+- Nationalism CB is now unlocked at diplomatic tech 22 and is a bit better
+- Imperialism CB now just requires diplomatic tech 22
+- The Casus Belli from finishing Expansion  now also applies to non-pagan nations in Africa Also clarified this in description
+- Added Sengoku casus belli to aid in Daimyo fighting each other
+
+###################
+# Bugfixes
+###################
+- Administrative technology level 28 now has the same ahead of time penalty as other level 28 technologies
+- Power Projection is no longer calculated for anyone if you don't own Wealth of Nations
+- Fixed crashbug with colony provinces
+- Fixed crash when integrating country and clicking one of its provinces
+- Fixed crash when casus belli message contained a list of >80 provinces
+- Fixed a crash in scripted effects for diplomatic actions
+- Now actually possible to build non-canal great projects as intended
+- Fixed issue where under some circumstances it was impossible to unlock  within and idea group when running a mod
+- Tooltip for byzantine_influx &  guild_of_st_luke modifiers now read "our country" in stead of not being able to display the owner country
+- Removed non-existant events from on_actions
+- Clarified the localization for the trigger "Any Active Trade Node" to "Any Trade Node With an Active Merchant"
+- Revisited and fixed the issue of Cancel Transfer Trade Power messages misrepresenting who transferred to who
+- Triggers for liberty desire (for instance the Demand Governor Election decision) now correctly displays the percentage required
+- Fixed issue where forming a large nation caused diplomats fabricating claims to be sent home
+- Message when a country's heir candidate ascends to the throne of an Elective Monarchy now correctly refers to the candidates name and the country where it happened, rather than the supporting country's own ruler and country
+- Added linebreak to the description of the effect of Royal Marriages on the country
+- If selling a province where you have a unit construction, the progress bar is now removed and construction canceled
+- Siege view button in province window disabled while the province is not under siege
+- Subtracting monarch skills from a ruler when skill is at 0, no longer wraps around to 6
+- Fixed issue when having 2 merchants with same name
+- Trade posts no longer depends on Wealth of Nations, but only on Res Publica
+- It is now possible to have a power cost of 0 for things (previously capped at 1)
+- If higher level units don't have a sprite for its level, it will go back down through tech levels until one is found
+- Foreign support rebels modifier removed if the rebels die and envoy travel back
+- Values for outgoing vassal tax payment is now correct
+- kill_leader now correctly removes leaders defined by name in scripts
+- Fixed bug where you cannot annex wartarget OPM even though you have 100% warscore Occurred when other provinces were sieged
+- Fixed bug where primitives such as Ashanti could ally their colonial nations
+- Unit leader stars now interact properly between armies and navies
+- fixed bugs with ghost rebel uprisings, now there will actually rise up, and not just show a message
+- Fixed a bug where the 'abandon colony' button would be available for players controlling an enemy colony
+- Protectorates in save games from before ver 17 now gives trade power
+- Releasing a Vassal now properly gives the new country national ideas
+- Forming a country through a decision and then through an event no longer ends the game
+- Releasing Colonial Nation now properly gives the new Country  National Ideas
+- Trade Wind calculations now works correctly
+- Protectorates' rivals are no longer removed when becoming protectorate and when loading save game
+- Diplomats no longer stay "supporting heir" after Elective Monarchy turns into other government form
+- "Resources depleted by migrants" modifier no longer disappears when reloading game
+- Fixed issue where releasing a vassal could erroneously trigger the "Imperial Ban" CB
+- Faulty tooltip "Have land maintenance over 10%" changed to "Have land maintenance 1000%"
+- Power projection is now visible even when there are no possible rivals
+- War score button is now clickable when message log is open
+- Truce Timer progress bar is now updating properly
+- Spy action progress bar is now updating properly
+- Annex action progress bar is now updating properly
+- Integration action progress bar is now updating properly
+- AI trade companies no longer show up in player's subject list
+- Tooltip for pirates spawning in seazones no longer shows up if Wealth of Nations is enabled
+- Chance of inheritance tool tip now displays correct percentage
+- Scrollbar now works in subject tab
+- "Exit game" and "Exit to Menu" buttons now works after changing a game setting
+- Diplomatic Integration progress bar is now synched with the actual progress displayed in tool tip
+- Fix for same country shown several times in diploview CB list
+- Fixed faulty RIVAL_LOST_LOG text
+- Fixed problem with selecting unit types in the production interface
+
+

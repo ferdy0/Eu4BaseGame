@@ -1,0 +1,299 @@
+###################
+# Expansion Features
+###################
+- Added option to add Custom Nations after loading Save Game. New players will not be able to join a MP game after other players start editing custom nations, as this would cause an OOS.
+- All nations now start with additional income and force limits equivalent to 20 base tax in Custom Setup.
+- DHEs and other historical flavor is now enabled when playing with random or flat province values but normal or historical country setup.
+- Added option to have random nations spawn with dynamically generated names and flags.
+- Increased Discovery range for Custom Nations for land provinces on same continent as capital.
+- Automatic naval exploration now explores much larger areas at a time (based on trade nodes) and displays a message when a mission completes. Manual exploration has been re-disabled with this rework.
+
+###################
+# Free Features
+###################
+- Released 'Women in History', a free DLC that adds 100 events based around historically significant women. This DLC also adds support and portraits for female advisors who will spawn from the Women in History events and can (rarely) be generated in your court.
+
+###################
+# Gamebalance
+###################
+
+# Diplomacy
+- Can no longer cancel military access with countries that have enemy troops inside their borders.
+- Can no longer revoke military access from countries that has troops inside your borders.
+- Can no longer revoke military access from countries that has enemy troops inside your borders.
+
+# Espionage
+- A spy discovery now sets a 5 year cooldown timer during which you can't send another spy to same nation. This change does not apply to Fabricate Claims.
+
+# Governments
+- Oligarchic Republics can no longer get Royal Marriages
+
+# HRE
+- League members can now be called to war against the Emperor even if they have a truce.
+- When the Protestant League wins, the religion of the Holy Roman Empire will now be set to officially Protestant (so the Catholic League no longer has a chance to reverse the victory). This was done due to the above removal of truces.
+- The bonus for HRE being officially your religion is now the same for Protestant as it is for Catholic.
+
+# Ideas
+- Changed offensive finisher to from 2.5% to 5% recover army morale speed.
+
+# Nation Designer
+- Custom nations are now much less likely to get gold as random tradegoods in their starting provinces.
+- Increased cost of Merchant Republic government from 20 to 40.
+- Max ruler age is now 40.
+- Max heir age is now 30.
+- Added a cost for having your capital in the Holy Roman Empire.
+- Technology groups no longer cost points in Custom Setup.
+
+# Religion
+- Hinduism now gives +1 heathen tolerance rather than +1 heretic tolerance.
+- Reduced Nahuatl sacrifice cooldown to 3 years from 5.
+- Increased Nahuatl Doom reduction from passing reforms.
+- Increased number of provinces Maya keep per reform.
+- Sikhism morale boost now 0.1 instead of 0.05.
+
+# Subjects
+- Cancelling a vassal (either via diplomacy or war) now removes all cores and claims the overlord has on that vassal.
+
+# War
+- No longer possible to call countries into wars that started before the start of the game (selected bookmark start date).
+- Looting has been reworked and now happens exclusively on capture of an enemy province (but not recaptures/liberations).
+- Tradition and prestige gains from battles have been reworked to scale better to number of men involved in the battle.
+
+###################
+# AI
+###################
+
+# Religion
+- Better at managing Doom.
+
+# War
+- Now re-evaluates strength of alliances before declaring war, to prevent suicidal DOWs due to alliance situation changing in time between planning war and declaring it.
+
+
+###################
+# Interface
+###################
+
+# Launcher / Frontend
+- Added information to Play button tooltip if someone is editing/designing a nation.
+- MP clients can now see which DLCs are enabled by the host.
+- Added economic map mode to lobby, useful primarily for Custom Nations.
+- Options window is now split into "General", "Multi Player" and "Custom Setup" tabs.
+
+# Nation Designer
+- Added button for randomizing National Ideas.
+- Improved various tooltips.
+- Added alert icon and tooltips for incompatible tech group/religion/government combinations.
+- Governments list now grouped in Monarchies, Republics, Tribal and Special.
+- "Increase idea level" tooltip now explains when points cost is lowered due to more balanced idea selection.
+- Points cost is now shown next to each custom idea. Tooltip shows "sub costs".
+- Increased custom nation name/adjective max characters to 24.
+- You can now change names and descriptions of your Custom National Ideas.
+- Added power type icons to idea buttons.
+- Fixed problems with long country names and improved layout of Stability View.
+
+# Misc
+- When in Steam offline mode, tooltip is shown explaining why play button is grayed out on ironman.
+- Additional tooltips in two instances related to trade are now sorted.
+- Diplomatic offer alerts are now removed in observer mode
+
+# Units
+- Added icon with tooltip to exploration mission GUI to explain that Quest for the New World is required to get overseas missions.
+
+###################
+# Usermodding
+###################
+
+# Effects
+- Added break_marriage effect
+- Added mercenary_infantry effect
+- Added mercenary_cavalry effect
+- Improved the tooltip for effects adding units
+- Added change_graphical_culture effect
+- add_unit_construction now takes a specific historical unit type
+- add_unit_construction can now build mercenary units
+- Added add_building_construction effect
+- Added add_core_construction effect
+- change_tag now accepts all standard arguments on right-side
+- switch_tag now accepts all standard arguments on right-side
+- remove_opinion effect now works with a country tag as right-side argument
+
+# Misc
+- "supported_version" now requires at least 2 version numbers (e.g. 1.10 or 1.10.*) due to far too many mods misusing supported_version=1 and causing their users to crash.
+- Exported MAX_IDEA_GROUPS_FROM_SAME_CATEGORY to defines.
+- There are now defines TRADITION_GAIN_LAND and TRADITION_GAIN_NAVAL for army and naval tradition gain from battles, respectively.
+- There are now defines PRESTIGE_FROM_LAND and PRESTIGE_FROM_NAVAL for prestige gain from land and aea battles, respectively.
+- Added SPY_DISCOVERY_COOLDOWN_MONTHS define.
+- Support for female advisors in define_advisor as female=yes (portraits with the suffix _female are then used).
+
+# Triggers
+- Split is_playing_historical_setup trigger into normal_or_historical_nations and normal_province_values triggers.
+
+# Units
+- Now possible to set unit type default size to other than 1000
+- Now possible to set individual unit size on historical unit types
+- All unit interfaces now works with unit sizes other than 1000
+- Manpower tooltip now displays correct values with unit sizes larger than 1000
+- Cancelling unit construction on unit with size bigger than 1000 now works
+- Changing preferred unit type to larger size no longer increase size of existing units
+- Changing preferred unit type to larger size no longer increase size of queued constructions
+- AI recruitment now properly works with unit size other than 1000
+- No longer possible to build ships without adequate manpower
+- Build unit/ship interface now correctly respects modded manpower costs
+- AI will now respect modded manpower costs when building units
+- NOMANPOWER tooltip now shows correct manpower value
+
+###################
+# Script
+###################
+
+# Decisions
+- Once again possible to form nations as a custom country, though the AI will not.
+
+# Events
+- Schwaz Mining Event can now trigger for any tag. 
+- Non enforcement of Ordinances will now increase local autonomy instead of unrest.
+
+# Ideas
+- Added Hessian Ideas.
+- Wurzburg Ambition of +1 papal influence swapped for Wurzburg Tradition of Relations Decay of Me.
+
+# Misc
+- Added better first names for Italian and French cultures.
+- Base Tax now consistently referred to as that in the game.
+- Force Limit now consistently referred to as that in the game.
+- Added Specific Ruler Titles for Sikhism.
+
+# Nation Designer
+- Culture Conversion Cost and Accepted Culture Threshold are now Diplomatic ideas.
+
+# Setup
+- Perm now correctly becomes a vassal of Russia between April 1503 and april 1505.
+- Schwaz silver mine modifier is now already in place in later starts.
+- Muisca and Calchaqui now start with the Inti religion.
+- Capital of Savoy is now Chambéry before February 7th 1563.
+- Starting ruler of Urbino now slightly better.
+- Tyrol base tax reduced to account for the Mining being covered by a modifier.
+- Naples no longer starts with a core on Epiros.
+- Nuremberg now has the administrative republic government like the rest of the republics in the Holy Roman Empire.
+- Japanese province tax and manpower revised slightly and Japanese province trade goods updated to make use of dyes and silk.
+
+###################
+# Bugfixes
+###################
+- Raising and decreasing autonomy now works correctly even for provinces with minimum autonomy
+- Fixed trade and tariff values going out of bounds in Subjects view.
+- Base tax is correctly recalled for old province during migration with Random Base Tax setting.
+- Personal union ended message now displays the old ruler that died rather than the wrong one.
+- Inti events 17 and 18, "Priests inciting unrest" and "Mitmaq wanting to go home" should now work as intended.
+- Inca event 11, "Death of Huayna Capac" will now not trigger if INC is in a regency council.
+- Aquileia no longer has a core on Treviso.
+- A name that has been edited manually stays in ruler designer when switching gender.
+- Nation designer tooltip when hovering provinces is now accurate with regards to point cost.
+- OOS (on host) or no effect (on client) when replacing rival fixed.
+- change_tag will no longer crash the game if no Papacy is defined
+- Liberty desire is shown in topbar if you play as a non-daimyo vassal.
+- Clarified requirement text for achievements "One night in Paris", "All belongs to mother Russia", "Gothic Invasion", "Silk Road", "Norwegian Wood", "Servitor of Jagannath, The Sun never sets on the Indian Empire", "Dracula's Revenge" and "Jihad".
+- Fixed: Possible to create several nations by clicking several provinces before nation designer opens.
+- Diplomatic power reduction in CB explanation has correct color coding.
+- Fixed discovered provinces not spread to Custom Nations with time.
+- Rebels can no longer progress towards breaking a country by occupying provinces of other countries.
+- Made building refund monarch point exploits impossible - game now remembers the power paid for a building for use in refund calculation.
+- Fixed a number of very old typos in various files.
+- The description for the achievement "One night in Paris" now correctly states that you need to start as England.
+- Unrest province alert sorts provinces by unrest.
+- Modifier on trade node power will no longer display a date of expiry when there is no definite duration.
+- Vassals that are being annexed now correctly display this as their reason for having increased Liberty Desire.
+- Nomads now get their home shock bonus in Steppe terrain.
+- Treasure fleets getting seduced by mermaids and missing their trade capital fixed.
+- MP: Fixed mismatch between host and client game play options after loading save (e.g. "Allow adding Custom Nation to Save Game").
+- When reorganizing units in enemy territory, if unit will be emptied, an assigned leader will transfer to the other unit if it does not have one, otherwise it will be forbidden (preventing removal in enemy territory exploit).
+- Stats should be generated without siege for naval leaders created by effects now.
+- Fixed 'The Ship into Summer' and other exploration events that were still bugged
+- Nation Designer: Corrected province points cost tooltip when Custom Nation's capital is within the HRE.  
+- Tutorial 4 lack of CB fixed (again).
+- Hid "will AI accept?" mark for sell ships in country diplomacy view since it cannot be calculated before having selected fleet to be sold.
+- Fixed rebel shields sometimes getting mixed up in "handle rebels" view.
+- Fixed: All province tooltips show "Terra Incognita" when creating custom nation after loading save.
+- Religious league shields displayed centered correctly in cases with few members.
+- Situations where a vassal could become vassal of another vassal have been prohibited by instead giving new vassal to old vassal's overlord.
+- If playing custom setup there is now a chance of Grain, Fish (if there is a port), Wine, Wool, Cloth, Naval Supplies, Iron and Copper to be found in any un-colonized province in the world.
+- Fixed issue with the label "War Score" in peace view not being on the same line.
+- kill_leader = random effect can no longer kill monarch leader.
+- Fixed flickering rebel shields in stability view.
+- Austrian core on Görz is now again in place.
+- Fixed RNW basetax changing on migration.
+- Fixed Ironman exploit: Possible to get achievements after creating (but not playing) Custom Nations.
+- Consolidate regiments allows you to create as many max strength regiments as possible again.
+- Resolved lack of tooltip for disabled random button in setup screen.
+- Fleets can no longer explore while mothballed.
+- Solved flickering armies in outliner issue.
+- Resolved lack of tooltip for disabled custom/random game options when disabled due to save file.
+- Fixed bug with ships not being transferred from annexed countries.
+- Fixed EU4 - ED - Graphics - Too hard to tell Nahuatl/Maya religions apart as a green/brown colorblind person.
+- Fixed wrong 3D flags on map for Colonial Nations.
+- Colonial grants not removed on conversion fixed.
+- Custom Nations' Unit colors are now based on their flag colors.
+- Game no longer enters infinite loop if envoy count goes below zero
+- Game no longer crashes from missing idea group
+- Disabled historical disasters and some historical decisions/events that were missed when playing custom/random setup
+- Fixed a bug where random nations would not show up when loading saves
+- Scaled down revolt sizes for the Inti Raymi events (inti_events.20-22) and ensured that future revolts will no longer grow in size for each time you ignore the insubordinate chiefs.
+- Removed trees in oceans and lakes in various provinces all over the world.
+- flavor_eth.21, "The Oromo" will now no longer refer directly to the Abrahamic faiths in its text and the tooltip will now show correct information.
+- Fixed double "achievements disabled" messages when cancelling nation design.
+- Fixed no natives when starting with empty map option.
+- Mission to conquer Mocca will no longer available immediately to the Ottomans.
+- More fixes to the dynasty lists in the culture file.
+- Fixed One option for Event "Rush of Merchants" is often useless
+- Custom Ideas are now listed correctly in the diplomacy view ideas tooltip.
+- MP: Shields and country names in the Human Players list are now correct for custom nations.
+- MP: Human Players list now correctly updated when clicking "Historical Start" after loading save.
+- Fixed bad leader (last) names for Ardalan and Bohtan.
+- Historical Rebels are now removed when playing Custom/Random Nation Setup.
+- Fixed bug regarding Warscore given for a battle: It could be based on wrong side's Force Limits, resulting in very skewed WS gains when FL differs alot between attacking and defending side.
+- Fixed parts of 1.10.0.0: a collection of fixes/suggestions for codes - from Plaza and 'la Pléiade'
+- Fixed: ND Random Flag button doesn't update flag every click.
+- Added ruler flag checks to some Inti events to avoid weird repetition.
+- The Tupi Tamoyo event series now correctly displays the message to the founder of the federation about tags not joining.
+- Azt flavor event 12 will not trigger if you already have a trade war CB on Totonac.
+- Nahuatl Event 29 now correctly sets the ruler flag that it checks for (avoiding repetition of this once per ruler event).
+- Fixed Missing localisation for flavor_tur.5
+- ND: Increased technology group points cost when creating custom nations on "empty" continents like Australia.
+- ND: Fixed MP bug where name of ruler/heir could be reset when other players changed their Custom Nation.
+- ND: Fixed religious map mode not updated properly.
+- Coastal exploration missions should go away when completed in all cases now.
+- MP: Fixed crash after getting kicked while transferring save game.
+- Fixed 1.10.0.0: typos (for Eldorado) ---- @Sara
+- Dismantling the revolution will now also remove your ruler.
+- Rebel factions can no longer defect to previous province controller they just sieged (e.g. because of same religion).
+- Fixed Custom Nation trade company flags shown as rebel flag in Trade Node interface.
+- Added Custom Tooltips to emphasize that something will happen if you pick option 1 - 3 in the Grand Embassy in [ProvinceName] event (flavor_rus.1012).
+- league_events.5, League of Schmalkalden, now has a tooltip explaining why you get relation increases with non-protestant countries.
+- Fixed bug where dynamic name changes (ex. Revolutionary) were not cleared between save games.
+- Observe mode after losing disabled in ironman games.
+- Map modes and province tooltips in Custom Setups now show correct tax values, also HRE isn't shown when Nations Setup is set to custom.
+- Observer won't CTD when having ideas tab open while switching to All Players view (no particular country).
+- Useless tabs have been blocked from being opened as observer when viewing All Players.
+- Conquistadors will no longer get stuck exploring a province they couldn't move into upon discovering.
+- Fixed EUIV - Database - Horde succession crisis can be made "eternal"(until ruler death) by unwise decision timing
+- Fixed: Wrong flags for Colonial Nations when motherland is Custom Nation.
+- MP: Fixed problems with ready button disabled in random/empty Custom Nation Setup.
+- MP: Fixed issue with not being able to start game when playing with an Observer in random/empty Custom Nation Setup.
+- Terra incognita tooltip adapted for ED.
+- Correct reform modifier color/sign shown for doom tooltip.
+- Nationalist rebels should now appear in preference to patriots when there's no country to defect to.
+- Market shares in strategic goods tooltip are now sorted.
+- Made log message for privateered treasure fleets more sensible.
+- Lessened exploit: When a attaching to a unit, the target's movement is no longer cancelled. A requirement for the target to have moved at most half the way to next province has been added in turn.
+- Event ideagroups.1908 'Freethinking Leads Away From God' can no longer convert provinces to Reformed or Protestant before those religions are enabled.
+- Fixed a bug where AI could convert to non-enabled religions under certain rare circumstances.
+- It is no longer possible to "upgrade" ships of a higher tech level downwards to your tech (while paying for it).
+- Iroquois (tag) rather than Iraq is now the primary tag for the Iroquois culture.
+- Province terrain type actually has an effect on supply limit now.
+- Fort level actually has an effect on supply limit now.
+- Power projection now works correctly for Daimyos.
+- Triggers for the East India Trade Triggered Modifier now also includes the Goa node.
+- Fixed EUIV - ED - Database - "Recruits flock to the Standards" event (ideagroups.703) does not check to see if core province is owned.
+- Fix for colonial claims remaining after a country is annexed/integrated/inherited.
+v

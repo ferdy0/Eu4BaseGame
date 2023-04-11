@@ -1,0 +1,614 @@
+##############################################################
+######################## 1.23 Persia #########################
+##############################################################
+
+###################
+# Expansion Features
+###################
+- You can now select your Trading Policy in Trade Nodes where you have a merchant present.
+- Added Army Professionalism
+- Added Professionalism abilities: Supply Depot, Refill Garrison, restore manpower, half price generals and reduced reserves morale damage
+- Unit View now changes based on your Army Professionalism level
+- You can now slacken recruitment standards to give up some Army Professionalism for Manpower.
+- You can now Drill your armies to make them better in Combat and to gain Army Professionalism
+Generals in charge of drilling armies now can gain additional pips in Fire, Shock, Maneuver and Siege.
+- Muslim nations now have Schools
+- Muslim nations can invite Scholars from other schools
+- Muslim countries can now benefit from their Mysticism and Legalism and progress back towards the middle.
+- The Mamluk Government will be able to select their new ruler from several accepted cultures and use interactions based on that culture
+- Mamluk Government Rulers now get their Claim based on the percentage of their culture in State Cores.
+- Added Tribal Allegiance for Tribal Federations, allowing a passive bonus and use of interactions
+- Feudal Theocracy added with unique abilities: Seize Clerical Holdings, Invite Minorities and Sanction Holy War
+- Iqtas can now set their Taxation Policies.
+- Added Janissary unique units
+- Ottomans Government can assign Pashas to States
+- Added compact battle results
+- Added the ability to Name Generals
+- Advisors can now be promoted up to level 5 for a cost, if they are of a promoted/same-group culture
+- It is now possible to send missionaries to your Subjects' provinces, converting provinces to their religion.
+- Unit View - Conform To Template: You can now select an Army/Navy Template from a list that the unit will conform to. Subunits not matching the Template will be detached into a separate unit and missing subunits will be built, move to and merge with the original unit until it matches the Template.
+- Unit Templates are now available if you own either the Art of War or the Cradle of Civilization DLC.
+- You can now exploit the development of your provinces for shortterm bonuses.
+- Added two comparative ledger pages for compare army quality between nations.
+
+###################
+# Free Features
+###################
+- Added 80 provinces in the regions of Anatolia, Mashriq, Egypt, Arabia, Caucasus, Khorasan, Central Asia and Persia and redesigned the surrounding regions.
+- Added the trade goods Incense, Livestock, Gems, Paper and Glass to the game.
+- Monarchs, Heirs, Consorts & Advisors now have culture and religion.
+- Added sound effect when opening celestial empire factions (when Mandate of Heaven DLC is not enabled).
+- Added sound when winning/losing a debate in Parliament.
+- Minor optimisations to game.
+- Added 20 Achievements.
+- Added Two Manufactories: Farm Estate (ADM tech 6) for Grain, Livestock and Wine. Mills (ADM tech 16) for Paper, Gems, Glass, Tropical Wood and Chinaware.
+- Added Startup Screen, detailing your nation and its surroundings' situations.
+
+###################
+# Gamebalance
+###################
+
+# Economy
+- Subjects again give their overlord the glory of owning all provinces of the subject's culture instead of keeping it for themselves for Age Objectives
+- You can no longer have less than -90% Advisor Cost.
+- Maintenance cost of a subunit is no longer modified by any local recruitment cost modifiers on the province it is from.
+- Chinaware now gives 0.12 Republican Tradition instead of 0.012.
+- Mountains are now 35% development cost penalty instead of 50%.
+- Deserts are now 50% development cost penalty instead of 35%.
+- Tea is now connected to the Plantation Manufactory rather than the Trade Station one.
+- Terrain now uses cs_only_local_development_cost so we no longer have garbage provinces because it is a forest.
+
+# Governments
+- Increased Mandate cost for reforms from 50 to 70
+- Added Federal Republic and American Republic government types back to the game (available through the American Dream DLC).
+
+# Religion
+- When a conversion is finished, any bonuses/penalties go to the owner of the missionary. Papal Influence and Karma bonuses require the two countries to have the same religion, Harmony penalty does not.
+- Guru Har Krishan now gives tolerance of true faith in addition to his old effect.
+- Birth of Sikhism will now convert up to 3 provinces and give religious zeal.
+- Mysticism now gives the bonuses previously associated with high piety.
+- Legalism now gives the bonuses previously associated with low piety.
+
+# Units
+- Naval exploration missions can now be canceled while the fleet is in port or supply range
+
+# War & Peace
+- Fort rules: When a unit stops being exiled, its Return Province and Previous Province are now cleared.
+- Amount of pips from tradition is now 6-18 instead of 7-17.
+- When a Tributary Overlord denies a Call to Arms from their Tributary, they no longer get any truce with each other.
+
+###################
+# AI
+###################
+
+# Diplomacy
+- Overseas subjects may now declare independence wars even when Disloyal (as opposed to Rebellious).
+- AI Shogun no longer desires Daimyos as Tributaries.
+- Fixed AI occasionally deciding to break an alliance for no reason, only to realize their mistake soon thereafter (causing annoying and misleading alert spam).
+- When considering a coalition or religious league war, the AI now trusts its allies to contribute more than usually.
+- Increased YOLO factor for declaring independence and religious league wars.
+- Fixed that Daimyos were far too often friendly towards each other.
+- AI Trading Cities will no longer form alliances with other countries than their Leader.
+- AI no longer builds spy network in non-neighboring rivals just because it can.
+- Further tweaked down aggressiveness.
+- Fixed: An AI considering war against an HRE member normally considers whether the Emperor's allies will join. This did not happen if the war target was also allied to the emperor.
+- AI now more pessimistic when estimating help from allies before declaring a war.
+- Fixed bug that caused AI to only start Trade Companies when they had no tech cost penalty from institutions.
+- The alert that tells you an ally will break your alliance now also tells you why.
+- AI is no longer prevented from seing the player as a long term threat to work against on normal difficulty.
+- AI is no longer prevented from using Break Alliance Great Power action against players on normal difficulty.
+- Improved AI for choosing when to Pay Off Debt or Influence Nation.
+- Fixed bug that stopped AI from declaring most wars across water provinces.
+- Fixed bug with AI struggling to break alliances when they wanted to break several.
+- Fixed bug causing AI to often break alliances without first triggering the alert for the player (they can still auto-break if either opinion goes below -25 or there is a rivalry).
+- Improved AI for knowing where to ask for military access significantly.
+- AI desires same-culture-group countries less as Tributaries.
+- Fixed bug that caused AI to not ask for military access.
+- Reduced likelihood for AI to see Historical Friends as "Power Balance Threat".
+- Added some missing AI behavior based on ruler personalities (Threaten War desire, Peace desire, Call to Arms acceptance, Alliance acceptance, Trade League acceptance).
+- AI no longer cheats by only counterespionaging on countries that spy on them.
+- Fixed bug that in some circumstances AI didn't notice when someone refused being their tributary, causing them to keep demanding it instead of attacking.
+- AI now considers Tributary overlord in more strength comparisons.
+- Rebalanced AI acceptance for Threaten War based on strength comparison.
+- Improved AI for desiring tributary states.
+
+# Economy
+- Fixed that AI could send 0.00 in subsidies.
+- Fixed cycle where AI kept recruiting and disbanding banners.
+- Increased AI priority for reducing War Exhaustion.
+- AI now more careful with Enforcing Religion on Subjects.
+- Improved AI for building buildings.
+- Made it much less likely for AI subjects to tear down buildings built by their overlord
+- Made AI prioritize assigning Estates to high autonomy land
+- Reduced AI use of Edicts.
+- Improved AI for changing government.
+- Fixed that AI sometimes used Edict Advancement Efforts even when it had no effect.
+- Fixed that AI used Church Aspect to increase legitimacy even with full legitimacy.
+- Improved AI for helping subjects with rebels.
+
+# War
+- Fixed some AI indecisiveness regarding walking right through an enemy army.
+- Fixed one more case of AI walking back and forth.
+- Improved AI weighting between economy, military and navy in strength comparisons.
+- AI is now somewhat aware when a rebel army is about to relocate.
+- Improved AI for when to realize it won't be able to demand the provinces it wants in a long war, and removed increased stubbornness against the player in this sense.
+- Fixed bug that caused AI to create empty fleets.
+- Fixed most cases where AI that has been promised land doesn't want any provinces but still loses trust.
+- Fixed that newly spawned AI nations immediately disbanded all troops.
+- Small AI nations can now go above forcelimit and take loans to be able to siege down enemy forts.
+- AI now better understands where rebels are about to spawn.
+- Reduced mercenary desirability for AI
+- AI will now slacken recruiting standards when high professionalism and very low on MP at war.
+- Improved army AI. (Less walking back and forth and less random move orders)
+- Fixed cause for AI to walk straight into the enemy.
+- Fixed AI standing in unsafe border provinces unnecessarily during peace.
+- Fixed bug with how AI selected province to make a targeted attack from.
+- Fixed that rebels could walk/relocate to provinces where they had no business whatsoever.
+- Fixed exploits regarding AI expecting land in a war being happy without it if certain (to them uninteresting) treaties were also selected.
+- Fixed issue with AI splitting/merging units in a loop forever due to attrition.
+- AI for moving armies now cares more about terrain.
+- AI now less afraid of engaging slightly smaller armies.
+
+#Other
+- Navies no longer get stuck when on Trade Node missions.
+- Castile and Spain more likely to be colonialist.
+- AI less likely to be militarist when having loans.
+
+###################
+# Interface
+###################
+
+# Country
+- Alert for current loans now only shows the 10 oldest loans.
+- Fixed overlapping texts in interface for handling pretender rebels with long names.
+- Send Missionary Production Interface now has a checkbox for showing your subjects' provinces.
+- Moved up unit view 30 pixels for resolution with less than 750 height.
+
+# Icons/Art
+- DLC icons will now be shown (in grey) even when not enabled, in the lobby and the startup screen.
+- Moved down some map icons in the Production Interface two pixels.
+- Updated flag for Theodoro.
+- Unknown Trade Good icon no longer shown on wastelands in Trade Good Mapmode.
+- The value sliders in the different religion views now scale better and no longer cover icons on the side.
+
+# Mapmodes
+- Diplomacy mapmode now uses cyan stripes for provinces you are currently turning into a core.
+- Religious Map Mode: Religious School icons are now shown over the capitals of muslim nations.
+
+# Tooltips
+- Effects that create characters at a given age now show that in the tooltip.
+- War score tooltip now shows at most 10 entries per controller.
+- Fixed (again) that some rulers showed up as 1458 years old in the overview when selecting a country to play.
+- When you are unable to privateer due to having a truce with a country in the trade node, the tooltips now tells you so.
+- Fixed bug that tooltip for not being able to protect trade due to no path showed nonsense about privateering and truces instead.
+- Tooltip for effects that create advisors no longer mention where they will be from if not specified in the script.
+- Severly improved the tooltips for recruiting military leaders, explaining how many pips they will get.
+- Effects for defining rulers, heirs, consorts and advisors now show what culture and religion they will get if specified.
+- Slightly improved Treasury top bar tooltip.
+- Improved tooltips for Russian Government Interactions.
+- Mercenary discipline now shown on the discipline tooltip in combat view.
+- Improved advisor tooltips.
+- Institution spawn tooltip now finds what province is most likely to spawn the institution for you and displays the requirements on that one.
+- Hovering over dip mana now breaks down your relations.
+
+# Unitmodels
+- All Noth American and South American forts now use the native american graphics.
+
+# Other
+- Added confirm dialog when deleting Navy Templates.
+- Message popup when someone declines Threaten War now uses correct title.
+- The characters '/' and '"' are no longer forbidden to be used in the chat.
+
+
+###################
+# Usermodding
+###################
+
+# Commands
+- Console Command "startup_screen" opens a new Startup Screen.
+- There is now a new console command to use a fixed dice. 'combat_dice XX', where -1 gives random dicerolls like normal.
+- Console command "observe" now removes the buttons for spectating if previously shown.
+
+# Effects
+- Added new country effect 'set_heir_culture = x' , where x is culture, province, tag or rebel.
+- Added new country effect 'set_consort_culture = x' , where x is culture, province, tag or rebel.
+- Added new country effect 'set_ruler_culture = x' , where x is culture, province, tag or rebel.
+- Added new country effect 'set_heir_religion = x' , where x is religion, province, tag or rebel.
+- Added new country effect 'set_consort_religion = x' , where x is religion, province, tag or rebel.
+- Added new country effect 'set_ruler_religion = x' , where x is religion, province, tag or rebel.
+- Added on_build effect for buildings
+- Added on_destroy effect for buildings
+- Added on_obsolete effect for buildings
+- Renamed effects add_support_for_adm_action etc. to add_government_power.
+- spawn_rebels effect now supports specifying what religion/culture they will get.
+- Triggers and effects supporting "variable:" syntax now also support "new_variable:" syntax, calculating the would-be value if the following string was exported from. Doesn't work for the more advanced exports.
+- Triggers and effects that support "variable:" syntax now also support "variable:FROM:" etc.
+- Effects for creating rulers, heirs and consorts now support "hide_skills = yes" (same as "hidden = yes") for heirs.
+
+# Logging
+- Added error message if game starts with an Estate in a Capital.
+
+# Modifiers
+- Modifier descriptions now support localization of the [Scope. ...] form.
+- Added cs_only_local_development_cost modifier which doesn't get converted if player doesn't own Common Sense
+- Added extend_province_modifier which will make a timed province modifier last a bit longer.
+
+# Triggers
+- Added support for "any" in trading_policy_in_node trigger (meaning any active trading policy).
+- Added trader_has_active_policy trigger.
+- Added trading_policy_in_node trigger.
+- Added is_node_in_trade_company_region trigger ( = yes/no, province scope)
+- Added new country trigger 'heir_culture = x', where x is culture, province, tag or rebel.
+- Added new country trigger 'consort_culture = x', where x is culture, province, tag or rebel.
+- Added new country trigger 'ruler_culture = x', where x is culture, province, tag or rebel.
+- Added new country trigger 'heir_religion = x', where x is religion, province, tag or rebel.
+- Added new country trigger 'consort_religion = x', where x is religion, province, tag or rebel.
+- Added new country trigger 'ruler_religion = x', where x is religion, province, tag or rebel.
+- years_under_vassalage trigger now supports "all_subject_country = yes" to not limit for certain subject types.
+- Fixed that scripted triggers gave double tooltips with extra check mark.
+- The following entries in triggers and effects now support "Event Scope Values" (x=new_variable:y etc.): All religion and culture entries; location in define_advisor_effect; all entries in is_in_war that refer to a country or a province.
+- Added "legitimacy_equivalent = " trigger, checking the relevant value of Legitimacy, Rep. Tratition, Devotion etc.
+- Added trigger current_institution_growth.
+- Added triggers has_government_mechanic and government_power_trigger.
+- Added support for "else_if" and "else". If one of these is placed after an "if" or "else_if", it will be executed if the "if"/"else_if" limit returns false. Example:
+if = { limit = { something = yes } do_something = yes }
+else_if = { limit = { something_else = yes } do_something_else = yes }
+else = { do_another_thing = yes }
+"else" inside an "if" still works as before, so as to not break existing script
+- Added uses_devotion trigger.
+- is_in_war trigger now supports scopes for defenders, attackers, participants, and war_goal_province.
+- employed_advisor trigger now supports any scopes as well as variables for the "culture = " and "religion = " fields.
+- employed_advisor trigger now supports category = MIL/DIP/ADM syntax.
+- variable_arithmetic_trigger and ai_acceptance entries will now set all export_to_variable to their original value before generating the tooltip.
+- All culture and religion triggers and effects of the form "x = y" now support "variable:variable_name" (as well as scopes) as y. Triggers and effects for culture and religion groups work similarly, and implicitly take the group of the culture with the given index.
+- Fixed bug that variable_arithmetic_triggers couldn't have most triggers inside of them.
+- export_to_variable now supports "value = trigger_value:[trigger_name]" to extract the limit value for a trigger. This works with all triggers of the form "[trigger_name] = [value]", where [value] is an integer, a decimal value or "yes"/"no". Caution: If the trigger evaluates as true for all values (or no values), the extracted value will be 2147483 (or -2147483).
+- war_with trigger no longer counts rebels, pirates and natives as at war with everyone.
+- Added on_battle_won_unit and on_battle_lost_unit onactions that are run for each unit in a battle.
+
+# Other
+- define_advisor effect now supports "location = *scope*"
+- Religion spread from Centers of Reformation and Propagate Religion Trading Policy can now be controlled from script (religious_conversions/00_religious_conversions.txt).
+- Leader traits now have to be specified with personality="key" rather than having anything on the left side.
+- Modified old syntax for specifying an empty tag from "xxx" to "---".
+- Removed po_annex and po_trade_power_others as they were duplicates of po_demand_provinces and po_trade_power, respectively.
+- Advisor portraits now look for "GFX_advisor_[culture_group]_[...]" before the 'GfxCulture' sprite.
+- Building AI now done entirely in code. Script can still modify/override the result though. See 00_buildings.txt.
+- Added support for entirely scripted Peace Treaties.
+- Added GetTag text property for countries. Recall that "@fra", for example, shows the french flag.
+- Text now supports showing DLC icons. Just type "£DLC_CoC " etc.
+- max_distance can now be set in religious_conversions/00_religious_conversions.txt (MAX_RELIGIOUS_CENTER_SPREAD_DISTANCE define used if not set).
+- Localization keys now also support [Root.variable_name.GetCultureGroupName] and [Root.variable_name.GetReligionGroupName] syntax.
+- Localization for religion now support GetCountryModifiers and GetProvinceModifiers.
+- Fixed issue with scriptable diplomatic actions (they were always accepted).
+- Added define "PRESS_THEM_FURTHER" which if enabled makes AI that has been promised land base their expectation on how the war goes as well.
+- Added on actions for on_leader_recruited, on_general_recruited, on_admiral_recruited, on_conquistador_recruited, on_explorer_recruited
+- new_diplomatic_actions file now contains better examples.
+- Can now override message type for expiring timed country modifiers
+- Can now set on message types some simple go to functions (economy, technology, court, government, diplomacy, trade, religion, decisions, ideas, stability, military, subjects & estates)
+- Defines RELIGIOUS_CONVERSION_DEVELOPMENT_WEIGHT and RELIGIOUS_CONVERSION_AUTONOMY_WEIGHT now control how much Development and Autonomy affects which province is selected for conversion by Centers of Reformation and Propagade Religion Trading Policy.
+- "home_religion" and "home_culture" in the "employed_advisor" trigger have beeen replaced by "religion" and "culture" which check the advisors actual relgion and culture.
+- Renamed tribal_allegiance_effect to add_tribal_allegiance, tribal_allegiance_trigger to tribal_allegiance and government_power_trigger to has_government_power.
+- Religion view resolution changes now entirely in .gui file.
+- For custom subject types with has_overlords_ruler, can_be_integrated now also determines whether spontaneous inheritance can happen.
+- For custom subject types with has_overlords_ruler, can_union_break now determies whether the union can spontaneously break.
+- Added set_saved_name feature. Supprts "type = simple name = Paradox" and "type = advisor scope = FROM". Should be coupled with clear_saved_name.
+- Saved Names can be accessed in localization through "[Scope.key.GetName]"
+- Saved Names can be used for defining rulers, heirs, consorts, leaders, advisors and rebel leaders.
+- Added export_to_variable for ruler_culture, heir_culture, consort_culture, adm_advisor_culture, dip_advisor_culture, mil_advisor_culture. They will get the index of the character's religion, so can be compared to each other. The culture name can also be accessed with [Root.variable.GetCultureName] syntax.
+- Added exactly same system as explained above but for religion.
+- Also added export_to_variable for primary_culture, dominant_culture, religion, dominant_religion and secondary_religion for country scopes; and culture, and religion for province scopes.
+- if_resolution in gui files now supports entire gui types (you can e.g. choose if an iconType should be read or not based on resolution).
+- events now support "after = {}", similar to "immediate = {}" but is executed after any event option.
+- Added profiler for script. Can run it using eu4_profiling executable and dump data by typing dump_script_profiling in the console
+- Added province list cache in script form for missions: target_provinces_list, target_areas_list, target_colonial_region_list, target_trade_company_region_list target_trade_node_list
+- Added any_army which will loop trough each army in THIS country.
+- Can now give arguments to scripted triggers or effects.
+- Can now scope to country of a unit using unit_owner context.
+
+###################
+# Script
+###################
+
+# Achievements
+- The Shahanshah achievement now requires that you start as Ardabil as Tabarestan no longer exists.
+- The "I'll graze my horse here.. And here..." Achievement now accepts both Grain and Livestock Provinces.
+
+# Decisions
+- Added decision to form the Sultanate of Rûm, granting the Ottoman government form.
+- Added decision to form Yemen.
+- Added decision to form Georgia.
+- Decisions that move your capital now removes that province from the Holy Roman Empire if you are not a member state and the capital is being moved into the Empire. This will also make the Empire dislike you as usual, and reduce the Imperial Authority.
+- Forming Egypt now gives you administrative monarchy.
+- Forming Sokoto now makes you a Feudal Theocracy.
+- Kingdom of Jerusalem will now get cores on a somewhat wider area than just Palestine, and not only on owned provinces.
+- Provence can now form the Kingdom of Jerusalem (like the Knights and Cyprus).
+- Added decision to adopt Mamluk Government.
+- Added decision to invite Timurid Ruler before 1500 in the former Timurid Empire.
+- Added decision to form the Timurid Empire for states ruled by Timurids.
+- Added decision to form Armenia.
+- Rebalanced the act of uniformity and the advancement of true religion decisions.
+
+# Events
+- The Sikhism spread event is now viable for a longer period, is somewhat more likely to trigger and will give religious zeal when it converts a province.
+- The "Minorities flock to x" colonial event now has a second option to turn away all disloyal colonists.
+- Low Mandate events will now be considerably more likely to happen.
+- Many events that create advisors now have a chance of creating advisors from small regional minorities, even if these don't show up in provinces on the map. European countries can get Jewish advisors, Zoroastrians might show up in India, etc. When the event text specifies that an advisor comes from a certain province or country he or she should now take culture and religion from that location.
+- A number of old advisor generating events now generate discounted advisors to make the events more interesting.
+- Fixed some old problems with event targets not being saved.
+- Updated old Piety events to fit the new Legalism - Mysticism implementation.
+- Rewrote the Janissary Decadence disaster (now called "Janissary Coup"). There are now two ways of ending the disaster. Either by taking a decision as before (with Cradle of Civilization this requires disbanding most of your Janissary troops) or by braving it out long enough and fulfilling the ending criteria.
+- Added 21 new events for Heir, Ruler, Consort and Advisor Cultures and Religions.
+- Updated existing events to give advisor/ruler/consort/heir culture and religion. Estate advisors will now be drawn from estate provinces if the country performing the action has any.
+- Eased up the conditions for the flavor event for Leibniz.
+- Added Tribal Federation Events.
+- Added Trade Policy Events.
+- Added Events for the Spread of Islam in Trade Company regions where someone is using the Propagate Religion Trade policy.
+- Added Muslim Religious Events.
+- Price Change event 26, "The Development of Veneering", is now more likely to trigger and also gives a larger price boost.
+- Made a number of old province events scale to size of country.
+- Added notification event for the other party when the "Royal Marriage Policies Pay Off" event places an heir on a foreign throne.
+- Tribal and Iqta Succession events now give preference to generating a new ruler without changing the ruling dynasty as the most common coup-makers were uncles, brothers, cousins or other relatives in these states. Penalties to Legitimacy, Horde Unity, etc remain.
+- Decline of the Spice Trade Price Change event now looks at Christian countries access to spices.
+- Added 4 Price Change Events for Paper.
+- Price Change Event Permanent Navies now also increases price of Glass slightly.
+- Price Change Cork Bottle Stoppers now also increases price of Glass slightly.
+- First major Coffee Producing country to build a coffee plantation manufactory outside of Arabia and Africa will remove the Coffee Production modifier in Mocha.
+- The Great Bank Fisheries price change event for Fish now places permanent goods produced modifiers for Fish in provinces on Newfoundland.
+- Added Army Professionalism Events.
+- Updated old events as apropriate with Army Professionalism effects.
+- Quarantining influenza now quarantines in all provinces with the disease.
+- Decreased spread chance for influenza.
+- The House of Elzevir modifier now changes the trade goods of Holland to Paper.
+- The event that clears slaves in newly conquered provinces after you have abolished slavery will now do so in all slave producing provinces you have taken at once.
+
+# Ideas
+- Added Mushasha Ideas.
+- Added Sistani Ideas.
+- Added Caspian Ideas.
+- Added Rûmi Ideas.
+- Added Shirvani Ideas.
+- Added Ardabili Ideas.
+- Added Samtskhe Ideas.
+- Added Haasa Ideas.
+- Added Hadamhi Ideas.
+- Added Ayyubid Ideas.
+- Added Ajami Ideas.
+- Added Khorasani Ideas.
+- Added Transoxianian Ideas.
+- Added Farsi Ideas.
+- Added Luri Ideas.
+- Added Qara Qoyunlu Ideas.
+- Added Mahra Ideas.
+- Added Yemeni Ideas.
+- Added Rassid Ideas.
+- Added Tripuran Ideas.
+- Added Hanoverian Ideas.
+
+- Armenian Traditions no longer give -10% War Exhaustion Reduction Cost.
+- Armenian Traditions now give -0.02 War Exhaustion.
+- Armenian Idea "Land Reclamation" now gives lower development cost instead of lower build cost.
+- Armenian Idea Nakharar Titles now gives army traditions instead of enemy core creation cost.
+- Georgian Traditions no longer give -10% shock damage received and 50% Hostile Core Creation Cost.
+- Georgian Traditions now give +10% Infantry Combat ability and +25% Defensiveness.
+- Georgian Idea "Bagrationi Dynasty" (+50% Heir Chance) now also gives +0.5 Legitimacy
+- Removed Georgian Idea "Georgian Protectorates" ( +20% Income from vassals )
+- Removed Georgian Idea "Samouravo Counties" (−10% Stability cost modifier)
+- Added Georgian Idea "Legacy of Saint Nino" (+2 tolerance own)
+- Added Georgian Idea Dastulamali (war exhuastion = -0.02)
+- Medina now uses Hedjazi Ideas.
+- Kharabagh now uses Armenian Ideas.
+- Azeri tags now use Caucasian Ideas.
+- Caucasian Traditions no longer give -10% attrition and +50% Hostile Core Creation Cost.
+- Caucasian Traditions now give 1 hostile attrition and +15% Manpower Modifier.
+- Arabian ideas no longer contain 'Coffea Arabica', instead they get 'Clan Loyalties', +1 leader manouver.
+- Timurid Traditions now give one extra diplomatic relation instead of 25% more income from vassals.
+- Timurid Architecture now gives +1 prestige instead of -1 prestige decay.
+- Timurid Idea "Build the Largest Mosque in the World" replaced by "Reform the Diwan", giving -0.1 yearly corruption.
+- Timurid Idea "Unleash the Tiger" now gives +10% shock damage dealt, instead of discounted war exhaustion reduction.
+
+# Missions
+- Added two Ayyubid Missions.
+- Added generic missions to circumnavigate Africa and reach India for countries with the exploration idea group.
+- Tweaked availability weights for colonial missions.
+- Added a new set of generic colonial missions for each colonial region to expand a colony to a colonial nation.
+- Colonial missions should now always refer to colonial regions.
+- Added mission to conquer Hormuz for Portugal.
+- Added three missions for Oman.
+
+# Modifiers
+- Custodian of the Holy Cities is now available for an overlord of someone who owns them as well as a direct owner.
+- Custodian of the Holy Cities now gives legitimacy instead of Prestige.
+- Added scripted trigger for checking for river estuaries.
+- The Murano Glass Industry modifier for Venice now increases Goods Produced for glass.
+- Added goods produced modifier for Coffee in Mocha.
+- Added goods produced modifier for Gems in Golconda.
+- Added goods produced modifier for Grain in Lower Egypt.
+
+# Setup
+- Added Mahra tag in Arabia.
+- Added Hadramut tag in Arabia.
+- Added Medina tag in Arabia.
+- Added Anizah tag in Arabia.
+- Added Fadl tag in Arabia.
+- Added Yas tag in Arabia.
+- Added Aden tag in Arabia.
+- Added Dawasir tag in Arabia.
+- Added Mikhlaf tag in Arabia.
+- Added Najran tag in Arabia.
+- Added Ayyubid Hisn Kayfa tag in Kurdistan.
+- Added Bitlis tag in Kurdistan.
+- Added Avaria tag in the Northern Caucasus.
+- Added Karabakh tag in the Caucasus.
+- Added Samtskhe tag in the Caucasus.
+- Added Ardabil tag in Azerbaijan.
+- Added Mushasha tag in southern Iraq.
+- Added Gilan tag in Persia.
+- Added Biapas tag in Persia.
+- Added Fars tag, ruled by the child prince Abdallah bin Ibrahim.
+- Added Kerman revolter tag.
+- Added Isfahan revolter tag.
+- Added Yazd revolter tag.
+- Added Tabriz revolter tag.
+- Removed Bohtan revolter tag.
+- Added Soran revolter tag (replacing Bohtan) in Kurdistan.
+- The Timurid Empire is now split between its governing princes in 1444.
+- The Sultanate of Gujarat is now Sunni.
+- Added more Polish Dynamic province names as suggested by poster Korth1991.
+- Updated Georgian leader, advisors and monarch name lists from a suggestion by the poster Delurker.
+- Added a core for Naples on Malta.
+- Venice now guarantee Albania's independence in 1444.
+- Historical rulers and advisors at various start dates now have culture and religion scripted.
+- Added Maregheh revolter Tag.
+- Added Basra revolter Tag.
+- Added Ajam Tag, ruled by Muhammed bin Baysonqor.
+- Added Transoxiana Tag, ruled by Ulugh Beg.
+- Fixed Ottoman name list.
+- Spices can now be found in Central America.
+- Piety now scales between Mysticism (-100) and Legalism (100), instead of "Pious" and "Lack of Piety".
+- Removed Ottoman Starting Cores on Karaman and Candar.
+- Timurids are now Empire Rank.
+- Memel now starts as Lithuanian culture.
+
+# Other
+- Fixed "The Great Power of [Swedish]..." bug (should be [Sweden]).
+- Existing Scripted effects and triggers are now sorted in more than one file.
+- Cleaned up the on_action file a bit, to make it more readable it now uses more scripted effects.
+- Game now less likely to generate inquisitors that are traitors to their native faith.
+- Custom localizations now support random = no, which will cause the first valid text to be used.
+
+###################
+# Bugfixes
+###################
+
+- Music player is capable of playing songs again based on context weights
+- The Murder of Poul Laxmand will no longer try to increase your stability above 3.
+- Fixed badly scripted idea pick factors.
+- English Flavor Event 9250 "Lack of an Heir" now checks for the correct flag and therefore cannot trigger once the war of the roses has already happened.
+- Fixed Arguin being in the wrong trade node.
+- Random event 736 now correctly displays an extra option if you are tolerant.
+- Fixed that changing capital through migrating or decision/event didn't move diplomatic constructions.
+- Fixed that Cancel Subject treaty could be selected at the same time as Transfer Subject.
+- Leaving a Federation now immediately clears the assigned diplomacy slot.
+- Fixed area colors being reordered if adding custom color in area.txt.
+- Weights for Silk in custom setup now more refined and restrictive.
+- Hesse no longer has a courthouse randomly in 1444.
+- You can no longer force someone to be your subject if they are fighting an independence war against their former overlord.
+- Tooltips now mention that you gain Karma from converting provinces.
+- Conquest Mission blocks now check for Shogunate rather than Japan.
+- Rewrote effect of the 'Seal of Confession' event to use a saved event target for prettier tooltips.
+- Localization for the 'has_state_patriach' trigger now displays as "Has state Metropolitan".
+- Peace View: Fixed description stating that you will lose Karma when taking back cores in peace deals.
+- Peace View: Fixed description ignoring Administrative Efficiency effect on Karma.
+- Diplomacy/Support Rebels: Support Efficiency value is now shown correctly before selecting a faction.
+- Historical French Advisors now use first names.
+- Rewrote Russian Flavor event 9 to be a bit more comprehensible and to offer permanent claims.
+- Province conversion mission now blocked from trade company owned provinces.
+- "Possible Manchu Banners" no longer shown in Country Modifiers if you can't have Banners.
+- Standardized tooltip for development buttons so that they all say that you're increasing the 'Base' development instead of just one of them.
+- Reduced revolt sizes in some old flavor events.
+- Fixed bug that could make the Nanban incident impossible to trigger for custom nations.
+- Unit View: Naval Mission trade node lists now takes less time to open.
+- Optimized Trade Map Mode.
+- Fixed CTD when clicking colony that was abandoned after a native uprising.
+- Fixed a bug where the default difficulty was set to hard in multiplayer.
+- Rebel armies no longer relocate to provinces they wouldn't normally go to.
+- Russian province names now no longer only applied for Muscovite states.
+- CB vs independent Daimyo now correctly checks for new government type.
+- Fixed rare CTD when selecting fleet right after winning battle. [EUIV-11096]
+- Country View: Added new sounds to government, estates and subjects tabs.
+- Fixed max government rank not applied when releasing vassals.
+- Fixed Konkan and Coromandel trade companies being reversed in India.
+- Removed outdated text about losing taxes for high Patriarch Authority.
+- Fixed Persia, Ohio, Lima, Safi, Ethiopia, Samarkand, Australia and Beijing trade nodes not being clickable on the map.
+- Fixed that advisors higher up in the script list were slightly more likely to be generated.
+- The Russian followup for the Swedish flavor event "The Anjala League" now triggered directly from the Swedish event rather than at some point thereafter and also made it depend on the choices in the Swedish event.
+- Rewrote script for the Swedish flavor event "The Anjala League" so that the effects are connected to what it represents.
+- Added more checks to the Surrender of Maine event.
+- Pretenders will no longer remove the principality government type.
+- Fixed Objective icons sometimes getting stuck on screen when changing map mode.
+- Fixed CTD in CProvince::SetController on OSX/macOS.
+- Fixed CTD related to diplomats in outliner.
+- Fixed that create_marriage effect didn't check if you already had a marriage, potentially causing duplicates.
+- Swapped the sailor bonus for important natural harbor and centers of trade so that the Center of Trade has the higher bonus.
+- Aleut now only listed in one area and once in the california trade node.
+- Removed duplicate leader name in the Bhutanese leader list.
+- Fixed typo in Shimazu ruler name.
+- Polotsk now belongs to the same trade node (Novgorod) as the rest of its area.
+- Fixed misspelled Danish Advise (verb).
+- War Score now never spelled as Wars Core.
+- Polish Magnates will now respect special governments.
+- Fixed on_annexed having the same tag as FROM and THIS, leading e.g. to "The End of the Ming Empire" event saying Ming "destroyed the Emperor".
+- If the Nomadic Frontier disaster ends due to the Emperor losing his title he will no loner be rewarded stability.
+- Fixed OOS and potentially other bugs caused by releasing nations from daimyos.
+- Fixed several bugs with AI recruitment logic.
+- The Third Rome title is now the same size as all other DLC in the credits.
+- Fixed typos in Tripura and Hanoverian ideas.
+- Demerara and Essequibo no longer listed twice in Amazon Trade node.
+- Fixed duplicate trigger in burgher estate file.
+- Fixed a number of issues with the Lubeck flavor event Taghfart.
+- Random New World: Fixed two duplicated province colors in Tile Elzephor3.
+- Fixed typo in Russian Dynamic Province name for Bahmut.
+- Time of Troubles should no longer start and then immediately end due to missmatch between start and ending criteria.
+- Removed Duplicate Phoenix of Glasgow from the Scottish ship list.
+- The Neapolitan Flavor event "The Masaniello Revolt" is now a bit more lenient.
+- The Anti-Spam timer on the colonial tariff events is now on the overlord rather than the colonies. Meaning they should trigger far less often.
+- Junior partners in personal union can no longer hold a party where their common king pretends to be more than one person.
+- English modifier Justices of the Peace now reduces state maintenance.
+- Rewrote the text for the Duke of Coimbra event slightly.
+- The name of beta tester Alexander Keül is now spelled correctly in the credits.
+- Kashgar now properly knows of the provinces in its overlord at start.
+- Increase militarisation button is now greyed out when it should.
+- Fixed issue where there would sometimes be fewer than 8 lucky nations at game start.
+- Fixed invalid birth dates for a few rulers in Germany.
+- Fixed infantry and cavalry attacking from the back row
+- Fixed a few bugs with client_states.txt not being used, and also being scripted wrong.
+- The Delhi flavor event "The Lodi Dynasty" now actually fires in connection to a Lodi takeover.
+- Wallonian culture now known as Walloon.
+- Fixed tooltip in Subjectinteraction event 2 - "X asks for help" so that it no longer makes you think your soldiers will steal all your gold, when in fact all of it always arrived just fine.
+- Fixed some capital provinces having assigned estates, resulting in invincible Estate influence.
+- Fixed crash when having more than 885 loans.
+- Fixed that rebel effects didn't happen when taking a fort if there was an adjacent fort as well.
+- MP/Options: The following options are no longer limited to being host: "Color 'owned' Wastelands", "Show monthly Tax income".
+- Fixed that many rulers generated by events rolled their skills between 0 and 5 instead of 0 and 6.
+- Admiral Trait "Extortionist" now gives a 15% bonus to trade power from ships when on a trade mission.
+- Fixed bug that disabling Divert Trade also permanently disabled any default Trade Power transfers.
+- The old "An Astonishing Performance" random event about a young female troubadour now actually creates a female advisor.
+- Fixed overzealous tooltip for the quarantining of influenza, sometimes claiming that you would be putting every single habited place in your country under quarantine no matter the size of the outbreak.
+- Fixed that Shogun / Tributary Overlord could transfer occupation in their subjects' wars.
+- Fixed that you couldn't cancel vassalage with your client states.
+- Fixed that you could sell ships to primitives.
+- Fixed that rulers and heirs generated through event had their skills uniformly distributed, instead of being '2d4 -2' just as normal ones.
+- Guarantees and warnings are now automatically removed when getting a Tributary.
+- Native Federations are now automatically left when becoming a subject.
+- Fixed that the fort level trigger was not properly localized ingame.
+- Removed and merged some old duplicate or overlaping diplomatic history entries.
+- Fixed that consorts didn't get a personality if you formed a new country before the monthly tick when they'd get it.
+- Fixed that Foreign Heirs in some cases never got personalities, and probably other bugs with them as well.
+- Fixed that is_incident_active trigger didn't work.
+- Fixed trade power transfer from Divert Trade Subject Interaction being removed for AI countries despite Divert Trade still being active.
+- Fixed cultures in culture union taking up promoted slots after primary culture change
+- Fixed government view not updating correctly after culture changes
+- Fixed bug where the Marwar independence event would trigger for a Mewar reduced to only Marwari land, making Marwar eat Mewar immediately and then declaring war on the dead country.
+- Fixed CTD in CCountry::CanOrderArtilleryBarrage.
+- Fixed Nobles, Burghers, Cossacks and Nomadic Tribes estates not preventing autonomy to reduce forcelimit.
+- Country Diplomacy View: You can no longer select Send Gift if you can't afford the minimum Gift of 25 ducats.
+- Fixed CTD when hovering over trading policy button as observer.
+- Prussian/Brandenburger Flavor Event 1, "The Incorporation of Prussian into Brandenburg", can no longer trigger if Prussia is a vassal of Brandenburg.
+- Fixed typo in the description for the coastline terrain.
+- Regaining your cardinal in administration should no longer apply the estate modifier twice.
+- Non Christian AIs will no longer pick the age ability to protect against the reformation.
+- Added some more AI weights for what age abilities to pick.
+- Should no longer be possible to get an estate disaster while you already have an ongoing disaster.
+- Fixed inconsistent triggers in Russian Flavor Events concerning the Grand Embassy.
+- Revolutionary countries that conquer Westphalia will no longer get constantly spammed by an event giving cores to Westphalia. Even if they already had cores.
+- Everytime we claimed something was unkown we will now say "unknown".
+- Cleaned up oddities in ara consulate of the sea chain.
+- Territorial Cores now disappear upon conquest even if inside a state.
+- Aspirations of Liberty disaster will no longer target for Revolutionary states.
+- Fixed that Estates could sometimes be shown even without Cossacks DLC.
+- Fixed that Call to Arms popup said Tributary overlord would join defensive war even when they wouldn't.
+- Removed reference to terrain impact on combat width in tooltip
+- You can no longer reset liberty desire by making someone a march.
+- Fixed crash caused by trade nodes not wanting to give up on a dead trade company
+- Finally fixed a hard to fix/find crash caused by re-releasing a nation that has tag-switched.
