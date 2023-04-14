@@ -1,0 +1,14018 @@
+change_government_reform_progress 200
+change_government_reform_progress
+add_government_power = ADM 100
+add_government_power
+government_power
+government_power ADM 100
+add_government_power ADM 100
+'add_government_power' ADM 100
+add_'government_power' ADM 100
+add_ADM 100
+add_adm_tech = 1
+dip 100
+mil 100
+dip 100
+mil 100
+dip 100
+mil 100
+adm 100
+mil 100
+adm 100
+mil 1000
+money
+annex 131
+annex 136
+annex 137
+annex 138
+own 138
+own 131
+own 136
+own 137
+own 139
+own 140
+own 141
+own 142
+own 143
+own 144
+own 145
+own 146
+own 147
+own 148
+own 149
+own 150
+own 151
+core 150
+own 152
+own 159
+own 163
+own 1764
+own 1765
+own 1766
+own 1767
+own 1773
+own 1826
+own 1827
+own 1828
+own 1831
+own 1853
+own 2746
+own 2750
+own 3000
+own 3001
+own 3002
+own 4173
+own 4174
+own 4175
+own 4176
+own 4239
+own 4698
+own 4699
+own 4701
+own 4702
+own 4703
+own 4704
+own 4705
+own 4706
+own 4750
+own 4752
+own 4753
+own 4754
+own 4755
+own 4756
+own 4757
+own 4759
+own 47
+own 4779
+own 4780
+adm
+money
+adm
+manpower
+adm
+cash
+own_ core 4780
+own 138
+own 139
+own 140
+own 141
+own 142
+own 143
+own 144
+own 145
+own 146
+own 147
+own 148
+own 149
+own 150
+own 151
+own 152
+own 159
+own 163
+own 1764
+own 1765
+own 1766
+own 1767
+own 1773
+own 1826
+own 187
+own 1827
+own 1828
+own 1831
+own 18
+own 1853
+own 2746
+own 2750
+own 3000
+own 3001
+own 3002
+own 4173
+own 4175
+own 4176
+own 4174
+own 4239
+own 4698
+own 4699
+own 4701
+own 4702
+own 4703
+own 4704
+own 4705
+own 4706
+own 4750
+own 4752
+own 4753
+own 4754
+own 4755
+own 4756
+own 4757
+own 4779
+own 4780
+adm
+legitimasy
+legitimacy
+own 136
+own 137
+own 131
+16
+own 163
+adm
+own 13
+own 130
+own 129
+own 1769
+own 4738
+own 4751
+
+own 101
+own 102
+own 103
+own 104
+own 105
+own 106
+own 107
+own 108
+own 109
+own 111
+own 112
+own 113
+own 114
+own 115
+own 116
+own 117
+own 118
+own 119
+own 120
+own 121
+own 122
+own 123
+own 124
+own 125
+own 126
+own 127
+own 1247
+adm
+mil
+ad
+adM
+CASH
+OWN 4754
+OWN 138
+OWN 1827
+OWN 3000
+OWN 3001
+OWN 4780
+OWN 1766
+OWN 4239
+OWN 141
+OWN 4757
+OWN 4176
+OWN 4173
+ADM
+PRESTIGE
+MANPOWER
+own 149
+own 151
+own 4705
+own 4779
+own 4730
+own 4729
+own 1774
+adm
+own 112
+adm
+cash
+adm
+own 316
+own 317
+own 2296
+adm
+own 2348
+own 3003
+own 4700
+own 164
+own 320
+own 2297
+own 2298
+own 4309
+own 318
+own 319
+cash
+adm
+manpower
+cash
+own 322
+own 1848
+own 4608
+own 4308
+own 4311
+manpower
+adm
+dip
+manpower
+adm
+dip
+adm
+dip
+manpower
+dip
+mil
+manpower
+cash
+dip
+adm
+mil
+adm
+mil
+prestige
+adm
+manpower
+mil
+tra
+tradition
+army_tradition
+power
+army_tradition
+prestige
+
+prestige
+mil
+manpower
+mi9l
+mil
+manpower
+mil
+manpower
+own 46
+colonise 968
+colonize 968
+own 25
+adm
+dip
+adm
+money
+cash
+manpower
+prestige
+core 1984
+own 1984
+own 4142
+own 4149
+own 15
+own 4149
+own 13
+own 1775
+add_core 1775
+add_core 13
+adm
+dip
+own 310
+add_core 310
+own 33
+add_core 33
+adm
+mil
+yesman
+mil
+cASH
+mil
+yesman
+manpowee
+manpower
+mil
+dip
+adm
+mil
+adm
+yesman
+mil
+yesman
+cash
+adm
+dip
+own 981
+own 2583
+own 2584
+own 2585
+own 2586
+own 2587
+own 2582
+own 2581
+own 2580
+own 2579
+own 2578
+own 2577
+own 2576
+own 2575
+own 2574
+own 2573
+own 2572
+own 2571
+own 997
+own 996
+own 995
+own 994
+own 993
+own 992
+own 991
+own 990
+own 2586
+own 2587
+own 988
+own 2671
+own 1001
+own 1007
+own 991
+own 2015
+l
+
+own 911
+own 989
+dip
+adm
+own 2670
+own 987
+dip
+mil
+manpower
+army_tradition
+army_professionalism
+
+adm
+manpower
+release
+own 70
+core 70
+help
+add_core 70
+add_core 68
+add_core 1868
+add_core 4714
+own 4714
+add_core 4713
+own 4713
+own 74
+add_core 74
+add_core 4711
+own 4711
+own 72
+add_core 72
+mil
+own 1880
+add_core 1880
+add_core 75
+own 75
+own 68
+mil
+own 1870
+add_core 1870
+add_core 1873
+own 1873
+own 1869
+add_core 1869
+add_core 185
+own 1865
+own 185
+own 165
+add_core 165
+add_core 166
+own 166
+cash
+own 4721
+add_core 4721
+add_core 1867
+own 1867
+own 1871
+add_core 1871
+add_core 73
+own 73
+
+own 4758
+add_core 4758
+add_core 1768
+own 1768
+own 110
+add_core 110
+adm
+own 1873
+own 4722
+add_core 4722
+add_core 1873
+reform progress
+reform progress 100
+
+reform progress
+mil
+adm
+ae
+help
+clear ae
+clearae
+yesman
+cash
+reformprogress 300
+add_core 4720
+own 4720
+own 65
+add_core 65
+add_core 4708
+own 4708
+own 76
+add_core 76
+add_core 4760
+own 4760
+own 4709
+add_core 4709
+add_core 2956
+own 2956
+reformprogress 300
+colonize 1084
+
+colonize 1085
+
+colonize 1086
+colonize 1087
+colonize 1088
+colonize 1089
+colonize 1090
+colonize 1091
+colonize 1092
+colonize 1093
+colonize 1094
+colonize 2726
+colonize 2727
+colonize 2728
+colonize 2729
+colonize 2730
+colonize 2731
+colonize 2732
+colonize 2733
+colonize 2734
+colonize 2735
+colonize 2736
+dip
+adm
+admcash
+cash
+sailors
+yesman
+army tradition
+army
+help
+dip
+adm
+missionary
+add_missionary
+add_missionary BOH
+add_missionary 2 BOH
+cash
+
+mil
+yesman
+help
+ae
+clearae boh
+stability
+clearae boh
+cash
+adm
+yesman
+adm
+yesman
+manpower
+yesman
+manpower
+imperial authority
+ia
+imperial
+help
+imperial_authority
+imperial_authority 50
+dip
+imperial_authority 50
+yesman
+mil
+adm
+mil
+cash 200
+cash 400
+dip
+adm
+mil
+adm
+mil
+cash
+clear_ae
+clearae
+dip
+adm
+clearae
+manpower
+clearae
+adm
+professional
+help
+army_professionalism
+
+yesman
+dip
+clearae
+manpower
+dip
+adm
+help
+add_loyalty nobility
+add_loyalty
+add_loyalty nobility
+add_loyalty nobility 10
+add_loyalty 10 nobility
+add_loyalty nob
+add_loyalty nobi
+add_loyalty nobil
+add_loyalty nobility
+add_loyalty
+add_loyalty burghers
+add_loyalty estate_nobles
+add_loyalty estate_nobles 10
+addlegitimact
+legitimacy
+add_loyalty estate_burghers 10
+help
+own 1764
+own 4705
+own 149
+own 4779
+own 4702
+own 3001
+own 1853
+own 148
+own 4780
+core
+add_core
+add_core 4780
+add_core 148
+add_core 1853
+add_core 3001
+add_core 4702
+add_core 142
+own 142
+own 4698
+add_core 4698
+add_core 147
+own 147
+own 144
+add_core 144
+cash
+adm
+dip
+mil
+add_core 150
+own 150
+own 4703
+add_core 4703
+add_core 2750
+own 2750
+own 2746
+add_core 2746
+add_core 1765
+own 1765
+own 4705
+add_core 4705
+add_core 149
+add_core 159
+own 159
+own 4706
+add_core 4706
+add_core 4704
+own 4704
+own 316
+add_core 316
+add_core 317
+own 317
+own 2296
+add_core 2296
+add_core 2297
+own 2297
+own 2296
+add_core 2296
+add_core 2298
+own 2298
+own 2299
+add_core 2299
+own 2300
+add_core 2300
+own 2301
+add_core 2301
+own 2302
+add_core 2302
+own 2303
+add_core 2303
+add_core 2304
+own 2304
+add_core 2305
+own 2305
+own 2306
+add_core 2306
+own 2307
+add_core 2307
+own 2308
+add_core 2308
+own 2309
+add_core 2309
+own 2310
+add_core 2310
+own 2311
+add_core 2311
+own 2312
+add_core 2312
+own 2313
+add_core 2313
+own 2314
+add_core 2314
+own 2315
+add_core 2315
+own 2316
+add_core 2316
+own 2317
+add_core 2317
+own 2318
+add_core 2318
+own 2319
+add_core 2319
+own 2320
+add_core 2320
+own 2321
+add_core 2321
+own 2322
+add_core 2322
+own 2323
+add_core 2323
+own 2324
+add_core 2324
+own 2325
+add_core 2325
+own 2326
+add_core 2326
+own 2327
+add_core 2327
+own 2328
+add_core 2328
+own 2329
+add_core 2329
+own 2330
+add_core 2330
+own 2331
+add_core 2331
+own 2332
+add_core 2332
+own 2333
+add_core 2333
+own 2334
+add_core 2334
+own 2335
+add_core 2335
+own 2336
+add_core 2336
+own 2337
+add_core 2337
+own 2338
+add_core 2338
+own 2339
+add_core 2339
+own 2340
+add_core 2340
+own 2341
+add_core 2341
+own 2342
+add_core 2342
+own 2343
+add_core 2343
+own 2344
+add_core 2344
+own 2345
+add_core 2345
+own 2346
+add_core 2346
+own 2347
+add_core 2347
+own 2348
+add_core 2348
+own 2349
+add_core 2349
+add_core 319
+add_core 320
+add_core 321
+own 319
+own 320
+add_core 321
+own 321
+add_core 322
+own 322
+add_core 323
+own 323
+add_core 324
+own 324
+add_core 325
+own 325
+add_core 326
+own 326
+add_core 327
+own 327
+add_core 328
+own 328
+add_core 329
+own 330
+add_core 330
+own 331
+add_core 331
+own 332
+add_core 332
+own 333
+add_core 333
+own 334
+add_core 334
+own 335
+add_core 335
+own 336
+add_core 336
+own 337
+add_core 337
+own 338
+add_core 338
+own 339
+add_core 339
+own 340
+add_core 340
+own 341
+add_core 341
+own 342
+add_core 342
+own 343
+add_core 343
+own 344
+add_core 344
+own 345
+add_core 346
+own 346
+add_core 347
+own 347
+add_core 348
+own 348
+add_core 349
+own 349
+add_core 350
+own 350
+own 351
+own 352
+add_core 351
+add_core 352
+own 353
+add_core 353
+own 354
+add_core 354
+own 355
+add_core 355
+own 356
+add_core 356
+own 357
+add_core 357
+own 358
+add_core 358
+add_core 359
+own 359
+manpower
+help
+add_reformlevel 200
+add_reform 200
+add_reform
+add_reform 1
+reform_desire 1
+reform_desire 11
+reformprogress 100
+mil
+adm
+dip
+ownclaims
+own
+own gum
+own gumulcine
+adm
+dip
+mil
+dip
+adm
+add_reform
+government_reform
+hel[
+help
+reformprogress 100
+manpower
+cash
+yesman
+adm
+manpower
+yesman
+manpower
+yesman
+reformprogress 100
+yesman
+reformprogress 100
+dip
+dip 10000
+adm 10000
+adm
+adm 10000
+vassalise hull
+vassalize hull
+vassalize hul
+debug_mode
+vassalize
+vassalize 00
+vassalize D00
+
+debug_mode
+vassalize D01
+debug_on
+debug_
+debug_info
+debug_on
+debu
+debug_mode
+own 4631
+core 4631
+addcore 4631
+add_core 4631
+addcore 4361
+add_core 4631
+add_core 4361
+own 436
+own 4361
+own 4362
+own 248
+own 249
+own 251
+own 250
+own 4363
+own 2525
+own 252
+own 4110
+own 253
+own 4364
+own 4365
+own 4121
+own 372
+own 4380
+own 4119
+own 4379
+own 376
+own 375
+own 4377
+own 4120
+own 373
+own 374
+own 4118
+own 4378
+add_core 4378
+add_core 4118
+add_core 374
+adm
+coreall
+add_core 4365
+own 4365
+own 4361
+add_core 4361
+own 4362
+add_core 4362
+own 248
+add_core 248
+own 249
+add_core 249
+own 251
+add_core 251
+own 250
+add_core 250
+own 4363
+add_core 4363
+own 252
+add_core 252
+own 4110
+add_core 4110
+own 4364
+add_core 4364
+own 253
+add_core 253
+add_core 4769
+own 4769
+add_core 91
+own 91
+add_core 1866
+own 1866
+adm
+adm 100000
+
+adm 100000
+dubug_mode
+debug_mode
+debug_enable
+debug_mode
+own 194
+own 173
+own 176
+integrate d08
+
+debug_mode
+integrate d01
+
+integrate BRB
+
+integrate UTR
+integrate FRI
+tag D09
+integrate SWI
+
+integrate GNV
+tag VEN
+integrate TUS
+
+integrate SAV
+integrate PSP
+integrate PAP
+integrate PGFA
+integrate PGA
+integrate BLG
+own 1773
+own 321
+tag TUR
+godmode
+yesmode
+
+yesmode
+tag d16
+integrate TUN
+
+tag mor
+integrate MAL
+
+integrate MSI
+integrate ZAF
+integrate AIR
+yesman
+tag obv
+tag observer
+tag obs
+observ
+observe
+debug_mode
+tag D10
+tag MAM
+tag D10
+debug_mode
+ovserver
+ovserve
+ovzerve
+obszerve
+observe
+debug_mode
+tag kha
+observer
+observe
+debug_mode
+tag D00
+integrate D01
+observe
+tag D00
+debug_mode
+integrate D01
+manpower 10000
+yesman
+mil 500
+observe
+tag d00
+cash 500
+cash 5000
+adm
+prestige
+cash
+adm
+dip
+debig_mode
+debug_mode
+own 97
+adm
+cash
+observer
+observe
+tag d00
+adm
+observe
+tag d00
+observe
+tag d00
+observe
+tag d00
+observe
+tag c18
+tag c03
+observe
+tag d00
+help
+yesman
+cash
+dip 10000
+adm 10000
+mil 10000
+yesman
+debig_mode
+debug_mode
+integrate D01
+integrate D04
+
+manpower
+integrate D03
+adm
+cash
+adm
+dip
+man
+mil
+dip
+mil
+dip
+adm
+observe
+tag d00
+integrate SCO
+
+integrate NOL
+observe
+tag d00
+integrate por
+
+colonize 484
+integrate d02
+cash
+observe
+tag d00
+observe
+degum_mode
+debug_mode
+own 49
+own 4747
+own 2997
+own 2995
+own 48
+own 4746
+own 43
+own 1841
+own 1859
+own 2958
+own 42
+own 41
+own 767
+own 40
+code
+core
+add_core
+add_core all
+add_core 4746
+add_core 48
+add_core 2995
+add_core 2997
+add_core 43
+add_core 1841
+add_core 1859
+add_core 2958
+add_core 42
+add_core 767
+add_core 41
+add_core 40
+tag fla
+dip 800
+dip 300
+cash 500
+mil 200
+dip
+adm
+debug_mod
+debug_mode
+colonize 4600
+colonize 827
+cash
+debug_mode
+own 4675
+tag 512
+tag krc
+own 4675
+tag tim
+cash 800
+cash 200
+prestige 20
+own 4675
+tag tim
+manpower 5000
+manpower -5000
+manpower 5
+cash 100
+debug_mode
+tag khm
+debug_mode
+own 4181
+own 1012
+
+core 1012
+add_core 1012
+add_core 4181
+own 4180
+own 1014
+
+add_core 1014
+yesman
+add_core 4180
+add_core 1818
+add_core 1017
+add_core 4184
+add_core 1019
+add_core 1830
+add_core 4183
+manpower
+cash
+stability
+adm
+mil
+stability
+dip
+stabiladm
+adm
+cash
+
+adm
+own 1015
+stability
+observer
+observe
+tag man
+tag ori
+tag jap
+tag tim
+debug_mode
+tag mch
+tag tim
+cash 1000
+debug_mode
+tag bng
+cash 1000
+tag npl
+cash 1000
+tag bei
+cash 1000
+tag mlc
+cash 1000
+tag ues
+cash 1000
+tag mch
+cash 1000
+tag mos
+cash 1000
+cash -1000
+tag mch
+tag ues
+tag pgs
+cash 1000
+own 2697
+own 656
+own 4349
+own lxa
+tag lxa
+cash 1000
+tag mos
+tag min
+tag mng
+tag tim
+debug_mode
+own 522
+add_core 522
+add_core 507
+own 507
+own 151
+own 384
+own 385
+own 382
+own 410
+own 425
+own 225
+own 124
+own 504
+own 125
+own 388
+ifni
+own 400
+own 347
+reform_progress 2000
+reformprogress 2000
+tag mng
+tag usg
+debug_mode
+tag ues
+oberve
+obervee
+observe
+cash 500
+tah tim
+tag tim
+debu
+debu_mode
+debug_mode
+cash
+manpower
+dip
+adm
+mil
+own 4700
+add_core 4700
+add_core 3003
+add_core 2348
+add_core 164
+add_core 320
+debug_mode
+tag ues
+own 4187
+own 4359
+own 1839
+own 4189
+tag mug
+own 410
+own 2312
+debug_mode
+own 4294
+own 415
+own 411
+own 4293
+own 2206
+own 2207
+own 416
+own 4304
+own 4296
+own 4295
+own 418
+own 2308
+own 4292
+own 2209
+own 424
+own 4340
+own 4339
+own 4117
+own 417
+own 426
+own 420
+own 577
+own 421
+own 4299
+own 4305
+own 241
+own 2997
+own 4142
+own 217
+own 2467
+own 120
+debug_mode
+own 254
+own 255
+own 258
+own 4527
+own 259
+own 260
+own 4538
+own 279
+own 4247
+own 280
+own 2407
+own 4547
+own 4542
+own 290
+own 291
+own 2409
+own 288
+own 1971
+own 466
+own 2365
+own 2367
+own 470
+own 471
+own 2370
+own 2362
+own 441
+own 442
+own 453
+own 434
+own 4343
+own 2227
+own 2226
+own 578
+own 2077
+own 508
+own 4449
+own 509
+own 4493
+own 2995
+own 43
+own 41
+adm
+adm 100000
+core_all
+add_core
+add_core all
+add_core 2995
+add_core 43
+add_core 41
+add_core 254
+add_core 258
+add_core 4527
+add_core 259
+add_core 260
+add_core 4538
+add_core 279
+add_core 4247
+add_core 280
+add_core 2407
+add_core 4542
+add_core 290
+add_core 291
+add_core 2409
+add_core 288
+add_core 1971
+add_core 466
+add_core 2365
+add_core 2367
+add_core 470
+add_core 471
+add_core 2370
+add_core 2362
+add_core 441
+add_core 442
+add_core 453
+add_core 4343
+add_core 2227
+add_core 434
+add_core 2226
+add_core 578
+add_core 2077
+add_core 508
+add_core 509
+add_core 4493
+add_core 4449
+add_core 255
+add_core 4547
+dip 10000
+mil 10000
+.
+mil 10000
+dip 10000
+mil 10000
+dip 10000
+dip 100000
+mil 100000
+manpower
+adm
+own 4749
+add_core 4749
+own 46
+add_core 46
+own 2996
+add_core 2996
+add_core 1857
+own 1857
+COLONISE 1111
+COLONIzE 1111
+COLONIzE 1112
+COLONIzE 1113
+COLONIzE 2239
+COLONIzE 1114
+COLONIzE 2241
+
+manpower
+cash
+core 2966
+core 264
+add_core 264
+add_core 2966
+colonize 2242
+colonize 1119
+cash
+colonize 1126
+colonize 2258
+debug_mode
+observe
+tag pha
+colonize 4865
+colonize 2726
+colonize 4864
+colonize 1084
+colonize 2727
+colonize 1790
+colonize 1791
+colonize 2736
+colonize 4866
+colonize 4867
+colonize 4846
+colonize 4870
+colonize 2728
+colonize 2729
+tag uts
+own 4517
+own 4481
+own 565
+tag mng
+observe
+tag wuu
+colonize 2730
+colonize 4849
+colonize 2731
+colonize 2732
+colonize 2733
+colonize 4850
+colonize 1094
+colonize 4851
+colonize 4854
+colonize 1092
+colonize 485
+colonize 4856
+colonize 1089
+colonize 1091
+colonize 1791
+colonize 4861
+colonize 4860
+colonize 1424
+colonize 4857
+colonize 1090
+colonize 4858
+colonize 4859
+colonize 2734
+colonize 1088
+colonize 1087
+colonize 4869
+colonize 4868
+colonize 1085
+colonize 2735
+colonize 1086
+tag mng
+own 2150
+observer
+observe
+tag pha
+colonize 2863
+colonize 4863
+
+tag wuu
+colonise 2736
+colonize 2736
+colonize 4852
+colonize 4855
+colonize 1093
+colonize 4853
+colonize 1791
+colonize 4848
+colonize 4847
+observe
+tag wuu
+colonize 4862
+observe
+tag wuu
+colonize 1896
+observe
+tag wuu
+colonize 1896
+observe
+tag wuu
+colonize 1986
+tag 2730
+tag awm
+tag awn
+colonize 2731
+colonize 4849
+colonize 2736
+colonize 2732
+colonize 4848
+colonize 4847
+colonize 2733
+tag wuu
+colonize 2736
+observe
+tag wuu
+tag awn
+colonize 4850
+colonize 1093
+colonize 1094
+colonize 4852
+colonize 4851
+colonize 4853
+colonize 4854
+colonize 4855
+obseeve
+observe
+tag wuu
+own 4847
+own 4848
+own 4849
+own 2730
+own 2731
+own 2732
+own 4855
+own 4851
+own 4854
+own 4852
+own 4853
+own 4850
+own 1094
+own 1093
+own 2733
+tag awn
+own 1086
+own 2735
+own 1087
+own 2734
+own 4859
+own 4858
+own 4860
+own 4857
+own 1090
+own 1092
+own 1088
+own 4861
+own 1089
+own 4862
+own 4856
+own 1091
+tag wuu
+own 2729
+own 4846
+own 1091
+own 4856
+own 1092
+own 4861
+own 1089
+own 4857
+own 4860
+own 1090
+own 4858
+own 4859
+own 1088
+own 1087
+own 2734
+own 2735
+own 1086
+own 4862
+own 2736
+observe
+debug_mode
+yesman
+observe
+debug_mode
+tag lar
+own 522
+add_core 522
+adm
+debug_mode
+own 2065
+own 4411
+own 4463
+own 4513
+own 507
+own 4510
+own 524
+own 4500
+own 4465
+own 525
+own 780
+own 740
+own 528
+own 4461
+own 526
+own 4463
+own 4453
+debug_mode
+own 2375
+own 4824
+own 4823
+mil
+dip
+mil
+adm
+cash
+mil
+manpower
+mil
+adm
+manpower
+debug_mode
+own 603
+add_core 603
+own 4830
+add_core 4830
+own 431
+own 4831
+add_core 4831
+own 600
+add_core 600
+own 4832
+add_core 4832
+add_core 4839
+own 4839
+add_core 4838
+own 4838
+add_core 2382
+own 2382
+add_core 4840
+own 4840
+add_core 608
+own 608
+add_core 2385
+own 2385
+add_core 2384
+own 2384
+add_core 2381
+own 2381
+add_core 2371
+own 2371
+add_core 611
+own 611
+add_core 614
+own 614
+add_core 615
+own 615
+add_core 1844
+own 1844
+add_core 4837
+own 4837
+adm
+dip
+yesman
+adm
+clear_ae
+clearae
+adsolutionism
+add_adsolutionism
+absolutism
+dip
+adm
+adm 1000
+ADM
+TI
+ADM
+debug_mode
+int shy
+integrate shy
+integrate oie
+integrate oir
+debug_mode
+tag feo
+own 284
+own 2406
+own 283
+own 290
+own 1944
+own 282
+add_core 282
+add_core 2406
+add_core 1944
+add_core 283
+add_core 290
+own 291
+add_core 291
+own_core 4542
+own_core 2407
+own_core 279
+own_core 4115
+own_core 4541
+own_core 261
+own_core 280
+adm
+
+adm
+debug_mode
+tag lit
+zaz
+tag zaz
+tag fra
+yesman
+tag spa
+ADM 40
+adm 400
+manpower 1
+manpower 9
+dip
+mil
+adm
+manpower 9
+cash 1
+cash 500
+manpower 9
+adm 300
+adm
+dip 300
+adm 400
+yesman
+manpower
+yesman
+cash
+mil
+yesman
+manpower
+
+tag wka
+debug_mode
+int chm
+integrate chm
+integrate icm
+integrate hja
+integrate cja
+integrate cya
+integrate qto
+integrate csu
+integrate cla
+integrate pcj
+integrate cra
+integrate ccq
+tag uuu
+tag u
+tag mng
+tag pha
+integrate ass
+
+integrate sdy
+integrate mka
+integrate mng
+integrate kam
+tag wha
+tag wka
+adm
+dip
+mil
+dip
+adm
+mil
+
+mil
+adm
+int mca
+inegratet mca
+inegrate mca
+integrate mca
+adm
+dip
+mil
+observe
+tag pha
+int cxi
+integrate cxi
+
+integrate csh
+integrate wuu
+integrate dai
+tag wkr
+tag wka
+integrate kor
+debug_mode
+integrate mjz
+integrate ejz
+integrate nhx
+integrate mhx
+integrate ask
+mil
+cash
+manpower
+integrate ouc
+integrate smz
+integrate ito
+integrate hsk
+integrate kno
+integrate ymn
+integrate ama
+integrate isk
+integrate tti
+integrate ktb
+integrate htk
+integrate dte
+integrate akt
+integrate anu
+observe
+tag pha
+tag cxi
+tag pha
+integrate cxi
+integrate csh
+cash 100
+cash 1000
+cash 100000
+cash - 87000
+cash - 8700
+cash - 8
+cash -10000
+cash -5000
+cash -1000
+corrupt 0
+dip
+adm
+mil
+cash -1000
+cash
+debug_mode
+own_core 2677
+own_core 659
+4816
+own_core 4816
+own_core 2676
+own_core 620
+own_core 2675
+
+own_core 618
+own_core 4810
+own_core 4809
+own_core 2674
+own_core 2673
+own_core 627
+own_core 4794
+own_core 2691
+own_core 617
+own_core 2684
+own_core 2685
+own_core 4811
+own_core 619
+
+own_core 2690
+own_core 4792
+own_core 626
+own_core 2689
+own_core 4791
+own_core 625
+own_core 2688
+own_core 2682
+own_core 4817
+own_core 2681
+
+own_core 4818
+own_core 2680
+own_core 2683
+own_core 630
+own_core 4790
+own_core 2687
+own_core 624
+own_core 629
+own_core 4793
+own_core 628
+own_core 2692
+own_core 631
+yesman
+own_core 2390
+own_core 638
+own_core 621
+own_core 2693
+own_core 632
+own_core 634
+own_core 4801
+integrate Brunei
+integrate Bei
+integrate smb
+integrate beu
+integrate kut
+integrate bjn
+integrate bnj
+integrate mlc
+integrate pah
+integrate kel
+integrate pat
+integrate psa
+integrate ked
+own_core 2391
+own_core 593
+own_core 2404
+own_core 2387
+own_core 591
+own_core 592
+own_core 4835
+own_core 574
+own_core 2706
+own_core 2708
+own_core 2679
+integrate khm
+integrate ayu
+integrate dai
+integrate lxa
+integrate mph
+integrate jar
+integrate cha
+integrate koh
+integrate lna
+integrate peg
+integrate ark
+integrate tau
+integrate bpr
+integrate ava
+integrate mpa
+integrate hsi
+integrate mni
+integrate hse
+integrate kal
+integrate mya
+integrate mka
+own_core 2157
+dip
+adm
+mil
+diadm
+dip
+adm
+dip
+add_pa
+dip
+adm
+dip
+mil
+dip
+adm
+manpower
+dip
+debug_mode
+own_core 4334
+reformprogress
+mil
+dip
+debug_mode
+add_core 385
+own_core 385
+own_core 384
+own_core 425
+own_core 379
+own_core 124
+own_core 125
+own_core 347
+own_core 225
+own_core 382
+own_core 151
+own_core 410
+own_core 400
+debug_mode
+own_core 15
+own_core 4149
+own_core 4142
+own_core 1984
+own_core 13
+own_core 4141
+own_core 1775
+cash
+yesman
+tag rus
+tag pru
+tag com
+tag pol
+tag swe
+debug_mode
+tag plc
+debug_mode
+annex ned
+
+integrate NED
+remove_rival PRO
+remove_rival ENG
+Tag syr
+debug)mode
+debug_mode
+integrate TUR
+tag min
+tag oir
+tag mng
+tag mjz
+nofog
+fog
+fow
+debug_mode
+observe
+tag kni
+own_core 1230
+change_religion 4710 jewish
+change_religion 145  jewish
+change_religion 145 jewish
+change_religion 320 jewish
+change_religion kni jewish
+cash
+add_loyalty estate_church
+add_loyalty estate_church 20
+add_loyalty estate_nobility 20
+add_loyalty estate_nobles 20
+cash -4
+cash -40
+cash -4000
+cash 200
+adm
+adm - 4
+adm
+dip
+prestige 10
+manpower
+manpower -50
+manpower 10
+debug_mode
+tag cas
+tag sco
+own 4365
+tag tur
+assimilate 2306
+assimilate 418
+assimilate 2308
+assimilate 2303
+assimilate 332
+assimilate 2301
+assimilate 4310
+assimilate 329
+cb_vassalize_mission cri
+cb_vassalize_mission
+add_cb cb_vassalize_mission cri
+god
+
+yesman
+debug_mode
+integrate GLG
+integrate OPL
+stab
+stability
+clear_ae
+clearae
+stability
+clearae
+stability
+clearae
+stability
+clearae
+assimilate 4726
+assimilate 1770
+assimilate 4725
+assimilate 2968
+assimilate 267
+assimilate 2967
+assimilate 1771
+assimilate 133
+assimilate 1773
+assimilate 1772
+assimilate 4236
+assimilate 263
+assimilate 4723
+assimilate 4238
+assimilate 264
+assimilate 2966
+assimilate 60
+assimilate 1763
+assimilate 134
+assimilate 4761
+assimilate 4762
+assimilate 154
+assimilate 1318
+assimilate 162
+assimilate 2963
+own_core
+
+own_core 2997
+own_core 43
+stability
+adm
+dip 500
+dip 100
+dip
+tag rus
+cash 300
+cash 400
+debug_mode
+assimilate 4688
+adm
+cash
+yesman#
+yesman
+manpower
+prestige
+
+prestige
+yesman
+debug_mode
+tag byz
+own_core 1773
+own_core 144
+tag kni
+own_core 320
+own_core 146
+own_core 4701
+own_core 145
+dip
+vassalize byz
+cash
+cash -3
+cash -3000
+cash -300
+cash -100
+own_core 3003
+tag cri
+yesman
+own_core 2413
+own_core 2411
+own_core 1974
+own_core 2412
+own_core 284
+own_core 2410
+tag gol
+tag tur
+revancilism
+revanchilism
+revanchism
+debug_mode
+inherit teu
+integrate teu
+reform_desire 70
+clear_ae
+clearae
+yesman
+clearae
+yesman
+clearae
+manpower
+cash
+mil
+manpower
+cash]
+
+cash
+mil 300
+profesionalism
+army_profesionalism
+army_professionalism
+army_professionalism -50
+army_professionalism 50
+army_professionalism 40
+tag pol
+debug_mode
+own 2411
+own 1974
+own 284
+tag lit
+tag 2412
+own 2412
+tag fla
+clearae
+tag pol
+own 2413
+own 2410
+tag tur
+manpower -5
+debug_mode
+own_core 95
+own_core 99
+own_core 98
+own_core 100
+own_core 4382
+own_core 1931
+own_core 4381
+adm 100000
+mil 100000
+cash
+stab
+stability
+legitimacy
+mil
+tag ues
+tag tuy
+tag tur
+tag eng
+cash
+manpower 5
+mil 400
+yesman
+debug_mode
+own_core 76
+
+own_core 2957
+own_core 1757
+own_core 71
+own_core 67
+own_core 66
+own_core 4717
+own_core 4716
+own_core 79
+own_core 4715
+
+own_core 4718
+yesman
+own_core 70
+own_core 4713
+own_core 4712
+own_core 468
+own_core 48
+own_core 68
+own_core 4710
+own_core 1868
+own_core 1872
+own_core 73
+own_core 4758
+own_core 110
+own_core 1768
+own_core 83
+own_core 84
+own_core 85
+own_core 2975
+own_core 4714
+own_core 74
+own_core 72
+yesman
+tag gol
+own_core 468
+tag bar
+tag bav
+tag wol
+own_core 48
+tag bav
+prestige
+clear ae
+manpower
+yesman
+own_core 97
+own_core 4383
+own_core 1269
+own_core 96
+own_core 1744
+own_core 92
+own_core 2974
+own_core 1742
+own_core 95
+own_core 4770
+own_core 98
+own_core 99
+own_core 4381
+own_core 100
+own_core 4382
+own_core 1931
+own_core 111
+own_core 1774
+own_core 4729
+own_core 108
+own_core 112
+own_core 130
+own_core 4751
+tag bra
+debug_)mode
+debug_mode
+own_core 49
+own_core 4747
+tag bav
+own_core 4746
+tag bra
+own_core 4746
+own_core 48
+own_core 2995
+own_core 47
+own_core 2994
+own_core 1858
+
+own_core 4745
+own_core 2997
+own_core 43
+own_core 1841
+own_core 2958
+own_core 42
+own_core 41
+own_core 40
+own_core 767
+own_core 1857
+own_core 44
+own_core 53
+own_core 54
+own_core 4771
+own_core 1874
+own_core 55
+own_core 4772
+own_core 52
+own_core 58
+own_core 4741
+own_core 1763
+own_core 60
+own_core 4778
+own_core 2966
+own_core 4238
+own_core 264
+own_core 4723
+own_core 263
+own_core 254
+own_core 2963
+own_core 4526
+own_core 255
+own_core 4523
+own_core 4528
+own_core 4524
+own_core 1859
+own_core 4742
+tag bav
+inherit bra
+integratet bra
+integrate bra
+integrate nap
+debug_mode
+own_core 144
+142
+own_core 142
+own_core 4699
+own_core 4698
+own_core 1773
+own_core 145
+own_core 4701
+own_core 146
+own_core 3003
+own_core 147
+own_core 163
+own_core 4562
+own_core 2465
+own_core 336
+own_core 337
+own_core 2461
+own_core 338
+own_core 339
+own_core 1882
+own_core 340
+own_core 2454
+own_core 4566
+own_core 2455
+own_core 341
+own_core 2473
+own_core 143
+own_core 4172
+own_core 143
+own_core 4172
+debug_mode
+tag byz
+adm
+tag bav
+cash 100
+manpower 5
+cash 30
+cash 100
+yesman
+debug_mode
+own_core 126
+cash
+own 318
+yesman
+own_core 2313
+own_core 4298
+own_core 377
+own_core 1849
+own_core 1854
+own_core 364
+own_core 379
+own_core 378
+own_core 1855
+own_core 382
+own_core 4297
+own_core 381
+own_core 380
+own_core 2327
+foe
+fow
+own_core 1773
+own_core 145
+own_core 4701
+own_core 146
+own_core 3003
+own_core 164
+
+own_core 4700
+own_core 2348
+own_core 163
+own_core 4699
+own_core 144
+own_core 142
+own_core 4698
+own_core 147
+own_core 1853
+own_core 4780
+own_core 3001
+own_core 4702
+own_core 148
+own_core 4705
+own_core 149
+own_core 4779
+own_core 1764
+own_core 151
+own_core 316
+own_core 317
+own_core 2296
+integrate tur
+integrate cnd
+integrate kar
+integrate dul
+integrate ram
+integrate cyp
+integrate tre
+integrate ser
+integrate alb
+integrate bos
+integrate cro
+integrate hrz
+own_core 4173
+own_core 4239
+own_core 4753
+own_core 136
+own_core 137
+own_core 4754
+own_core 4174
+own_core 2305
+own_core 331
+own_core 2306
+own_core 418
+own_core 2308
+own_core 4296
+own_core 2307
+own_core 4295
+own_core 405
+own_core 4271
+own_core 4270
+own_core 4316
+own_core 363
+own_core 362
+own_core 358
+own_core 2316
+own_core 4317
+own_core 361
+own_core 359
+own_core 365
+own_core 2315
+own_core 2320
+own_core 2321
+own_core 360
+own_core 4319
+own_core 4320
+own_core 2319
+own_core 2317
+own_core 4318
+own_core 1231
+yesman
+observe
+tag kni
+own_core 1227
+own_core 2766
+own_core 2767
+own_core 2771
+own_core 4268
+adm
+dip
+dip 10000
+mil 10000000
+adm 10000
+own_core 341
+own_core 2453
+own_core 2954
+own_core 354
+own_core 2451
+own_core 355
+own_core 2452
+own_core 353
+own_core 2473
+own_core 4566
+own_core 2454
+own_core 2455
+own_core 1882
+own_core 340
+own_core 339
+own_core 338
+own_core 2461
+own_core 337
+mil 10000
+dip 10000
+adm 10000
+debug_mode
+ovserve
+observe
+tag kni
+own_core 1227
+own_core 2766
+own_core 2767
+own_core 2771
+yesman
+own_core 341
+own_core 2453
+own_core 354
+own_core 2473
+own_core 353
+own_core 2954
+own_core 2452
+own_core 2451
+own_core 355
+own_core 4566
+own_core 2455
+own_core 2454
+own_core 340
+own_core 1882
+own_core 339
+own_core 338
+own_core 2461
+own_core 337
+governmentreform
+government_reform
+government_
+reform+progress
+reformprogress
+debug_mode
+own 1226
+own 1225
+own 2797
+own 1229
+own 1220
+own 2323
+own 2787
+own 2766
+own 1230
+own 2767
+own 2765
+own 4279
+tag dlh
+tag por
+ti
+tag bah
+yesman
+debug_mode
+own 1232
+own 2324
+stability
+prestige
+stability
+prestige
+legitimacy
+adm
+adm 100
+dip 200
+dip
+country_modifier
+country_modifier ETH
+manpower 20
+manpower 10
+cash 200
+manpower 10
+cash 100
+manpower 5
+debug_mode
+own 2797
+own 2759
+own 2757
+own 1218
+own 1210
+own 2761
+own 2791
+own 387
+own 4280
+own 4279
+own 4282
+own 2786
+own 1206
+own 2024
+own 2784
+own 2785
+own 2780
+own 2795
+own 2783
+own 2763
+own 1209
+own 1215
+corruption
+corrupt
+corrupt -100
+fast_diplo
+findcommand bancrupt
+findcommands bancrupt
+findcommands bankr
+debug_mode
+tag reb
+debug_mode
+winwar
+winwars
+manpower 60
+cash 500
+debug_mode
+own 2797
+own 2763
+own 2759
+own 2757
+own 1218
+own 1210
+own 2761
+own 2791
+own 387
+own 4280
+own 4279
+own 4282
+own 1215
+own 1209
+own 2786
+own 1206
+own 2024
+own 2784
+own 2783
+own 2795
+own 2785
+own 2780
+warexaughstion
+war
+help
+tag eth
+winwars
+nowar
+debug_mode
+tag yem
+exaust 20
+exhaust 20
+tag kni
+dip 400
+tag eth
+debug_mode
+tag mel
+debug_mode
+tag mel
+tag mfl
+tag yem
+tag kni
+cash 200
+debug_mode
+tag yem
+debug_mode
+tag yem
+tag kni
+kill_heir
+tag pal
+age_ruler 2021
+ruler_age 109
+age_ruler 109
+debug_mode
+colonise 745
+colonize 745
+assimilate 745
+cash 200
+cash 100
+tag sav
+own 2986
+tag kni
+mil
+cash 50
+cash 100
+cash 60
+dip 400
+cash 200
+mam
+tag mam
+tag kni
+mil 200
+tag eth
+tag kni
+own_core 1853
+tag pal
+age_ruler 100
+tag kni
+manpower 5
+man
+mil
+manpower -3
+mil
+tag por
+mal
+debug_mode
+tag mal
+dip
+adm
+dip
+por
+tag por
+own_core 1118
+own_core 2241
+own_core 1114
+own_core 2239
+tag bri
+tag eng
+tag gbr
+own_core 1113
+own_core 1112
+own_core 1111
+own_core 1468
+own_core 2239
+own_core 1114
+tag por
+own_core 1147
+own_core 2290
+own_core 1141
+own_core 1126
+own_core 1119
+own_core 2242
+own_core 2294
+tag mali
+adm
+adm 200
+yes
+oos
+yesman
+debug_mode
+own_core 4758
+own_core 1768
+own_core 85
+own_core 4710
+own_core 133
+own_core 1770
+own_core 4762
+own_core 134
+own_core 1863
+own_core 128
+own_core 4759
+own_core 97
+own_core 4383
+own_core 96
+own_core 1744
+own_core 92
+own_core 2974
+own_core 95
+own_core 4770
+own_core 98
+own_core 99
+own_core 4381
+own_core 100
+own_core 4382
+own_core 1931
+own_core 2975
+own_core 1742
+adm
+debug_mode
+own_core 2163
+tag cgs
+own_core 2163
+own_core 2164
+own_core 1840
+tag wuu
+own_core 2147
+own_core 2146
+own_core 1822
+tag cxi
+own_core 2172
+own_core 682
+own_core 4197
+tag lng
+own_core 2144
+own_core 2143
+own_core 2141
+own_core 2140
+tag mng
+tag mma
+own_cpre 2396
+own_core 2396
+own_core 582
+own_core 4405
+own_core 2397
+own_core 583
+own_core 587
+own_core 4406
+own_core 2400
+own_core 4397
+own_core 588
+own_core 4398
+own_core 2381
+own_core 2371
+own_core 4837
+own_core 615
+own_core 602
+own_core 589
+own_core 4841
+own_core 4842
+own_core 1817
+own_core 1844
+own_core 709
+own_core 4404
+own_core 2395
+own_core 2398
+own_core 580
+own_core 2401
+yesman
+debug_mode
+inherit mka
+integrate mka
+observe
+tag inc
+observe
+mil
+adm
+mil
+tag afg
+adm
+tag pol
+tag fra
+tag eng
+debug_mode
+tag hsa
+tag hol
+tag shl
+tag mam
+tag vaj
+tag vai
+tag swe
+debug_mode
+tag trn
+integrate mil
+debug_mode
+integrate mlo
+prestige
+tag por
+tag fra
+tag tur
+tag pol
+tag byz
+int tur
+integrate tur
+integrate nap
+integrate ven
+integrate cro
+integrate bos
+integrate hum
+debug_mode
+integrate hrz
+integrate ser
+integrate alb
+integrate epi
+integrate ath
+integrate kar
+integrate ali
+integrate gen]
+integrate bul
+integrate wal
+integrate dul
+integrate ram
+integrate cnd
+integrate grz
+integrate gzr
+integrate cik
+integrate tre
+integrate mon
+integrate rag
+integrate hun
+integrate rij
+integrate cli
+integrate hab
+integrate mrc
+integrate mts
+integrate fer
+integrate blg
+integrate mod
+integrate lan
+integrate luc
+integrate mss
+integrate mlo
+integrate man
+integrate pap
+integrate pga
+integrate urb
+integrate cdc
+integrate crp
+integrate frl
+integrate fnz
+integrate sgm
+integrate sie
+integrate vlr
+integrate orv
+integrate svn
+integrate ara
+integrate vlt
+integrate cmr
+integrate anc
+integrate fnl
+integrate sav
+
+integrate mnc
+integrate pio
+debug_mode
+integrate crr
+integrate tst
+integrate cen
+integrate bob
+integrate mfa
+integrate cev
+integrate szo
+integrate mno
+integrate tnt
+integrate slz
+integrate cda
+integrate kni
+integrate nax
+integrate les
+integrate cyp
+integrate tnd
+integrate cor
+integrate sar
+integrate tun
+integrate ghd
+integrate bsm
+integrate tlc
+integrate mor
+integrate gra
+integrate cas
+integrate por
+integrate nav
+integrate aor
+own_core 4303
+integrate mam
+integrate evs
+integrate gnv
+integrate znd
+integrate mol
+integrate akk
+integrate qar
+integrate fad
+integrate btl
+integrate hsn
+integrate gro
+integrate geo
+integrate kch
+integrate srv
+integrate gaz
+integrate cir
+integrate she
+integrate arl
+integrate cri
+integrate fro
+integrate feo
+integrate bht
+integrate ttl
+integrate brx
+integrate fra
+integrate eng
+integrate bri
+integrate pro
+integrate mne
+integrate ale
+integrate orl
+integrate bou
+integrate amg
+integrate for
+integrate nev
+integrate nem
+integrate pic
+integrate vne
+integrate cm
+integrate cmg
+integrate foi
+integrate ong
+integrate lor
+integrate bmn
+integrate mtz
+integrate vel
+integrate rhe
+integrate spn
+integrate pal
+integrate tri
+integrate lin
+integrate saa
+integrate zwe
+integrate lic
+integrate hag
+integrate fen
+integrate als
+integrate rpl
+integrate mlh
+integrate spy
+integrate mai
+integrate hom
+integrate bar
+integrate vdn
+integrate lgr
+integrate tol
+integrate rhm
+integrate lao
+integrate ret
+integrate cmb
+integrate lie
+integrate ats
+integrate trn
+integrate zee
+integrate bur
+integrate bsa
+integrate lxl
+integrate jer
+assimilate 316
+assimilate 5157
+assimilate 317
+assimilate 322
+assimilate 5168
+assimilate 4312
+assimilate 5155
+assimilate 5456
+5156
+assimilate 5156
+assimilate 2296
+assimilate 5131
+assimilate 5171
+assimilate 317
+assimilate 5130
+assimilate 2297
+assimilate 318
+assimilate 4309
+assimilate 319
+assimilate 5134
+colonise 4565
+colonize 4565
+colonize 5096
+integrate bav
+observer
+observe
+debug_mode
+tag h79
+cash
+dip
+mil
+adm 30
+adm 130
+assimilate 4218
+cash
+observe
+debug_mode
+tag h79
+mil
+yesman
+integrate h78
+
+integrate h97
+integrate h73
+integrate h79
+integrate h93
+integrate i19
+cash
+yes,am
+yesman
+dip
+cash
+adm
+yesman
+mil
+assimilate 4269
+dip
+colonize 4294
+colonize 4293
+cash
+mil
+
+yesman
+observe
+debug_mode
+tag h78
+tag f47
+observe
+tag h76
+observe
+tag h77
+observe
+tag h71
+tag h72
+tag h73
+tag h74
+tag h75
+tag h76
+tag h77
+tag h78
+tag h79
+tag h80
+tag h81
+tag h82
+tag h83
+tag h84
+tag h85
+tag h86
+tag h87
+tag h88
+tag h89
+tag h90
+tag h91
+tag h92
+tag h93
+tag h94
+tag h95
+tag h96
+tag h77
+tag h76
+tag h75
+tag h74
+tag h73
+tag h72
+tag h71
+tag h70
+tag h69
+tag h68
+tag h6
+tag h67
+tag h66
+tag h65
+tag h64
+tag h63
+tag h62
+tag h61
+tag h60
+cash
+debug_mode
+own_core 677
+own_core 676
+own_core 678
+own_core 675
+own_core 674
+own_core 673
+adm
+cash
+adm
+cash
+adm
+cash
+dip
+cash
+debug_mode
+integrate h90
+integrate h75
+cash
+adm
+mil
+cash
+adm
+mnapower
+manpower
+cash
+mil
+dip
+manpower
+yesman
+own_core 4104
+own_core 2876
+own_core 2931
+own_core 2988
+own_core 2989
+own_core 2990
+own_core 4150
+own_core 4062
+own_core 4063
+own_core 4165
+own_core 2986
+own_core 2934
+own_core 4065
+own_core 4097
+own_core 2875
+own_core 2932
+own_core 2874
+own_core 2873
+own_core 2933
+own_core 2872
+own_core 2871
+integrate io8
+integrate i08
+integrate i04
+cash
+dip
+cash
+adm
+cash
+manpower
+mil
+manpower
+adm
+manpower
+cash
+mil
+manpower
+yesman
+cash
+
+cash
+yesman
+integrate i08
+integrate i07
+mil
+dip
+mil
+yesman
+own_core 2943
+own_core 2944
+own_core 2942
+own_core 2955
+own_core 2954
+own_core 4093
+own_core 2955
+own_core 4093
+own_core 2954
+own_core 2955
+own_core 2942
+debug_mode
+own_core 2944
+own_core 2943
+debug_mode
+own_core 2956
+own_core 2957
+integrate h77
+integrate i33
+integrate h81
+own_core 2896
+integrate i13
+integrate f47
+integrate i02
+prestige
+prestige 50
+dip
+mil
+dip
+yesman
+dip
+adm
+mil
+integrate r65
+own_core r62
+own_core 4316
+own_core 4315
+own_core 4317
+own_core 4318
+yesman
+tagi01
+tag i01
+tag i02
+tag i03
+tag i04
+tag i05
+tag i06
+tag i05
+tag i06
+tag i0
+tag i07
+tag i08
+tag i09
+tag i010
+tag i011
+tag i012
+tag i013
+tag i10
+tag i11
+tag i12
+tag i13
+tag i14
+tag i15
+tag i16
+tag i17
+tag i18
+tag i19
+tag i20
+tag i21
+tag i22
+tag i23
+tag i24
+observe
+tag i24
+tag i23
+tag i22
+tag i21
+tag i20
+tag i19
+tag i18
+tag i17
+tag i16
+tag i15
+tag i14
+tag i13
+tag i12
+tag i11
+tag i10
+tag i9
+tag i09
+tag i08
+tag i07
+tag i06
+tag i05
+tag i04
+tag i03
+tag i02
+tag i01
+observe
+debug_mode
+tag i05
+observe
+debug_mode
+tag a20
+tag a73
+tag f23
+observe
+tag h76
+observe
+tag h77
+observe
+tag h70
+tag h71
+colonise 4037
+colonize 4037
+colonize 4038
+colonize 4039
+mil
+colonize 4039
+mil
+adm
+
+adm
+debug_mode
+colonize 2984
+
+colonize 2980
+colonize 2981
+colonize 4036
+colonize 4037
+colonize 4038
+colonize 4040
+colonize 4042
+colonize 4041
+colonize 2949
+colonize 2951
+colonize 2425
+colonize 2952
+colonize 4035
+colonize 2982
+colonize 2978
+colonize 279
+colonize 2979
+colonize 4013
+colonize 4103
+colonize 2879
+colonize 2878
+colonize 2937
+colonize 2877
+colonize 2932
+colonize 2875
+colonize 2934
+colonize 4997
+colonize 2874
+colonize 2986
+colonize 2873
+colonize 4236
+mil
+cash
+manpower
+adm
+mil
+debug_mode
+assimilate 4236
+assimilate 2873
+assimilate 2874
+assimilate 2934
+assimilate 2875
+assimilate 2932
+assimilate 2877
+assimilate 2937
+assimilate 2878
+assimilate 2879
+assimilate 4103
+assimilate 2981
+assimilate 2980
+assimilate 2984
+assimilate 4036
+assimilate 4037
+assimilate 4038
+assimilate 2979
+dip
+adm
+manpower
+debug_mode
+assimilate a39
+assimilate a73
+integrate a73
+debug_mode
+integrate a26
+integrate a27
+integrate a29
+integrate a28
+dip
+adm
+cash
+integrate a05
+integrate a19
+dip
+mil
+dip
+adm
+dip
+debug_mode
+own_core 150
+own_core 211
+own_core 21
+own_core 213
+own_core 212
+own_core 336
+manpower
+cash
+own_core 103
+own_core 147
+own_core 149
+own_core 76
+own_core 165
+own_core 12
+own_core 139
+own_core 163
+own_core 137
+own_core 136
+own_core 131
+own_core 130
+own_core 132
+own_core 210
+own_core 206
+own_core 348
+own_core 7
+own_core 161
+own_core 162
+own_core 166
+own_core 164
+own_core 160
+own_core 159
+own_core 135
+own_core 134
+own_core 133
+own_core 158
+own_core 152
+own_core 65
+own_core 62
+own_core 64
+own_core 63
+own_core 66
+dip
+tag a30
+tag a33
+tag a29
+tag a47
+debug_mode
+tag g24
+observe
+tag h02
+tag h07
+tag h03
+tag h02
+tag h03
+tag h04
+tag h05
+tag h01
+tag h010
+tag h01
+own_core 1997
+own_core 2036
+own_core 2033
+own_core 2026
+own_core 2009
+own_core 2008
+cash
+dip
+mil
+adm
+dip
+own_core 2050
+own_core 2016
+own_core 2017
+own_core 2014
+own_core 2003
+own_core 2012
+own_core 2011
+own_core 1990
+own_core 1875
+own_core 1118
+own_core 2005
+own_core 1993
+own_core 2015
+own_core 1125
+own_core 1771
+own_core 1988
+own_core 2002
+own_core 1969
+own_core 1112
+own_core 1986
+own_core 2503
+mil
+adm
+own_core 1775
+own_core 1109
+own_core 1777
+own_core 2006
+own_core 1994
+own_core 1981
+own_core 1971
+own_core 1964
+own_core 1980
+own_core 1965
+own_core 1966
+own_core 1983
+own_core 1968
+own_core 1970
+own_core 1980
+own_core 1780
+own_core 1979
+own_core 2010
+own_core 2032
+own_core 2031
+own_core 2018
+own_core 2019
+own_core 2049
+own_core 2029
+own_core 2034
+own_core 2020
+own_core 2039
+own_core 2042
+own_core 2043
+own_core 2041
+own_core 2040
+own_core 2030
+own_core 2028
+own_core 2023
+own_core 2048
+own_core 2037
+own_core 2044
+own_core 2045
+own_core 2038
+own_core 2051
+own_core 2053
+own_core 2046
+integrate h07
+adm
+colonize 2059
+
+assimilate 2059
+adm
+yesman
+debug_mode
+colonize 2776
+colonize 2777
+colonize 2773
+colonize 2772
+colonize 2778
+colonize 2744
+colonize 2745
+colonize 2743
+mnapower
+manpower
+own_core 2762
+own_core 2763
+own_core 2731
+own_core 2732
+own_core 2733
+own_core 2730
+own_core 2761
+own_core 2728
+own_core 2759
+own_core 2727
+own_core 2726
+own_core 2756
+own_core 2758
+own_core 2755
+own_core 2760
+own_core 2766
+own_core 2754
+own_core 2786
+own_core 2785
+own_core 2753
+own_core 2782
+own_core 2752
+own_core 2780
+own_core 2779
+own_core 2748
+own_core 2746
+own_core 2751
+
+adm
+own_core 2725
+own_core 2735
+own_core 2724
+own_core 2734
+dip
+adm
+cash
+dip
+manpower
+mil
+integrate g55
+add_opinion g62 160
+add_opinion g62 50
+adm
+integrate g60
+own_core 2676
+own_core 2696
+adm
+cash
+manpower
+yesman
+stability
+cash
+adm
+dip
+cash
+mil
+dip
+adm
+xash
+cash
+adm
+stab
+stability
+mil 200
+cash
+yesman
+cash
+
+manpower
+adm
+manpower
+yesman
+manpower 100
+cash
+manpower 100
+stability
+manpower 100
+
+manpower 100
+cash
+dip
+manpower 100
+yesman
+debug_mode
+own_core 5012
+own_core 5007
+own_core 5006
+own_core 5002
+own_core 5001
+own_core 5004
+own_core 5303
+own_core 5005
+own_core 5019
+own_core 5020
+own_core 5021
+own_core 5022
+own_core 5026
+own_core 5024
+own_core 5025
+own_core 5043
+own_core 5027
+own_core 5028
+own_core 5322
+own_core 5030
+own_core 5029
+own_core 5031
+own_core 5042
+own_core 5033
+own_core 5032
+own_core 5035
+own_core 5034
+own_core 5036
+own_core 5037
+own_core 5038
+own_core 5039
+own_core 5040
+own_core 5041
+own_core 5050
+own_core 5051
+own_core 5049
+own_core 5044
+own_core 5054
+own_core 5124
+own_core 5067
+own_core 5068
+own_core 5127
+own_core 5126
+own_core 5129
+own_core 5128
+own_core 5130
+own_core 5089
+own_core 5091
+own_core 5090
+own_core 5152
+own_core 5154
+own_core 5153
+own_core 5149
+own_core 5162
+own_core 5170
+own_core 5172
+own_core 5171
+own_core 5173
+own_core 5174
+own_core 5175
+own_core 5176
+own_core 5177
+own_core 5178
+own_core 5183
+own_core 5184
+own_core 5182
+own_core 5185
+own_core 5181
+own_core 5186
+own_core 5190
+own_core 5189
+own_core 5188
+own_core 5191
+own_core 5192
+own_core 5194
+own_core 5192
+own_core 5193
+own_core 5196
+own_core 5195
+own_core 5223
+own_core 5217
+own_core 5222
+own_core 5218
+own_core 5221
+own_core 5219
+own_core 5220
+own_core 5216
+own_core 5215
+own_core 5214
+own_core 5213
+own_core 5197
+own_core 5198
+own_core 5199
+own_core 5200
+own_core 5201
+own_core 5203
+own_core 5205
+own_core 5211
+own_core 5212
+own_core 5210
+own_core 5209
+own_core 5208
+own_core 5206
+own_core 5204
+own_core 5207
+
+own_core 5202
+own_core 5087
+own_core 5088
+own_core 5321
+own_core 5323
+cash
+stability
+yesman
+manpower 1000
+own_core 5321
+own_core 5323
+own_core 5220
+own_core 5218
+own_core 5221
+own_core 5219
+cash
+own_core 672
+own_core 673
+own_core 674
+own_core 678
+own_core 675
+own_core 676
+own_core 677
+own_core 5052
+own_core 5057
+own_core 5075
+own_core 5071
+own_core 5070
+own_core 5131
+own_core 5134
+own_core 5136
+own_core 5137
+own_core 5159
+own_core 5150
+own_core 5143
+own_core 5081
+own_core 5112
+own_core 5014
+own_core 5006
+own_core 619
+own_core 618
+own_core 667
+own_core 617
+own_core 616
+own_core 621
+own_core 620
+own_core 623
+own_core 622
+own_core 624
+own_core 629
+own_core 615
+own_core 614
+own_core 613
+own_core 608
+own_core 628
+own_core 627
+own_core 625
+own_core 612
+own_core 611
+own_core 630
+own_core 632
+own_core 633
+own_core 635
+own_core 636
+own_core 631
+own_core 681
+own_core 626
+own_core 690
+own_core 691
+own_core 689
+own_core 606
+own_core 607
+own_core 604
+own_core 602
+own_core 609
+own_core 603
+own_core 601
+own_core 605
+own_core 598
+own_core 600
+own_core 599
+own_core 591
+own_core 610
+own_core 666
+own_core 665
+own_core 664
+own_core 663
+own_core 661
+own_core 660
+own_core 656
+own_core 655
+own_core 653
+own_core 654
+own_core 659
+own_core 662
+own_core 589
+own_core 590
+own_core 588
+own_core 593
+own_core 589
+own_core 586
+own_core 594
+own_core 595
+own_core 560
+own_core 559
+own_core 555
+own_core 554
+own_core 557
+own_core 556
+own_core 552
+own_core 553
+own_core 657
+own_core 658
+own_core 651
+own_core 545
+own_core 548
+own_core 550
+own_core 649
+own_core 652
+own_core 650
+own_core 540
+own_core 539
+own_core 538
+own_core 537
+own_core 544
+own_core 532
+own_core 547
+own_core 549
+own_core 551
+own_core 543
+own_core 541
+own_core 542
+own_core 536
+own_core 534
+own_core 535
+own_core 531
+own_core 530
+own_core 528
+own_core 529
+own_core 527
+own_core 526
+own_core 525
+own_core 520
+own_core 522
+own_core 523
+own_core 521
+own_core 518
+own_core 519
+own_core 517
+own_core 516
+own_core 452
+own_core 581
+own_core 533
+own_core 582
+own_core 580
+own_core 577
+own_core 578
+own_core 573
+own_core 574
+own_core 563
+own_core 564
+own_core 562
+own_core 572
+own_core 567
+own_core 565
+own_core 5780
+own_core 570
+own_core 568
+own_core 561
+own_core 584
+own_core 596
+own_core 683
+own_core 682
+own_core 679
+own_core 680
+own_core 692
+own_core 693
+own_core 685
+own_core 597
+own_core 688
+own_core 687
+own_core 686
+own_core 5087
+own_core 2922
+own_core 2918
+own_core 2917
+own_core 2919
+own_core 2916
+own_core 2903
+own_core 2921
+own_core 2920
+own_core 2904
+own_core 4376
+own_core 2906
+own_core 2902
+own_core 2905
+own_core 2908
+own_core 2907
+own_core 2909
+own_core 2910
+own_core 2912
+own_core 2913
+own_core 2911
+own_core 2923
+own_core 4400
+own_core 2926
+own_core 2924
+own_core 2925
+own_core 2927
+own_core 2928
+own_core 2929
+own_core 2930
+own_core 646
+own_core 645
+own_core 647
+own_core 644
+own_core 643
+own_core 642
+own_core 648
+own_core 684
+own_core 640
+own_core 641
+own_core 638
+own_core 639
+own_core 637
+own_core 633
+own_core 634
+own_core 583
+own_core 571
+own_core 6103
+own_core 566
+own_core 558
+own_core 585
+own_core 2900
+own_core 2901
+own_core 2915
+cash
+own_core 4198
+own_core 4201
+own_core 4202
+own_core 4199
+own_core 4200
+own_core 6196
+own_core 4191
+own_core 4196
+own_core 4197
+own_core 4195
+own_core 4145
+own_core 4144
+own_core 4194
+own_core 4192
+own_core 4193
+own_core 4194
+own_core 4164
+own_core 4153
+debug_mode
+own_core 3064
+own_core 3046
+own_core 3047
+own_core 3045
+own_core 3044
+own_core 3043
+own_core 3062
+own_core 3042
+own_core 3041
+own_core 3040
+own_core 3039
+own_core 3061
+own_core 3059
+own_core 3060
+own_core 3025
+own_core 3026
+own_core 3024
+own_core 3023
+own_core 3053
+own_core 3013
+own_core 3016
+own_core 3017
+own_core 3015
+own_core 3014
+own_core 3055
+own_core 3056
+own_core 3027
+own_core 3031
+own_core 3029
+own_core 3030
+own_core 3028
+own_core 3022
+own_core 3019
+own_core 3021
+own_core 3020
+own_core 3018
+own_core 3049
+own_core 3005
+own_core 3004
+own_core 1261
+own_core 3004
+own_core 3005
+own_core 3049
+own_core 3018
+own_core 3020
+own_core 3021
+own_core 3019
+own_core 3022
+own_core 3028
+own_core 3030
+own_core 3029
+own_core 3031
+debug_mode
+own_core 3046
+own_core 3047
+own_core 3044
+own_core 3045
+own_core 3043
+own_core 3042
+own_core 3041
+own_core 3040
+own_core 3039
+own_core 3038
+own_core 3037
+own_core 3036
+own_core 3035
+own_core 3034
+own_core 3033
+own_core 3032
+own_core 3031
+own_core 3030
+own_core 3029
+own_core 3028
+own_core 3027
+own_core 3026
+own_core 3025
+own_core 3024
+own_core 3023
+own_core 3022
+own_core 3021
+own_core 3020
+own_core 3019
+own_core 3018
+own_core 3017
+own_core 3016
+own_core 3015
+own_core 3014
+own_core 3013
+own_core 3012
+own_core 3011
+own_core 3010
+own_core 3009
+own_core 3008
+own_core 3007
+own_core 3006
+own_core 3067
+own_core 3052
+own_core 3053
+own_core 3057
+own_core 3058
+own_core 3055
+own_core 3051
+own_core 3066
+own_core 4198
+own_core 4202
+own_core 4201
+own_core 4199
+own_core 4196
+own_core 4197
+own_core 4195
+own_core 4192
+own_core 4191
+own_core 4190
+own_core 4200
+own_core 4194
+own_core 4193
+own_core 6196
+own_core 6187
+own_core 4189
+own_core 6214
+own_core 6173
+own_core 4184
+own_core 4176
+own_core 991
+own_core 992
+own_core 990
+own_core 739
+own_core 738
+own_core 737
+own_core 742
+own_core 741
+own_core 744
+own_core 745
+own_core 748
+own_core 743
+own_core 746
+own_core 850
+own_core 848
+own_core 747
+own_core 842
+own_core 847
+own_core 849
+own_core 845
+own_core 852
+own_core 846
+own_core 858
+own_core 859
+own_core 860
+own_core 862
+own_core 861
+own_core 868
+own_core 869
+own_core 865
+own_core 864
+own_core 844
+own_core 851
+own_core 854
+own_core 855
+own_core 866
+own_core 873
+own_core 872
+own_core 878
+own_core 870
+own_core 863
+own_core 867
+own_core 871
+own_core 881
+own_core 879
+own_core 874
+own_core 880
+own_core 882
+own_core 884
+own_core 852
+own_core 853
+own_core 828
+own_core 841
+own_core 830
+own_core 831
+own_core 843
+own_core 840
+own_core 833
+own_core 839
+own_core 832
+own_core 834
+own_core 829
+own_core 835
+own_core 836
+own_core 837
+own_core 755
+own_core 756
+own_core 757
+own_core 758
+own_core 753
+own_core 754
+own_core 767
+own_core 760
+own_core 764
+own_core 766
+own_core 783
+own_core 785
+own_core 788
+own_core 787
+own_core 790
+own_core 789
+own_core 786
+own_core 774
+own_core 773
+own_core 765
+own_core 792
+own_core 763
+own_core 759
+own_core 728
+own_core 751
+own_core 749
+own_core 750
+own_core 729
+own_core 730
+own_core 727
+own_core 732
+own_core 725
+own_core 726
+own_core 710
+own_core 772
+own_core 769
+own_core 782
+own_core 781
+own_core 780
+own_core 776
+own_core 771
+own_core 770
+own_core 768
+own_core 762
+own_core 761
+own_core 232
+own_core 230
+own_core 231
+own_core 229
+own_core 784
+own_core 897
+own_core 896
+own_core 895
+own_core 894
+own_core 893
+own_core 891
+own_core 892
+own_core 889
+own_core 890
+own_core 3068
+own_core 3056
+own_core 3059
+own_core 3061
+own_core 3060
+own_core 3063
+own_core 3050
+own_core 4097
+own_core 883
+own_core 888
+own_core 877
+own_core 885
+own_core 875
+own_core 887
+own_core 876
+own_core 857
+own_core 856
+own_core 827
+own_core 826
+own_core 824
+own_core 825
+own_core 823
+own_core 821
+own_core 820
+own_core 822
+own_core 817
+own_core 818
+own_core 819
+own_core 886
+own_core 813
+own_core 3054
+own_core 816
+own_core 809
+own_core 815
+own_core 814
+own_core 810
+own_core 794
+own_core 795
+own_core 796
+own_core 793
+own_core 791
+own_core 799
+own_core 801
+observe
+tag i89
+stability
+yesman
+dip 400
+dip
+adm 300
+dip 400
+
+dip 400
+cash
+debug_mode
+colonize 2937
+colonize 2938
+asimilate 2938
+assimilate 2938
+colonize 1163
+cash -3000
+cash 200
+debug_mode
+tag a38
+tag a13
+tag a59
+cash 200
+cash
+manpower 10
+cash
+yesman
+integrate u16
+
+stability
+yesman
+cash
+add_prosperity 441
+add_prosperity 441 10
+yesman
+tag b48
+own 800
+tag a59
+dip 200
+mil
+cash
+colonize 1941
+colonize 1930
+stability
+dip
+debug_mode
+assimilate 444
+cash 200
+cash 300
+cash 200
+adm
+dip
+cash
+cash -4000
+dip
+duo
+dip
+mil
+assimilate 451
+mil 200
+clearae
+debug_mode
+tag a21
+clearae
+tag a06
+tag a21
+colonize 928
+observe
+debug_mode
+tag a59
+tag a21
+debug_mode
+own 88
+colonize 930
+tag a79
+tag a21
+cash 1000
+cash 200
+yesman
+debug_moce
+debug_mode
+own 127
+own 94
+cash
+yesman
+stability
+yesman
+stability
+cash
+manpower
+cash
+yesman
+cash
+DEBUG_MODE
+colonize 5791
+assimilate 5791
+colonize 5790
+assimilate 5790
+tag a02
+tag a11
+tag a21
+colonize 925
+assimilate 925
+mil 100
+debug_mode
+observe
+tag u01
+debug_mode
+tag r61
+tag r51
+tag r27
+debug_mode
+observe
+cash 50
+cash 30
+dip 200
+debug_mode
+colonize 4022
+
+colonize 2868
+adm 100000
+assimilate 2868
+manpower 10
+debug_mode
+colonize 2986
+cash 20
+mil
+manpower
+yesman
+debug_mode
+colonize 2932
+cash 100
+manpower 10
+yesman
+own_core 2931
+adm 9999
+cash
+debug_mode
+assimilate 2931
+mil
+dip
+adm
+assimilate 2988
+assimilate 2989
+assimilate 4213
+assimilate 4212
+assimilate 4165
+assimilate 2876
+assimilate 2986
+dip
+mil
+colonize 4104
+colonize 2932
+colonize 2877
+colonize 2937
+assimilate 2932
+assimilate 2877
+assimilate 2937
+stability
+assimilate 677
+assimilate 2963
+assimilate 2880
+assimilate 2879
+assimilate 2878
+assimilate 676
+dip
+mil 200
+mil 1000
+mil 300
+mil 200
+debug_mode
+own_core 151
+tag G HRZ
+tag HRZ
+own_core 151
+tag lan
+tag mfa
+cash
+debug_mode
+own_core 1875
+own_core 103
+mil
+
+mil
+cash
+adm
+manpower
+adm
+mil
+tag tur
+debug_mode
+own_core 4698
+
+tag mfa
+own_core 116
+own_core 104
+own_core 1862
+own_core 105
+own_core 106
+own_core 4730
+own_core 2978
+own_core 118
+own_core 115
+own_core 4740
+syntheticdawn
+debug_mode
+tag syn
+bearhaslanded
+tag jmn
+yesman
+manpower
+cash
+debug_mode
+tag u20
+tag f49
+tag r07
+yesmaN
+OWN_CORE 4465
+OWN_CORE 4451
+OWN_CORE 4475
+OWN_CORE 4466
+OWN_CORE 4474
+OWN_CORE 4509
+OWN_CORE 4510
+OWN_CORE 4468
+OWN_CORE 4467
+INTEGRATE r62
+INTEGRATE r64
+INTEGRATE r11
+INTEGRATE r63
+INTEGRATE r10
+INTEGRATE r35
+INTEGRATE r14
+INTEGRATE r06
+INTEGRATE r33
+INTEGRATE r28
+INTEGRATE r30
+INTEGRATE r51
+INTEGRATE r61
+INTEGRATE r02
+INTEGRATE r56
+INTEGRATE r52
+INTEGRATE r47
+INTEGRATE r40
+INTEGRATE r49
+INTEGRATE r36
+INTEGRATE r05
+INTEGRATE r25
+INTEGRATE r24
+INTEGRATE r22
+INTEGRATE r38
+INTEGRATE r50
+INTEGRATE r41
+INTEGRATE r53
+INTEGRATE r
+INTEGRATE r32
+INTEGRATE r27
+INTEGRATE r31
+INTEGRATE r29
+INTEGRATE r08
+INTEGRATE r46
+INTEGRATE r13
+INTEGRATE r20
+INTEGRATE r42
+INTEGRATE r23
+INTEGRATE r55
+INTEGRATE r26
+INTEGRATE r57
+INTEGRATE r18
+INTEGRATE r19
+INTEGRATE r59
+INTEGRATE r60
+INTEGRATE r39
+INTEGRATE r04
+adm 300
+
+clearae
+manpower
+clearae
+cash 50
+yesmaN
+CASH 400
+dip 300
+dip
+yesman
+cash 1000
+cash 500
+yesman
+cash
+manpower
+mil 200
+
+mil 200
+yesman
+dip
+adm
+dip
+cash
+debug_mode
+own_core 143
+clearae
+adm 100
+cash 60
+cash
+yesman
+debug_mode
+own_core 147
+own_core 165
+own_core 76
+own_core 348
+own_core 12
+own_core 162
+own_core 161
+own_core 210
+own_core 217
+own_core 340
+own_core 218
+own_core 339
+own_core 203
+own_core 201
+own_core 204
+own_core 202
+own_core 221
+own_core 346
+own_core 222
+own_core 341
+own_core 223
+own_core 63
+own_core 66
+own_core 160
+own_core 164
+own_core 166
+own_core 159
+own_core 135
+own_core 134
+own_core 136
+own_core 131
+own_core 130
+own_core 132
+own_core 133
+own_core 158
+own_core 152
+own_core 128
+own_core 123
+own_core 121
+own_core 112
+own_core 110
+own_core 113
+own_core 111
+own_core 124
+own_core 125
+own_core 120
+own_core 117
+own_core 115
+own_core 116
+own_core 87
+own_core 119
+own_core 77
+own_core 118
+own_core 71
+own_core 70
+own_core 75
+own_core 107
+own_core 92
+own_core 102
+own_core 104
+own_core 106
+own_core 83
+own_core 82
+own_core 105
+own_core 58
+own_core 78
+own_core 108
+own_core 79
+own_core 90
+own_core 88
+own_core 99
+own_core 100
+own_core 91
+own_core 98
+own_core 96
+own_core 97
+own_core 95
+own_core 93
+own_core 94
+own_core 85
+own_core 89
+own_core 84
+own_core 81
+own_core 80
+own_core 73
+own_core 101
+own_core 86
+own_core 127
+own_core 114
+own_core 74
+own_core 72
+own_core 67
+own_core 69
+own_core 68
+own_core 38
+own_core 59
+own_core 33
+own_core 32
+own_core 34
+own_core 40
+own_core 61
+own_core 65
+own_core 64
+own_core 62
+own_core 48
+own_core 47
+own_core 46
+own_core 43
+own_core 42
+own_core 49
+own_core 41
+own_core 22
+own_core 57
+own_core 30
+
+own_core 27
+own_core 26
+own_core 24
+own_core 23
+own_core 21
+own_core 16
+own_core 19
+own_core 31
+own_core 20
+own_core 13
+own_core 15
+own_core 17
+own_core 10
+own_core 28
+own_core 18
+own_core 156
+own_core 153
+own_core 154
+own_core 157
+own_core 14
+cash
+assimilate 136
+assimilate 131
+assimilate 132
+assimilate 134
+assimilate 133
+assimilate 135
+assimilate 163
+assimilate 166
+assimilate 162
+assimilate 165
+assimilate 159
+assimilate 158
+assimilate 152
+assimilate 71
+assimilate 118
+assimilate 117
+assimilate 115
+assimilate 120
+assimilate 116
+assimilate 124
+assimilate 125
+assimilate 123
+assimilate 128
+assimilate 130
+assimilate 143
+assimilate 142
+assimilate 129
+assimilate 87
+assimilate 119
+assimilate 77
+assimilate 70
+assimilate 74
+assimilate 67
+assimilate 69
+assimilate 68
+assimilate 61
+assimilate 59
+assimilate 38
+assimilate 72
+assimilate 114
+assimilate 92
+assimilate 75
+assimilate 108
+assimilate 95
+assimilate 79
+assimilate 963
+assimilate 96
+assimilate 78
+assimilate 107
+assimilate 111
+assimilate 113
+assimilate 121
+assimilate 112
+assimilate 110
+assimilate 102
+assimilate 58
+assimilate 104
+assimilate 105
+assimilate 106
+assimilate 183
+assimilate 82
+assimilate 83
+assimilate 90
+assimilate 98
+assimilate 99
+assimilate 97
+assimilate 91
+assimilate 93
+assimilate 94
+adm
+assimilate 85
+assimilate 88
+assimilate 81
+assimilate 80
+assimilate 73
+assimilate 101
+assimilate 184
+assimilate 84
+assimilate 89
+assimilate 86
+assimilate 100
+assimilate 127
+assimilate 103
+assimilate 147
+assimilate 137
+assimilate 139
+assimilate 141
+assimilate 140
+assimilate 138
+assimilate 122
+assimilate 145
+assimilate 76
+assimilate 149
+assimilate 12
+assimilate 348
+assimilate 206
+assimilate 7
+assimilate 161
+assimilate 164
+assimilate 160
+assimilate 63
+assimilate 66
+assimilate 157
+assimilate 153
+assimilate 154
+assimilate 156
+assimilate 18
+assimilate 28
+assimilate 17
+assimilate 10
+assimilate 20
+assimilate 15
+assimilate 13
+assimilate 16
+assimilate 19
+assimilate 21
+assimilate 31
+assimilate 22
+assimilate 32
+assimilate 34
+assimilate 41
+assimilate 57
+assimilate 30
+assimilate 23
+assimilate 24
+assimilate 27
+assimilate 42
+assimilate 26
+assimilate 43
+assimilate 49
+assimilate 46
+assimilate 47
+assimilate 48
+assimilate 40
+cash 50
+cash
+
+cash
+cash 1000000
+dip
+stability
+debug_mode
+tag f21
+tag f22#
+tag f37
+tag f55
+tag f56
+yesman
+integrate f46
+integrate f45
+integrate f31
+integrate f28
+integrate u05
+integrate f24
+integrate f37
+integrate f40
+integrate f21
+integrate f27
+integrate f42
+integrate f30
+integrate f25
+integrate f35
+integrate f39
+integrate f44
+integrate u20
+integrate f32
+integrate f4
+integrate f43
+integrate u15
+
+own_core 601
+debug_mode
+tag b55
+tag b02
+stability
+manpower
+cash 500
+cash
+manpower
+yesman
+manpower
+adm
+observe
+tag rus
+tag nap
+debug_mode
+own_core 4736
+own_core 125
+own_core 124
+own_core 4737
+own_core 2982
+dip
+dip 999999
+dip 99999
+dip 999999
+debiug_mode
+debug_mode
+tag krc
+tag chg
+tag shy
+tag nog
+tag gol
+debug_mode
+own 4535
+own 272
+own 270
+own 1936
+own 4534
+own 271
+own 40
+tag ltv
+tag rus
+stability
+debug_mode
+tag bng
+cash 500
+manpower
+cash
+manpower
+yesman
+cash
+manpower
+stability
+cash
+cashj
+cash
+manpower
+debug_mode
+own_core 8082
+own_core 223
+own_core 222
+own_core 8086
+own_core 4546
+own_core 8080
+own_core 226
+cash 400
+cash 300
+cash 400
+debug_mode
+tag hsa
+debug_mode
+tag m01
+tag z01
+fow
+own_core 280
+own_core 2410
+own_core 284
+own_core 464
+own_core 1076
+own_core 2358
+stability
+own_core 2358
+own_core 1076
+own_core 464
+own_core 284
+own_core 2410
+stability
+debug_mode
+tag bng
+tag mlw
+debug_mode
+own_core 151
+own_core 316
+own_core 317
+own_core 2296
+own_core 322
+own_core 4312
+own_core 326
+own_core 4311
+own_core 2297
+own_core 4308
+own_core 2299
+own_core 4313
+own_core 4314
+own_core 2300
+own_core 1848
+own_core 4309
+own_core 318
+own_core 319
+own_core 2298
+own_core 325
+own_core 328
+own_core 1846
+own_core 4315
+own_core 2304
+own_core 329
+own_core 2301
+own_core 4307
+own_core 323
+own_core 324
+own_core 2302
+own_core 327
+own_core 332
+own_core 4310
+own_core 2303
+own_core 4298
+dip
+own_core 331
+integrate tur
+integrate byz
+debug_mode
+own_core 1751
+colonise 6962
+colonize 6962
+debug_mode
+tag ayu
+tag dai
+tag ayu
+debug_mode
+tag maw
+stability -3
+debug_mode
+tag hsn
+own_core 4292
+own_core 407
+own_core 2310
+own_core 406
+own_core 409
+own_core 410
+own_core 4296
+own_core 2307
+own_core 4302
+own_core 4393
+own_core 4293
+own_core 415
+own_core 4291
+own_core 2312
+own_core 2311
+own_core 4288
+own_core 408
+own_core 412
+own_core 4290
+dip 200
+dip -200
+adm 200
+debug_mode
+yesman
+stability
+sailors
+cash
+own_core 248
+own_core 249
+own_core 251
+annex sco
+annex scoeng
+annex eng
+annex fra
+annex sav
+annex bur
+annex gen
+
+annex nap
+annex mlo
+annex ven
+annex ara
+annex cas
+annex por
+annex bri
+annex tur
+annex byz
+annex epi
+annex ser
+annex bos
+annex hrz
+annex hab
+adm
+stability
+cash
+stability
+integrate hsc
+integrate sco
+integrate eng
+integrate crn
+stability
+dip
+own_core 4777
+adm
+cash
+add_core 133
+add_core 1770
+add_core 4762
+add_core 134
+add_core 4700
+add_core 3003
+add_core 4392
+add_core 192
+add_core 193
+add_core 4764
+add_core 1877
+add_core 4777
+add_core 4558
+add_core 368
+add_core 367
+add_core 366
+add_core 227
+cash
+manpower
+stability
+integrate fra
+integrate nev
+integrate chp
+integrate orl
+integrate ale
+integrate amg
+integrate bou
+integrate guy
+integrate auv
+integrate dau
+integrate pro
+integrate pap
+adm
+adm 50000
+integrate ara
+integrate cas
+integrate lon
+integrate por
+integrate gal
+integrate gra
+integrate nav
+integrate foi
+integrate tou
+integrate cat
+integrate bri
+integrate gen
+integrate sav
+integrate szo
+integrate mfa
+integrate mlo
+integrate gnv
+integrate swi
+integrate nab
+integrate hab
+integrate luc
+integrate fer
+integrate blg
+integrate par
+integrate nap
+integrate sar
+integrate cor
+integrate byz
+integrate alb
+integrate ser
+integrate bul
+integrate bos
+integrate cli
+integrate nax
+integrate dal
+integrate pdv
+integrate vrn
+integrate lan
+integrate pap
+integrate cep
+integrate hun
+integrate bur
+integrate hai
+integrate lor
+integrate hol
+own_core 230
+own_core 343
+integrate mjo
+integrate rag
+integrate gre
+integrate crt
+integrate tur
+integrate kar
+integrate cnd
+integrate ram
+integrate dul
+integrate akk
+integrate tre
+integrate mam
+integrate qar
+own_core 4295
+own_core 321
+own_core 109
+own_core 114
+own_core 320
+own_core 341
+own_core 4288
+own_core 408
+debug_mode
+tag sco
+tag fra
+debug_mode
+tag pro
+own 177
+tag den
+tag dsn
+tag dan
+tag swe
+tag nor
+tag fra
+tag orl
+own 4389
+tag guy
+own 194
+own 4112
+tag pap
+tag ara
+tag val
+own 220
+tag cas
+tag por
+tag bur
+tag aus
+tag hab
+tag boh
+tag bru
+tag brg
+tag mun
+tag bra
+tag wol
+tag pol
+tag teu
+tag lith
+tag liv
+tag ven
+tag hun
+tag tur
+tag byz
+own 149
+own 4779
+own 4705
+own 4702
+own 148
+own 1853
+own 143
+own 144
+own 147
+tag byz
+tag gen
+tag kar
+own 1848
+tag cnd
+own 2304
+tag sme
+tag akk
+tag mam
+tag syr
+own 377
+own 2313
+own 1849
+tag qar
+tag tlc
+tag mor
+tag fez
+own 343
+tag thu
+tag kol
+tag mil
+tag mlo
+tag fer
+tag mus
+tag mos
+tag nov
+tag gol
+tag nov
+tag fra
+yesman
+
+yesman
+debug_mode
+own 497
+own 498
+own 499
+own 500
+own 501
+own 493
+own 494
+own 496
+own 6099
+own 6098
+own 6096
+integrate u06
+own_core 400
+own_core 384
+own_core 385
+own_core 395
+own_core 396
+own_core 401
+own_core 392
+own_core 391
+own_core 393
+own_core 386
+own_core 390
+own_core 389
+own_core 388
+own_core 387
+own_core 402
+own_core 36
+own_core 379
+own_core 35
+own_core 369
+own_core 380
+own_core 374
+own_core 373
+own_core 39
+own_core 368
+own_core 372
+own_core 367
+own_core 365
+debug_mode
+tag r62
+tag y09
+tag y01
+tag y02
+tag y03
+tag y04
+tag y05
+tag y06
+tag y07
+tag y08
+tag y09
+tag y10
+tag y11
+tag y12
+tag y13
+tag y14
+tag y10
+cash
+debug_mode
+integrate PLW
+debug_mode
+own_core 4869
+own_core 4868
+own_core 1085
+own_core 1580
+own_core 1567
+own_core 1564
+own_core 1498
+own_core 1479
+own_core 1286
+own_core 4379
+own_core 1283
+own_core 1284
+own_core 242
+own_core 240
+own_core 4372
+own_core 4376
+own_core 237
+own_core 236
+own_core 235
+own_core 4371
+own_core 234
+own_core 239
+own_core 241
+own_core 4366
+own_core 4369
+own_core 4130
+integrate eng
+dip
+own_core 238
+dip
+mil
+adm
+mil
+dip
+stability
+government_reform
+add_reform
+reformprogress
+cash
+mil
+manpower
+mil
+adm
+dip
+adm
+dip 5000
+mil
+mil 5000
+dip
+yesman
+integrate sco
+reformprogress
+debug_mode
+integrate plw
+integrate wng
+integrate eng
+dip
+integrate ara
+integrate cas
+dip
+integrate gran
+adm 1000
+adm 100000
+reformprogress
+integrate alb
+debug_mode
+own_core 4175
+own_core 4750
+reform_progress
+reformprogress
+integrate alb
+integrate rag
+debug_mode
+own_core 137
+integrate ven
+dip
+debug_mde
+debug_mode
+integrade plw
+integrate plw
+own_core 4869
+reformdesire
+reform_desire
+goevernmentreform
+governmentreform
+reformprogress
+adm
+integrate eng
+dip
+mil
+adm
+dip
+stability
+debug_mode
+tag gmi
+own_core 1090
+tag eng
+tag eor
+cash
+own 235
+own 4371
+own 238
+own 1860
+own 4370
+own_core 4370
+own_core 1860
+own_core 4371
+own_core 235
+sailors
+own_core 87
+own_core 243
+tag bur
+own_core 87
+tag eor
+yesman
+tag eng
+tag eor
+own_core 236
+own_core 238
+own_core 1860
+own_core 4371
+sailors
+cash
+manpower
+mil
+stability
+integrate eng
+reformprogress
+adm
+dip
+navaltradition
+navy_tradition 75
+adm
+mil
+
+mil
+navy_tradition -5
+debug_mode
+tag r62
+manpower
+observe
+manpower
+adm 200
+manpower
+adm
+dip
+yesman
+cash
+manpower
+adm
+dip
+dio
+dip
+adm 200
+cash
+manpower
+di
+
+manpower
+cash
+debug_mode
+own_core 4367
+manpower
+tag u05
+yesman
+tag f46
+yesman
+adm
+mil
+adm
+manpower
+dip
+manpower
+yesman
+manpower
+yesman
+manpower
+clearae
+yesman
+manpower
+own_core 4365
+debug_mode
+own_core 4435
+own_core 4434
+own_core 4391
+own_core 4393
+own_core 4388
+own_core 4387
+own_core 4411
+own_core 4385
+own_core 4405
+own_core 4394
+own_core 4381
+own_core 4404
+adm
+manpower
+yesman
+own_core 572
+own_core 567
+own_core 563
+own_core 565
+own_core 564
+own_core 574
+own_core 573
+
+own_core 577
+own_core 578
+own_core 580
+own_core 582
+own_core 494
+own_core 496
+own_core 493
+own_core 492
+own_core 495
+own_core 497
+own_core 498
+own_core 499
+own_core 500
+own_core 501
+own_core 542
+own_core 533
+own_core 531
+own_core 530
+own_core 529
+own_core 528
+own_core 527
+own_core 520
+own_core 526
+own_core 4410
+own_core 4412
+own_core 4426
+own_core 4428
+own_core 4401
+own_core 4427
+own_core 4430
+own_core 4429
+own_core 4432
+own_core 4431
+own_core 4433
+own_core 4436
+own_core 4373
+own 525
+own 523
+own 581
+own 521
+own 522
+own 519
+own 518
+own 517
+own 516
+own 452
+adm
+assimilate f21
+integrate f21
+own_core 5433
+own_core 5432
+own_core 5668
+manpower
+debug_mode
+own_core 505
+own_core 504
+own_core 592
+own_core 474
+own_core 475
+own_core 502
+own_core 472
+own_core 473
+own_core 491
+own_core 490
+own_core 470
+own_core 465
+own_core 5465
+own_core 546
+own_core 467
+own_core 468
+own_core 469
+own_core 471
+own_core 6088
+own_core 461
+own_core 457
+own_core 464
+own_core 466
+own_core 462
+own_core 503
+own_core 463
+own_core 460
+own_core 456
+own_core 45
+own_core 455
+own_core 459
+own_core 454
+own_core 453
+own_core 458
+own_core 369
+own_core 35
+own_core 380
+own_core 36
+own_core 379
+own_core 39
+own_core 373
+own_core 374
+own_core 372
+own_core 368
+own_core 367
+own_core 365
+own_core 366
+own_core 408
+observe
+debug_mode
+tag y65
+tag y81
+tag y64
+tag y77
+tag y73
+tag y81
+tag y10
+spynetwork y02 100
+cash
+own_core 4845
+own_core 4952
+own_core 4842
+spynetwork y04 100
+spynetwork y06 100
+spynetwork y08 100
+own_core 4826
+own_core 4899
+own_core 4825
+own_core 4898
+own_core 4981
+own_core 4985
+manpower
+spynetwork y91 100
+own_core 4849
+own_core 4851
+own_core 4845
+own_core 4842
+own_core 4985
+own_core 4981
+own_core 4826
+own_core 4825
+own_core 4852
+own_core 4952
+own_core 4899
+own_core 4898
+clearar
+clearae
+mil
+spynetwork y09 100
+yesman
+own_core 4871
+own_core 4870
+own_core 4869
+own_core 4868
+own_core 4932
+own_core 4867
+own_core 4873
+own_core 4861
+own_core 4872
+own_core 4819
+own_core 4818
+own_core 4827
+own_core 4844
+own_core 4848
+own_core 4843
+own_core 4874
+own_core 4974
+own_core 4975
+own_core 4856
+own_core 4976
+own_core 4857
+own_core 4860
+own_core 4862
+own_core 4864
+own_core 4930
+own_core 4904
+own_core 4877
+own_core 4876
+own_core 5420
+adm
+debug_mode
+tag y91
+cash
+manpower
+yesman
+manpower
+cash
+adm
+manpower
+debug_mode
+tag y90
+yesman
+tag y96
+yesman
+cash
+dip
+cash
+debug_mode
+own_core 490
+own_core 465
+own_core 470
+own_core 468
+own_core 464
+own_core 469
+own_core 467
+own_core 466
+own_core 463
+own_core 462
+own_core 457
+own_core 461
+own_core 460
+own_core 456
+own_core 455
+own_core 459
+own_core 454
+own_core 458
+own_core 453
+own_core 503
+own_core 546
+own_core 471
+own_core 491
+own_core 6088
+own_core 472
+own_core 473
+own_core 474
+own_core 475
+own_core 476
+own_core 477
+own_core 478
+own_core 505
+own_core 504
+own_core 592
+own_core 502
+own_core 6089
+cash
+adm
+own_core 4392
+own_core 4418
+own_core 4419
+own_core 4417
+own_core 677
+own_core 2963
+yesmAN
+CONVERT 475
+cash
+adm
+own_core 609
+own_core 6099
+own_core 6098
+own_core 6096
+own_core 6097
+own_core 6095
+own_core 6094
+own_core 6093
+own_core 6092
+own_core 6091
+own_core 401
+own_core 392
+own_core 391
+own_core 388
+own_core 389
+own_core 390
+own_core 387
+own_core 402
+own_core 406
+own_core 386
+own_core 393
+own_core 385
+own_core 384
+own_core 383
+own_core 395
+own_core 396
+own_core 398
+own_core 397
+own_core 399
+own_core 381
+own_core 382
+own_core 400
+own_core 403
+own_core 405
+own_core 404
+own_core 369
+own_core 380
+own_core 35
+own_core 379
+own_core 36
+own_core 39
+own_core 373
+own_core 374
+own_core 372
+own_core 368
+own_core 367
+own_core 365
+own_core 366
+own_core 408
+own_core 376
+own_core 375
+own_core 377
+own_core 378
+own_core 370
+own_core 6513
+own_core 371
+own_core 363
+own_core 364
+own_core 362
+observe
+tag f51
+yesman
+own_core 4548
+own_core 4446
+own_core 4447
+observe
+debug_mode
+tag a06
+observe
+tag g45
+tag g46
+observe
+tag a73
+tag a20
+observe
+debug_mode
+tag a30
+tag a41
+tag a85
+tag f29
+tag f46
+tag a30
+tag a06
+integrate a26
+integrate a27
+integrate a28
+dip
+integrate a19
+adm
+dip
+mil
+own_core 148
+own_core 150
+own_core 211
+own_core 212
+own_core 213
+own_core 336
+own_core 112
+own_core 122
+own_core 140
+own_core 138
+own_core 142
+own_core 129
+own_core 141
+own_core 143
+adm
+csh
+cash
+dip
+mil
+dip
+own_core 144
+tag a01
+tag a79
+tag a01
+tag a79
+own_core 191
+own_core 192
+own_core 193
+own_core 194
+own_core 345
+own_core 195
+own_core 196
+manpower
+own_core 103
+own_core 147
+own_core 149
+own_core 165
+own_core 76
+own_core 12
+own_core 139
+own_core 137
+own_core 163
+own_core 130
+own_core 131
+own_core 132
+own_core 136
+own_core 210
+own_core 206
+own_core 348
+own_core 7
+own_core 162
+own_core 166
+own_core 159
+own_core 135
+own_core 164
+own_core 161
+own_core 160
+own_core 134
+own_core 133
+own_core 158
+own_core 152
+own_core 63
+own_core 66
+own_core 65
+own_core 62
+own_core 64
+dip
+own_core 216
+own_core 219
+own_core 235
+own_core 251
+dip
+adm 20
+cash
+
+debug_more
+debug_mode
+own_core 723
+debug_mode
+tag j36
+tag j41
+tag j46
+cash
+yesman
+manpower
+yesman
+cash
+dip
+cash
+yesman
+manpower
+yesman
+
+yesman
+cash
+yeamna
+yeaman
+yesman
+yeaman
+yesman
+adm
+cash
+dip
+adm
+dip
+debud_mide
+debud_mode
+debug_mode
+tag bti
+tag eth
+integrate bti
+integrate med
+cash
+debug_mode
+integrate bti
+stability -2
+integrate bti
+cash
+manpower
+debug_mode
+integrate jol
+cash
+observe
+debug_mode
+tag kon
+yesman
+observer
+observe
+tag kon
+manpower
+cash
+observe
+tag kon
+integrate ksj
+integrate kub
+integrate tyo
+observe
+tag kon
+observe
+tag kon
+debug_mode
+tag tmb
+tag jnn
+tag kng
+tag ben
+tag kon
+tag zim
+observe
+debug_mode
+tag kon
+tag tim
+debug_mode
+integrate rzw
+dip
+1mil
+mil
+adm
+cash
+dip
+stability
+dip
+own_core 1186
+own_core 4039
+own_core 4040
+sailors
+own_core 4047
+own_core 4038
+own_core 1192
+own_core 4045
+own_core 4044
+own_core 788
+own_core 1195
+own_core 4049
+own_core 1198
+own_core 1196
+own_core 1197
+own_core 1199
+own_core 1201
+mil
+army_professionalism
+colonize 1182
+colonize 789
+colonize 1181
+colonize 1180
+colonize 833
+colonize 1179
+colonize 1178
+colonize 2856
+colonize 4783
+colonize 1800
+
+dip
+mil
+colonize 4784
+colonize 4781
+colonize 4782
+colonize 2880
+colonize 1178
+colonize 1173
+colonize 1176
+colonize 1175
+colonize 2864
+colonize 2864dip
+dip
+cash
+integrate ska
+integrate mir
+own_core 2794
+own_core 2775
+own_core 1205
+own_core 2782
+own_core 2795
+own_core 2783
+own_core 2024
+own_core 1206
+own_core 2788
+own_core 2786
+own_core 2789
+own_core 2790
+own_core 1209
+own_core 2793
+own_core 1212
+own_core 1215
+own_core 2765
+own_core 1230
+own_core 1232
+own_core 2324
+mil
+own_core 1202
+own_core 1200
+own_core 1203
+own_core 2796
+own_core 1204
+own_core 2774
+adm
+own_core 2774
+adm 9999
+adm 99999
+debug_mode
+tag zul
+observe
+tag gzi
+adm 99999
+mil
+dip
+government_reform
+government_reforms
+reformprogress
+debug_mode
+tag mfy
+annex gzi
+add_core 1182
+add_core 789
+add_core 1181
+add_core 4783
+add_core 2856
+add_core 4781
+add_core 1180
+add_core 833
+add_core 1178
+add_core 2880
+1dip
+dip
+adm
+add_core 1181
+add_core 1800
+adm 99999
+debug_mode
+integrate zul
+observe
+debug_mode
+tag eth
+integrate mam
+integrate med
+change_religion eth jewish
+stability
+assimilate 1224
+assimilate 379
+change_religion mam  jewish
+change_religion mam jewish
+integrate eth
+integrate hed
+integrate mda
+debug_mode
+own_core 2985
+own_core 122
+own_core 1934
+assimilate 1934
+adm 999999
+debug_mode
+own_core 2985
+own_core 1934
+own_core 122
+observe
+tag nap
+yesman
+debug_mode
+own 270
+cash 200
+cash 50
+cash 100
+debug_mode
+tag tts
+tag z02
+tag fra
+tag lon
+tag asu
+tag z05
+tag adu
+debug_mode
+tag casd
+own_core 2989
+own_core 4552
+own_core 1745
+own_core 207
+own_core 209
+tag z02
+assimilate 249
+assimilate 4363
+assimilate 252
+assimilate 4110
+assimilate 251
+assimilate 250
+assimilate 248
+assimilate 4361
+tag eng
+tag tts
+own_core 4737
+own_core 2982
+own_core 126
+own_core 2986
+own_core 4735
+own_core 127
+own_core 1247
+own_core 4559
+own_core 333
+own_core 1295
+tag pap
+own_core 4732
+assimilate 4732
+tag tts
+assimilate 4733
+tag z02
+debug_mode
+own_core 4737
+own_core 2982
+own_core 126
+own_core 2986
+own_core 4735
+own_core 127
+own_core 1247
+own_core 4559
+own_core 333
+own_core 1295
+own_core 4560
+assimilate 4733
+tag pap
+assimilate 4732
+assimilate 119
+assimilate 2977
+tag hun
+own_core 162
+tag z02
+tag cas
+own_core 2989
+own_core 209
+own_core 4552
+own_core 1745
+own_core 207
+tag 01
+tag z01
+observe
+tag z0k
+tag z00
+tag smo
+reliigion 4245 jew
+tag z0p
+debug_mode
+own_core 209
+own_core 4552
+own_core 1745
+own_core 207
+own_core 2989
+tag kba
+own_core 340
+own_core 1882
+own_core 338
+own_core 2461
+own_core 337
+tag mzb
+own_core 2459
+own_core 2263
+own_core 2463
+tag gur
+own_core
+own_core 2263
+observe
+tag mal
+own_core 1468
+own_core 1114
+own_core 2239
+own_core 2238
+own_core 2240
+own_core 2237
+observe
+tag jol
+own_core 1115
+observe
+tag mal
+own_core 1120
+observe
+tag tts
+own_core 2464
+own_core 2454
+tag mor
+own_core 364
+own_core 346
+vassalze z75
+vassalize z75
+vassalize sos
+tag tts
+own_core 333
+own_core 4559
+own_core 4560
+assimilate 4733
+tag pap
+assimilate 4732
+assimilate 119
+assimilate 2977
+tag tts
+assimilate 2982
+assimilate 4737
+assimilate 126
+observe
+tag hun
+debug_mode
+own_core 162
+tag cas
+own_core 2989
+own_core 209
+own_core 4552
+own_core 1745
+own_core 207
+own_core 367
+own_core 368
+own_core 4565
+own_core 366
+tag tun
+observe
+own_core 338 ALG
+own_core 338 2461
+own_core 338 alg
+own_core 2461 alg
+own_core 339 alg
+own_core 337 alg
+own_core 340 alg
+own_core 1882 alg
+own_core 2459 alg
+own_core 2462 alg
+own_core 2463 alg
+tag tgt
+own_core 351
+own_core 2468
+own_core 2458
+own_core 2472
+tag tts
+own_core 2454
+assimilate 4733
+tag pap
+assimilate 4732
+assimilate 119
+assimilate 2977
+tag tts
+assimilate 1934
+tag z2m
+tag smo
+own_core 771
+vasalize mos
+vassalize mos
+integrate z24
+vassalize nzh
+own_core 4380 ire
+tag ire
+own_core 372
+own_core 4121
+own_core 373
+own_core 374
+own_core 4120
+own_core 4379
+own_core 4119
+own_core 376
+own_core 375
+own_core 4377
+own_core 4118
+own_core 4378
+tag sco
+tag z02
+tag ire
+change_relition ire norse
+change_religtion ire norse
+change_religion ire norse
+change_religio
+change_religion
+change_religion ire norse
+change_religion norse
+change_religion ire norse
+change_religion ire nor
+change_religion ire norse_pagan_reformed
+dip 50
+dip
+dip -1000
+assimilate 4380
+assimilate 372
+assimilate 4121
+assimilate 373
+assimilate 4120
+assimilate 4379
+assimilate 374
+assimilate 4377
+assimilate 4118
+assimilate 4378
+assimilate 375
+assimilate 376
+assimilate 4119
+tag z02
+assimilate 248
+assimilate 249
+assimilate 4363
+assimilate 252
+assimilate 4364
+assimilate 253
+assimilate 4110
+assimilate 369
+assimilate 251
+assimilate 250
+assimilate 4361
+assimilate 1978
+assimilate 1979
+tag swe
+assimilate 1
+assimilate 4
+assimilate 1930
+assimilate 18
+adm 215
+own_core 260 pol
+tag pol
+own_core 259
+own_core 262
+own_core 4533
+own_core 4527
+own_core 257
+own_core 4525
+own_core 1938
+own_core 256
+own_core 727
+own_core 767
+own_core 2958
+own_core 42
+own_core 41
+own_core 40
+own_core 269
+own_core 1936
+observe
+tah est
+tag est
+own_core 1842
+own_core 34
+own_core 33
+own_core 30
+tag smo
+assimilate 275
+assimilate 771
+assimilate 1752
+assimilate 1959
+assimilate 4260
+assimilate 4117
+assimilate 4249
+assimilate 294
+assimilate 4248
+assimilate 4245
+assimilate 4242
+adm 200
+dip 200
+mil 100
+assimilate 293
+assimilate 4243
+assimilate 297
+assimilate 4251
+assimilate 4256
+assimilate 4122
+assimilate 1955
+assimilate 1755
+observe
+own_core 4129
+own_core 1964
+own_core 1963
+own_core 1079
+own_core 1077
+own_core 305
+own_core 1780
+own_core 1073
+own_core 1080
+own_core 2427
+own_core 4691
+own_core 1074
+own_core 1070
+own_core 1068
+own_core 2429
+own_core 2428
+own_core 1071
+own_core 4690
+own_core 464 gol
+own_core gol 2417
+own_core 2417 gol
+own_core 466 gol
+own_core 2365 gol
+own_core 469 gol
+own_core 2367 gol
+own_core 474 gol
+own_core 1965 gol
+own_core 4267 gol
+own_core 4264 gol
+own_core 2421 gol
+own_core 475 gol
+own_core 2420 gol
+own_core 2366 gol
+own_core 470 gol
+own_core 465 gol
+own_core 439 gol
+own_core 443 gol
+own_core 2349 gol
+own_core 2351 gol
+own_core 471 gol
+own_core 472 gol
+tag gol
+observe
+own_core 2771 ori
+own_core 2117 ori
+own_core 2117 ora
+own_core 2117 oir
+tag oir
+integrate z01
+observe
+tag eth
+own_core 2771
+observe
+own_core 2258
+own_core 1139
+own_core 1141
+own_core 2290
+own_core 1129
+own_core 1126
+own_core 1119
+own_core 2242
+own_core 1118
+tag jol
+own_core 1115
+tag mal
+own_core 2239
+own_core 1114
+own_core 2238
+own_core 2240
+own_core 2237
+own_core 1120
+own_core 2248
+own_core 1121
+observe
+own_core 2241
+own_core 2257
+tag ben
+own_core 2294
+own_core 1151
+own_core 1163
+own_core 1152
+own_core 1162
+own_core 1249
+observe
+tag lit
+integrate z1n
+integrate z2g
+integrate z18
+integrate z6f
+tag pol
+own_core 271
+own_core 2960
+own_core 2959
+own_core 1939
+own_core 4528
+own_core 4524
+own_core 1859
+own_core 4523
+observe
+tagpol
+tag pol
+own_core 258
+own_core 257 waz
+own_core 257 war
+own_core 257 was
+own_core 257 waz
+own_core 257 maz
+own_core 4525  maz
+own_core 4525 maz
+own_core 1938 maz
+vassalize maz
+observe
+tag boh
+add_opinion ver 125
+add_opinion vrn 125
+tag boh
+own_core 266
+own_core 2970
+tag val
+own_core 2990
+own_core 4557
+tag por
+integrate gal
+own_core 206 gal
+tag gal
+change_relition gal sunni
+tag z1m
+own_core 206
+own_core 4554
+tag tts
+own_core 2986
+own_core 4735
+own_core 127
+own_core 1247
+own_core 4559
+own_core 333
+own_core 4560
+change_culture 1934 neopolitan
+own_core 151 byz
+own_core 1764 byz
+own_core 4779 byz
+own_core 2296 byz
+own_core 2297 byz
+own_core 317 byz
+own_core 322 byz
+own_core 4312 byz
+own_core 316 byz
+vassalize z50
+vassalize z5o
+tag byz
+vassalize z5o
+observe
+own_core 326 byz
+own_core 2299 byz
+own_core 362 mam
+tag mam
+integrate z1d
+own_core 4318
+own_core 359
+observe
+own_core 4323 mam
+own_core 2318 mam
+own_core 4317 mam
+own_core 358 mam
+own_core 2325 mam
+tag arb
+observe
+own_core 1064
+own_core 2433
+own_core 2432
+own_core 1055
+own_core 2442
+own_core 1062
+own_core 2443
+own_core 1060
+own_core 1063
+own_core 1065
+own_core 716
+own_core 4679
+own_core 480
+own_core 1066
+own_core 4686 oir
+own_core 2354 oir
+own_core 479 oir
+own_core 2357 oir
+tag cmn
+own_core 476
+tag z0k
+assimilate 307
+assimilate 4253
+assimilate 4147
+assimilate 1956
+tag oir
+change religion jewish
+change_religion jewish
+observe
+tag nov
+own_core 309
+own_core 1958
+own_core 4258
+own_core 313
+own_core 1776
+own_core 32
+own_core 4124
+tag smo
+own_core 4250
+own_core 305
+own_core 308
+own_core 1753
+own_core 1957
+add_claim 4263
+add_claim 4147
+add_claim 4253
+add_claim 1956
+add_claim 4254
+add_claim 314
+own_core 4244
+tag oir
+print
+memory
+tag hun
+debug_mode
+own_core 162
+own_core 2960 pol
+own_core 262 pol
+own_core 4533 pol
+own_core 4527 pol
+own_core 259 pol
+own_core 260pol
+own_core 260 pol
+own_core 2959 pol
+own_core 257 pol
+own_core 4525 pol
+own_core 1939 pol
+own_core 4528 pol
+own_core 269 pol
+own_core 1938 pol
+own_core 256 pol
+own_core 4524 pol
+own_core 1859 pol
+own_core 4523 pol
+own_core 2958 pol
+own_core 767 pol
+own_core 42 pol
+own_core 41 pol
+own_core 40 pol
+own_core274 pol
+own_core 271 pol
+own_core 1938 maz
+own_core 257 maz
+own_core 4525 maz
+tag pol
+vassalize maz
+observe
+debug_mode
+own_core 4380 ire
+observe
+tag ire
+own_core 372
+dip 200
+mil 200
+adm 100
+dip 100
+assimilate 4121
+assimilate 373
+assimilate 4119
+assimilate 4379
+assimilate 376
+assimilate 375
+assimilate 4120
+assimilate 4377
+assimilate 4118
+assimilate 374
+assimilate 4378
+tag z02
+force_union ire
+form_union ire
+tag ire
+change_religion jewish
+change_religion norse_pagan_reformed
+assimilate 4119
+assimilate 376
+assimilate 375
+assimilate 4118
+assimilate 4378
+assimilate 4377
+assimilate 374
+assimilate 4120
+assimilate 373
+assimilate 4121
+assimilate 4379
+change_religion norse_pagan_unreformed
+change_religion norse_pagan
+assimilate 373
+assimilate 4379
+assimilate 4121
+assimilate 373
+assimilate 4379
+assimilate 4119
+assimilate 376
+assimilate 375
+assimilate 4118
+assimilate 4378
+assimilate 4377
+assimilate 374
+assimilate 373
+assimilate 4120
+tag z02
+assimilate 4362
+assimilate 249
+assimilate 4363
+assimilate 252
+assimilate 4110
+assimilate 253
+assimilate 4110
+assimilate 4364
+assimilate 251
+assimilate 250
+assimilate 248
+assimilate 4361
+tag ire
+observe
+tag z02
+assimilate 369
+assimilate 1978
+assimilate 1979
+tag cas
+own_core 4552
+own_core 1745
+own_core 207
+own_core 2989
+own_core 209
+own_core 366
+own_core 4565
+own_core 368
+own_core 367
+tag por
+tag gal
+own_core 4558
+own_core 4555
+own_core 206
+own_core 4554
+tag por
+own_core 4787
+own_core 4150
+own_core 227
+own_core 1851
+own_core 228
+own_core 232
+own_core 4556
+tag val
+own_core 2990
+own_core 4557
+own_core 2461 alg
+own_core 2461 338
+own_core 2461 alg
+tag alg
+own_core 338
+own_core 339
+own_core 2459
+own_core 2462
+own_core 337
+
+own_core 2463
+own_core 1882
+own_core 340
+observe
+own_core 351 tgt
+own_core 2458 tgt
+own_core 2472 tgt
+tag mor
+own_core 346
+tag mor
+own_core 346
+observe
+tag mor
+vassalize sos
+vassalize z74
+tag mor
+vassalize sos
+vassalize z74
+tag z1d
+own_core 358
+own_core 2325
+own_core 4317
+own_core 2318
+own_core 4323
+own_core 359
+own_core 4318
+observe
+colonize 2241
+colonize 1118
+colonize 2242
+colonize 1119
+colonize 1126
+colonize 2258
+colonize 1139
+colonize 2257
+colonize 1141
+tag ben
+own_core 1151
+own_core 2294
+own_core 1163
+own_core 1152
+own_core 1162
+own_core 1249
+tag mal
+own_core 2238
+own_core 1114
+own_core 2239
+own_core 2240
+own_core 2237
+own_core 1120
+own_core 2245
+own_core 2248
+own_core 1121
+tag jol
+own_core 1115
+observe
+tag tim
+debug_mode
+tag tmb
+own_core 1129
+observe
+tag arb
+integrate z07
+tag arb
+intefrate z07
+integrate z07
+own_core 151 byz
+tag byz
+own_core 4779
+own_core 1321
+own_core 1764
+own_core 316
+own_core 317
+own_core 322
+own_core 2296
+own_core 2297
+own_core 4312
+own_core 2299
+own_core 326
+vssalize z50
+vassalize z50
+vassalize z5o
+observe
+tag bul
+own_core 150
+own_core 2750
+tag bul
+own_core 150
+own_core 2750
+tag wal
+integrate 2b
+integrate z2b
+tag wal
+integrate z2b
+tag hun
+own_core 162
+own_core 4240
+own_core 1951
+tag hun
+own_core 1951
+own_core 4240
+own_core 260pol
+own_core 260 pol
+tag pol
+own_core 259
+own_core 262
+own_core 4533
+own_core 4527
+own_core 257
+own_core 1938
+own_core 767
+own_core 41
+own_core 40
+own_core 271
+own_core 42
+own_core 2958
+own_core 256
+own_core 1939
+own_core 258
+own_core 4524
+own_core 1859
+own_core 4528
+own_core 4523
+own_core 269
+own_core 1936
+own_core 1938 maz
+own_core 1938 257
+own_core 1938 maz
+own_core 257 maz
+own_core 4525 maz
+own_core 2958
+own_core 2959
+own_core 2960
+tag lit
+integrate z1n
+integrate z8
+integrate z18
+integrate z6f
+integrate z2g
+tag smo
+own_core 771
+own_core 275
+own_core 4242
+own_core 297
+own_core 4251
+own_core 294
+own_core 4249
+own_core 4248
+own_core 4250
+own_core 308
+own_core 1753
+own_core 1957
+own_core 1755
+own_core 4122
+own_core 4256
+own_core 4257
+own_core 1955
+own_core 1083
+own_core 4244
+vassalize mos
+vassalize nzh
+tag est
+own_core 1842
+own_core 34
+own_core 1254
+own_core 33
+own_core 30
+tag nov
+own_core 309
+own_core 32
+own_core 4124
+own_core 1776
+own_core 313
+own_core 4258
+own_core 1958
+observe
+tag z02
+tag swe
+own_core
+own_core 4
+own_core 1
+own_core 1930
+adm 215
+own_core gol2365
+own_core 2365 gol
+own_core 466 gol
+tag gol
+own_core 469
+own_core 2367
+own_core 464
+own_core 1326
+own_core 2417
+own_core 465
+own_core 470
+own_core 474
+own_core 2366
+own_core 2420
+own_core 1965
+own_core 443
+own_core 439
+own_core 1326
+own_core 2349
+own_core 475
+own_core 2421
+own_core 4264
+own_core 4267
+observe
+tag gol
+own_core 471
+own_core 2351
+own_core 472
+obsrve
+observe
+own_core 2432
+own_core 1062
+own_core 2442
+own_core 1055
+own_core 1060
+own_core 2443
+own_core 1063
+own_core 1064
+own_core 1068
+own_core 1070
+own_core 2429
+own_core 1780
+own_core 1073
+own_core 4691
+own_core 1080
+own_core 2427
+own_core 1079
+own_core 1964
+own_core 1963
+own_core 4129
+own_core 1077
+own_core 305 kaz
+own_core 305 kaz
+own_core 4680 oir
+tag oir
+integrate 718
+integrate z01
+observe
+own_core 1065
+own_core 1066
+own_core 480
+own_core 716
+own_core 4679
+own_core 2433
+own_core 2428
+own_core 1074
+own_core 14690
+own_core 4690
+own_core 1071
+own_core 4686 oir
+own_core 2354 oir
+own_core 476 oir
+own_core 479 oir
+own_core 2357 oir
+tag cmn
+own_core 476
+tag oir
+change_relition jewish
+change_relgtion jewish
+change_religion jewish
+observe
+tag smo
+assimilate 771
+assimilate 1752
+assimilate 1959
+assimilate 4260
+assimilate 4117
+assimilate 4249
+assimilate 294
+assimilate 4248
+assimilate 4244
+tag pap
+assimilate 119
+assimilate 2977
+assimilate 4732
+tag tts
+own_core 4733
+dip 100
+own_core 2454 tun
+tag fra
+own_core 167 nrm
+own_core 1879 nrm
+own_core 172 bri
+own_core 4384 bri
+own_core 171 bri
+own_core 170 bri
+own_core 169 bri
+vassalize bri
+vassalize bur
+own_core 187 bur
+own_core 4766 bur
+own_core 181 bur
+own_core 1743 bur
+own_core 88 bur
+own_core 94 bur
+tag bri
+change_religion sunni
+observe
+tag nrm
+tag ven
+own_core 358
+own_core 358 mam
+tag mam
+integrate z1d
+observe
+tag ven
+assimilate 130
+assimilate 4752
+assimilate 137
+assimilate 1826
+assimilate 131
+tag cyp
+tag gre
+tah cyp
+tag cyp
+integrate gre
+own_core 3000
+own_core 4780
+tag boh
+add_opinion vrn 150
+own_core 266
+own_core 2970
+tag tts
+integrate z2m
+integrate sar
+own_core 333
+own_core 4559
+own_core 4560
+tag ven
+tag tts
+dip 100
+assimilate 124
+assimilate 2982
+assimilate 4737
+assimilate 126
+tag z36
+observe
+own_core 2337 tur
+tag tur
+own_core 393
+own_core 2338
+own_core 4274
+own_core 394
+own_core 2340
+own_core 2347
+own_core 392
+own_core 4273
+own_core 4276
+own_core 4275
+own_core 2336
+observe
+own_core 4272 tur
+own_core 4277 tur
+own_core 385 tur
+own_core 2331 tur
+own_core 2332 tur
+own_core 4278 tur
+own_core 386 tur
+own_core 2335 tur
+own_core 391 tur
+own_core 2339 tur
+own_core 2333 tur
+own_core 395 tur
+own_core 396 tur
+own_core 397 tur
+own_core 404 tur
+own_core 2332 ara
+own_core 2332 arb
+tag arb
+integrate tur
+tag tts
+debug_mode
+own_core 2986
+own_core 4735
+own_core 127
+own_core 1247
+own_core 4559
+own_core 333
+own_core 4560
+tag arb
+tag bal
+stability 2
+vassalize z2c
+add_claim 446
+add_claim 445
+tag maz
+change_religion catholic
+oberve
+observe
+tag pap
+vassalize z2k
+tag den
+tag dan
+force_union z2p
+form_union z2p
+own_core 1984 den
+own_core 1984 dan
+own_core 1984 den
+own_core 4142 den
+form_union z32
+tag wal
+tag nzh
+change_religion jewish
+tag den
+tag dan
+own_core 1984 den
+form_union z2p
+form_union z32
+tag nzh
+change_religion jewish
+tag tts
+tag tts
+assimilate 4733
+assimilate 4734
+assimilate 1934
+assimilate 123
+observe
+tag mam
+assimilate 361
+cash 1000
+cash 250
+tag mam
+assimilate 361
+cash 1250
+observe
+debug_mode
+tag z2r
+tag val
+own_core 4560
+own_core 333
+own_core 4559
+remove_core
+add_core 4549
+tag tts
+remove_core 333
+remove_core 4560
+remove_core 4559
+remove_core 1882
+remove_core 4732
+tag pap
+remove_core 4733
+tag ita
+remove_core 2977
+remove_core 119
+remove_core 1826
+tag z04
+own_core 329
+tag cyp
+remove_core 329
+own_core 45 lub
+own_core 45 lbe
+own_core 45 lub
+own_core 45 hse
+own_core 45 hsa
+tag hse
+remove_core 45
+remove_core 45 lub
+remove_core 45 cyp
+observe
+tag aju
+observe
+assimilate 412 bsr
+vassalize bpi z0a
+yesman
+debug_mode
+tag a59
+tag a73]
+tag a59
+add_opinion 200 a30
+tag a59
+tag a30
+add_opinion 200 a59
+tag a59
+tag a30
+add_opinion 200 a59
+tag a30
+tag a59
+tag a45
+tag a59
+tag a23
+tag a45
+change_religion corin
+change_religion corinth
+change_religion corin
+change_religion corin a45
+observe
+tag b02
+observe
+debug_mode
+observe
+debug_mode
+own_core 2269 son
+own_core 2273 son
+own_core 2271 son
+own_core 2276 son
+own_core 2272 son
+own_core 2274 son
+own_core 2275 son
+own_core 2270 son
+own_core 1142 son
+own_core 4173 bos
+observe
+debug_mode
+uncolonize 1119
+colonize 1119
+burn 1119
+colonize 1119
+colonize 1126
+colonize 2258
+colonize 2257
+colonize 1139
+colonize 1141
+colonize 1118
+colonize 2241
+own 1126
+own 1119
+own 2242
+own 1118
+own 2241
+own 258
+colonize 258 pol
+tag pol#
+colonize 258
+observe
+colonize 2257
+colonize 2258
+colonize 1139
+colonize 1141
+own 2258
+own 2257
+own 1139
+own 1141
+tag mal
+observe
+debug_mode
+tag smo
+tag z02
+tag sco
+tag z02
+tag tts
+debug_mode
+own_core 4110 sco
+tag sco
+change_religion norse_pagan_unreformed
+change_religion norse_pagan_reformed
+integrate z02
+form_union ire
+tag ire
+change_religion norse_pagan_reformed
+observe
+tag sco
+dip 200
+debug_mode
+own_core 371 z02
+own_core 370 z02
+observe
+own_core 1104 z02
+tag z02
+colonize 1104
+colonize 1105
+assimilate 1104
+assimilate 1105
+change_religion norse_pagan_reformed
+assimilate 1105
+assimilate 1104
+tag sco
+form_union z02
+vassalise z02
+vassalize z02
+remove_core 371
+remove_core 370
+tag z02
+remove_core 4110
+remove_core 252
+remove_core 251
+remove_core 248
+remove_core 4363
+remove_core 249
+remove_core 250
+remove_core 4361
+remove_core 4362
+remove_core 426
+246
+remove_core 246
+remove_core 247
+remove_core 4
+remove_core 1
+remove_core 1930
+remove_core 374
+remove_core 4118
+remove_core 375
+remove_core 4119
+remove_core 372
+remove_core 4379
+remove_core 4377
+remove_core 4120
+remove_core 4378
+remove_core 376
+remove_core 4380
+remove_core 4121
+remove_core 373
+tag z06
+add_claim 179
+add_claim 185
+add_claim 183
+tag boh
+change_religion 226 hussite
+observe
+change_religion 266 hussite
+change_religion 226 sunni
+change_religion 337 sunni
+change_religion 2461 sunni
+change_religion 338 sunni
+tag alg
+change_religion sunni
+observe
+tag alg
+own_core 2461 tlc
+tag tlc
+integrate alg
+observe
+tag z20
+tag z2o
+own_core 1140
+observe
+own 4565
+tag pol
+tag den
+tag dan
+debug_mode
+remove_core 1939
+remove_core 4525
+remove_core 257
+remove_core 1935
+remove_core 269
+remove_core 4528
+remove_core 4523
+remove_core 1859
+remove_core 4524
+remove_core 42
+remove_core 271
+remove_core 256
+remove_core 1938
+remove_core 41
+remove_core 40
+vassalize z3u
+own_core 45 hse
+own_core 45 hsl
+own_core 45 han
+own_core 45 hns
+own_core 45 hsa
+remove_core 45
+remove_core 45 hse
+remove_core 45 han
+remove_core 45 hol
+tag hsa
+observe
+add claim 310 smo
+add_claim 310 smo
+tag est
+observe
+debug_mode
+remove core 2274 tlc
+remove_core 2274 tlc
+remove_core 2275 tlc
+remove_core 2276 tlc
+remove_core 2272 tlc
+remove_core 1130 tlc
+remove_core 2448 tlc
+remove_core 4567 tlc
+tag lit
+remove_core 275
+remove_core 1936
+remove_core 767
+remove_core 2958
+tag dan
+remove_core 1859
+remove_core 4524
+remove_core 1939
+remove_core 4525
+remove_core 257
+remove_core 1938
+remove_core 269
+remove_core 42
+remove_core 41
+remove_core 40
+remove_core 271
+remove_core 4523
+remove_core 4528
+remove_core 256
+own_core hsa 45
+own_core 45 hsa
+add_claim 310 smo
+remove_core 346 val
+vassalize z3u
+debug_mode
+own_core 170 bre
+own_core 170 bst
+own_core 170 brs
+own_core 170 bri
+own_core 171 bri
+own_core 169 bri
+own_core 4384 bri
+own_core 172 bri
+own_core 1879 nrm
+own_core 167 nrm
+vassalize bri
+vassalize bur
+own_core 189 bur
+own_core 188 bur
+own_core 94 bur
+own_core 181 bur
+own_core 1743 bur
+own_core 88 bur
+observe
+colonize 2863 z02
+tag z02
+colonize 2863
+colonize 2862
+assimilate 2863
+assimilate 3081
+assimilate 2862
+observe
+own_core azt 3891
+tag azt
+colonize 3891
+colonize 3883
+colonize 3871
+colonize 3892
+colonize 3907
+colonize 3911
+colonize 3900
+colonize 3895
+colonize 3873
+colonize 3864
+colonize 3854
+colonize 3858
+colonize 3878
+colonize 3896
+colonize 3813
+colonize 3913
+colonize 3925
+colonize 3929
+colonize 3922
+assimilate 3891
+assimilate 3883
+assimilate 3871
+assimilate 3892
+assimilate 3907
+assimilate 3911
+assimilate 3900
+assimilate 3895
+assimilate 3873
+assimilate 3864
+assimilate 3854
+assimilate 3858
+assimilate 3878
+assimilate 3896
+assimilate 3913
+assimilate 3925
+assimilate 3929
+assimilate 3922
+assimilate 3891
+observe
+own 3891
+tag azt
+colonize 3891
+observe
+
+own 3891
+tag azt
+colonize 3891
+observe
+own 3891
+tag azt
+colonize 3891
+vassalise sal
+vassalize sal
+vassalize tpq
+vassalize hst
+prestige
+vassalize hst
+prestige
+prestige 100
+government_reform
+change_religion totemism
+change_religion nehuatl
+change_religion nahuatl
+assimilate 3946
+stab
+stability
+tag ctm
+change_religion nahuatl
+assimilate 3902
+tag azt
+federation_cohesion 100
+change_religion totamist
+change_religion totemist
+change_religion totemism
+reform progress
+reformprogress
+adm
+reformprogress
+embrace fudalism
+embrace fudalism 3946
+embrace feudalism
+embrace 3946 feudalism
+change_religion nahuatl
+vassalize ctm
+vassalize ccm
+vassalize ctm
+vassalize hst
+vassalize sal
+vassalize tpq
+stability
+vassalize tpq
+vassalize sal
+vassalize hst
+vassalize ctm
+vassalize ccm
+doom -25
+colonize 3891
+colonize 3883
+colonize 3864
+colonize 3858
+colonize 3911
+colonize 3892
+colonize 3913
+vassalize ctm
+vassalize ccm
+vassalize hst
+vassalize sal
+vassalize tpq
+doom -25
+adm -400
+vassalize sal
+vassalize tpq
+vassalize ccm
+vassalize ctm
+vassalize xal
+stability
+assimilate 3891
+assimilate 3883
+assimilate 3871
+assimilate 3878
+assimilate 3858
+assimilate 3854
+assimilate 3864
+assimilate 3873
+assimilate 3900
+assimilate 3911
+assimilate 3907
+assimilate 3913
+assimilate 3892
+assimilate 3925
+assimilate 3922
+observe
+tag azt
+own_core 2814
+observe
+tag azt
+own_core 2154
+assimilate 2154
+observe
+tag ming
+tag mng
+observe
+own_core 3896 sco
+tag sco
+embrace 3946 renaissance
+embrace 3946 feudalism
+embrace 3896 feudalism
+embrace 3896 renaissance
+tag azt
+debug_mode
+colonize 3847
+colonize 3865
+colonize 3862
+observe
+own 3896
+tag bos
+own_core 4173
+tag ven
+own_core 130
+own_core 4752
+own_core 131
+own_core 1826
+observe
+debug_mode
+own_core 1105 z02
+own_core 1104 z02
+tag z02
+colonize 980
+assimilate 980
+change_religion norse_pagan _reformed
+adm
+dip
+mil
+adm
+dip
+own_core 1105 sco
+adm
+own_core 1105
+change_religion norse_pagan _reformed
+change_religion norse_pagan
+change_religion norse_pagan_reformed
+embrase feudalism
+embrace feudalism
+embrace feudalism 1104
+embrace 1104feudalism
+dip
+mil
+tag sco
+colonize 980
+assimilate 980
+own_core 980 z02
+tag z02
+change_religion norse_pagan_reformed
+dip
+embrace 980 feudalism
+embrace 980 renissance
+embrace 980 renaissance
+debug_mode
+own_core 1104
+adm
+own_core 1105
+dip
+adm
+mil
+adm
+dip
+mil
+dip
+colonize 981
+assimilate 981
+colonize 1805
+colonize 996
+assimilate 996
+colonize 997
+assimilate 997
+tag z0k
+tag smo
+own_core 4250
+own_core 308
+own_core 4147
+own_core 1753
+own_core 1958
+own_core 311
+own_core 1957
+own_core 295
+own_core 4251
+own_core 4252
+own_core 4245
+own_core 293
+own_core 4246
+own_core 4253
+own_core 307
+tag glg
+change_religion catholic
+assimilate 4238
+tah z60
+tag z60
+tag z6o
+change_religion hussite
+assimilate 4767
+tag z69
+change_religion hussite
+assimilate 189
+tag z4u
+change_religion hussite
+assimilate 57
+tag z7i
+change_religion hussite
+assimilate 4771
+observe
+tag bal
+add_claim 451
+observe
+own 2433
+own 480
+own 1065
+own 1066
+own 716
+own 1063
+own 2443
+own 1962
+own 1078
+own 4266
+own 305
+own 1972
+tag smo
+colonize 1079
+colonize 4129
+colonize 1964
+colonize 1962
+colonize 4266
+colonize 305
+colonize 1972
+assimilate 1079
+assimilate 4266
+assimilate 1972
+assimilate 305
+assimilate 1962
+assimilate 1964
+assimilate 4129
+tag smo
+cash 500
+tag adu
+debug_mode
+integrate h03
+integrate h06
+integrate h07
+integrate h08
+integrate h05
+integrate h04
+integrate h01
+integrate h20
+integrate h13
+integrate h19
+integrate h16
+integrate h14
+integrate h18
+integrate h11
+integrate h12
+integrate h09
+integrate h10
+integrate h17
+prestige
+adm 9999
+dip 9999
+debug_mode
+integrate h04
+adn
+adm
+dip
+debug_mode
+integrate lan
+integrate blg
+integrate mlo
+integrate ven
+integrate szo
+integrate sav
+integrate mfa
+integrate gen
+integrate fer
+integrate luc
+integrate tnt
+integrate pga
+integrate urb
+integrate nap
+integrate eth
+own_core 371
+own_core 370
+change_religion jewish
+assimilate 118
+stability
+own_core 379
+own_core 1854
+own_core 364
+assimilate 379
+debug_mode
+tag bal
+observe
+debug_mode
+tag a21
+tag g98
+observe
+tag g92
+observe
+tag g05
+observe
+tag g81
+tag g72
+tag g68
+tag g47
+tag g49
+tag g62
+tag g47
+tag g49
+tag g47
+tag g49
+tag g47
+tag g49
+tag g47
+debug_mode
+own_core 2116
+own_core 4668
+own_core 4220
+own_core 4221
+own_core 720
+own_core 4670
+own_core 2747
+own_core 4669
+cash
+integrate krc
+own_core 717
+own_core 4223
+own_core 713
+yesman
+debug_mosw
+debug_mode
+integrate g53
+integrate g55
+integrate g51
+integrate g46
+integrate g50
+integrate g49
+integrate g57
+integrate g61
+integrate g60
+integrate g48
+integrate g59
+adm
+observe
+debug_mode
+tag g47
+integrate g48
+integrate g60
+integrate g48
+integrate g61
+integrate g57
+integrate g49
+integrate g50
+integrate g53
+integrate g51
+integrate g46
+integrate g55
+dip
+adm
+observe
+tag b58
+dip
+debug_mode
+change_religion z02 norse_pagan_reformed
+assimilate 4110
+assimilate 252
+assimilate 251
+assimilate 250
+assimilate 4363
+assimilate 248
+assimilate 249
+assimilate 4362
+assimilate 4361
+assimilate 253
+assimilate 4364
+assimilate 369
+assimilate 1978
+assimilate 1979
+assimilate 371
+assimilate 370
+assimilate 2863
+assimilate 3081
+assimilate 2862
+stability 1
+remove_core 4
+remove_core 1
+remove_core 1930
+remove_core 4524
+remove_core 1939
+remove_core 1938
+remove_core 257
+remove_core 41
+remove_core 42
+remove_core 40
+remove_core 271
+tag dan
+remove_core 271
+remove_core 40
+remove_core 42
+remove_core 41
+remove_core 257
+remove_core 1938
+remove_core 1939
+remove_core 4524
+remove_core 1930
+remove_core 4523
+remove_core 1859
+remove_core 256
+remove_core 4525
+remove_core 269
+remove_core 4528
+observe
+tag azt
+dip
+mil
+dip
+mil
+observe
+tag tts
+dip 100
+tag smo
+tag tts
+tag bal
+stability 2
+add_claim 429
+add_claim 4324
+add_claim 446
+add_claim 445
+add_claim 454
+tag tts
+change_religion 266 Hussite
+change_religion 4725 Hussite
+own_core 45 hse
+own_core 45 hsl
+own_core 45 hsa
+assimilate 45
+own_core 45 hsa
+tag has
+assimilate 45
+own_core 45 hsa
+tag hsa
+assimilate 45
+change_religion catholic
+assimilate 45
+tag tts
+observe
+tag azt
+stability
+assimilate 3871
+assimilate 3872
+assimilate 3892
+assimilate 3878
+assimilate 3858
+assimilate 3854
+assimilate 3864
+assimilate 3848
+assimilate 3847
+assimilate 3865
+assimilate 3862
+assimilate 3876
+adm
+dip
+mil
+assimilate 3821
+assimilate 3824
+assimilate 3843
+assimilate 3813
+assimilate 3896
+assimilate 3913
+assimilate 3852
+assimilate 3853
+assimilate 3867
+assimilate 2155
+assimilate 738
+assimilate 3964
+assimilate 3926
+stability
+adm
+cash
+adm
+dip
+tag gen
+debug_mode
+integrate ita
+integrate tts
+integrate z06
+dip
+observer
+observe
+tag gen
+observe
+tag z35
+tag ven
+tag z0t
+integrate z2v
+integrate epi
+
+observe
+debug_mode
+own_core 45 HSA
+tag hsa
+observe
+tag tid
+own_core 649
+
+tag smz
+tag mna
+integrate mal
+integrate mlc
+tag tid
+tag mna
+own_core 597 mla
+own_core 597 mlc
+tag mlc
+own_core 597 mlc
+tag mlc
+own_core 597 mlc
+
+tag mlc
+own_core 597 mlc
+
+tag mlc
+observe
+debug_mode
+tag can
+observe
+debug_mode
+own_core 1831 ven
+own_core 138 ven
+own_core 1766 ven
+own_core 136 ven
+own_core 4753 ven
+own_core 1826 ven
+own_core 4752 ven
+own_core 130 ven
+own_core 111 ven
+own_core 1774 ven
+own_core 4729 ven
+own_core 2977 pap
+own_core 119 pap
+own_core 2976 pap
+own_core 120 pap
+own_core 4738 ven
+own_core 4174 epi
+tag ven
+cash -100
+tag z06
+cash -200
+cash -50
+tag tts
+tag c00
+cash debug_mode
+debug_mode
+own_core 1831 ven
+own_core 138 ven
+own_core 1766 ven
+own_core 136 ven
+own_core 4753 ven
+own_core 1826 ven
+own_core 4752 ven
+own_core 130 ven
+own_core 4738 ven
+own_core 111 ven
+own_core 1774 ven
+own_core 4729 ven
+own_core 2977 pap
+own_core 2976 pap
+own_core 119 pap
+own_core 120 pap
+own_core 4174 epi
+tag c00
+yesman
+tag ven
+cash -200
+tag z06
+cash - 300
+cash -300
+tag tss
+tag tts
+cash 300
+cash 200
+cot 2 101
+cash -200
+cot 2 1139
+cash -200
+cot 2 121
+cash -200
+cot 2 125
+tag bal
+tag can
+cash 300
+dip 300
+mil 300
+cash 400
+colonize 2574
+colonize 998
+colonize 999
+assimilate 999
+assimilate 998
+assimilate 2574
+tag tts
+dip 400
+manpower
+debug_mode
+assimilate 3881
+assimilate 3880
+colonize 3881
+colonize 3880
+observe
+tag z02
+dup
+dip
+own_core 2859
+own_core 3082
+own_core 2867
+own_core 3082
+own_core 2866
+own_core 2868
+own_core 2861
+own_core 2865
+own_core 2869
+own_core 2871
+own_core 2870
+own_core 2872
+own_core 2860
+own_core 2858
+own_core 3052
+own_core 3024
+own_core 3027
+own_core 3083
+own_core 2873
+own_core 4380
+own_core 372
+own_core 4121
+own_core 4363
+own_core 4364
+own_core 249
+own_core 4362
+assimilate 4120
+assimilate 4380
+assimilate 372
+assimilate 4121
+assimilate 4364
+assimilate 4363
+assimilate 249
+assimilate 4362
+assimilate 2dip
+dip
+adm
+colonize 2866
+assimilate 2866
+assimilate 2868
+assimilate 2870
+assimilate 2860
+assimilate 2872
+assimilate 2867
+assimilate 2865
+assimilate 2861
+assimilate 2869
+assimilate 2871
+assimilate 2859
+assimilate 2858
+assimilate 2873
+adm 100
+adm
+cash 400
+tag tts
+own_core 4559
+own_core 333
+own_core 4560
+debug_mode
+own_core 2986
+own_core 333
+own_core 4559
+own_core 4560
+debug_mode
+tag b20
+tag b02
+Own_core 831
+Own_core 832
+Own_core 833
+reformprogress
+yesman
+own_core 831
+own_core 833
+own_core 832
+assimilate 831
+assimilate 832
+assimilate 833
+adm
+reformprogress
+cash
+debug_more
+debug_mode
+own_core 831
+own_core 832
+own_core 833
+adm
+assimilate 831
+assimilate 832
+assimilate 833
+colonize 831
+colonize 832
+colonize 833
+debug_mode
+tag y63
+observe
+tag a20
+tag a73
+observy
+observe
+tag a46
+tag a32
+observe
+tag i02
+observe
+debug_mode
+tag b20
+observe
+tag j46
+observe
+tag b20
+observe
+tag r51
+tag r31
+tag e07
+tag r07
+observe
+debug_mode
+tag h98
+observe
+tag h71
+dip
+dip 300
+cash 350
+observe
+dip
+mil 200
+cash 300
+dip
+mil
+dip
+dip 100
+cash 150
+dip 400
+adm 300
+dip
+cash 100
+mil 300
+dip 200
+
+dip 200
+stability 2
+cash 100
+mil 300
+manpower 200
+cash 200
+cash 330
+cash 200
+cash 300
+mil 300
+cash 200
+manpower
+yesman
+cash 200
+dip 200
+manpower
+debug_mode
+own_core 4173
+own_core 4171
+cash 200
+yesman
+cash 400
+manpower
+cash 400
+assimilate 4195
+assimilate 4192
+assimilate 4193
+assimilate 4183
+assimilate 4194
+cash 200
+debug_mode
+tag hns
+cash 5000
+manpower
+cash 5000
+manpower
+cash
+manpower
+cash
+manpower
+dip
+adm 500
+cash 350
+debug_mode
+colonize 2968
+assimilate 2968
+assimilate 2976
+assimilate 2974
+colonize 2976
+colonize 2974
+colonize 2969
+colonize 4240
+assimilate 2969
+assimilate 4240
+colonize 4100
+assimilate 4100
+adm
+dip
+cash 230
+cash 100
+mil 50
+cash 100
+colonize 2970
+colonize 2979
+colonize 2980
+assimilate 2970
+assimilate 2979
+assimilate 2980
+stability
+mil 500
+colonize 4093
+assimilate 4093
+adm 100
+manpower 20
+colonize 4098
+assimilate 4098
+mil
+yesman
+manpower
+cash 400
+colonize 2962
+
+yesman
+colonize 2983
+
+colonize 2978
+colonize 2984
+
+colonize 2985
+colonize 4036
+colonize 2944
+colonize 2961
+adm 300
+adm 180
+colonize 2948
+
+colonize 2965
+yesman
+manpower 2
+manpower 4
+dip 400
+dip 100
+cash 500
+cash 40
+cash 200
+cash
+adm 300
+adm 200
+dip 200
+kill
+kill heir
+killheir
+kill_heir
+cash 400
+dip 600
+legitimacy
+kill_heir
+legitimacy
+kill_heir
+legitimacy
+kill
+age_heir 15
+yesman
+cash 200
+mil 300
+cash 500
+cash 300
+observe
+debug_mode
+tag g32
+tag g01
+tag h01
+tag g32
+observe
+tag i45
+observe
+tag r77
+observe
+1tag r77
+tag r77
+observe
+tag f38
+observe
+tag f38
+observe
+tag h67
+tag a97
+tag g96
+tag a97
+observe
+tag g32
+tag h01
+tag g32
+observe
+tag g32
+observe
+tah h67
+tag h67
+observe
+tah g96
+tag g96
+observe
+debug_mode
+tag y19
+tag r21
+tag y63
+observe
+tag r62
+kill
+tag t91
+tag y91
+tag y86
+tag y85
+tag y24
+tag y27
+tag y26
+tag y18
+tag y19
+tag y50
+tag y52
+observe
+tag u02
+observe
+debug_mode
+tag i43
+observe
+debug_mode
+tah i46
+tag i46
+tag i13
+tag h77]
+observe
+debug_mode
+tag y01
+govermentreform
+goverment_reform
+reformprogress
+reformprogress - 45
+cash 200
+dip 200
+adm 150
+yesman
+cash 200
+manpower 20
+cash 200
+debug_mode
+tag hsa
+own_core 23
+cash
+own_core 33
+own_core 310
+own_core 25
+own_core 1744
+own_core 97
+mil 100
+dip 200
+adm 200
+dip 200
+adm 200
+dip 200
+adm 200
+own_core 12
+own_core 6
+cash
+dip
+cash
+dip
+adm
+kill
+own_core 4
+own_core 1
+own_core 2
+own_core 3
+own_core 1982
+own_core 4165
+own_core 26
+own_core 4166
+own_core 35
+own_core 36
+own_core 39
+own_core 43
+own_core 41
+own_core 1775
+own_core 47
+own_core 1983
+own_core 14
+own_core 4142
+own_core 1984
+own_core 4149
+own_core 15
+own_core 13
+own_core 2996
+own_core 46
+own_core 4749
+own_core 2994
+own_core 4745
+own_core 48
+own_core 2995
+own_core 4163
+own_core 17
+dip
+mil
+dip
+mil
+adm
+add_opinion por
+observe
+stability 1
+debug_mode
+tag c01
+yesman
+tag a21
+tag c01
+tag a21
+tag c01
+tag a21
+yesman
+stability
+adm 110
+adm 60
+manpower 20
+cash 200
+cash 500
+cash 200
+dip 200
+adm 200
+mil 200
+adm 200
+dip 200
+cash 700
+cash 500
+cash 200
+cash 500
+debug_mode
+tag adu
+tag tts
+tag adu
+tag tts
+cash 500
+mil
+observe
+debug_mode
+tag b20
+cash 550
+mil 500
+clear
+manpower 20
+clear
+manpower 50
+adm 500
+yesman
+observe
+debug_mode
+tag b54
+debug_mode
+own_core 1982
+own_core 4165
+own_core 6
+own_core 26
+own_core fin 27
+own_core 27 fin
+tag fin
+own_core 28
+own_core 29
+own_core 4123
+own_core 19
+own_core 31
+own_core 30
+own_core 4152
+own_core 4113
+own_core 1776
+own_core 1777
+own_core 1884
+own_core 4124
+own_core 32
+observe
+own_core 4151 fin
+own_core 13 ger
+tag ger
+own_core 4141
+own_core 1775
+own_core 44
+own_core 1857
+own_core 45
+own_core 53
+own_core 54
+own_core 4771
+own_core 4772
+own_core 1758
+own_core 57
+own_core 4773
+own_core 1763
+own_core 1762
+own_core 4774
+own_core 79
+own_core 71
+own_core 2955
+own_core 4708
+own_core 4707
+own_core 65
+own_core 50
+integrate bra
+integrate bam
+integrate sax
+integrate ulm
+own_core 70
+own_core 4715
+own_core 77
+own_core 4718
+own_core 4716
+own_core 63
+own_core 4742
+own_core 4741
+own_core 52
+own_core 58
+own_core 2996
+own_core 46
+own_core 4749
+own_core 47
+own_core 2994
+own_core 4745
+own_core 48
+own_core 1858
+own_core 4746
+own_core 49
+own_core 67
+own_core 4717
+own_core 2967
+own_core 1757
+own_core 2956
+own_core 2957
+own_core 64
+own_core 4709
+observe
+own_core 4743 ger
+own_core 2965 ger
+own_core 60 ger
+own_core 4778 ger
+own_core 4747 ger
+own_core 2973 ger
+own_core 86 ger
+own_core 69 ger
+own_core 84 ger
+own_core 1760 ger
+own_core 1761 ger
+own_core 75 ger
+own_core 4765 ger
+own_core 1880 ger
+own_core 72 ger
+own_core 4712 ger
+own_core 4710 ger
+own_core 1868 ger
+tag ger
+own_core 4714
+own_core 74
+own_core 78
+own_core 1876
+own_core 83
+own_core 81
+own_core 82
+own_core 2972
+own_core 4775
+own_core 56
+own_core 2971
+own_core 1874
+own_core 55
+own_core 4711
+own_core 4713
+own_core 68
+observe
+own_core 76 ger
+own_core 80 ger
+own_core 1931 ger
+own_core 48 pol
+own_core 4746 pol
+own_core 4747 pol
+own_core 2995 pol
+own_core 49 pol
+own_core 2969 pol
+own_core 2966 pol
+own_core 4238 pol
+own_core 264 pol
+own_core 4723 pol
+own_core 263 pol
+tag pol
+integrate teu
+integrate max
+integrate maz
+tag swe
+own_core 16
+own_core 33 rus
+tag rus
+integrate mus
+integrate mos
+integrate perm
+integrate prm
+integrate blo
+integrate yar
+integrate rso
+integrate psk
+own_core 34
+own_core 311
+own_core 4148
+own_core 310
+own_core 4260
+own_core 2749
+own_core 1961
+own_core 309
+own_core 1262
+own_core 1958
+own_core 4258
+own_core 1955
+own_core 4257
+own_core 4256
+own_core 4122
+own_core 4259
+own_core 313
+own_core 1776
+own_core 1777
+own_core 32
+own_core 30
+observe
+own_core 36 est
+own_core 1842 est
+own_core 35 est
+own_core 37 est
+own_core 1834 est
+own_core 94 lat
+own_core 38 liv
+own_core 40 lit
+cash 300
+adm 100
+cash 100
+cash 600
+cash 100
+cash 300
+cash 425
+cash 500
+observe
+debug_mode
+tag bos
+own_core 138
+own_core 1766
+tag tts
+remove_core 1766
+remove_core 138
+observe
+own 2308 byz
+tag tts
+observe
+occupy 364 byz
+own 364 byz
+own 4268 byz
+own 139 bos
+own 140 bos
+own 1828 bos
+own 141 bos
+own 138 byz
+changeculture
+culture 965 american
+culture 965 ame
+culture 965 American
+own_core 965 ame
+own_core 965 usa
+tag usa
+culture 965
+observe
+tag c03
+own_core 965
+remove_core 965 usa
+observe
+own 2325 tun
+tag gbr
+observe
+tag tts
+endwar
+tag bos
+yesman
+tag tts
+cash 500
+adm
+adm - 1000
+adm -1000
+adm 100
+cash 100
+observe
+tag tts
+debug_mode
+tag aug
+observe
+own 1828 bos
+own 140 bos
+own 139 bos
+own 3002 bos
+own 1831 bos
+own 2305 byz
+own 2304 byz
+tag gbr
+observe
+tag bgr
+tag gbr
+observe
+tag csh
+obserbe
+observe
+own_core 938 usa
+tag usa
+culture 938
+own_core 938 c02
+own_core 938 c03
+remove_core 938 c02
+own 329 byz
+own 1849 byz
+own 377 byz
+own 4298 byz
+tag gbr
+tag csh
+tag z0a
+observe
+tag c03
+stability 1
+observe
+tag c03
+observe
+own 2452
+tag tun
+own 2452
+own 354
+own 2451
+own 355
+own 340
+own 339
+own 338
+own 2461
+own 337
+own 4562
+own 335
+tag adu
+own 224
+own 225
+own 1748
+own 226 tts
+observe
+tag fra
+tag c03
+yesman
+observe
+tag tts
+observe
+debug_mode
+tag c24
+yesmN
+yesmAN
+observe
+tag c24
+yesmAN
+observe
+debug_mode
+tag flo
+observe
+tag usa
+observe
+tag tts
+observe
+tag tts
+endwar
+nowar
+Delete_wars
+own_core 151 byz
+tag byz
+own_core 4779
+own_core 149
+own_core 1764
+own_core 250
+tag tts
+Delete_wars
+own_core 151 byz
+tag byz
+debug_mode
+own_core 4779
+own_core 149
+own_core 1764
+change religion
+change_religion
+change_religion orthodox
+own_core 4705
+own_core 2750
+own_core 4704
+own_core 149
+own_core 159
+own_core 4706
+own_core 1756
+own_core 4702
+own_core 4703
+own_core 1765
+own_core 3000
+own_core 150
+own_core 4531 wal
+own_core 3001
+own_core 4780
+own_core 4750
+own_core 4175
+own_core 4174
+own_core 143
+own_core 1853
+own_core 144
+own_core 142
+own_core 4699
+own_core 147
+own_core 146
+own_core 4701
+own_core 145
+own_core 1773
+own_core 146 tts
+own_core 3003
+own_core 164
+own_core 2348
+own_core 318
+own_core 2297
+own_core 2296
+own_core 4700
+own_core 317
+own_core 316
+own_core 2299
+own_core 4312
+own_core 322
+own_core 4308
+own_core 4309
+own_core 319
+own_core 2298
+own_core 1848
+own_core 4311
+own_core 326
+own_core 323
+own_core 1766
+own_core 138
+own_core 1827
+own_core 4757
+own_core 4755
+own_core 3002
+own_core 1831
+own_core 139
+own_core 4307
+own_core 324
+own_core 2302
+own_core 327
+own_core 2301
+own_core 4314
+own_core 4313
+own_core 325
+own_core 328
+own_core 1846
+own_core 2300
+own_core 2303
+own_core 2313
+own_core 2308
+own_core 2305
+own_core 2306
+own_core 2309
+own_core 2314
+own_core 2327
+own_core 2304
+own_core 4315
+own_core 4303
+own_core 4301
+own_core 4310
+own_core 4296
+own_core 4295
+own_core 2307
+own_core 4302
+own_core 4292
+own_core 418
+own_core 407
+own_core 4298
+own_core 411
+own_core 4293
+own_core 415
+own_core 4294
+own_core 4291
+own_core 410
+own_core 409
+own_core 406
+own_core 405
+own_core 4297
+own_core 4271
+own_core 4270
+own_core 4268
+own_core 4316
+own_core 4316 tts
+own_core 358 tts
+own_core 365
+own_core 364
+own_core 379
+own_core 380
+own_core 381
+own_core 382
+own_core 383
+own_core 393
+own_core 377
+own_core 332
+own_core 329
+own_core 331
+own_core 330
+own_core 423
+own_core 2204
+own_core 2196
+own_core 1849
+own_core 2310
+own_core 378
+own_core 1855
+own_core 1854
+own_core 4272
+own_core 2328
+own_core 4269
+own_core 384
+own_core 2329
+own_core 2331
+own_core 385
+own_core 4278
+own_core 2332
+own_core 4277
+own_core 2330
+own_core 2337
+own_core 4274
+own_core 2338
+own_core 2210z0a
+own_core 2210 z0a
+own_core 2209 z0a
+tag z0a
+own_core 4274
+own_core 2338
+own_core 393
+own_core 2337
+own_core 4301
+own_core 423
+own_core 22 sca
+own_core 24 sca
+own_core 15 pol
+own_core 1984 pol
+own_core 23 sca
+own_core 1929 sca
+own_core 2752 sca
+own_core 20 sca
+own_core 21 sca
+own_core 18 sca
+own_core 4114 sca
+own_core 4151 sca
+own_core 315 sca
+own_core 1777 sca
+own_core 39 lit
+own_core 1939 pol
+own_core 2960 pol
+own_core 2966 pol
+own_core 162 pol
+own_core 4717 fkn
+own_core 4709 slz
+own_core 2968 slz
+own_core 4756 cro
+own_core 4173 cro
+own_core 4126 pol
+tag pol
+observe
+own_core 141 byz
+tag adu
+own_core 4546
+own_core 226
+own_core 223
+own_core 222
+own_core 221
+own_core 4547
+own_core 1748
+own_core 230
+own_core 229
+own_core 4150
+own_core 4787
+own_core 227
+own_core 1851
+own_core 228
+own_core 4556
+own_core 231
+own_core 232
+own_core 4558
+own_core 4555
+own_core 206
+own_core 4554
+own_core 207
+own_core 208
+own_core 215
+own_core 219
+own_core 217
+own_core 2751
+own_core 2755
+own_core 2989
+own_core 210
+own_core 209
+own_core 1745
+own_core 1746
+own_core 4552
+own_core 4789
+own_core 4553
+own_core 216
+own_core 4788
+own_core 4551
+own_core 1747
+own_core 218
+own_core 224
+own_core 225
+own_core 2754
+own_core 4548
+own_core 1749
+own_core 334
+own_core 1751
+Delete_wars
+own_core 343
+own_core 4561
+own_core 4563
+own_core 342
+own_core 4564
+own_core 2469
+own_core 345
+own_core 346
+own_core 4568
+own_core 2468
+own_core 2467
+own_core 349
+own_core 2470
+own_core 1110
+own_core 347
+own_core 335
+own_core 4562
+own_core 337
+own_core 2461
+own_core 338
+own_core 339
+own_core 2459
+own_core 2462
+own_core 336
+own_core 2465
+own_core 2463
+own_core 350
+own_core 2458
+own_core 2457
+own_core 2456
+own_core 351
+own_core 352
+own_core 2472
+own_core 2450
+own_core 4567
+own_core 2449
+own_core 2448
+own_core 2474
+own_core 356
+own_core 357
+own_core 2475
+own_core 344
+own_core 348
+own_core 2464
+own_core 2466
+own_core 2460
+own_core 1127
+tag tts
+debug_mode
+tag c11
+debug_mode
+tag c11
+debug_mode
+own_core 4557 tts
+tag fra
+own_core 92
+
+own_core 93
+own_core 1742
+own_core 96
+own_core 4383
+own_core 97
+own_core 98
+own_core 95
+own_core 99
+own_core 4381
+own_core 100
+own_core 4382
+own_core 4770
+own_core 1878
+own_core 1878 hes
+tag c17
+assimilate 1106
+assimilate 2739
+assimilate 1108
+assimilate 4939
+assimilate 2737
+assimilate 1107
+assimilate 2738
+assimilate 1109
+assimilate 1246
+assimilate 1989
+assimilate 1242
+assimilate 4938
+assimilate 4937
+tag c19
+assimilate 1091
+assimilate 4861
+assimilate 4862
+assimilate 2736
+assimilate 1086
+assimilate 2735
+assimilate 1088
+assimilate 1087
+assimilate 2734
+assimilate 4859
+assimilate 1089
+assimilate 4860
+assimilate 4858
+assimilate 2730
+tag c17
+assimilate 1986
+assimilate 1239
+assimilate 1243
+assimilate 1990
+remove_core 2730
+remove_core 1091
+remove_core 2736
+remove_core 4862
+remove_core 1086
+remove_core 2735
+remove_core 1088
+remove_core 4861
+remove_core 1091
+remove_core 1089
+remove_core 4860
+remove_core 2734
+remove_core 1087
+remove_core 4859
+remove_core 4858
+adm 500
+dip 500
+mil 500
+debug_mode
+integrate c113
+integrate c13
+integrate c06
+own_core 2889
+own_core 2809
+tag gbr
+inherit que
+integrate que
+integrate lou
+tag c05
+tag c10
+own_core 2452 adu
+own_core 354 adu
+own_core 2451 adu
+own_core 355 adu
+own_core 339 tun
+own_core 338 tun
+own_core 2461 tun
+own_core 337 tun
+own_core 4915 usa
+own_core 2600 c23
+own_core 1009 gbr
+own_core 2590 gbr
+own_core 2591 gbr
+own_core 4895 gbr
+own_core 993 gbr
+own_core 990 gbr
+own_core 4893 gbr
+own_core 2578 gbr
+own_core 911 gbr
+own_core 988 gbr
+own_core 2586 gbr
+own_core 2517 usa
+own_core 2006 usa
+own_core 2007 usa
+own_core 2598 gbr
+own_core 2004 gbr
+own_core 4649 mex
+own_core 864 mex
+own_core 4628 c09
+own_core 2493 c09
+own_core 4634 c09
+own_core 2491 c09
+own_core 4802 bei
+own_core 2706 bei
+own_core 2708 bei
+own_core 4701 bei
+own_core 4801 bei
+own_core 4801 byz
+own_core 4701 byz
+own_core 4801 bei
+own_core 1023 jap
+own_core 1825 jap
+own_core 4184 jap
+own_core 1014 jap
+own_core 724 rus
+own_core 2353 rus
+own_core 1082 rus
+own_core 1957 rus
+own_core 308 rus
+tag rus
+integrate prm
+own_core 2320 mam
+own_core 1225 mam
+own_core 2771 mam
+own_core 1229 mam
+own_core 1232 mam
+own_core 1226 mam
+own_core 4033 mam
+own_core 2772 mam
+own_core 2770 mam
+own_core 2762 mam
+own_core 802 peu
+own_core 2831 peu
+debug_mode
+own_core 65 bav
+tag bav
+mil
+dip
+adm
+dip
+mil
+dip
+mil
+dip
+mil
+dip
+adm
+dip
+mil
+dip
+integrate aug
+change_religion reformed
+vassalize ita
+own_core 4713
+own_core 1867
+own_core 74 fra
+own_core 4716 fra
+own_core 4714 fra
+own_core 4716 fkn
+own_core 4768 fra
+own_core 4714 bav
+own_core 74 bav
+own_core 72 bav
+own_core 4166 sca
+dip 100
+prestige
+
+prestige
+tag fra
+delete war
+deletewar
+delete_wars
+tag tts
+form_union byz
+DEBUG_MODE
+tag h03
+tag h10
+tag h17
+debug_mode
+tag bng
+observe
+debug_mode
+tag y85
+tag y91
+manpower 10
+cash
+adm
+cash
+yesman
+debug_mode
+own_core 4258
+assimilate 4259
+cash
+own_core
+colonise 4298
+colonize 4298
+colonize 4300
+assimilate 4300
+assimilate 4298
+own_core 4302
+own_core 4303
+own_core 4304
+own_core 4305
+own_core 4306
+own_core 4350
+own_core 4307
+own_core 4308
+own_core 4309
+own_core 4310
+own_core 4311
+own_core 4312
+own_core 4313
+assimilate 4530
+assimilate 4350
+assimilate 4311
+assimilate 4313
+adm
+observe
+debug_mode
+own_core 4314
+own_core 4315
+own_core 4316
+own_core 4317
+own_core 4318
+own_core 4319
+own_core 4320
+own_core 4356
+own_core 4359
+own_core 4323
+adm
+assimilate 4323
+mi
+mil
+yesman
+own_core 4336
+assimilate 4335
+assimilate 4334
+assimilate 4351
+assimilate 4325
+assimilate 4326
+assimilate 4353
+assimilate 4327
+assimilate 4329
+assimilate 4354
+assimilate 4345
+assimilate 4355
+assimilate 4330
+assimilate 4331
+assimilate 4332
+assimilate 4340
+assimilate 4342
+mil
+dip
+yesman
+observe
+debug_mode
+tag z01
+integrate arb
+tag mal
+observe
+tag mal
+observe
+tag z02
+observe
+tag fra
+tag z02
+debug_mode
+integrate hsk
+integrate hskymn
+integrate ymn
+integrate ouc
+integrate otm
+
+integrate kkc
+integrate smz
+integrate ito
+integrate htk
+integrate ues
+integrate sba
+integrate dte
+integrate tki
+integrate ogs
+integrate utn
+integrate efe
+integrate rfr
+integrate soo
+integrate kno
+integrate shn
+integrate tti
+integrate ktb
+integrate ask
+integrate oda
+integrate tkg
+integrate img
+integrate tkd
+integrate cba
+integrate stk
+integrate akt
+integrate anu
+integrate isk
+integrate ama
+debug_mode
+integrate ARB
+debug_mode
+integrate sco
+adm 99999
+government_reporm
+add_reform
+reform
+government_reform
+reform_progress 10000
+reformprogress 10000
+tag per
+tag pem
+debug_mode
+tag prm
+change_religion sunni
+debug_mode
+tag lan
+tag mfa
+debug_mode
+tag dlh
+tag z00
+observe
+tag z00
+observe
+add_reform
+addreform
+governmentreform
+government_reform
+reformprogress
+reformprogress 1000000
+debug_mode
+tag rut
+own core 1944 ukr
+owncore 1944 ukr
+own_core 1944 ukr
+tag ukr
+tag eng
+manpower 40
+observe
+debug_mode
+tag fri
+integrate z19
+integrate ger
+integrate pal
+integrate saw
+integrate swa
+integrate pom
+integrate z1b
+reformprogress
+debug_mode
+tag tmb
+observe
+tag fza
+tag tun
+tag tmb
+tag aie
+tag air
+tag son
+debug_mode
+integrate sco
+integrate loi
+dip
+mil
+adm
+mil
+adm
+dip
+mil
+adm
+reformprogress
+adm
+reformprogress
+debug_mode
+tag z01
+tag fra
+tag fri
+tag mal
+tag rus
+tag mge
+observe
+tag z02
+observe
+tag bul
+tag z18
+tag gre
+tag aju
+observe
+tag pun
+observe
+1tag z02
+tag z02
+tag mge
+convert 445
+assimilate 445
+tag z02
+tag mge
+tag z02
+tag spa
+observe
+debug_mode
+tag z01
+tag spa
+tag fra
+tag fri
+tag rus
+tag mal
+tag z01
+tag z02
+tag z01
+tag rus
+tag spa
+tag mal
+tag z03
+tag z02
+tag mge
+tag fra
+tag rus
+tag fra
+tag fri
+tag rus
+tag fra
+observe
+change_religion catholic
+debug_mode
+tag boh
+tag fra
+tag mge
+tag fra
+tag mge
+observe
+tag z02
+tag mal
+observe
+tag fra
+own 4767 ger
+tag ger
+own 80
+own 1760
+own 188
+own 188 fra
+observe
+tag mng
+tag mon
+tag mng
+debug_mode
+tag mge
+tag z02
+observe
+debug_mode
+own_core 412 z01
+own_core 412 per
+own_core 4289 per
+tag z02
+ovserve
+observe
+debug_mode
+tag t05
+tag y05
+tag y07
+tag y08
+tag y04
+tag y10
+tag y02
+tag y09
+tag y23
+tag y21
+tag y24
+tag y20
+observe
+tag y93
+tag y91
+observe
+debug_mode
+tag r62
+observe
+tag h72
+observe
+tag y85
+observe
+tag y15
+observe
+tag a20
+observe
+
+tag a23
+tag a22
+tag a21
+observe
+tag y01
+observe
+tag f42
+observe
+tag u29
+tag u20
+observe
+tag h68
+observe
+tag h68
+observe
+tag h68
+own_core 4119
+own_core 4122
+own_core 4128
+own_core 4149
+adm 99999
+mil 99999
+dip 99999
+own_core 2992
+own_core 2991
+own_core 2990
+own_core 2989
+own_core 2988
+own_core 2931
+own_core 2876
+own_core 4104
+own_core 2932
+own_core 2875
+own_core 2934
+own_core 2986
+own_core 2974
+own_core 2874
+own_core 2873
+own_core 2933
+own_core 2872
+own_core 3003
+own_core 4020
+own_core 3002
+own_core 2863
+own_core 2864
+own_core 4236
+own_core 4056
+own_core 4043
+own_core 2871
+own_core 2995
+own_core 2867
+own_core 2868
+own_core 2877
+own_core 2937
+own_core 2878
+own_core 2879
+own_core 4103
+own_core 2973
+own_core 2968
+own_core 2969
+own_core 4240
+own_core 4100
+own_core 2962
+own_core 2946
+own_core 2945
+own_core 2944
+own_core 2943
+own_core 2942
+own_core 2955
+own_core 2948
+own_core 4093
+own_core 2954
+own_core 2956
+own_core 2957
+own_core 2987
+own_core 4238
+own_core 2880
+own_core 2963
+own_core 2980
+own_core 2984
+own_core 2985
+own_core 4036
+own_core 4037
+own_core 4038
+own_core 4039
+own_core 2881
+own_core 2882
+own_core 2883
+own_core 4029
+own_core 2884
+own_core 4996
+own_core 2608
+own_core 5101
+own_core 2608
+own_core 2886
+own_core 2887
+own_core 2888
+own_core 2889
+own_core 2890
+own_core 4078
+own_core 2891
+own_core 4027
+own_core 4082
+own_core 4124
+own_core 2892
+own_core 2893
+own_core 2894
+own_core 2895
+own_core 2914
+ti
+own_core 4208
+own_core 4247
+own_core 4284
+own_core 4350
+own_core 4266
+own_core 4311
+own_core 4313
+own_core 4323
+own_core 526
+own_core 4265
+own_core 4218
+own_core 4217
+own_core 4147
+own_core 5424
+assimilate 4218
+assimilate 4265
+assimilate 4284
+assimilate 4266
+assimilate 4350
+assimilate 4311
+assimilate 4313
+assimilate 4323
+assimilate 4078
+assimilate 4039
+assimilate 4100
+assimilate 4238
+assimilate 2942
+assimilate 2963
+assimilate 4097
+assimilate 4149
+assimilate 4119
+assimilate 4128
+assimilate 4122
+prestige
+assimilate 4122
+prestige
+assimilate 2931
+assimilate 4274
+assimilate 4269
+cash
+manpower
+assimilate 2866
+assimilate 2865
+assimilate 2935
+cash
+assimilate 4231
+assimilate 4091
+assimilate 4111
+assimilate 4112
+assimilate 4113
+assimilate 4114
+assimilate 4090
+assimilate 2885
+assimilate 4028
+assimilate 2970
+assimilate 2979
+assimilate 4242
+
+assimilate 4243
+assimilate 4244
+assimilate 4246
+assimilate 4245
+assimilate 4248
+assimilate 4249
+assimilate 4250
+assimilate 4255
+assimilate 4256
+assimilate 4257
+assimilate 4258
+assimilate 4259
+assimilate 4260
+assimilate 4261
+assimilate 4262
+assimilate 4263
+assimilate 4264
+assimilate 4297
+assimilate 4298
+assimilate 4300
+assimilate 4302
+assimilate 4303
+assimilate 4304
+assimilate 4305
+assimilate 4304
+assimilate 4236
+debug_mode
+make subject Ayu mng
+make_subject Ayu mng
+tag mng
+make_subject Ayu
+make_subject Ayu trib
+make_subject Ayu tributary
+make_subject help
+make_subject Ayu tri
+make_subject Ayu tributary
+make_subject Ayu
+make_subject Ayu mng
+make_subject ayu
+tributary ayu
+trust ayu 50
+tag mgn
+tag mng
+trust ayu 50
+tag ayu
+trust ayu 50
+trust mng 50
+tag dng
+tag eng
+tag fra
+tag tim
+tag eng
+observe
+debug_mode
+tag bng
+tag mug
+tag bng
+tag mug
+observe
+debug_mode
+tag soo
+debug_mode
+own 151
+cash
+debug_mode
+own_core 126
+own_core 2313
+own_core 379
+own_core 1855
+own_core 378
+own_core 4297
+own_core 382
+own_core 381
+own_core 380
+own_core 2327
+own_core 405
+own_core 4271
+own_core 2334
+own_core 4270
+own_core 364
+own_core 1854
+own_core 377
+own_core 1849
+own_core 4298
+own_core 145
+own_core 1773
+own_core 4701
+own_core 164
+own_core 3003
+own_core 4700
+own_core 163
+own_core 151
+own_core 4779
+own_core 4705
+own_core 4702
+own_core 148
+own_core 147
+own_core 4699
+own_core 144
+own_core 1853
+own_core 4780
+own_core 149
+own_core 1764
+own_core 3001
+own_core 4698
+
+own_core 142
+own_core 316
+own_core 317
+own_core 2296
+own_core 146
+own_core 318
+assimilate 379
+assimilate 364
+assimilate 1854
+assimilate 1855
+assimilate 382
+assimilate 378
+
+assimilate 4297
+assimilate 1849
+assimilate 381
+assimilate 380
+assimilate 2327
+assimilate 377
+assimilate 2313
+assimilate 4298
+assimilate 4316
+assimilate 363
+assimilate 362
+assimilate 358
+assimilate 2316
+assimilate 4317
+assimilate 361
+assimilate 359
+assimilate 4318
+assimilate 2315
+assimilate 365
+assimilate 2320
+assimilate 2317
+assimilate 2319
+assimilate 4320
+assimilate 360
+assimilate 4319
+assimilate 2321
+assimilate 1231
+assimilate 143
+assimilate 4174
+assimilate 4175
+assimilate 4750
+assimilate 4754
+assimilate 137
+assimilate 136
+assimilate 4753
+assimilate 1826
+assimilate 4752
+assimilate 131
+assimilate 4756
+assimilate 1767
+assimilate 152
+assimilate 1828
+assimilate 140
+assimilate 4173
+assimilate 139
+assimilate 3002
+assimilate 4755
+assimilate 4239
+assimilate 4757
+assimilate 1831
+assimilate 1827
+assimilate 141
+assimilate 4176
+assimilate 2746
+assimilate 138
+assimilate 300
+assimilate 3000
+assimilate 1766
+assimilate 1765
+assimilate 4703
+assimilate 2750
+assimilate 150
+assimilate 4704
+assimilate 159
+assimilate 4706
+assimilate 2299
+assimilate 325
+assimilate 328
+assimilate 2304
+assimilate 330
+assimilate 331
+assimilate 4296
+assimilate 2307
+assimilate 2306
+assimilate 2305
+assimilate 418
+assimilate 2308
+assimilate 4295
+assimilate 2303
+assimilate 2301
+assimilate 2300
+assimilate 2302
+assimilate 2298
+assimilate 4310
+assimilate 4315
+assimilate 4313
+assimilate 4312
+assimilate 4308
+assimilate 4309
+assimilate 4307
+assimilate 321
+assimilate 319
+assimilate 322
+assimilate 326
+assimilate 329
+assimilate 332
+assimilate 327
+assimilate 324
+assimilate 323
+assimilate 2297
+assimilate 4311
+assimilate 4314
+assimilate 1848
+assimilate 1846
+assimilate 2348
+yesman
+dip 9999
+adm 9999
+mil 9999
+cash
+tag byz
+integrate tur
+integrate pap
+tag aus
+tag hab
+integrate byz
+yesman
+
+yesman
+manpower
+stab
+stability
+cash 50
+adm
+cash 500
+adm 100
+dip 300
+yesman
+manpower
+dip 300
+manpower
+yesman
+cash
+debug_mode
+own_core 126
+adm 300
+own_core 143
+own_core 141
+cash 500
+adm 155
+own_core 1204
+own_core 2851
+own_core 1203
+own_core 2846
+own_core 1202
+own_core 2847
+own_core 2852
+own_core 1208
+own_core 1205
+own_core 103
+own_core 147
+own_core 149
+own_core 165
+own_core 139
+own_core 137
+own_core 163
+own_core 136
+own_core 130
+own_core 131
+own_core 132
+own_core 76
+own_core 12
+stability 1
+cash 1000
+cash 100
+dip 100
+adm 100
+traditon 100
+republicantraditon 100
+add_republican_traditon 59
+add_republican_tradititon 59
+add_republican_traditon 59
+add_republican_tradition 59
+adm 200
+yesman
+obverse
+observe
+debug_mode
+detag a21
+tag a21
+observe
+debug_mode
+tag a83
+tag a32
+observe
+tag y85
+observe
+debug_more
+debug_mode
+tag y15
+observe
+tag y15
+observe
+tag y15
+observe
+tag y15
+observe
+debug_mode
+tag y16
+tag y15
+tag y16
+tag y15
+stability 1
+yesman
+observer
+observe
+debug_mode
+tag a13
+observe
+tag a13
+observe
+tag a13
+debug_mode
+own_core 66
+tag byz
+cash 100
+cash 400
+manpower 20
+cash 100
+manpower 5
+yesman
+cash 100
+dip 150
+cash 200
+cash 100
+cash 200
+manpower 10
+cash 200
+debug_mode
+tag y77
+tag y64
+own_core y65
+own_core 4963
+observe
+tag y64
+tag eng
+tag tur
+debug_mode
+tag fra
+tag spa
+tag fri
+tag ita
+tag fra
+debug_mode
+tag z01
+tag mal
+debug_mode
+tag spa
+tag fra
+tag soa
+tag spa
+tag rum
+tag gre
+tag nge
+tag mge
+tag z02
+debug_mode
+tag ogs
+observe
+tag lwa
+tag tus
+observe
+debug_mode
+own 1126
+own 2258
+own 2257
+own 1139
+own 1141
+own 1119
+own 2242
+own 1151
+own 1163
+own 1118
+own 2241
+observe
+debug_mode
+tag mal
+integrate jnn
+observer
+observe
+debug_mode
+tag mge
+observe
+tag mge
+debug_mode
+tag u07
+tag a49
+debug_mode
+observe
+debug_mode
+tag a86
+observe
+tag a25
+observe
+tag b16
+reformprogress 100
+reformprogress 10000
+cash 1000
+adm 999999
+dip 9999999
+mil 9999999
+tag b07
+reformprogress 10000
+mil 9999999
+dip 9999999
+adm 999999
+cash 1000
+debug_mode
+tag y72
+tag y71
+tag y23
+tag y20
+observe
+tag y20
+mil 200
+adm 20
+yesman
+manpower 10
+yesman
+manpower 10
+debug_mode
+own_core 4839
+own_core 4837
+yesman
+stability
+tag t96
+tag y96
+tag y20
+dip 45
+dip 200
+dip 30
+dip 200
+observe
+debug_mode
+tag h68
+own_core 2931
+own_core 4236
+own_core 4999
+own_core 4129
+own_core 4121
+own_core 4122
+own_core 4119
+own_core 4149
+own_core 4128
+own_core 2992
+own_core 2993
+own_core 2994
+own_core 2996
+own_core 2997
+own_core 4147
+own_core 2998
+own_core 2999
+own_core 3000
+own_core 3001
+own_core 3002
+own_core 3003
+own_core 4020
+own_core 4097
+own_core 2933
+own_core 2872
+own_core 4043
+own_core 2871
+own_core 2995
+own_core 4023
+own_core 4025
+own_core 2867
+own_core 2866
+own_core 2865
+own_core 2935
+own_core 2864
+own_core 2863
+own_core 2868
+own_core 4056
+own_core 2937
+own_core 287
+own_core 2878
+own_core 2879
+own_core 2880
+own_core 2963
+own_core 4103
+own_core 2980
+own_core 2979
+own_core 2970
+own_core 2968
+own_core 2973
+own_core 2969
+own_core 2425
+own_core 4240
+own_core 4100
+own_core 4996
+own_core 2881
+own_core 2882
+own_core 2883
+own_core 4029
+own_core 2884
+own_core 2885
+own_core 4217
+own_core 4039
+tag ti
+ti
+own_core 4093
+own_core 4238
+own_core 2942
+tag f23
+tag h68
+own_core 4078
+tag h78
+tag h68
+own_core 4266
+own_core 4265
+own_core 4269
+observe
+debug_mode
+tag i29
+tag i30
+tag i26
+MANPOWER 10
+yesman
+MANPOWER 10
+yesman
+prestige 20
+yesman
+MANPOWER 10
+yesman
+MANPOWER 10
+adm 1000
+adm -600
+adm 200
+MANPOWER 10
+cash 200
+yesman
+MANPOWER 10
+adm 200
+yesman
+MANPOWER 10
+integrate i30
+integrate i28
+own_core 3009
+own_core 3032
+own_core 3048
+yesman
+adm 500
+mil 500
+innitivoness
+innovativeness
+cash 1000
+observe
+debug_mode
+tag h04
+tag h07
+tag h03
+tag h07
+own_core 2028
+own_core 2041
+own_core 2030
+own_core 2048
+integrate h08
+own_core 2042
+own_core 2039
+own_core 2040
+own_core 2035
+own_core 2023
+own_core 2053
+cash 3
+cash 300
+mil 200
+cash 300
+dip 400
+prestige 2
+stability
+cash 300
+debug_mode
+own_core 2007
+own_core 1987
+own_core 1973
+own_core 1969
+own_core 2090
+
+own_core 2089
+own_core 2087
+own_core 2088
+own_core 1965
+own_core 1968
+own_core 1983
+own_core 1775
+own_core 1970
+own_core 2159
+colonize 2060
+adm 600
+cash 500
+debug_mode
+own_core 2036
+own_core 2013
+own_core 2015
+own_core 2050
+own_core 2017
+own_core 2016
+own_core 2005
+own_core 1118
+own_core 1993
+own_core 1875
+own_core 2011
+own_core 1990
+own_core 2014
+own_core 2003
+own_core 2012
+own_core 1771
+debug_mide
+debug_mode
+own_core 2092
+manpower 10
+colonize 2798
+own_core 2749
+debug_mode
+own_core 1766
+own_core 1193
+adm 300
+observe
+debug_mode
+integrate h02
+integrate h01
+integrate h10
+integrate h16
+integrate h08
+own_core 1109
+mil 100
+add_claim 2002
+yesman
+vassalize h12
+cash 500
+integrate h13
+integrate h09
+integrate h06
+own_core 2022
+adm 8888
+observe
+debug_mode
+tag mal
+ai
+ti
+integrate jnn
+tag fra
+tag saw
+tag swa
+tag pol
+tag z03
+integrate swi
+tag mal
+tag z0e
+tag mdv
+tag rus
+tag boh
+tag z03
+tag spa
+tag z01
+tag z03
+tag z02
+tag mal
+tag mge
+tag swi
+observe
+tag afr
+tag swi
+observe
+tag z01
+tag z00
+tag z01
+ai
+tag spa
+tag fra
+tag z03
+tag fri
+tag z02
+tag mal
+tag swi
+tag bng
+tag z01
+own_core 2402 z04
+own_core 2402 boh
+tag z03
+own_core 2402 z03
+
+own_core 2402 z03
+tag z03
+tag z04
+tag z05
+tag z06
+tag z07
+tag z08
+tag z09
+tag z00
+tag z10
+tag z11
+tag z12
+tag z13
+tag z14
+tag z15
+tag z16
+tag z17
+tag z18
+tag z19
+tag z20
+tag z21
+tag z22
+tag z23
+tag z24
+tag z25
+tag z26
+tag z27
+tag z28
+tag z29
+tag z30
+tag z31
+tag z26
+own_core 282 z26
+tag z00
+tag trs
+tag per
+tag krl
+observe
+own_core aac
+own_core 1878 aac
+own_core 1878
+observe
+debug_mode
+tag syg
+debug_mode
+tag nag
+tag bhu
+tag fra
+tag est
+observe
+tag ham
+tag tgt
+tag oka
+tag dec
+observe
+tag cm[
+tag cmp
+tag per
+debug_mode
+yesman
+ti
+debug_mode
+tag h79
+tag r62
+observe
+debug_mode
+tag h79
+observe
+tag h79
+tag h74
+tag h79
+tag r62
+tag h79
+debug_mode
+tag z08
+observe
+debug_mode
+tag h79
+cash 1000
+cash 500
+observe
+tag h79
+dip 500
+manpower 5
+cash 110
+cash 140
+cash 500
+debug_mode
+own_core 2128
+own_core 4156
+own_core 4516
+integrate tur
+integrate yem
+integrate hdr
+integrate mam
+own_core 4316
+own_core 2315
+own_core 2320
+own_core 2321
+own_core 284
+own_core 1974
+own_core 2412
+own_core 282
+own_core 2406
+own_core 2405
+own_core 1952
+own_core 4515
+own_core 469
+own_core 465
+own_core 471
+own_core 2324
+own_core 12
+own_core 1234
+own_core 2322
+own_core 1232
+own_core 2323
+own_core 555
+own_core 4490
+own_core 2095
+integrate bah
+debug_mode
+own_core 977
+own_core 979
+own_core 978
+own_core 980
+own_core 982
+own_core 981
+own_core 983
+own_core 984
+own_core 986
+cash 300
+own_core 700
+own_core 724
+own_core 752
+own_core 705
+own_core 696
+cash 300
+own_core 723
+yesman
+manpower 10
+cash 200
+manpower 10
+cash 200
+yesman
+own_core 188
+own_core 190
+own_core 198
+own_core 199
+own_core 740
+own_core 735
+own_core 736
+cash 300
+dip 200
+debug_mode
+vassalise z26
+vassalize z26
+cash 200
+observe
+tag z08
+dip 200
+cash 200
+cash 2000
+yesmaN
+adm 500
+yesman
+cash 2000
+cash 200
+yesman
+cash 500
+yesman
+own_core 713
+own_core 714
+own_core 701
+own_core 715
+own_core 712
+own_core 709
+own_core 716
+own_core 711
+own_core 733
+own_core 2787
+own_core 177
+cash 200
+own_core 850
+own_core 746
+own_core 747
+own_core 754
+own_core 755
+own_core 756
+own_core 837
+own_core 839
+own_core 833
+own_core 832
+own_core 831
+own_core 840
+own_core 823
+own_core 829
+own_core 830
+own_core 828
+own_core 855
+own_core 865
+own_core 869
+own_core 862
+own_core 860
+own_core 866
+own_core 873
+own_core 874
+own_core 229
+tag u15
+tag b50
+tag b52
+manpower 10
+yesman
+manpower 10
+cash 200
+manpower 10
+cash 200
+manpower 10
+adm 300
+manpower 10
+adm 300
+cash 200
+manpower 10
+adm 200
+cash 200
+cash 300
+cash 200
+manpower 10
+dip 500
+mil 500
+manpower 10
+cash 200
+mil 300
+yesman
+cash 200
+add_church_power
+church_power 200
+
+church_power 200
+cash 100
+church_power 200
+cash 100
+church_power 200
+cash 100
+church_power 200
+yesman
+church_power 200
+mil 300
+yesman
+cash 100
+stability
+cash 100
+church_power 200
+cash 100
+adm 200
+stability
+cash 100
+adm 600
+cash 100
+influence
+add_influence
+add_loyalty
+cash 500
+army_tradition 100
+church_power 200
+mil 500
+cash 500
+kill_heir
+kill_king
+kill_ruler
+manpower 20
+cash 500
+cash 50
+yesman
+cash 400
+manpower 10
+yesman
+adm 400
+cash 300
+dip 20
+cash 700
+mil 300
+dip 500
+debug_mode
+integrate i52
+integrate i70
+integrate i47
+cash 200
+integrate i67
+integrate i44
+integrate i55
+own_core 3042 i44
+own_core 3041 i44
+own_core 3040 i44
+own_core 3070 i44
+own_core 4102 i44
+own_core 4103 i44
+own_core 4101 i44
+own_core 3062 i44
+tag i44
+change_religion dookan
+change_religion
+change_religion old_dookan
+change_religion great_dookan
+observe
+tag j47
+yesman
+integrate i71
+integrate i58
+cash 200
+yesman
+debug_mode
+integrate i71
+integrate i58
+own 5272
+own 5271
+own 5273
+own 5270
+own 5275
+own 5277
+own 5280
+own 5289
+own 5295
+own 5281
+own 5304
+own 5282
+own 5226
+own 5225
+own 5228
+own 5227
+own 5241
+own 5238
+own 5235
+own 5246
+own 5257
+
+yesman
+manpower 10
+debug_mode
+add_core 740
+own_core 747
+own 976
+own 978
+
+own 979
+own 980
+own 981
+own 982
+own 983
+own 984
+own 986
+own 985
+own 954
+observe
+observe j47
+integrate j47
+debug_mode
+yesman
+integrate i60
+integrate i74
+integrate j06
+integrate j02
+integrate j27
+integrate j08
+integrate j05
+integrate j47
+integrate j21
+integrate j23
+integrate i71
+integrate i57
+integrate i58
+integrate i76
+integrate i72
+integrate i30
+integrate j30
+integrate j28
+integrate j22
+integrate j20
+integrate j17
+integrate j31
+integrate j10
+integrate j09
+integrate j04
+integrate j15
+integrate j13
+integrate j14
+integrate j18
+integrate j01
+integrate j03
+integrate j16
+integrate j11
+integrate j12
+integrate j19
+integrate j07
+
+own 5145
+own 5144
+colonize 5143
+colonize 5080
+colonize 5082
+colonize 5084
+colonize 5083
+colonize 5085
+colonize 5089
+colonize 5086
+colonize 5148
+colonize 5090
+colonize 5091
+colonize 5147
+colonize 5150
+colonize 5151
+colonize 5154
+colonize 5152
+colonize 5157
+colonize 5159
+colonize 5164
+colonize 5153
+colonize 2194
+colonize 5161
+colonize 5165
+colonize 5168
+colonize 5179
+colonize 5181
+integrate z50
+colonize 4198
+integrate h85
+
+integrate h80
+colonize 4158
+colonize 4164
+colonize 4166
+colonize 4152
+colonize 4129
+colonize 4125
+colonize 4149
+colonize 4128
+colonize 4119
+colonize 4122
+colonize 4121
+colonize 4120
+colonize 4203
+colonize 6214
+colonize 733
+colonize 734
+own_core 741
+observe
+tag j47
+1ti
+ti
+integrate z09
+integrate z11
+integrate z08
+integrate z15
+colonize 2829
+adm 900
+dip 900
+mil 900
+own_core 839
+own_core 833
+own 707
+own 722
+own 721
+own 706
+own 731
+own 704
+own 705
+own 752
+own 724
+own 700
+own 703
+own 695
+own 696
+own 699
+own 698
+own 697
+own 694
+own 702
+change_religion snek
+tag z01
+1
+
+1
+cash 50
+mnapower 10
+mpower 10
+manpower 10
+cash 50
+manpower 10
+cash 1--
+cash 100
+manpower 10
+debug_mode
+tag y05
+yesman
+tag y91
+tag y85
+tag y05
+tag y91
+tag y85
+tag y91
+tag y85
+yesman
+manpower 10
+adm 50
+debug_mode
+own_core 4827
+adm 200
+cash 200
+adm 50
+cash 200
+cash 100
+adm 200
+cash 100
+own 4857 y05
+own 4862 y05
+own 4864 y05
+cash 400
+own_core 4855
+own_core 4859
+cash 100
+adm 500
+manpower 10
+debug_mode
+own 4860 y05
+own 4860 y91
+own 4860 y05
+own 4862 y05
+own 4864 y05
+own 4915 y05
+own 4980 y05
+own 4828
+own 4901
+own 4814
+own 4813
+own 4896
+own 4896 y05
+own 4868 y05
+own 4861 y05
+manpower 10
+tag y28
+debug_mode
+tag jnp
+tag bng
+tag dlh
+debug_mode
+own_core 4833
+own_core 4834
+own_core 4969
+own_core 4832
+own_core 4973
+own_core 4831
+cash 300
+tag r62
+tag y85
+cash 500
+cash 200
+cash 500
+debug_mode
+own 4862 y05
+stability 1
+cash 1000
+dip 400
+cash 500
+adm 500
+cash 1000
+stability 2
+cash 400
+adm 200
+cash 400
+adm 100
+cash 2000
+dip 3400
+mil 500
+adm 600
+cash 1000
+cash 3000
+dip 300
+cash 500
+cash 800
+mil 500
+manpower 60
+mil 200
+yesman
+cash 800
+manpower 60
+dip 500
+adm 500
+clear ar
+clear ae
+clearae
+dip 500
+dip 100
+yesman
+manpower 60
+dip 200
+yesman
+stability 1
+observe
+debug_mode
+tag a-6
+tag a06
+observe
+debug_mode
+tag a38
+observe
+tag h77
+observe
+tag h87
+observe
+tag h77
+observe
+tag b20
+ovserve
+observe
+debug_mode
+tag h77
+cash 300
+debug_mode
+tag a06
+cash 120
+yesman
+own_core 197
+own_core 200
+own_core 694
+own_core 175
+own_core 176
+own_core 177
+own_core 178
+own_core 179
+own_core 180
+own_core 182
+own_core 184
+own_core 183
+own_core 187
+dip 100
+own_core 186
+own_core 4646
+own_core 185
+own_core 4643
+own_core 4645
+own_core 4644
+own_core 189
+dip 100
+dip 3000
+adm 3000
+mil 3000
+adm 3000
+dip 3000
+own_core 172
+own_core 173
+observe
+debug_mode
+tag jnp
+tag gng
+tag bng
+observe
+tag fra
+ti
+cash 1000000
+colonist 1
+add_colonist 1
+debug_mode
+tag vij
+tag srh
+mil 300
+cash 200
+mnapower 20
+manpower 20
+cash 200
+cash 400
+mil 50
+dip 100
+cash 500
+mil 200
+dip 200
+mil 200
+dip 200
+cash 500
+yesman
+stability 2
+cash 400
+debug_mode
+add_core 2394
+add_core 1105
+adm 500
+cash 400
+tag z02
+tag z03
+tag z01
+observe
+tag hel
+tag aeg
+tag gre
+tag fra
+observe
+tag z00
+observe
+tag z01
+tag z00
+tag swi
+observe
+debug_mode
+observe
+tag val
+tag z01
+tag rus
+tag ben
+tag beg
+tag ber
+debug_mode
+tag bng
+observe
+manpower 20
+debug_mode
+tag y09
+tag y24
+tag y20
+tag y09
+tag y20
+yesman
+mil 50
+debug_mode
+own 4835
+yesman
+ti
+yesman
+tag y63
+tag y20
+ti
+manpower 1-
+manpower 10
+cash 30-
+manpower 10
+cash 100
+cash 300
+cash 100
+manpower 10
+cash 200
+manpower 10
+prestige 50
+legitamacy 50
+legitimacy 50
+legitimacy 10-
+legitimacy 100
+manpower 10
+debug_mode
+tag r07
+yesman
+tag r51
+yesman
+manpower 10
+cash 300
+mil 50
+cash 100
+observe
+debug_mode
+tag aju
+observe
+tag sco
+observe
+tag ara
+tag z00
+observe
+tag pol
+observe
+tag mng
+observe
+tag z00
+tag z01
+observe
+tag fra
+observe
+debug_mode
+tag dlh
+tag bah
+tag dlh
+tag ava
+debug_mode
+
+debug_mode
+tag z01
+cash 400
+mil 500
+dip 500
+adm 700
+manpower 20
+cash 500
+manpower 20
+cash 500
+manpower 20
+yesman
+debug_mode
+tag npl
+debug_mode
+own 4491
+own 4491 Z01
+tag fra
+observe
+tag z01
+tag nbpl
+tag npl
+tag z01
+tag z0e
+add_opinion ava 200
+add_opinion guj 200
+add_opinion ava 200
+add_opinion guj 200
+tag z01
+add_opinion guj 200
+add_opinion ava 200
+tag npl
+tag z01
+add_opinion ava 200
+add_opinion guj 200
+add_opinion npl 200
+yesman
+mnapower 20
+manpower 20
+add_trust
+trust
+trust ava 20
+trust guj 20
+trust nep 20
+tag nel
+tag nep
+tag npl
+trust z01 20
+tag z01
+tag npl
+trust z01 20
+tag z01
+debug_mode
+tag fra
+tag rus
+tah z00
+tag z00
+tag mal
+tag som
+tag eth
+tag z01
+trust z01 20
+add_opinion npl 200
+add_opinion guj 200
+add_opinion ava 200
+yesman
+add_opinion ava 200
+add_opinion guj 200
+add_opinion npl 200
+observe
+debug_mode
+observe
+tag z01
+observe
+tag z01
+observe
+tag z01
+yesman
+observe
+debug_mode
+tag guj
+tag z01
+tag npl
+tag ava
+tag z01
+tag ava
+tag z01
+tag npl;
+tag ava
+tag guj
+tag bng
+tag npl
+tag z01
+tag npl
+tag ava
+tag guj
+tag z01
+observe
+tag z02
+tag z01
+observe
+tag bng
+observe
+tag npl
+observe
+tag npl
+observe
+tag bng
+observe
+tag z01
+tag npl
+debug_mode
+observe
+tag i82
+debug_mode
+tag guj
+tag ava
+tag z01
+yesman
+tag aka
+tag aso
+tag soo
+debug_mode
+tag ask
+tag aju
+yesman
+tag aju
+debug_mode
+tag t00
+debug_mode
+tag t00
+tag aju
+adm 300
+observe
+tag wls
+tag z01
+debug_mode
+own 2071 NPL
+own 4482  NPL
+own 4482 NPL
+own 565 NPL
+own 4481 NPL
+own 676 NPL
+own 4518 NPL
+own 4514 NPL
+own 4515 NPL
+own 4516 NPL
+own 2128 NPL
+own 4520 NPL
+own 2128 NPL
+own 4516 NPL
+own 4515 NPL
+own 4514 NPL
+own 676 NPL
+own 4481 NPL
+debug_mode
+own 2071 NPL
+own 4482 NPL
+own 565 NPL
+own 4518 NPL
+debug_mode
+yesman
+cash 100
+cash 500
+dip 30
+debug_mode
+tag c00
+tag c01
+tag a21
+yesman
+cash 500
+manpower 10
+cash 300
+stability
+manpower 10
+cash 300
+ti
+debug_mode
+own 1114
+own 1468
+own 2239
+own_core 1114
+own_core 2239
+adm 100
+cash 100
+debug_mode
+own_core 4482 npl
+own_core 565 npl
+own_core 4481 npl
+own_core 676 npl
+own_core 4514 npl
+own_core 4518 npl
+own_core 4515 npl
+own_core 2071 npl
+own_core 4516 npl
+own_core 2128 npl
+own_core 4520 npl
+tag ava
+observe
+debug_mode
+tag f23
+observe
+tag t91
+tag y91
+observe
+debug_mode
+tag a02
+tag a45
+tag u02
+tag g29
+tag g48
+tag g59
+tag g60
+tag g84
+observe
+debug_mode
+observe
+debug)_mode
+debug_mode
+tag i66
+tag a35
+tag b36
+tag g21
+tag h18
+tag r62
+tag y03
+tag y51
+tag y93
+help
+run gng_crisis.1
+run gng_crisis.1.txt
+run gng_crisis.1
+stability
+yesman
+debug_mode
+yesman
+stability
+yesman
+debug_mode
+observe
+debug_mode
+tag b38
+tag b39
+tag b38
+tag f46
+tag a01
+tag f46
+observe
+tag f46
+tag a38
+tag f46
+observe
+tag f46
+observe
+tag f46
+yesman
+debug_mode
+tag u07
+tag u08
+tag a49
+debug_mode
+tag f54
+tag f55
+observe
+tag u07
+debug_mode
+colonise 2880
+colonize 2880
+yesman
+debug_mode
+own 4065
+adm 600
+cash 100
+own 2873
+adm 600
+yesman
+own 2864
+adm 600
+own 2890
+yesman
+adm 600
+cash 200
+observe
+yesman
+debug_mode
+stability
+yesman
+stability
+yesman
+stability
+
+yesman
+stability
+yesman
+stability
+debug_mode
+stability
+yesman
+corruprtion -5
+corrupt -5
+run
+run gng_crisis
+run gng_crisis.txt
+run gng_crisis
+run gng_events.txt
+run gng_events.txt gng_crisis.2
+rungng_crisis.2
+run gng_crisis.2
+help run
+run [gng_crisis.2] Ganga_events.txt
+run Ganga_events.txt
+run Ganga_events.txt gng_crisis.2
+run Ganga_events.txt
+yesman
+stability
+debug_mode
+own_core 2092 MUG
+tag mug
+governmentreform
+add_reform
+addreform
+reformpower
+reform
+governentreform
+governmentreform
+government
+reform_progress
+reformprogress
+stability
+yesman
+stability -2
+stability
+corrupt -5
+yesman
+stability
+debug_mode
+own 2057 mug
+tag mug
+reformprogress
+
+yesman
+stability
+yesman
+stability
+yesman
+stability
+debug_mode
+tag r62
+observe
+debug_mode
+tag tol
+observe
+tag tol
+observe
+tag tol
+observe
+tag tol
+observe
+tag tol
+observe
+tag tol
+observe
+debug_mode
+tag i89
+tag f46
+cash 600
+tag f46
+cash 600
+
+cash 600
+observe
+tag f46
+observe
+debug_mode
+tag j33
+debug_mode
+observe
+debug_mode
+tag a73
+observe
+tag fra
+tag z01
+debug_mode
+own_core 2071
+own_core 2071 NPL
+own_core 4514 NPL
+own_core 676 NPL
+own_core 4518 NPL
+own_core 4515 NPL
+own_core 4516 NPL
+own_core 2128 NPL
+own_core 4520 NPL
+own_core 4481 NPL
+own_core 565 NPL
+own_core 4482 NPL
+tag z02
+tag z01
+observe
+tag z01
+debug_mode
+tag bng
+tag MAD
+own_core 540 MAD
+tag MAD
+observe
+debug_mode
+integrate srh
+integrate dlh
+integrate mul
+integrate afg
+integrate bal
+integrate jnp
+integrate ksh
+integrate trs
+integrate sis
+integrate kho
+integrate qom
+integrate frs
+integrate lri
+stability
+integrate bng
+integrate jan
+integrate dhu
+integrate mew
+integrate mer
+integrate guj
+integrate snd
+integrate jsl
+integrate nga
+change_religion confusion
+change_religion confusionism
+change_religion confusian
+change_religion confusianism
+change_religion confusian
+integrate trt
+integrate ktu
+integrate kmt
+integrate ori
+integrate grj
+integrate had
+integrate mlw
+integrate gwa
+integrate ngp
+integrate bgl
+integrate pan
+own_core 666
+own_core 2160
+integrate ard
+cash 5000
+integrate klp
+integrate bnd
+integrate gdw
+integrate mbl
+integrate ass
+integrate sdy
+integrate kac
+integrate tpr
+integrate ldk
+add_missionary
+add_missionary mug
+add_missionary 2 mug
+add_missionary mug 2
+cash 5000
+change_religion confucianism
+harmonization 99
+harmonization 100
+dip 200
+mil 200
+harmonization 100
+adm 300
+observe
+debug_mode
+delete_wars y91
+delete_truce
+own 4842
+manpower 10
+yesman
+manpower 20
+yesman
+cash 500
+manpower 20
+cash 300
+manpower 20
+cash 300
+debug_mode
+integrate t93
+integrate y93
+cash 300
+manpower 20
+yesman
+dip 300
+cash 300
+yesman
+manpower 20
+yesman
+debug_mode
+own 4973
+own 4831
+yesman
+manpower 20
+cash 300
+own_core 4859
+observe
+debug_mode
+tag b20
+manpower 6
+cash 200
+manpower 10
+cash 200
+manpower 10
+stability 1
+cash 450
+yesman
+manpower 10
+yesman
+manpower 10
+yesman
+manpower 10
+cash 350
+observe
+debug_mode
+tag b54
+manpower 10
+yesman
+observe
+tag z36
+tag b54
+observe
+tag b54
+yesman
+clearae
+adm 300
+yesman
+debug_mode
+tag z35
+tag z37
+tag b52
+tag b34
+tag b35
+tag b49
+tag b37
+tag v53
+tag b53
+tag b39
+tag b47
+tag b51
+tag b24
+tag b25
+tag b54
+stability  2
+stability 2
+observe
+debug_mode
+tag b54
+cash 1000
+cash 100
+cash 600
+cash 500
+yesman
+
+yesman
+cash 40
+yesman
+cash 100
+yesman
+trust
+debug_mode
+trust a11 10
+yesman
+own 909
+own_core 311
+own_core 310
+own_core 320
+adm 400
+adm 200
+adm 90
+adm 500
+manpower 20
+debug_mode
+ti
+tag a73
+ti
+manpower 20
+yesman
+manpower 20
+yesman
+
+yesman
+clearae
+debug_mode
+own 306
+own 304
+own 305
+cash 400
+manpower 20
+cask 2600
+cash 2600
+dip 500
+
+dip 500
+own a81
+own_core 268
+dip 500
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+tag a11
+tag a73
+yesman
+adm 100
+dip 200
+yesman
+opinion
+trust
+trust a33
+trust 20 a33
+trust a33 20
+
+trust a33 20
+yesman
+add_opinion a45 100
+yesman
+trust a45 20
+yesman
+clearae
+observe
+debug_mode
+tag h20
+tag h02
+tag h10
+tag h01
+tag h03
+observe
+mil 100
+cash 500
+yesman
+dip 100
+cash 400
+cash 500
+debug_mode
+integrate hol
+integrate fla
+integrate brb
+integrate gel
+integrate utr
+adm 9999999
+yesman
+mil 200
+mil 600
+mil 200
+dip 300
+debug_mode
+own 4495
+adm 500
+debug_mode
+tag aju
+tag z01
+yesman
+cash 182
+cash 150
+int eng
+integrate eng
+debug_mode
+tah crn
+tag crn
+tag wls
+debug_mode
+tag frc
+tag glh
+tag yua
+debug_mode
+tag kni
+tag byz
+debug_mode
+tag adu
+debug_mode
+tag odl
+debug_mode
+tag h01
+tag h04
+tag h10
+tag h11
+tag h05
+tag h07
+tag h08
+tag h06
+observe
+tag a20
+observe
+tag a20
+observe
+tag a20
+observe
+tag a20
+ti
+yesman
+debug_mode
+yesman
+cash 10
+cash 9-
+cash 90
+cash 80
+cash 100
+adm 140
+cash 306
+cash 1372
+yesman
+cash 200
+observe
+trust 5
+debug_mode
+trust a58 5
+tag b38
+event
+event castonath_patricians_events.70
+event castonath_patricians_events.200
+dip 50
+mil 1
+observe
+debug_mode
+tag tol
+manpower 10
+cash 50
+manpower 10
+manpower 5
+debug_mode
+tag ath
+tag sp1
+tag scy
+observe
+tag msz
+debug_mode
+tag y65
+yesman
+manpower 20
+manpower 10
+cash 50
+manpower 2
+cash 30
+yesman
+cash 100
+yesman
+debug_mode
+own 4151
+yesman
+debug_mode
+own 4043
+yesman
+debug_mode
+tag ava
+debug_mode
+add_cb 2397
+add_core 2397
+debug_mode
+tagt00
+tag t00
+tag aju
+debug_mode
+tah t00
+tag t00
+debug_mode
+t01
+tag t01
+debug_mode
+tag t00
+debug_mode
+colonial.13 5110
+run colonial.13 5110
+run.txt colonial.13 5110
+run colonial.13 5110
+run.txt colonial.13 5110
+run colonial.13
+event colonial.13
+event colonial.14
+event colonial.15
+event colonial.16
+event colonial.17
+event colonial.18
+event colonial.19
+event colonial.20
+event colonial.21
+mil 400
+debug_mode
+own 4456 guj
+own 521 guj
+own 4454 guj
+own 515 guj
+own 4455 guj
+own 2051 guj
+own 4457 guj
+own 2054 guj
+own 516 guj
+own 4512 guj
+own 517 guj
+own 4430 guj
+yesman
+adm 200
+debug_mode
+tg got
+tag got
+adm 99999999
+dip 9999999999999
+dip 999999999
+dip 99999
+dip 99
+dip -9999999999999
+dip -999999999
+dip 999999999
+dip 99999999
+
+debug_mode
+observe
+adm 500
+dip 500
+cash 31
+debug_mode
+tag u18
+tag i12
+debug_mode
+tag h94
+tag i12
+adm 222
+yesman
+manpower 20
+yesman
+manpower 20
+yesman
+debug_mode
+own 4270 h88
+own 4270 observer
+own 4270 h88
+observe
+own 4250
+colonise  4250
+colonize 4250
+own_core  4250
+own_core 4250
+tag h98
+tag h88
+own_core 4270
+debug_mode
+tag r73
+tag h98
+manpower 5
+cash 400
+manpower 5
+mil 400
+cash 50
+manpower 5
+mil 400
+cash 50
+manpower 5
+yesman
+debug_mode
+tag mol
+tag pol
+tag pru
+debug_mode
+religion
+change_religion pru catholisim
+change_religion pru
+religion pru catholisim
+religion
+change_religion
+change_religion catholic
+own_core pru teu
+own_core pru tue
+own_core 41 tue
+own_core 41 teu
+tag teu
+own_core 42
+own_core 40
+own_core 767
+own_core 2958
+own_core 1841
+own_core 43
+own_core 2997
+tag teu
+integrate pru
+refresh
+tag pru
+integrate pru teu
+tag teu
+tag pru
+event flavor_teu.10
+event flavor_teu.11
+event flavor_teu.10
+event flavor_teu.18
+event flavor_teu.11
+event flavor_teu.12
+event flavor_teu.13
+event flavor_teu.14
+event flavor_teu.15
+event flavor_teu.10
+own_core 40 teu
+tag teu
+integrate pru
+event flavor_teu.10
+yesman
+debug_mode
+own_core 33
+tag dan
+remove_core 33
+tag liv
+cash 100
+adm 200
+dip 100
+observe
+debug_mode
+tag ksh
+own_core 2987 Z0D
+tag z0d
+ti
+tag z0c
+tag bul
+tag z0c
+tag bul
+own_core 1077
+adm 300
+tag z0c
+tag prm
+yesman
+tag bul
+tag ukr
+own 1082
+remove_core 1082 bul
+tag kaz
+own_core 229 Z0N
+own 364 z10
+debug_mode
+own 382 z2d
+own 282
+own 282 z2k
+tag z2k
+ti
+tag z2d
+cash 40
+clear_truce
+cash 30
+clearae
+stab 5
+stability 5
+cash 30
+occupy
+debug_mode
+own 1842 liv
+own 36 liv
+own 35 liv
+own 34 liv
+own 33 liv
+own 33 nov
+own 34 nov
+tag mod
+tag mos
+tag rig
+tag mos
+tag rig
+yesman
+dip 200
+yesman
+clearae
+add_influence
+add_loyalty estate_burghers
+add_loyalty estate_burghers 10
+cash 100
+debug_mode
+tag zan
+debug_mode
+integrate ubh
+integrate buu
+integrate krw
+integrate bug
+integrate nko
+integrate bny
+integrate bsg
+debug_mode
+vassalise
+vassalize teu
+opinion
+add_opinion
+add_opinion teu 50
+add_opinion rig 50
+stab
+stability
+own_core 271 teu
+own_core 4534 teu
+own_core 1936 teu
+own_core 270 teu
+own_core 4535 teu
+own_core 770 teu
+own_core 272 teu
+own_core 4536 teu
+own_core 34
+own_core 33
+own_core 311
+own_core 1960
+own_core 274
+own_core 310
+own_core 1961
+own_core 2749
+own_core 4260
+own_core 4148
+own_core 1959
+cash 400
+own_core 4243
+own_core 1752
+own_core 4249
+own_core 4251
+own_core 295
+own_core 294
+own_core 4248
+own_core 4117
+own_core 4261
+own_core 309
+own_core 32
+own_core 4124
+own_core 1776
+own_core 313
+own_core 4258
+own_core 1958
+own_core 312
+own_core 314
+own_core 4259
+own_core 4250
+own_core 308
+own_core 4147
+own_core 4253
+own_core 275
+mil 9999
+mil -5000
+dip 400
+dip 100
+cash 40000
+dip 9999
+adm 9999
+yesman
+manpower 20
+adm 500
+clearae
+tag pap
+tag liv
+own_core 4116
+own_core 300
+own_core 301
+own_core 4255
+own_core 302
+own_core 304
+own_core 2415
+own_core 1754
+own_core 4254
+mil 400
+dip 500
+adm 9999
+dip 9999
+mil 9999
+dip 9999
+adm 9999
+dip 9999
+mil 9999
+dip 9999
+mil 9999
+adm 9999
+cash 50000
+tag teu
+integrate lit
+tag liv
+observe
+debug_mode
+tag zan
+tag nel
+tah ita
+tah itl
+tag nth
+tag ita
+tag ned
+tag ita
+tag kil
+tag kiw
+tag zan
+tag ita
+tag ned
+tag zan
+tag ita
+tag zan
+observe
+tah ital
+tah ita
+tag ita
+tag zan
+tag ita
+tag ned
+tag zan
+tag ned
+tag has
+tag hsa
+debug_mode
+own_1187
+own 1187
+debug_mode
+tag b11
+yesman
+cash 150
+debug_mode
+assimilate 821
+debug_mode
+tag h21
+observe
+tag b54
+debug_mode
+tag byz
+observe
+tag per
+tag sel
+ovserve
+observe
+tag eng
+tag nor
+tag mus
+tag mos
+tag min
+observe
+tag eng
+tag aus
+tag hab
+tag fra
+observe
+tag swe
+own_core SCA 1
+own_core 1 SCA
+tag sca
+tag swe
+integrate sca
+integrate dan
+integrate nor
+debug_mode
+integrate got
+adm 99999
+tag bru
+integrate lun
+integrate ver
+integrate bre
+integrate lau
+adm 9999
+integrate ham
+integrate hsa
+tag dtt
+tag por
+tag cas
+tag tur
+tag pap
+tag pol
+tag liv
+tag eng
+integrate fra
+integrate bri
+integrate pro
+integrate bur
+debug_mode
+own_core 202
+own_core 4719
+own_core 205
+own_core 189
+own_core 188
+yesman
+tag fra
+kill king
+kill
+
+kill heir
+kill_heir
+kill
+tag eng
+cleartruce
+clear_truce
+tag fra
+tag ava
+tag nep
+tag nap
+debug_mode
+tag npl
+debug_mode
+tag z01
+debug_mode
+tag z00
+tag z01
+tag z00
+tag z01
+tag mad
+debug_mode
+tag mad
+own 556
+own 4496
+own 2069
+own 2063
+own 524
+own 2069 NPL
+own 4487
+own 4488
+own 2047
+own 2052
+debug_mode
+tag mos
+debug_mode
+tag kie
+tag wrt
+tag vol
+tag mol
+tag mgy
+debug_mode
+tag bti
+observe
+tag yua
+tag tjj
+tag tmg
+debug_mode
+observe
+debug_mode
+tag u07
+observe
+tag t15
+tag y15
+yesman
+manpower 5
+yesman
+debug_mode
+own_core 4880
+own_core 4905
+own_core 4896
+yesman
+own 4891 y24
+yesman
+dip 400
+debug_mode
+tag peg
+tag z01
+tag ava
+yesman
+tag bng
+tag z01
+debug_mode
+tag mdv
+observe
+tag z01
+tag mad
+independance
+yesman
+debug_mode
+tag gdw
+debug_mode
+tag mad
+tag ava
+tag guj
+tag mad
+tag ava
+mil 150
+yesman
+debug_mode
+own 1770
+yesman
+own 4745
+assimilate 4745
+debug_mode
+tag z02
+tag eng
+tag z02
+tag fra
+tag z02
+tag eng
+tag z01
+tag z02
+tag eng
+tag z02
+tag z01
+tag spa
+tag and
+debug_mode
+tag adu
+npl
+nap
+tag nap
+tag npl
+tag z01
+tag z02
+debug_mode
+culture 4148 mos
+culture 4148 mus
+culture 4148 muskovite
+dip 2300
+tag pru
+debug_mode
+tag teu
+tag liv
+debug_mode
+int tim
+integrate tim
+own_core 4334
+mil
+dip
+own_core 522
+own_core 433
+own_core 429
+own_core 2213
+own_core 414
+own_core 2215
+change_religion muslim
+change_religion sunni
+change_religion catholic
+government_reform
+reformprogress 10000
+stability
+debug_mode
+tag mdv
+obserbe
+observe
+adm 200
+prestige
+adm 40
+prestige
+cash 40
+prestige
+manpower 20
+cash
+adm 50
+manpower 20
+mil 500
+mil 300
+stab
+adm 200
+cash 50
+mil 70
+cash 20
+cash 40
+adm 20
+adm 600
+yesman
+manpower 20
+dip 75
+cash 2000
+dip 600
+adm 600
+cash 100
+adm 300
+adm 100
+adm 600
+prestige
+cash 400
+debug_mode
+tag r19
+kill
+
+tag r51
+
+yesman
+adm 600
+prestige
+yesman
+prestige
+yesman
+debug_mode
+own 4551
+own 4420
+mil 100
+cash 200
+republican
+republican_tradition
+add_republican_tradition
+debug_mode
+own 80
+own 79
+debug_mode
+own 108
+yesman
+debug_mode
+own 95
+own 114
+own 40
+yesman
+stab
+stability
+debug_mode
+own 59
+own 32
+own 34
+debug_mode
+own 73
+stability
+manpower 10
+cash 100
+manpower 10
+cash 100
+manpower 10
+cash 100
+manpower 10
+cash 100
+manpower 10
+adm 600
+cash 100
+manpower 10
+cash 100
+cash 500
+adm 100
+cash 500
+adm 200
+cash 500
+debug_mode
+own_core 599
+own_core 600
+cash 500
+adm 100
+debug_mode
+own 4380
+own 4363
+cash 500
+yesman
+cash 500
+own 4400
+manpower 10
+cash 500
+dip 600
+cash 500
+manpower 50
+cash 500
+yesman
+debug_mode
+own 679
+yesman
+manpower 50
+cash 1400
+adm 300
+adm 30
+adm 300
+manpower 50
+cash 500
+manpower 50
+cash 500
+debug_mode
+integrate f21
+integrate f49
+observer
+observe
+tag f51
+manpower 50
+mil 50
+cash 200
+yesman
+debug_mode
+own 4510
+own 4467
+own 4459
+own 4397
+cash 200
+debug_mode
+own 4510
+dip 100
+mil 50
+yesman
+adm 400
+dip 100
+cash 200
+mil 300
+adm 100
+yesman
+debug_mode
+tag a14
+tag a17
+observe
+tag a46
+tag a89
+observe
+tag z17
+observe
+cash 80
+cash 10
+cash 50
+yesman
+observe
+debug_mode
+tah ca1
+tag ca1
+own_core 6765
+own_core 6763
+own_core 6762
+own_core 6764
+own_core 6760
+own_core 6759
+own_core 6757
+own_core 6755
+own_core 6758
+own_core 6756
+mil 40
+yesman
+debug_mode
+tag a01
+tag a11
+tag a05
+tag a21
+observe
+tag a21
+observe
+tag a21
+yesman
+debug_mode
+tag b02
+tag b19
+tag b18
+yesman
+manpower 5
+yesman
+observe
+debug_mode
+own 2202
+own 2205
+own 419
+own 2221
+own 4325
+own 446
+own 4326
+own 2235
+own 4302
+own 421
+cash
+adm 500
+debug_mode
+integrate z1q
+integrate eim
+integrate rum
+integrate mlk
+integrate kho
+integrate pun
+integrate z01
+integrate mad
+adm 2000
+cash 10000
+integrate ksh
+debug_mode
+integrate ksh
+cash 10000
+adm 2000
+integrate rum
+integrate z1q
+integrate mlk
+integrate kho
+integrate mlk
+integrate z1q
+integrate rum
+adm 2000
+cash
+adm 2000
+integrate rum
+integrate z1q
+integrate mlk
+integrate kho
+integrate z1q
+cash
+integrate pun
+integrate z01
+integrate mad
+integrate z01
+integrate pun
+cash
+integrate z1q
+integrate kho
+integrate rum
+integrate z1q
+debug_mode
+integrate mlk
+integrate mksh
+integrate ksh
+adm
+yesman
+manpower
+cash
+manpower
+cash
+manpower
+adm
+integrate ksh
+integrate mksh
+integrate mlk
+integrate rum
+integrate z01
+integrate mad
+debug_mode
+integrate gdw
+integrate pun
+integrate kho
+integrate z07
+integrate z1q
+stability
+cash
+adm
+cash
+yesman
+stability
+int z01
+integrate z01
+integrate mad
+adm
+cash
+integrate kho
+integrate pun
+integrate z01
+cash
+adm
+integrate rum
+debug_mode
+integrate z1q
+integrate mlk
+integrate ksh
+integrate mad
+integrate guj
+man
+manpower
+cash
+stability
+cash
+tag ubl
+event giacomo.casanova.1
+event giacomo.casanova.1 4729
+event giacomo.casanova.2 ubl
+event giacomo.casanova.2
+event giacomo.casanova.3
+event giacomo.casanova.4
+golden_highway.1
+event golden_highway.1
+event golden_highway.2
+event golden_highway.3
+manpower
+
+manpower
+debug)mode
+debug_mode
+tag a11
+yesman
+tag z36
+yesman
+tag a11
+yesman
+tag z36
+tag a11
+tag z36
+tag a11
+yesman
+tag z36
+tag a11
+tag z36
+tag a11
+yesman
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+tag a11
+tag z36
+yesman
+cash 399
+yesman
+debug_mode
+tag i07
+tasg i02
+tag i02
+tasg i02
+observe
+tag i06
+tag z36
+tag 99
+tag A99
+tag z36
+manpower
+own 758
+yesman
+debug_mode
+own 725
+own 72
+6
+own 726
+own 72 A14
+debug_mode
+assimilate 833
+stability
+adm 600
+adm 60
+religion
+change_religion
+change_religion regent_court
+change_religion corinite
+change_religion revellian
+observe
+debug_mode
+tag y86
+observe
+tag t86
+tag y86
+observe
+tag y86
+observe
+tag y86
+observe
+cash 100
+yesman
+cash 100
+observde
+observe
+debug_mode
+observe
+debug_mode
+tag y86
+yesman
+clearae
+
+debug_mode
+integrate rum
+integrate z01
+integrate mad
+integrate pun
+integrate kho
+integrate kas
+debug_mode
+integrate ksh
+integrate z07
+integrate mlk
+integrate z1q
+cash 1000000000
+adm
+cash 1000000000
+cash 100000000
+adm
+integrate z1q
+integrate mlk
+integrate z07
+integrate ksh
+integrate kas
+integrate rum
+integrate z01
+integrate mad
+integrate kho
+integrate pun
+stability
+debug_mode
+cash 1300
+prestive 20
+prestige 20
+dip 100
+cash 50
+adm 200
+debug_mode
+tag f46
+observe
+tag y86
+cash 500
+yesman
+debug_mode
+tag z01
+tag ben
+debug_mode
+tag bng
+tag npl
+tag z01
+tag npl
+tag ava
+tag guj
+tag z01
+tag tnf
+tag z02
+observe
+cash 950
+cash 300
+cash 400
+debug_mode
+tag y65
+tag y86
+tag y65
+tag y86
+tag y65
+tag y86
+tag y65
+tag y86
+debug_mode
+own 4612
+own 4559
+adm 600
+cash 200
+manpower 20
+yesman
+cash 1500
+yesman
+cash 600
+yesman
+own_core 4699
+own_core 4701
+own_core 4700
+own_core 4805
+own_core 4807
+own_core 4609
+own_core 4608
+own_core 4620
+own_core 4500
+own_core 4364
+own_core 4470
+own_core 4489
+own_core 4594
+own_core 4598
+own_core 4565
+own_core 4964
+own_core 4961
+own_core 4695
+own_core 4694
+own_core 4586
+own_core 4771
+own_core 4576
+own_core 4577
+own_core 4575
+own_core 4574
+own_core 4954
+own_core 4705
+own_core 4960
+own_core 4743
+own_core 4808
+own_core 4934
+own_core 4762
+own_core 4704
+own_core 4698
+own_core 4703
+own_core 4702
+own_core 4958
+own_core 4697
+own_core 4511
+own_core 4611
+own_core 4939
+own_core 4512
+own_core 4622
+own_core 4625
+own_core 4626
+own_core 4616
+own_core 4816
+own_core 4818
+own_core 4819
+own_core 4820
+own_core 4811
+own_core 4809
+own_core 4617
+own_core 4946
+own_core 4948
+own_core 4923
+own_core 4623
+own_core 4641
+own_core 4817
+own_core 4810
+own_core 4821
+own_core 4619
+own_core 4618
+own_core 4923 y13
+adm 50
+cash 500
+own_core 4770
+own_core 4706
+own_core 4707
+own_core 4708
+own_core 4769
+own_core 4709
+own_core 4768
+own_core 4711
+own_core 4962
+adm 50
+yesman
+stability
+debug_mode
+own 105
+debug_mode
+own 78
+own 102
+own 104
+cash 200
+prestige 25
+prestige 1
+manpower
+debug_mode
+integrate sco
+integrate lei
+integrate cnn
+integrate sln
+integrate try
+integrate tyr
+integrateuls
+integrate uls
+integrate fly
+integrate mns
+integrate ord
+integrate kid
+integrate dms
+integrate mcm
+integrate loi
+own_core 369
+own_core 1978
+own_core 1979
+adm
+adm 1000
+adm 10000
+observe
+tag fra
+ti
+nfw
+fow
+adm 100
+yesman
+debug_mode
+vassalise a16
+vassalxe a16
+vassalze a16
+vassalize a16
+adm 50
+own 95
+own 114
+cash 200
+cash 100
+cash 400
+stability 1
+observe
+debug_mode
+tag f39
+cash 25
+debug_mode
+tag f37
+tag f21
+tag f42
+yesman
+cash 200
+manpower 10
+cash 100
+cash 300
+manpower 10
+adm 100
+cash 300
+cash 200
+adm 200
+cash 200
+dip 100
+manpower 10
+cash 200
+manpower 10
+yesman
+manpower 10
+cash 200
+manpower 10
+yesman
+manpower 10
+cash 200
+
+cash 200
+manpower 10
+yesman
+manpower 10
+adm 500
+manpower 100
+cash 500
+yesman
+event varamhar_glavour 6
+event varamhar_glavour.6
+event varamhar_flavour.6
+event varamhar_flavour.3
+event varamhar_flavour.6
+event varamhar_flavour.9
+event varamhar_flavour.8
+event varamhar_flavour.13.a
+trigger varamhar_flavour.13.a
+event varamhar_flavour.8
+event varamhar_flavour.13
+event varamhar_flavour.8
+event varamhar_flavour.13
+event varamhar_flavour.8
+event varamhar_flavour.13
+event varamhar_flavour.8
+event varamhar_flavour.13
+event varamhar_flavour.8
+event varamhar_flavour.13
+event varamhar_flavour.2
+event varamhar_flavour.3
+event varamhar_flavour.6
+event varamhar_flavour.8
+event varamhar_flavour.11
+adm 500
+adm 200
+cash 300
+yesman
+manpower 10
+yesman
+manpower 10
+cash 1000
+cash 3000
+cash 1500
+manpower 10
+cash 300
+cash 200
+stability 1
+debug_mode
+own 4867
+own 4863
+own 487.3
+own 4873
+ti
+own 487 u09
+own 4868
+ti
+mil 600
+observe
+yesman
+observe
+debug_mode
+tag y96
+observe
+tag y96
+manpower 10
+cash
+manpower 10
+adm 200
+adm 20
+dip 400
+dip 40
+mil 200
+mil 20
+yesman
+cash 100
+yesman
+manpower 10
+observe
+tag ben
+tag bng
+tag enh
+tag eng
+tag tur
+tag ott
+tag bng
+debug_mode
+tag ori
+tag bah
+mgn
+mng
+tag mng
+tag kor
+tag akg
+tag jap
+observe
+tag eng
+tag jap
+kill
+
+kill
+government_reform
+reform_progress 100
+reformprogress 100
+kill
+ti
+debug_mode
+tag r51
+tag u01
+observe
+debug_mode
+tag s70
+tag f55
+tag f72
+tag f54
+tag r02
+tag r01
+tag y53
+tag r03
+observe
+tag s28
+integrate s27
+integrate s32
+integrate s30
+integrate s29
+observe
+tag l52
+observe
+tag l50
+observe
+cash 200
+ti
+debug_mode
+colonize 1501
+colonize 2547
+colonize 950
+colonize 2554
+colonize 957
+colonize 962
+colonize 2639
+colonize 965
+colonize 2560
+tag c00
+debug_mode
+cash 40
+cash 400
+adm 30
+manpower 20
+yesman
+manpower 20
+cash 300
+yesman
+opinion
+cash 300
+yesman
+yesmanti
+ti
+mil 300
+adm 100
+debug_mode
+colonize 2332
+adm 540
+yesman
+debug_mode
+own 178
+yesman
+manpower 20
+cash 100
+yesman
+manpower -50
+debug_mode
+own 272 lit
+own 1 dan
+own 12 swe
+debug_mode
+tag h01
+tag h04
+tag h01
+tag h08
+tag h02
+tag h06
+tag h01
+tag h10
+tag h16
+tag h17
+tag h13
+tag h18
+tag h12
+tag h14
+tag h11
+tag h09
+tag h10
+tag h01
+tag h04
+tag h05
+tag h08
+observe
+tag h08
+tag h01
+run lake.30
+event lake.30
+event lake.31
+event lake.32
+event lake.38
+event lake.33
+event lake.34
+event lake.35
+event lake.36
+event lake.37
+event lake.38
+event lake.30
+event lake.31
+event lake.32
+event lake.33
+event lake.34
+event lake.35
+event lake.36
+event lake.37
+event lake.38
+cash
+debug_mode
+mission LAKE_the_federation_needs
+mission LAKE_federation_atrisan
+mission LAKE_federation_artisan
+mission LAKE_meriotocratic_army
+mission LAKE_meritotocratic_army
+mission LAKE_meritocratic_army
+prestige
+event lake.34
+event lake.35
+event lake.36
+event lake.38
+mission LAKE_meritotocratic_army
+mission LAKE_federation_artisan
+mission LAKE_federation_atrisan
+mission LAKE_the_federation_needs
+mission LAKE_meritocratic_army
+prestige
+event lake.30
+event lake.31
+event lake.32
+event lake.33
+event lake.34
+event lake.35
+event lake.36
+event lake.37
+event lake.38
+debug_mode
+J33_new_land_act
+mission J33_new_land_act
+cash
+own_core 5129
+own_core 5051
+mission J33_new_land_act
+own_core 5163
+own_core 5179
+own_core 5193
+own_core 5217
+own_core 5202
+own_core 5175
+own_core 5086
+own_core 5102
+own_core 5110
+own_core 5149
+mission J33_the_breaking_point
+own_core 5058
+own_core 5063
+own_core 5112
+own_core 5062
+own_core 5068
+own_core 5130
+own_core 5128
+own_core 5127
+own_core 5137
+own_core 5146
+own_core 5085
+own_core 5151
+own_core 5162
+own_core 5164
+own_core 5169
+own_core 5170
+own_core 5186
+own_core 5187
+own_core 5194
+own_core 5195
+own_core 5197
+own_core 5183
+own_core 5203
+own_core 5174
+own_core 5088
+own_core 5150
+own_core 5099
+own_core 5103
+cash
+event lake.30
+event lake.31
+event lake.32
+event lake.33
+event lake.34
+event lake.35
+event lake.37
+event lake.38
+adm 500
+debug_mode
+own 2034
+debug_mode
+integrate h09
+integrate h12
+integrate h13
+integrate h06
+integrate h05
+integrate h14
+integrate h19
+integrate h20
+adm
+debug_mode
+ti
+religion_winter_court
+religion winter_court
+religion
+change_religion
+change_religion winter_court
+change_religion summer_court
+debug_mode
+mission eordsummer_3_secure_shores
+change_religion autumn_court
+yesman
+manpower 10
+adm
+cash 400
+debug_mode
+integrate h13
+manpower 10
+integrate h10
+
+assimilate 1982
+assimilate 1776
+assimilate 1984
+assimilate 1772
+adm
+yesman
+ti
+observe
+debug_mode
+tag i26
+tag u12
+observe
+tag i37
+tag i30
+tag i43
+tag i44
+yesman
+manpower 10
+yesman
+manpower 10
+yesman
+ti
+observer
+observe
+debug_mode
+tag u11
+debug_mode
+tag y66
+manpower 5
+cash 100
+debug_mode
+own y46
+own 4809 y46
+own_core 4811
+dip 200
+cash 200
+own_core 4811 y46
+own_core 4809 y28
+remove_core 4811
+yesman
+cash 500
+own_core 4966
+yesman
+debug_mode
+tag mjz
+integrate mhx
+integrate ejz
+integrate myr
+tag kor
+tag kha
+tag oir
+tag kha
+observe
+tag ayu
+tag dai
+tag uts
+integrate kam
+tag oir
+tag kor
+debug_mode
+tag kor
+tag oir
+tag mng
+observe
+debug_mode
+tag y63
+observe
+tag h70
+debug_mode
+religious_power
+religiouspower
+church_power
+
+church_power
+debug_mode
+integrate f29
+integrate u20
+integrate f31
+integrate f25
+integrate f28
+integrate f37
+integrate f21
+integrate u05
+integrate f24
+integrate f41
+integrate f36
+integrate f42
+integrate f27
+integrate f26
+integrate u13
+integrate u15
+integrate u19
+integrate u14
+integrate u18
+integrate u17
+integrate u11
+integrate u16
+integrate u12
+integrate f34
+integrate f22
+integrate f40
+integrate f32
+integrate f30
+integrate f44
+integrate f43
+integrate f39
+integrate f35
+integrate f33
+integrate f49
+integrate f48
+integrate f50
+integrate r03
+integrate r01
+integrate r32
+integrate r27
+integrate r30
+integrate r31
+integrate r29
+integrate r28
+integrate r61
+integrate r02
+integrate f54
+ti
+tag y23
+tag y15
+tag yf23
+tag f23
+tag i02
+debug_mode
+integrate nhx
+integrate ejz
+integrate mhx
+integrate krc
+integrate myr
+own 729 nvk
+own 4216 nvk
+own 4215 nvk
+own 2105 nvk
+own 2104 nvk
+own 727 nvk
+own 2185 nvk
+own 4218 nvk
+debug_mode
+tag mjz
+intregrate mhx
+integrate mhx
+integrate krc
+integrate ejz
+integrate myr
+tag mng
+integrate mjz
+integrate nhx
+observe
+debug_mode
+release
+clear_truce
+cleartruce
+tag cgs
+own_core 2163
+own_core 2164
+own_core 1840
+own_core 2162
+own_core 2161
+own_core 2159
+own_core 665
+own_core 666
+own_core 2160
+own_core 2158
+own_core 2157
+own_core 667
+own_core 2156
+own_core 668
+own_core 4213
+own_core 4213 cyi
+tag mng
+debug_mode
+tag g47
+tag g59
+debug_mode
+tag g50
+tag g62
+debug_mode
+tag g01
+observe
+debug_mode
+tag f47
+ti
+debug_mode
+tag ksi
+debug_mode
+own 421
+tag 4299
+own 4299
+own 4305
+is 1559
+help
+date 15390830
+date 1539.08.30
+event gangan_relig_flavour.2
+event gangan_relig_flavour.3
+event gangan_relig_flavour.1
+event gangan_relig_flavour.2
+date 1489.08.30
+event gangan_relig_flavour.2
+event gangan_relig_flavour.1
+event gangan_relig_flavour.2
+debug_mode
+tag kam
+tag mge
+ti
