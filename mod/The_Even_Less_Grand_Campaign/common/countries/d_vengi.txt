@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 170 25 50 }
+monarch_names = {
+	"Chamekamba #0" = -1
+	"Chandena #0" = -1
+	"Chellava #0" = -1
+	"Gamakamba #0" = 0
+	"Gangabai #0" = -1
+	"Mahadeva #0" = 0
+	"Mahakala #0" = 0
+	"Prolayanayak #0" = -1
+	"Tundaka #0" = -1
+	"Vijayaditya #2" = 10
+	"Vimaladitya #1" = 10
+	"Yuddhamalla #0" = -1
+}

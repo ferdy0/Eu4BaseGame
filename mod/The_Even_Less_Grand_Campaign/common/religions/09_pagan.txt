@@ -1,0 +1,70 @@
+pagan = {
+	can_form_personal_unions = yes
+	pagan_religion = {
+		color = { 0 0 0 }
+		icon = 121
+		country = {
+			tolerance_own = 2
+			tolerance_heretic = 2
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			tolerance_heretic = 2
+		}
+		
+		heretic = { SNAKE_CLAN GOAT_SKULL }
+		allowed_conversion = { pagan_religion_reformed }
+		on_convert = {
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+	}
+	pagan_religion_reformed = {
+		color = { 127 127 127 }
+		icon = 149
+		country = {
+			tolerance_own = 2
+			tolerance_heretic = 2
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			tolerance_heretic = 2
+		}
+		
+		heretic = { SNAKE_CLAN GOAT_SKULL }
+	}
+}
+american_pagan = {
+	aztec_pagan = {
+		color = { 81 101 81 }
+		icon = 56
+		country = {
+			land_morale = 0.1
+			global_unrest = -2
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			land_morale = 0.05
+			raze_power_gain = 0.2
+		}		
+		
+		doom = yes
+		declare_war_in_regency = yes
+		religious_reforms = yes
+		reform_tooltip = NAHUATL_REFORM_TOOLTIP
+		
+		heretic = { NAHUATL_HERETIC }
+	}
+}

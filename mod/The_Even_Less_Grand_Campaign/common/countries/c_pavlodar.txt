@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 115 185 215 }
+monarch_names = {
+	"Aepak #1" = 10
+	"Itlar #0" = 0
+	"Khojin #0" = -1
+	"Kobyak #1" = 10
+	"Kopti #0" = 0
+	"Kotyan #0" = 0
+	"Kozel #1" = 10
+	"Kubasar #0" = 0
+	"Nevena #0" = -1
+	"Potekay #0" = -1
+	"Pulad #0" = 0
+	"Saru #0" = 0
+	"Sevindik #0" = -1
+	"Törtogul #0" = 0
+	"Özgul #0" = -1
+}

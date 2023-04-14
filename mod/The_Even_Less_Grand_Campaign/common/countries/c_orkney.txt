@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 195 75 75 }
+monarch_names = {
+	"Ailgel #0" = 0
+	"Cathassach #0" = 0
+	"Conán #1" = 10
+	"Dathgus #0" = 0
+	"Duib #0" = 0
+	"Gormuil #0" = -1
+	"Halfdán #0" = 0
+	"Muirgel #0" = -1
+	"Ru #1" = 10
+	"Róis #1" = -1
+	"Séaghdha #1" = 10
+	"Sétnae #0" = 0
+	"Þorgil #1" = 10
+}

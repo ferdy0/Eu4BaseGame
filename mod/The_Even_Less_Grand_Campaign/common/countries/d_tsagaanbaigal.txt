@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 80 174 191 }
+monarch_names = {
+	"Innokentii #1" = 10
+	"Sambuu #0" = 0
+	"Sanzima #0" = -1
+	"Tekhe #0" = 0
+	"Tseden #0" = 0
+	"Tuyana #0" = -1
+	"Zaufishan #0" = -1
+	"Zorikto #0" = 0
+	"Örgeleer #0" = 0
+}

@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 180 170 180 }
+monarch_names = {
+	"Ausone #1" = 10
+	"Danyal #0" = -1
+	"Felictu #1" = 10
+	"Gialetu #1" = 10
+	"Goffredu #1" = 10
+	"Gublenu #1" = 10
+	"Madidu #0" = 0
+	"Masmud #0" = 0
+	"Nicolau #2" = 10
+	"Tedu #1" = 10
+	"Torchitoriu #1" = 10
+	"Yunes #0" = -1
+	"Zara #0" = -1
+}

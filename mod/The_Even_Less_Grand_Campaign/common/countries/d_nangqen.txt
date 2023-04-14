@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 171 10 37 }
+monarch_names = {
+	"Dorjee #0" = 0
+	"Goba #0" = 0
+	"Gyalpo #1" = 10
+	"Jamyang #0" = 0
+	"Kunga #0" = 0
+	"Mangban #2" = 10
+	"Muzu #1" = 10
+	"Ngawang #1" = 10
+	"Palchen #1" = 10
+	"Ritikmen #0" = 0
+	"Seba #0" = -1
+	"Thayé #0" = 0
+	"Tricham #0" = -1
+	"Trimalö #0" = -1
+	"Trisong #1" = 10
+	"Tseten #0" = -1
+	"Yongten #1" = 10
+}

@@ -1,0 +1,67 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 140 210 160 }
+revolutionary_colors = { 15 8 15 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Chantrea #0" = -1
+	"Dhamma #1" = 10
+	"Ganda #1" = 10
+	"Jorani #0" = 0
+	"Kanatissa #0" = -1
+	"Kanha #0" = -1
+	"Kolab #0" = -1
+	"Leik Munhtaw #1" = 10
+	"Maha Seitta #1" = 10
+	"Manuha #0" = 0
+	"Marlar #0" = -1
+	"Narathu #0" = 0
+	"Pulai #0" = -1
+	"Thumondari #0" = -1
+	"Udinna #0" = 0
+	"Wimala #0" = 0
+	"Zein #0" = -1
+}
+leader_names = {
+	"Bourey"
+	"Cobar"
+	"Leura"
+	"Mani"
+	"Min"
+	"Myo"
+	"Nardu"
+	"Rangsey"
+	"Than"
+}
+ship_names = {
+	"Ceylon"
+	"Khu Bua"
+	"Lavo"
+	"Menam"
+	"Nakhon Pathom"
+	"Pegu"
+	"Rajadhirat"
+	"Ramanadesa"
+	"Suwannaphum"
+	"U Thong"
+}
+special_unit_culture = south_east_asian_special

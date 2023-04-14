@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norse
+capital = 2752
+add_accepted_culture = norse
+1444.11.11= {
+	monarch = {
+		name = "Tósti"
+		dynasty = "af Raumsdalr"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1391.9.2
+		religion = norse_pagan
+		culture = norse
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Sealggá"
+		dynasty = "Ahkemiella"
+		adm = 3
+		dip = 5
+		mil = 2
+		country_of_origin = Y70
+		birth_date = 1416.9.16
+		death_date = 1476.9.16
+		female = yes
+		religion = norse_pagan
+		culture = sapmi
+	}
+	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = well_connected_personality
+	heir = {
+		name = "Gríma"
+		monarch_name = "Gríma"
+		dynasty = "af Raumsdalr"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 1420.1.4
+		death_date = 1485.1.4
+		female = yes
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+	add_heir_personality = kind_hearted_personality
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11= {
+	add_prestige = 70
+	add_treasury = 54
+}

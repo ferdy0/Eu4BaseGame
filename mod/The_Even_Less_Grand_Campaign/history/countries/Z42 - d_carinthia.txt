@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = austrian
+capital = 128
+add_accepted_culture = austrian
+1444.11.11= {
+	monarch = {
+		name = "Liutbert"
+		dynasty = "von Babenberg"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1363.1.1
+		religion = catholic
+		culture = austrian
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Almòdis"
+		dynasty = "Gellones"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = Z42
+		birth_date = 1408.3.3
+		death_date = 1468.3.3
+		female = yes
+		religion = catholic
+		culture = occitain
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Luitpold"
+		monarch_name = "Luitpold"
+		dynasty = "von Babenberg"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1383.1.1
+		death_date = 1448.1.1
+		claim = 89
+		religion = catholic
+		culture = german
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 75
+	add_treasury = 49
+}

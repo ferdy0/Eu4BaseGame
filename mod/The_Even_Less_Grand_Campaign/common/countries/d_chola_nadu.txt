@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 180 80 130 }
+monarch_names = {
+	"Aiyyârratikal #0" = -1
+	"Ariñcikaippirâttiyâr #0" = -1
+	"Atitta #1" = 10
+	"Cadayan #0" = 0
+	"Ceyavîra #0" = -1
+	"Cîvallapan #0" = -1
+	"Kanatissa #0" = -1
+	"Kirâmarâcapattan #0" = 0
+	"Kurian #0" = 0
+	"Permadi #0" = -1
+	"Sâmavâyi #0" = -1
+	"Umaiyâlvâr #0" = 0
+	"Vicayâlaya #1" = 10
+}

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = welsh
+capital = 241
+add_accepted_culture = welsh
+1444.11.11= {
+	monarch = {
+		name = "Rhodri"
+		dynasty = "Eginog"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1410.1.20
+		religion = catholic
+		culture = welsh
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Euronwy"
+		dynasty = "ap Bleddri"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = Z55
+		birth_date = 1409.10.24
+		death_date = 1469.10.24
+		female = yes
+		religion = catholic
+		culture = welsh
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Arthfael"
+		monarch_name = "Arthfael III"
+		dynasty = "Eginog"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1430.1.7
+		death_date = 1495.1.7
+		claim = 89
+		religion = catholic
+		culture = welsh
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 66
+	add_treasury = 35
+}

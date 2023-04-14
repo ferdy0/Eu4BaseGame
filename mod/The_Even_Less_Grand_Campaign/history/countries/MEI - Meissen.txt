@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = slavic_pagan
+primary_culture = sorbian
+capital = 61
+add_accepted_culture = sorbian
+1444.11.11= {
+	monarch = {
+		name = "Zdenek"
+		dynasty = "z Milczanów"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1406.7.10
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
+	queen = {
+		name = "Päivi"
+		dynasty = "Läänemaa"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = MEI
+		birth_date = 1416.8.13
+		death_date = 1476.8.13
+		female = yes
+		religion = slavic_pagan
+		culture = estonian
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Dervan"
+		monarch_name = "Dervan II"
+		dynasty = "z Milczanów"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1434.10.13
+		death_date = 1499.10.13
+		claim = 89
+		religion = slavic_pagan
+		culture = sorbian
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 85
+	add_treasury = 59
+}

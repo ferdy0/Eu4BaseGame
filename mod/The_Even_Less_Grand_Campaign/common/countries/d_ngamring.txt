@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 50 180 175 }
+monarch_names = {
+	"Cetan #1" = 10
+	"Chidétsen #0" = -1
+	"Deu #1" = 10
+	"Gyagar #0" = 0
+	"Gyeltso #0" = -1
+	"Gyelwa #0" = -1
+	"Gyimsheng #0" = -1
+	"Kuengzang #0" = 0
+	"Kyipo #0" = 0
+	"Lhachen #1" = 10
+	"Nyendrak #0" = -1
+	"Nyima #0" = -1
+	"Phakpa #1" = 10
+	"Rabten #1" = 10
+	"Shang #1" = 10
+	"Taramo #0" = -1
+	"Tsenpo #1" = 10
+	"Tséphel #0" = 0
+	"Yangtsémé #0" = 0
+}

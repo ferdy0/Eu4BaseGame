@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 148 139 13 }
+monarch_names = {
+	"Abi-Bakr #0" = -1
+	"Amita #0" = -1
+	"Biyu #0" = 0
+	"Demba #1" = 10
+	"Deye #0" = -1
+	"Djire #0" = -1
+	"Saa #0" = 0
+	"Sogolon #0" = -1
+	"Suah #0" = 0
+	"Yama #0" = 0
+	"Youma #0" = -1
+}

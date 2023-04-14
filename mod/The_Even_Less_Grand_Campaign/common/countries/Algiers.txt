@@ -1,0 +1,103 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 230 225 110 }
+revolutionary_colors = { 9 16 1 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	naval_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_cavalry_archers
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abdullah #0" = 0
+	"Abu Bakr #1" = 10
+	"Adiva #0" = -1
+	"Aesha #0" = -1
+	"Aflah #1" = 10
+	"Afulay #0" = -1
+	"Al-Qasim #0" = 0
+	"Alyamas #1" = 10
+	"Asaru #0" = 0
+	"Bagay #0" = 0
+	"Barakat #0" = 0
+	"Ermengardis #0" = -1
+	"Herru #0" = -1
+	"Hiba #0" = 0
+	"Ifser #0" = -1
+	"Igmi #0" = 0
+	"Iher #0" = 0
+	"Ixfensen #0" = 0
+	"Izri #0" = 0
+	"Leodegundis #0" = -1
+	"Magsen #1" = 10
+	"Mahtar #0" = 0
+	"Mamma #0" = -1
+	"Nizamaddin #0" = 0
+	"Radiya #0" = -1
+	"Sifaks #0" = 0
+	"Tacfin #1" = 10
+	"Tafrara #0" = -1
+	"Tamrust #0" = -1
+	"Taninna #0" = -1
+	"Ugdada #0" = 0
+	"Yugurthen #0" = -1
+	"Z'ergha #0" = -1
+	"Zalelsan #0" = -1
+}
+leader_names = {
+	"Amara"
+	"Behar"
+	"Benzai"
+	"Benzine"
+	"Essaid"
+	"Hacini"
+	"Ilaes"
+	"Kelkal"
+	"Merah"
+	"Selmi"
+}
+ship_names = {
+	"Akhir"
+	"Awwal"
+	"Ba'ith"
+	"Barr"
+	"Batin"
+	"Hamid"
+	"Haqq"
+	"Hayy"
+	"Majid"
+	"Matin"
+	"Mu'akhkhir"
+	"Mu'id"
+	"Mubdi"
+	"Muhsi"
+	"Muhyi"
+	"Mumit"
+	"Muqaddim"
+	"Muqtadir"
+	"Muta'al"
+	"Qadir"
+	"Qawiyy"
+	"Qayyum"
+	"Samad"
+	"Shahid"
+	"Wahid"
+	"Wajed"
+	"Wakil"
+	"Wali"
+	"Waliyy"
+	"Zahir"
+}

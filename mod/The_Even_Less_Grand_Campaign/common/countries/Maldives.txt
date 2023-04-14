@@ -1,0 +1,71 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 191 25 25 }
+revolutionary_colors = { 10 4 0 }
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+	innovativeness_ideas
+	defensive_ideas
+	maritime_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Aditya #1" = 10
+	"Dharmavantha #1" = 10
+	"Irâcarâca #0" = 0
+	"Kassapa #0" = 0
+	"Kumaragiri #1" = 10
+	"Lasani #0" = -1
+	"Mihindala #0" = 0
+	"Myine #0" = -1
+	"Rananjaya #0" = 0
+	"Tirumûlattânam #0" = -1
+	"Tissa #0" = 0
+	"Vijaya #1" = 10
+}
+leader_names = {
+	"Aadita"
+	"Dambidu"
+	"Dhiyamigili"
+	"Hamawi"
+	"Hilaalee"
+	"Homa"
+	"Huraa"
+	"Isdhoo"
+	"Theemuge"
+	"Utheemu"
+}
+ship_names = {
+	"Alia"
+	"Alisha"
+	"Ari"
+	"Aziza"
+	"Fadhippolhu"
+	"Fatimah"
+	"Felidhoo"
+	"Goidhoo"
+	"Kolhumadulu"
+	"Maalhosmadulu"
+	"Male"
+	"Niknaz"
+	"Niloufa"
+	"Ramazan"
+	"Yasmine"
+	"Zahira"
+}

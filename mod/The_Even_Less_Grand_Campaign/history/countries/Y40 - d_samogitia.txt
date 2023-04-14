@@ -1,0 +1,58 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = eastern
+religion = baltic_pagan
+primary_culture = lithuanian
+capital = 271
+add_accepted_culture = lithuanian
+add_accepted_culture = polish
+1444.11.11= {
+	monarch = {
+		name = "Palemon"
+		dynasty = "of Žemaiteje"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1410.7.11
+		religion = baltic_pagan
+		culture = lithuanian
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = free_thinker_personality
+	queen = {
+		name = "Gunda"
+		dynasty = "Vidins"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = Y40
+		birth_date = 1389.1.1
+		death_date = 1449.1.1
+		female = yes
+		religion = baltic_pagan
+		culture = latvian
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Laima"
+		monarch_name = "Laima"
+		dynasty = "of Žemaiteje"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1432.11.2
+		death_date = 1497.11.2
+		female = yes
+		claim = 89
+		religion = baltic_pagan
+		culture = lithuanian
+	}
+	add_heir_personality = embezzler_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 70
+	add_treasury = 25
+}

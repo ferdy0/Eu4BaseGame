@@ -1,0 +1,7 @@
+capital = "Yugan"
+culture = uralic
+religion = siberian_pagan
+trade_goods = fur
+base_tax = 1
+base_production = 1
+base_manpower = 2

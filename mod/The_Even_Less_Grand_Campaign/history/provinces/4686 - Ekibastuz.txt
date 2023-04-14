@@ -1,0 +1,7 @@
+capital = "Ekibastuz"
+culture = kirgiz
+religion = tengri_pagan
+trade_goods = salt
+base_tax = 1
+base_production = 1
+base_manpower = 2

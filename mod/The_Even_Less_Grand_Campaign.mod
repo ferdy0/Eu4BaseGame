@@ -1,0 +1,12 @@
+name = "Converted - The_Even_Less_Grand_Campaign"
+path = "mod/The_Even_Less_Grand_Campaign"
+normal_or_historical_nations = yes
+supported_version = "1.30.*"
+replace_path = "history/countries/"
+replace_path = "history/provinces/"
+replace_path = "history/diplomacy/"
+replace_path = "history/wars/"
+replace_path = "common/countries/"
+replace_path = "common/country_tags/"
+replace_path = "common/bookmarks/"
+replace_path = "common/technologies/"

@@ -1,0 +1,58 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = yemeni_culture
+capital = 386
+fixed_capital = 386
+add_accepted_culture = hejazi_culture
+add_accepted_culture = yemeni_culture
+1444.11.11= {
+	monarch = {
+		name = "Jibril"
+		dynasty = "Harb"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1418.3.21
+		religion = sunni
+		culture = yemeni_culture
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Kamala"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 5
+		mil = 4
+		country_of_origin = X16
+		birth_date = 1406.10.3
+		death_date = 1466.10.3
+		female = yes
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_queen_personality = naive_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Harb"
+		monarch_name = "Harb"
+		dynasty = "Harb"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 1436.3.15
+		death_date = 1501.3.15
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 64
+	add_treasury = 54
+}

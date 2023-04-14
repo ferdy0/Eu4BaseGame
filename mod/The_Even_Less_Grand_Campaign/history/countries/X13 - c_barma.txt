@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = kanuri
+capital = 1159
+fixed_capital = 1159
+1444.11.11= {
+	monarch = {
+		name = "Arva"
+		dynasty = "Sara"
+		adm = 1
+		dip = 4
+		mil = 3
+		birth_date = 1403.7.14
+		religion = shamanism
+		culture = kanuri
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = martial_educator_personality
+	queen = {
+		name = "Tazrurt"
+		dynasty = "Tikanariyen"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = X13
+		birth_date = 1397.3.11
+		death_date = 1457.3.11
+		female = yes
+		religion = shamanism
+		culture = berber
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Matangi"
+		monarch_name = "Matangi"
+		dynasty = "Sara"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1430.12.11
+		death_date = 1495.12.11
+		claim = 89
+		religion = shamanism
+		culture = kanuri
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = sinner_personality
+}
+1444.11.11= {
+	add_prestige = 70
+	add_treasury = 42
+}

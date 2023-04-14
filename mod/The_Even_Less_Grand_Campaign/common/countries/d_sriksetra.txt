@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 156 50 103 }
+monarch_names = {
+	"Chantrea #0" = -1
+	"Ganda #0" = 0
+	"Jorani #0" = 0
+	"Kanatissa #0" = -1
+	"Kanha #0" = -1
+	"Kolab #0" = -1
+	"Leik Munhtaw #0" = -1
+	"Manuha #0" = 0
+	"Marlar #0" = -1
+	"Narathu #0" = 0
+	"Pulai #0" = -1
+	"Thumondari #0" = -1
+	"Udinna #0" = 0
+	"Uttara #1" = 10
+	"Wimala #0" = 0
+	"Zein #0" = -1
+}

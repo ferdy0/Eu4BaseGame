@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 200 70 70 }
+monarch_names = {
+	"Allcallorred #1" = 10
+	"Arnfast #0" = 0
+	"Emundr #0" = 0
+	"Freydís #0" = -1
+	"Grýla #0" = -1
+	"Guðfríðr #0" = 0
+	"Hafríðr #0" = -1
+	"Hrani #1" = 10
+	"Hörðr #0" = 0
+	"Ingólfr #1" = 10
+	"Kjartan #0" = 0
+	"Skúli #0" = 0
+	"Yngvar #0" = 0
+	"Yrsa #0" = -1
+}

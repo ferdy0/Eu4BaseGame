@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = piedmontese
+capital = 103
+1444.11.11= {
+	monarch = {
+		name = "Fortunata"
+		dynasty = "da Verucchio"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1425.12.21
+		female = yes
+		religion = catholic
+		culture = piedmontese
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = pious_personality
+	heir = {
+		name = "Froizza"
+		monarch_name = "Froizza"
+		dynasty = "da Verucchio"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 1435.2.4
+		death_date = 1500.2.4
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = italian
+	}
+	add_heir_personality = calm_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 61
+	add_treasury = 59
+}

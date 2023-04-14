@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = ostyaki
+capital = 4689
+1444.11.11= {
+	monarch = {
+		name = "Koza"
+		dynasty = "Laktanid"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1408.9.28
+		religion = tengri_pagan
+		culture = ostyaki
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Öshkamöshka"
+		dynasty = "Permyakid"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = Z97
+		birth_date = 1414.4.8
+		death_date = 1474.4.8
+		female = yes
+		religion = tengri_pagan
+		culture = komi
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = cruel_personality
+	heir = {
+		name = "Çiçek"
+		monarch_name = "Çiçek"
+		dynasty = "Laktanid"
+		adm = 4
+		dip = 2
+		mil = 3
+		birth_date = 1435.9.18
+		death_date = 1500.9.18
+		female = yes
+		claim = 89
+		religion = tengri_pagan
+		culture = ostyaki
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 62
+	add_treasury = 45
+}

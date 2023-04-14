@@ -1,0 +1,146 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 191 113 133 }
+revolutionary_colors = { 8 5 8 }
+historical_idea_groups = {
+	maritime_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Agafya #0" = -1
+	"Eysteinn #0" = 0
+	"Gerðr #0" = -1
+	"Gurli #0" = -1
+	"Hólmgeirr #0" = 0
+	"Sigurðr #0" = 0
+	"Sölvi #1" = 10
+	"Veledi #0" = 0
+	"Þióðmundr #0" = 0
+	"Þórólfr #0" = 0
+}
+leader_names = {
+	"Andersson"
+	"Andreasson"
+	"Anward"
+	"Aytoun"
+	"Backlund"
+	"Ballantyne"
+	"Beaumont"
+	"Bergqwist"
+	"Berni"
+	"Bjarnehed"
+	"Björk"
+	"Borg"
+	"Capstick"
+	"Corominas"
+	"Drevendal"
+	"Edström"
+	"Eklund"
+	"Eriksson"
+	"Foxander"
+	"Fåhraeus"
+	"Gabryel"
+	"Garcia"
+	"Gidfors"
+	"Gladh"
+	"González"
+	"Hansson"
+	"Hesselborn"
+	"Holmgren"
+	"Horler"
+	"Höglund"
+	"Isaksson"
+	"Ivannikov"
+	"Izquierdo"
+	"Jakobsson"
+	"Jensen"
+	"Johannesson"
+	"Johansson"
+	"Khanagov"
+	"Kiby"
+	"King"
+	"Korhonen"
+	"Kowalcyzk"
+	"Kuiper"
+	"Kundak-Cowall"
+	"Lagerbäck"
+	"Lerström"
+	"Linares"
+	"Lind"
+	"Lohmander"
+	"Mannetje"
+	"Martins"
+	"Millen"
+	"Moltó"
+	"Nicholson"
+	"Norrevik"
+	"Olsson"
+	"Palmqvist"
+	"Pazos"
+	"Perez"
+	"Rodriguez"
+	"Ropert"
+	"Rönn"
+	"Salazar"
+	"Santiago"
+	"Sanz"
+	"Sarell"
+	"Schießl"
+	"Sjöström"
+	"Skoglund"
+	"Sommerdahl"
+	"Strid"
+	"Tammpere"
+	"Thulin"
+	"Tiger"
+	"Toll"
+	"Tolman"
+	"Tronde"
+	"Trullenque"
+	"Vicent"
+	"Villberg"
+	"Virtanen"
+	"Wendel-Örtqvist"
+	"Yildirim"
+	"Young"
+	"Zetterman"
+	"du Plessis"
+	"Åberg"
+	"Åslund"
+}
+ship_names = {
+	"Burgsvik"
+	"Djauvik"
+	"Drake"
+	"Fårösund"
+	"Gnisvärd"
+	"Hoburgen"
+	"Katthamra"
+	"Klintehamn"
+	"Ljugarn"
+	"Slite"
+	"Visby"
+	"Västergarn"
+}

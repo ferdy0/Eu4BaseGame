@@ -1,0 +1,7 @@
+capital = "Aksary"
+culture = nogaybak
+religion = tengri_pagan
+trade_goods = naval_supplies
+base_tax = 1
+base_production = 1
+base_manpower = 2

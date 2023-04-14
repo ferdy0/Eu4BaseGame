@@ -1,0 +1,12 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 45 13 185 }
+monarch_names = {
+	"Alike #0" = 0
+	"Erharuyi #0" = 0
+	"Imokhai #0" = 0
+	"Ndoye #0" = -1
+	"Nri-Alike #1" = 10
+	"Onyekachi #1" = -1
+	"Èwenétem #0" = 0
+}

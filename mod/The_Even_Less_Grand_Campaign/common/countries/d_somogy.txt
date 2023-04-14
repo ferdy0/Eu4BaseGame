@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 170 40 65 }
+monarch_names = {
+	"Alp #1" = 10
+	"Baghatur #1" = 10
+	"Bonuslo #0" = -1
+	"Dizeng #1" = 10
+	"Drong #1" = 10
+	"Folbert #0" = 0
+	"Galindo #0" = 0
+	"Giorgio #0" = 0
+	"Irmintrud #0" = -1
+	"Kocel #2" = 10
+	"Pribina #0" = -1
+	"Sokol #0" = -1
+	"Tichomil #0" = -1
+	"Yavantey #1" = 10
+}

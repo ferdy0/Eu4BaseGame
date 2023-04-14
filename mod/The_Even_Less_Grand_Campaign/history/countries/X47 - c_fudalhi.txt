@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = sidamo
+capital = 2779
+fixed_capital = 2779
+add_accepted_culture = sidamo
+1444.11.11= {
+	monarch = {
+		name = "Umardin"
+		dynasty = "Samalo"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1409.8.17
+		religion = shamanism
+		culture = sidamo
+	}
+	add_ruler_personality = embezzler_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Mulki"
+		dynasty = "Orsini"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = X47
+		birth_date = 1393.5.25
+		death_date = 1453.5.25
+		female = yes
+		religion = shamanism
+		culture = sidamo
+	}
+	add_queen_personality = calm_personality
+	add_queen_personality = careful_personality
+	heir = {
+		name = "Yusuf"
+		monarch_name = "Yusuf"
+		dynasty = "Samalo"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1426.11.28
+		death_date = 1491.11.28
+		claim = 89
+		religion = shamanism
+		culture = sidamo
+	}
+	add_heir_personality = expansionist_personality
+	add_heir_personality = well_connected_personality
+}
+1444.11.11= {
+	add_prestige = 68
+	add_treasury = 61
+}

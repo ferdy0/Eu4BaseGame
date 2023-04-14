@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = hausa
+capital = 1158
+add_accepted_culture = kanuri
+1444.11.11= {
+	monarch = {
+		name = "Bawo"
+		dynasty = "Durbawa"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1390.1.1
+		religion = shamanism
+		culture = hausa
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = entrepreneur_personality
+	queen = {
+		name = "Gundo"
+		dynasty = "Cisse"
+		adm = 2
+		dip = 4
+		mil = 2
+		country_of_origin = Z86
+		birth_date = 1393.8.26
+		death_date = 1453.8.26
+		female = yes
+		religion = shamanism
+		culture = soninke
+	}
+	add_queen_personality = cruel_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Salimata"
+		monarch_name = "Salimata"
+		dynasty = "Durbawa"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1432.2.1
+		death_date = 1497.2.1
+		female = yes
+		claim = 89
+		religion = shamanism
+		culture = hausa
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = free_thinker_personality
+}
+1444.11.11= {
+	add_prestige = 76
+	add_treasury = 50
+}

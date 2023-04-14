@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 3
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = kirgiz
+capital = 1065
+add_accepted_culture = kirgiz
+1444.11.11= {
+	monarch = {
+		name = "Uzur II"
+		dynasty = "Enisey Kyrgyz"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1392.5.5
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Bozçin"
+		dynasty = "Yoishta"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = Z01
+		birth_date = 1392.2.8
+		death_date = 1452.2.8
+		female = yes
+		religion = tengri_pagan
+		culture = turkish
+	}
+	add_queen_personality = obsessive_perfectionist_personality
+	add_queen_personality = well_connected_personality
+	heir = {
+		name = "Gzi"
+		monarch_name = "Gzi"
+		dynasty = "Enisey Kyrgyz"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 1411.6.26
+		death_date = 1476.6.26
+		claim = 89
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 76
+	add_treasury = 57
+}

@@ -1,0 +1,40 @@
+vassal=
+{
+	first="BNG"
+	second="Z92"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="KHO"
+	second="Y13"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="MVA"
+	second="SLO"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="WAL"
+	second="Y18"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="Z10"
+	second="Y44"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+

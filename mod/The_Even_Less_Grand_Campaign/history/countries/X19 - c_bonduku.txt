@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = aka
+capital = 2255
+fixed_capital = 2255
+add_accepted_culture = aka
+1444.11.11= {
+	monarch = {
+		name = "Agyei"
+		dynasty = "Aowin"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 1406.9.30
+		religion = shamanism
+		culture = aka
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Yaa"
+		dynasty = "Orsini"
+		adm = 1
+		dip = 3
+		mil = 2
+		country_of_origin = X19
+		birth_date = 1404.6.13
+		death_date = 1464.6.13
+		female = yes
+		religion = shamanism
+		culture = aka
+	}
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Ashon"
+		monarch_name = "Ashon"
+		dynasty = "Aowin"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1444.5.10
+		death_date = 1509.5.10
+		claim = 89
+		religion = shamanism
+		culture = aka
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 77
+	add_treasury = 52
+}

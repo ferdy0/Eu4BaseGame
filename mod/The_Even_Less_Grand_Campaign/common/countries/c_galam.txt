@@ -1,0 +1,11 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 69 189 159 }
+monarch_names = {
+	"Dagnokho #1" = 10
+	"Djeneba #0" = -1
+	"Fatim #0" = -1
+	"Kansoleh #0" = -1
+	"Ndate #1" = -1
+	"Sandaki #0" = 0
+}

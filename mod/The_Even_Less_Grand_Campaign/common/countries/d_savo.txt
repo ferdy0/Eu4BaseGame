@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 250 100 20 }
+monarch_names = {
+	"Hannu #0" = -1
+	"Into #0" = 0
+	"Jaakoppi #0" = 0
+	"Lalli #1" = 10
+	"Lyylikki #0" = -1
+	"Metta #0" = -1
+	"Otso #0" = -1
+	"Praskovya #0" = -1
+	"Pyry #0" = -1
+	"Titti #0" = -1
+	"Tohmas #0" = 0
+	"Tuovi #0" = -1
+	"Tuulikki #0" = -1
+	"Tuulitar #0" = -1
+	"Tyyni #0" = -1
+	"Voitto #0" = 0
+}

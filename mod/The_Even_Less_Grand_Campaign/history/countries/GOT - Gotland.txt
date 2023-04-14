@@ -1,0 +1,51 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = western
+religion = norse_pagan
+primary_culture = norse
+capital = 25
+add_accepted_culture = norse
+1444.11.11= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1.1.1
+		regent = yes
+		religion = norse_pagan
+		culture = norse
+	}
+	queen = {
+		name = "Agafya"
+		dynasty = "Sheksna"
+		adm = 2
+		dip = 2
+		mil = 2
+		country_of_origin = GOT
+		birth_date = 1410.7.9
+		death_date = 1470.7.9
+		female = yes
+		religion = slavic_pagan
+		culture = russian_culture
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = well_connected_personality
+	heir = {
+		name = "Sölvi"
+		dynasty = "Auster"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1428.11.20
+		death_date = 1493.11.20
+		claim = 89
+		religion = norse_pagan
+		culture = norse
+	}
+}
+1444.11.11= {
+	add_prestige = 60
+	add_treasury = 52
+}

@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 70 138 101 }
+monarch_names = {
+	"Alla #0" = -1
+	"Anni #0" = -1
+	"Arttju #0" = 0
+	"Ester #0" = -1
+	"Everkki #0" = 0
+	"Haljas #0" = 0
+	"Houri #0" = -1
+	"Jestoi #1" = 10
+	"Jeygi #0" = 0
+	"Jougi #0" = -1
+	"Klaudia #0" = -1
+	"Ogoi #0" = -1
+	"Onni #0" = 0
+	"Pamfila #0" = 0
+	"Saara #0" = -1
+	"Stjoppi #0" = 0
+	"Tarassi #0" = 0
+}

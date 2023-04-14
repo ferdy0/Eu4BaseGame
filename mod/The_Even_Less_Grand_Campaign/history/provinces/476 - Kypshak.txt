@@ -1,0 +1,7 @@
+capital = "Orda-Bazar"
+culture = cuman
+religion = tengri_pagan
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 2

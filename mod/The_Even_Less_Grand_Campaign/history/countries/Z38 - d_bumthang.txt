@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = nepali
+capital = 4481
+1444.11.11= {
+	monarch = {
+		name = "Drongmo"
+		dynasty = "Chakhar"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1417.5.23
+		female = yes
+		religion = vajrayana
+		culture = nepali
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Wangzob"
+		dynasty = "Monyul"
+		adm = 2
+		dip = 2
+		mil = 2
+		country_of_origin = Z38
+		birth_date = 1415.10.21
+		death_date = 1475.10.21
+		religion = vajrayana
+		culture = nepali
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Wangzob"
+		monarch_name = "Wangzob II"
+		dynasty = "Chakhar"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1406.8.26
+		death_date = 1471.8.26
+		claim = 89
+		religion = vajrayana
+		culture = nepali
+	}
+	add_heir_personality = lawgiver_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 55
+	add_treasury = 19
+}

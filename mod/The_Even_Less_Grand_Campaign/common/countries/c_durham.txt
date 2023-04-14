@@ -1,0 +1,11 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 255 15 15 }
+monarch_names = {
+	"Ciniod #0" = 0
+	"Eardulf #1" = 10
+	"Mor #0" = -1
+	"Peironèla #0" = -1
+	"Uuroid #0" = 0
+	"Ælfwald #1" = 10
+}

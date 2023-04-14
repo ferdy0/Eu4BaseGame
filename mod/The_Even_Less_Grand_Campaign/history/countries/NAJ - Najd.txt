@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = bedouin_arabic
+capital = 2337
+add_accepted_culture = bedouin_arabic
+1444.11.11= {
+	monarch = {
+		name = "Mahmud II"
+		dynasty = "Qays"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1412.6.21
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Najela"
+		dynasty = "Marwanid"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = NAJ
+		birth_date = 1414.10.15
+		death_date = 1474.10.15
+		female = yes
+		religion = sunni
+		culture = al_suryah_arabic
+	}
+	add_queen_personality = benevolent_personality
+	add_queen_personality = charismatic_negotiator_personality
+	heir = {
+		name = "Akin"
+		monarch_name = "Akin"
+		dynasty = "Qays"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1439.11.16
+		death_date = 1504.11.16
+		claim = 89
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 55
+	add_treasury = 58
+}

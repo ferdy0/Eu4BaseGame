@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = visigothic
+capital = 4559
+fixed_capital = 4559
+add_accepted_culture = catalan
+1444.11.11= {
+	monarch = {
+		name = "Matheo"
+		dynasty = "de Minorica"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1386.1.1
+		religion = catholic
+		culture = visigothic
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = malevolent_personality
+	queen = {
+		name = "Adeltrudis"
+		dynasty = "Orsini"
+		adm = 5
+		dip = 3
+		mil = 5
+		country_of_origin = W13
+		birth_date = 1401.7.2
+		death_date = 1461.7.2
+		female = yes
+		religion = catholic
+		culture = occitain
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = expansionist_personality
+	heir = {
+		name = "Tulga"
+		monarch_name = "Tulga"
+		dynasty = "de Minorica"
+		adm = 1
+		dip = 0
+		mil = 2
+		birth_date = 1441.9.11
+		death_date = 1506.9.11
+		claim = 89
+		religion = catholic
+		culture = visigothic
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 69
+	add_treasury = 42
+}

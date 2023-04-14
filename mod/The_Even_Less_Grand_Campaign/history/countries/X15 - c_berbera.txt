@@ -1,0 +1,58 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+primary_culture = harari
+capital = 2793
+fixed_capital = 2793
+add_accepted_culture = harari
+add_accepted_culture = somali
+1444.11.11= {
+	monarch = {
+		name = "Dir"
+		dynasty = "Dir"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1398.11.26
+		religion = shamanism
+		culture = harari
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Sufia"
+		dynasty = "Darod"
+		adm = 2
+		dip = 2
+		mil = 3
+		country_of_origin = X15
+		birth_date = 1398.7.16
+		death_date = 1458.7.16
+		female = yes
+		religion = shamanism
+		culture = somali
+	}
+	add_queen_personality = architectural_visionary_personality
+	add_queen_personality = drunkard_personality
+	heir = {
+		name = "'Iise"
+		monarch_name = "'Iise"
+		dynasty = "Dir"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1421.12.23
+		death_date = 1486.12.23
+		claim = 89
+		religion = shamanism
+		culture = somali
+	}
+	add_heir_personality = fierce_negotiator_personality
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 53
+}
