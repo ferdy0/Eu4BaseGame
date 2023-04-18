@@ -1015,3 +1015,96 @@ dlc115 = {
 		}
 	}
 }
+
+# Domination
+dlc119 = {
+	reason = { # Mission trees and unique content
+		tooltip_desc = "dlc119_reason_new_content"
+		tooltip_reason = "dlc119_reason_new_content"
+		weight = 100
+		trigger = {
+			OR = {
+				tag = TUR
+				tag = MNG
+				tag = FRA
+				tag = MOS
+				tag = NOV
+				tag = CAS
+				tag = ARA
+				tag = ENG
+				tag = BRA
+				tag = POR
+				tag = KOR
+
+				#Manchu countries				
+				tag = MJZ
+				tag = KRC
+				tag = MYR
+				tag = EJZ
+				tag = NHX
+				tag = MHX
+			}
+			OR = {
+				capital_scope = { 
+					region = japan_region
+				}
+			}
+		}
+	}
+	reason = {
+		tooltip_desc = "dlc119_reason_new_units"
+		tooltip_reason = "dlc119_reason_new_units_reason"
+		weight = 30
+		trigger = {
+			OR = {
+				# Ainu units
+				culture_group = kamchatkan_g
+			
+				# Bai units
+				primary_culture = bai
+			
+				# French units
+				culture_group = french
+				primary_culture = flemish
+			
+				# Filipino Units
+				primary_culture = filipino
+			
+				# Wu units
+				primary_culture = wu
+				primary_culture = chimin
+				primary_culture = hakka
+				primary_culture = cantonese
+				primary_culture = gan
+				primary_culture = xiang
+			}
+		}
+	}
+	reason = {
+		tooltip_desc = "dlc119_reason_new_music"
+		tooltip_reason = "dlc119_reason_new_music_reason"
+		weight = 30
+		trigger = {
+			OR = {
+				OR = {
+					tag = TUR
+					tag = RUM
+				}
+				OR = {
+					has_reform = celestial_empire
+					is_emperor_of_china = yes 
+					capital_scope = {
+						OR = {
+							superregion = china_superregion
+							superregion = far_east_superregion
+						}
+					}
+				}
+				OR = {
+					primary_culture = anglois
+					culture_group = french
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+name = "French Music Pack"
+archive = "dlc/dlc123_french_music_pack/dlc123.zip"
+steam_id = "2223660"
+egs_id = "6c8fe8325aab41128d3153d48d295f61"
+egs_prod_id = "6537b644764849298ea484a9467f76d6"
+egs_staging_id = "dd994bc1689b407e998ce78ad1f4c610"
+pops_id = "eu4_dlc123_french_music_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "fca6e309276c0f79919e7dc5deada72a"
+category = "music"

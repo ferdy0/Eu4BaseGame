@@ -1,0 +1,11 @@
+name = "Domination Unit Pack"
+archive = "dlc/dlc120_domination_unit_pack/dlc120.zip"
+steam_id = "2223660"
+egs_id = "6c8fe8325aab41128d3153d48d295f61"
+egs_prod_id = "6537b644764849298ea484a9467f76d6"
+egs_staging_id = "dd994bc1689b407e998ce78ad1f4c610"
+pops_id = "eu4_dlc120_domination_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "5c8c705080f8b3155d0dc62dc9a5de5f"
+category = "unit_pack"
