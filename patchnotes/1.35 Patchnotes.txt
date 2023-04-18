@@ -1,0 +1,380 @@
+#############################################################
+######################## 1.35.0.0 ###########################
+#############################################################
+
+###################
+# Expansion Features
+###################
+   - Ottomans: Added a new mission tree with 68 missions, two new mechanics (Devshirme System and Ottoman Decadence), 12 new government reforms, a new Janissary estate (with a new set of Estate Privileges, Agendas and 2 disasters), 5 new disasters, 62 new events, the new Eyalet type of subject, and 2 new Holy Orders.
+   - China: Added 5 new mission trees (Ming, Jianzhou/Manchu/Jin, Qing, Chinese warlords, and Emperor of China, accounting for 77 missions in total), 2 new government reforms, 32 new events, 3 ‘Grand Coordinator Offices’ using the Holy Orders feature, a 1 new estate edict.
+   - Japan: Added a new mission tree with 30 missions (plus possible access to the new Emperor of China mission tree), a new mechanic (Land of the Christian Sun), 6 new government reforms, 1 new estate privilege, 12 new events, and 2 new special CBs.
+   - Russia: Added a new mission tree for Muscovy and Russia with 57 missions and 7 new missions for Novgorod, 2 new mechanics for Russia (Russian Modernization and Table of Ranks), 9 new government reforms, 12 new estate privileges, 65 new and reworked events, and 2 new decisions.
+   - Spain: Expanded and reworked the mission trees of Castile, Aragon and Spain, with 20 new missions, a new mechanic (System of Councils), 3 new government reforms, 2 new estate privileges, 1 disaster, and 7 new events.
+   - France: Added a new mission tree with 68 missions plus 16 extra missions for Revolutionary France, 4 new government reforms, 24 new events, and the new Appanage type of subject.
+   - Great Britain: Added a new mission tree for Great Britain with 71 missions, 4 new government reforms, 41 new events, more than 40 unique Parliament Issues, 2 new types of subjects (Commercial Enterprise and Trade Protectorate), and reworked the English Civil War disaster.
+   - Prussia: Reworked the Prussian mission tree with new triggers and rewards, added a new mechanic (Prussian Militarization), and 6 new events.
+   - Portugal: Reworked the Portuguese mission tree with 5 new missions, new triggers and rewards, and 2 new government reforms.
+   - Korea: Added a new government mechanic (Perfectionism), added access to the Emperor of China mission tree, 2 new government reforms, and the ‘Tripitaka Koreana’ events and provincial modifier.
+   - Added 68 new unique Government Reforms, available to different countries and culture groups.
+   - Added 60 new Estate Privileges, distributed amongst all the estates. On average, every current estate gained 5 new privileges.
+   - Added 9 new special units, of which 3 are Land units (Japanese ‘Samurai’, Spanish ‘Tercios’, and French ‘Musketeers’), and 6 are the new Naval type (Iberian ‘Caravel’ and ‘Galleon’, Italian ‘Galleass’, Korean ‘Geobukseon’, British ‘Man of War’, and Dutch ‘VOC Indiamen’).
+   - 2 new Unit Packs, one for French cultures (Francien, Occitan, Walloon and Burgundian minors), and another for Eastern cultures (Southern China minors, Ainu, Dali and Filipino).
+   - 3 new Music Packs (French, Ottoman, Chinese), plus a ‘March of Power’ Music Pack for DLC Pre-Order.
+
+###################
+# Free Features
+###################
+   - Added 3 new sets of Ideas (Infrastructure, Court, and Mercenary), and further rebalanced all the Idea Groups.
+   - Added 27 new events related to the new idea groups.
+   - Added a new Tier of Government Reforms, Related to Military Doctrines, with 7 reforms.
+   - Added 7 new Estate Privileges, to estates that did not have a privilege that exempts them from seizing land.
+   - Added more Ruler, General and Admiral personalities.
+   - Added 7 new Parliament bribes and National Bribes, which are more expensive versions of bribes, but cover multiple parliament seats at a time, to Common Sense DLC.
+   - Added 21 new Imperial Reforms, 21 new Decrees, and reworked special Age Abilities for Mandate of Heaven DLC.
+   - Added 11 new Naval Doctrines to Rule Britannia DLC.
+   - Added 11 New Iberian Holy Orders to Golden Century DLC.
+   - Added the Latin Empire as a tag which can be formed through the Crusader mission tree to Emperor DLC.
+   - Added 7 new Great Projects to Leviathan DLC.
+   - Added 9 new Achievements.
+   - Re-Added the Trade Protectorate subject type, available for countries that confirmed Thalassocracy.
+   - Added a peace option that allows you to annex a migrative native country forcefully.
+   - Added 6 new artillery units.
+   - Added 27 new flavor events for the Ottomans.
+   - Added 5 new flavor events for Russia.
+   - Added 2 new flavor events for England / Great Britain.
+
+###################
+# Gamebalance
+###################
+# Economy
+   - Expanded Temple rights no longer apply to a subject if the Overlord has the reform and the subject in question does not.
+   - Expanded Infrastructure decreases the development cost now by 15% instead of 25%.
+   - Buffed Mercantilism. Increased the Embargo Efficiency from 50% to 100% and the Burghers / Vaishyas Loyalty Equilibrium from 5% to 10% at 100 Mercantilism.
+   - Local Unrest now decreases Local Tax Modifier by 2% per 1 point of unrest.
+   - Province Tax now gives -2% Local Regiment Recruitment Time, -1% Local Great Project Upgrade Time, -1% Local Construction Time and +2% Local Institution Spread.
+   - Inflation now also increases the cost of missionary maintenance, upgrading a great project, embracing an institution, adjusting colonial subjects, upgrading centers of trade and trade company investments.
+   - Changed the color of Fars to mint green.
+
+# Governments
+   - Parliament seats now give +10% Local Sailors Modifier and +15% Local Tax Modifier. Production Efficiency and Manpower are untouched.
+   - Granting Parliament Seats now reduce Absolutism by 2 instead of 3. There is no difference in Absolutism loss when Parliament Seats are granted manually or automatically.
+   - Every member of a Trade League gives its leader +5% Trade Steering, +2 Naval Forcelimit, +1k Sailors, +1k Manpower and +1 Land Forcelimit.
+   - Militarization gives now -0.5 Monthly Militarization, basically adding decay to the militarization. Being at war gives +0.1 Monthly Militarization, being at peace gives -0.1, and every point of War Exhaustion gives.
+   - The Sich Rada can now select Horde Ideas and have a 25% Special Unit Force limit.
+   - Sich Rada can now have estates. Cossacks estate included.
+   - Formalize the Right to Re-election and Dutch Republic are now mutually exclusive because the latter could not enforce a "re-election".
+   - Native countries no longer gain from their government any buffs to their Land Maintenance Modifiers, Global Regiment Costs and Manpower Recovery Speed.
+   - A Catholic Prussia and Custom nations can now maintain the Prussian Monarchy T1.
+   - The Religious Tolerance state edict available from government reform "Regional Councils" gives now -100% Local Religious Unity Contribution instead of 50%.
+   - The government reform "Maintain Balance of Power" now increases the All Estate Loyalty modifier by 10% instead of 5% and grants +1 Diplomat.
+
+# Religion
+   - The Protestant Church Aspect "Priests May Marry" now gives -15% Same Religion Advisor Cost instead of Clergy Influence.
+   - Declaring wars no longer affects Piety. Every new ruler now starts at 0 Piety.
+   - Negative Piety now gives -10% Idea Cost instead of 20% Fort Defense.
+   - Trade Companies now reduce the local missionary strength by 20% instead of 200%.
+   - Being the Curia Controller now gives the bonuses of the "Send Papal Legate".
+   - Coptic gives now +15% Fort Defense instead of +10%, All Buddhistic faiths now give +2 Tolerance to Heretics instead of +1. Shinto gives now +2 Tolerance to Heretics instead of +1 to Heathens.
+   - Reworked the Reformed's fervor aspects. They have now a cost of 8 Fervor and have stronger modifiers. Added a fourth "Diplomacy Fervor" aspect.
+   - The Fervor Aspects now cost 8 instead of 5 and have a maintenance cost of 8 instead of 5. Fervor points now decrease construction cost by -10%, Stability Cost by -10%, Years of Separatism by -5 and increase Improve Relations by +10%. The Stability focuses now gives -25% Spy Action Cost instead of -10% Construction Cost. Added a new diplomacy fervor aspect which increases Diplomatic Reputation by +2, Improve Relations by 25% and All Estate Equilibrium by 10%.
+
+# Units
+   - Cossacks now have +15% Shock Damage instead of +10.
+   - Cawa units now cost 2 Mil Power instead of 5, spawn with 50% Regiment Strength and 10% Morale (was the other way around before). Cawas now have -5% Shock Damage received, -50% Land Attrition and +50% Reinforcement Speed.
+   - Janissaries now start with 10% of their manpower strength, and 10% of their Morale. Additionally, they have now a +50% Assault Fort Ability and +50% Army Drill Gain Modifier instead of a +100% Army Drill Gain Modifier and 100% Reinforcement Cost.
+   - Cossacks no longer increase stability cost when used.
+   - The Streltsy unit itself no longer increases stability cost and has +10 Fire Damage, -10 Fire Damage Received and +15% Land Maintenance.
+
+# War & Peace
+   - Doubled the negative effects of Devastation.
+   - Blockaded provinces now have -100% Local Trade Power instead of -50%. This has been done so market buildings can no longer counteract it.
+   - Call for Peace now increases War Exhaustion by a rate of 0.005 instead of 0.008.
+   - Rebalanced the unit pips. Nerfed Aboriginal and Pacific units, fixed issues where African / Muslim units got worse with better tech than their previous unit type, nerfed early-game Anatolian units and rebalanced some Indian units.
+   - The "Inspirational Leader" General Trait now gives +5% Land Morale atop the Army Morale Recovery Speed.
+   - The "Born in the Saddle" General Trait now gives a +100% Cav to Infantry Ratio. However, it requires also a 30% Cav fraction in the army instead of 20%.
+
+# Other
+   - You can now change your rivals every 5 years instead of 25 years.
+   - Native Aggressiveness decreases Local Colonist Placement Chance by 1% for each aggressiveness.
+   - Tropical provinces now reduce local development costs by 5% instead of 10%.
+
+###################
+# AI
+###################
+# Diplomacy
+   - The AI can no longer declare wars on a country if it would get a stability loss from the stability_cost_to_declare_war modifier.
+
+# Other
+   - Fixed one instance of a loop where AI armies would start and stop moving.
+   - AI uses less artillery, especially when poor.
+   - Made overseas subjects more likely to declare independence.
+   - Fixed some cases of AI armies' fear paralysis.
+
+###################
+# Interface
+###################
+# Country
+   - After community feedback, ENG changed to three lions flag, AVE Angevin gave the old England flag with the French Fleur-de-lis quartering.
+   - Portugal map color is now blue! (At the expense of Tlemcen).
+   - Prussia is now Prussian Blue.
+
+# Tooltips
+   - Improved area for tooltip for ideas selection.
+
+# Unitmodels
+   - Adjusted country colors for England, Angevin, Great Britain, and East India Company.
+   - Tweaked country colors of Brabant and Flanders to match their flags better and suit the Walloon units.
+   - modified Lotharingia unit colors.
+   - [Great Nations Unit Pack] English Tier 3 now uses dynamic colors on his tunic facings.
+   - old DLCs with English units adapted so the new Anglois (French group) culture can use them.
+   - new Walloon sprite pack extended to Flemish culture too.
+
+###################
+# Usermodding
+###################
+# Commands
+   - Added guibounds command that allows debugging UI elements while doing UI mods.
+   - Added set_country_flag and clr_country_flag.
+
+# Effects
+   - Added change_country_color = { country = <country scope> / color = { r g b } } If the former argument is used then the country will adapt the color of the specified country scope. If the latter is used then a defined color will be used instead. Of course, it comes with a restore_country_color = yes.
+   - Added release_all_possible_countries = yes #Country scope, the current country scope releases all countries which can be released from its owned provinces. If possible, the order should go from the smallest releasable to the biggest. If that is not possible then it should be just random.
+   - Added janissary_infantry = <country scope> #Province scope, spawns a janissary unit in the current province scope for the defined country scope.
+   - Added revolutionary_guard_infantry = <country scope> #Province scope, spawns a revolutionary guard unit in the current province scope for the defined country scope.
+   - Added revolutionary_guard_cavalry = <country scope> #Province scope, spawns a revolutionary guard cavalry unit in the current province scope for the defined country scope.
+   - Added revolutionary_guard_artillery = <country scope> #Province scope, spawns a revolutionary guard artillery unit in the current province scope for the defined country scope.
+   - Added hire_advisor = { type = <advisor_type> cost_mulitplier = <double> skill = <int> name = <string> religion = <religion> culture = <culture> female = <boolean> location = <province_id> age = <int> max_age = <int> min_age = <int> } #Country scope, An effect which forcefully recruits an advisor and puts it into your court. The old advisor gets fired if the space is preoccupied already. From a scripting point of view, it works exactly like "define_advisor" with all the same parameters.
+   - Added steer_trade = <country> #Country scope, the current country scope steers trade power to the specified country scope.
+   - Added disband_all_units = yes #Country scope, the current country scope disbands all units it has. No matter where they are. Units, which are in battle while this effect fires are "stack wiped".
+   - Added disband_all_regiments = yes #Country scope, the current country scope disbands all troops it has. No matter where they are. Units, which are in battle while this effect fires are "stack wiped".
+   - Added disband_all_ships = yes #Country scope, the current country scope disbands all ships it has. No matter where they are. Units, which are in battle while this effect fires are "stack wiped".
+   - Added add_construction_progress = <float> #Province scope, used to only affect great projects but now applies to any construction.
+   - Added remove_guarantee = <country_scope> #Country scope, the current scope removes its guarantee of the specified country.
+   - Added remove_country = yes #Country scope, the current country scope gets removed from existence. All of its provinces become uncolonized, all subjects become independent and all units are getting disbanded.
+   - Added define_advisor = {} now accepts min_age = <int>, max_age = <int> and age = <int>.
+   - Added Naval Doctrines, Personal Deities, Policies, Decrees and Assimilated Cultures from the Diwan Mechanic have now effect = {} and removed_effect = {} sections.
+   - Added add_government_power = { mechanic_type = <government_mechanic_id> power_type = <government_power_type_id> value = <float> } #adds government power.
+   - Added add_government_power_scaled_to_seats = { mechanic_type = <government_mechanic_id> power_type = <government_power_type_id> value = <float> } #adds government power, scaled to the number of seats in parliament.
+   - Added set_government_power = { mechanic_type = <government_mechanic_id> power_type = <government_power_type_id> value = <float> } #sets government power.
+   - Added freeze_government_power = { mechanic_type = <government_mechanic_id> power_type = <government_power_type_id> } #government power no longer changes.
+   - Added unfreeze_government_power = { mechanic_type = <government_mechanic_id> power_type = <government_power_type_id> } #government power can change again.
+   - Added add_rebel_progress = { (rebel_type = <rebel type>) value = <int> } #Add rebel progress to a specified rebel type. If no rebel type is defined then add progress to all rebels.
+   - Added start_debate = <parliament issue id> #Country scope, immediately starts the defined debate. Ongoing debates will be canceled (canceling a debate should NOT activate the prestige loss).
+   - Added cancel_current_debate = yes #Country scope, cancel the current debate immediately. You can start a new debate then.
+   - Added remove_enacted_issue = yes #Coutnry scope, the current enacted parliament issue gets removed. You can start a new debate.
+   - Added enact_issue = <parliament issue id> #Country scope, immediately enact the parliament issue and skip the whole process of debating about an issue.
+   - Added end_current_debate = yes/no #Country scope, end the current debate immediately. If "yes" then the debate succeeds and the issue gets enacted. If "no" then the issue fails and you get the penalty for it.
+   - Added regenerate_government_mechanics = yes #Regenerate the country's government mechanics. Used for UI purposes.
+   - Added set_papal_controller = <country scope> #Sets the defined country scope as the new papal controller.
+   - Added remove_power_projection = { key = <key of the power projection> amount = <int> (amount is optional, if not defined, remove the whole key instead) }.
+   - Added remove_hegemon = <country scope> #The defined country loses its hegemon status.
+   - Added add_subjects_development_ducats = {multiplier = <double> age_multiplier = <double> custom_tooltip = <tooltip> trigger = {} } #Add ducats scaling with the development of your defined subject. Multiplier and age multiplier multiply the number of ducats you gain while the trigger checks which subject countries are taken into consideration.
+   - Added add_owned_provinces_development_ducats = { mulitplier = <double> age_multiplier = <double> custom_tooltip = <tooltip> trigger = {} } #Add ducats scaling with the development of your provinces. Multiplier and age multiplier multiply the number of ducats you gain while the trigger checks which provinces are taken into consideration.
+   - Added add_owned_provinces_development_manpower = {multiplier = <double> age_multiplier = <double> custom_tooltip = <tooltip> trigger = {} } #Add manpower scaling with the development of your defined subject. Multiplier and age multiplier multiply the amount of manpower you gain while the trigger checks which subject countries are taken into consideration.
+   - Added add_subjects_development_manpower = { mulitplier = <double> age_multiplier = <double> custom_tooltip = <tooltip> trigger = {} } #Add ducats manpower with the development of your provinces. Multiplier and age multiplier multiply the amount of manpower you gain while the trigger checks which provinces are taken into consideration.
+   - Added tercio_infantry = <country scope> #Province scope, spawns a Tercio regiment.
+   - Added musketeer_infantry = <country scope> #Province scope, spawns a Musketeer regiment.
+   - Added samurai_infantry = <country scope> #Province scope, spawns a Samurai regiment.
+   - Added geobukseon_galley = <country scope> #Province scope, spawns a Geobukseon Galley.
+   - Added man_of_war_heavy = <country scope> #Province scope, spawns a Man of War Heavy.
+   - Added man_of_war_light = <country scope> #Province scope, spawns a Man of War Light Ship.
+   - Added galleon_heavy = <country scope> #Province scope, spawns a Galleaon Heavy.
+   - Added galleass_galley = <country scope> #Province scope, spawns a Galleass Galley.
+   - Added caravel_light = <country scope> #Province scope, spawns a Caravel Light.
+   - Added voc_indiamen_light = <country scope> #Province scope, spawns a VOC Indiaman Light Ship.
+   - Added create_unit_forcelimit_percentage = { type = <unit type such as infantry, cavalry, etc.> (special_unit_category = <special unit type such as cossacks, tercio, musketeer>) force_limit_percentage = <double> }.
+   - Added extend_country_modifier = { name = <modifier id> duration = <days> }.
+
+# Modifiers
+   - Added special_unit_cost_modifier = <float> #Country modifier, modifies the non-manpower/sailors cost of all special unitsspecial_unit_manpower_cost_modifier.
+   - Added some special unit modifiersnumber_of_cannons = <int.
+   - Added new static modifier under_governing_capacity_modifier which scales down 0 - 100 depending on how much government capacity you are not using.
+
+# Triggers
+   - Added num_of_revolutionary_guard (not sure why it was missing).
+   - Added num_of_speical_units = { special_unit_category = <special unit type, musketeer/tercio/streltsy etc> type = infantry/cavalry/artillery/etc value = <int> }.
+   - Added years_of_manpower = <float> #Country scope, returns true if the country has the float amount of years of manpower in their manpower pool. Works like "years_of_income".
+   - Added years_of_sailors = <float> #Country scope, returns true if the country has the float amount of years of sailors in their sailor pool. Works like "years_of_income".
+   - Added Improve the tooltip of the trade_goods_produced_amount = {} trigger.
+   - Added has_been_humiliated_by = <country scope> #Country scope, checks if the current country scope has been ever humiliated by the specified country.
+   - Added humiliated = <country scope> #Country scope, checks if the current country scope has humiliated the specified country.
+   - Added has_saved_global_event_target = <string> #Works exactly like has_saved_event_target, but instead checks for a global event target.
+   - Added same_trade_node_as = <province> #Province scope, returns true if the current scope is in the same trade node as the specified province.
+   - Added same_home_trade_node_as = <country> #Country scope, returns true if the current country scope has the same trade node as the home trade node as the specified country does.
+   - Added has_owner_harmonized_religion = yes #Province scope, returns true if the current province scope has a religion that is harmonized by its owner.
+   - Added has_owner_secondary_religion = yes #Province scope, returns true if the current province scope has a religion that is the secondary of its owner.
+   - Added secondary_religion_group = <religion group> #Country scope, returns true if the country has a religion of the specified religion group as its secondary religion.
+   - Added has_assimilated_culture_group = <country/province/culture group id> #Country scope, returns true if the country has assimilated the culture group of the specified country/province or has assimilated a specified culture group. Works like accepted_culture.
+   - Added has_assimilated_culture = <country/province/culture id> #Country scope, returns true if the country has assimilated the culture of the specified country (in this case its primary culture)/province or has assimilated a specified culture. Works like accepted_culture.
+   - Added num_ships_protecting_trade = <int> / <country scope> #Country scope, returns true if the country has at least as many ships protecting trade as the specified country or the specified number.
+   - Added has_protecting_trade_share_in_trade_node = { who = <country scope> share = <float> } #Province scope (Trade node-specific), Returns true if the country has a certain percentage of the trade in a given node through its light ships protecting trade there.
+   - Added num_of_pashas = <int> #Country scope, returns true if the country has assigned Pashas in at least x areas.
+   - Added transfers_trade_power_to = <country scope> #Country scope, returns true if the current scope transfers trade power to the specified country.
+   - Added steers_trade_to = <country scope> #Country scope, returns true if the current scope steers trade to the specified country.
+   - Added receives_trade_power_from = <country scope> #Country scope, returns true if the specified country scope transfers trade power to the current country scope.
+   - Added receives_trade_steering_from = <country scope> #Country scope, returns true if the specified country scope steers trade to the current country scope.
+   - Added has_advisor_type_in_pool = <advisor type> #Country scope, returns true if any advisor of the specified advisor type is available for you to hire right now. Does not check for hired advisors.
+   - Added possible_buildings = <int> #Province scope, returns true if the amount of possible buildings in the province scope is equal to or higher than the specified int value.
+   - Added trade_node = <trade node id> #Province scope, returns true if the current scope is part of the specified trade node.
+   - Added home_trade_node = <trade node id> #Country scope, returns true if the current scope has its home trade node in the specified trade node.
+   - Added owned_by_subject_of = <country scope> #Province scope, returns true if the province is owned by a subject of the specified country scope.
+   - Expanded the "employed_advisor" trigger with extra parameters: is_discounted = yes #Checks if the advisor in question has a discount which is caused by the cost_multiplier = <int> or the discount = yes parameters from "define_advisor", skill = <int> #Checks if the advisor in question has a skill level or higher of the specified int, name = <string> #Checks if the advisor has a certain name.
+   - Added empire_of_china_num_reforms_passed = <int> #Checks how many reforms the Emperor of China has passed.
+   - Added empire_of_china_has_active_decree = <key/yes/no> #Checks the current active Decree for the Emperor of China.
+   - Added num_of_times_expanded_infrastructure = <int> #Province scope, counts how many times a province has had its infrastructure expanded.
+   - Added is_neighbor_of = <tag> #Can now be used in province scope as well as country scope.
+   - Added is_neighbor_of_province = <int> #checks if the scope province or country is a neighbor of the supplied province id (or root/prev etc).
+   - Added has_liberty_desire_modifier = <key> #Checks for if a country has a particular liberty desire modifier.
+   - Added has_eclipsed = <country scope> #Country scope, returns true if the current scope is too powerful to select the specified country as a rival (aka. it eclipsed the target country).
+   - Added has_been_eclipsed_by = <country scope> #Country scope, returns true if the current scope is too weak to be selected by the specified country as a rival (aka. it has been eclipsed by the target country).
+
+# Other
+   - Added can_remove_idea_group government reform property that can be used to block idea group removal via government reform.
+   - Added government reform trait force_general_leader= yes/no which forces your ruler to become a general after the coronation.
+   - Government mechanics, powers and interactions are now fully scriptable (see /government_mechanics/readme.txt)tribal_allegiance is now a government power, so tribal_allegiance, is yearly.
+   - Added the "Has Harem events" custom government attribute which now calls all the Harem-related events.
+   - Split all the estate privileges from one file into several files - for each estate a file.
+   - Now able to modulate the colors of decision entries.
+   - Added on actions for religion and culture changing in a province - on_province_religion_changed and on_province_culture_changed.
+
+###################
+# Script
+###################
+# Achievements
+   - The achievement "Baltic Crusader" no longer requires you to colonize two provinces or so in the Urals. (Note: apologies for not having this fixed earlier).
+   - The achievement of "Master of India" can be completed when a subject owns all of India instead too.
+   - The achievement "For the Emperor" can now be completed even if you play as a released vassal. It was never intended to be blocked this way anyway.
+
+# Decisions
+   - Confirming Thalossacracy now unlocks a new government reform for tier 8 which allows you to establish Trade Protectorates.
+   - The "Rein in Italy" has now a better tooltip, explaining what you are supposed to do.
+   - The decision "Formalize Separation of Powers" is now available to every country with a parliament. The modifier "Separation of Power" now also gives a +3% Backing Chance for Parliament Issues.
+   - The piety gained from Muslim decisions is now negative when you have negative Piety already.
+   - Forming Egypt will no longer force you into a kingdom rank if you are already an empire.
+   - Junior partners can adopt the Hussite faith via decision, their ruler will remain their overlord's religion.
+   - Gaining the Sich Rada from the decision no longer blocks the decision. This means you will always have the opportunity to regain this reform.
+   - Decisions that change your government will no longer remove reform levels.
+
+# Events
+   - Nzinga of Ndongo and Matamba is now of whatever culture you are.
+   - Nahuatl Event 'Pochteca Traders Harassed' no longer grants a CB that lasts 152 years.
+   - You can now see the "X Institution has Spawned" event even if you can't see its origin.
+   - Granting Malta to the Knights will now give access to the San Juan Holy Order for owners of the Golden Century DLC.
+   - The Nordic countries will no longer flip back to Catholicism when they proceed in their mission trees.
+   - The Ethiopian AI will no longer move its capital through an event to a province that has not been fully colonized yet.
+   - The Sisters Takeover for Orleans now gives a unique Tier 1 government reform.
+   - The event for unifying the HRE will no longer create a grocery list that tries to escape the screen.
+   - The event "A Helping Hand" now costs max 500 Ducats when you decide to get an advisor.
+   - The event "The Maid of $PROVINCE$" no longer removes legitimacy for the PU overlord. Also, the general generated has now 50 Army Tradition and is always female.
+   - Added an event to the mission tree of Finland which allows you to change your name to one of the Finish Empires.
+   - Added an event to the Kongo mission tree which asks you if you want to become a monarchy or stay as a tribe.
+   - The event "Consultation of the Monasteries" gives now Karma scaled with the amount of Karma you have right now. As an example: if you are above 90 Karma you would lose 25, above 50 you lose 15, above 25 you lose 10 and otherwise you lose 5. Vice versa for negative Karma is also true.
+   - Good Monsoons now give +20% Local Tax Modifier instead of -20% Local Dev Cost.
+   - The event "The Agenda of the Diet" now supports up to 6 estates at the same time instead of just 3.
+   - Added an event that fires when you dissolve the Holy Roman Empire. The events give now the 100 Prestige (which turn into Monarch Power when overflowing), 200 Splendor, and 25 Power Projection.
+   - The event Event A Helping Hand will not fire if all owned great projects are already fully upgraded.
+
+# Ideas
+   - Norse ideas no longer overwrite all of your ideas if you just happen to have the Norse culture and religion.
+   - Ruthenian's ideas have been buffed. They have now 20% Manpower Recovery Speed and -10% Morale Damage Received in their traditions. Foreign Influence now gives +2 Number of Accepted Cultures and -25% Promote Culture Cost. Zaporizhian Cossacks now give +1 Privilege Slots to the Cossacks. Reuniting Rus gives now -a 10% Core Creation Cost and Birth of Russian Orthodoxy now increases Tolerance of True Faith by 2 and Yearly Patriarch Authority by 0.5.
+   - All ideas which increase Land Forcelimit Modifiers by 33% have their value decreased to 25%.
+   - Russia's ideas have been adjusted. Their tradition now gives -a 15% Core Creation Cost. Land of the Rus now gives -a 15% AE reduction. Life-long Conscription now increases the Land force limit by 33% instead of 50%. Abolishing the Mestnichestvo now decreases the Nobility's Influence by 10%.
+   - Ideas that have a Free Leader have their ideas now altered. Traditions and Ambitions with the Free Leader have a new modifier replacing the leader one. Everywhere else a second idea has been added.
+   - The English idea "Bill of Rights" now gives +1 Num of Parliament Issues. The English Ambition now gives +10% Morale for Navies.
+   - Reworked Siamese ideas and nerfed their power level considerably.
+   - Added +2 Artillery Shock to Smolensk's ideas. BOOM!.
+   - The British ideas of "Merchant Navy" and "City Upon a Hill" have been combined into one. Instead of the "Merchant Navy" idea, GB now gets the "British Parliament" idea, giving -1 Global Unrest and +1 Number of available Issues.
+   - Orisa's tradition now gives +10% Production Efficiency (previously +5%).
+   - Adjusted the Ottoman ideas. They now have -25% CCR (previously -20%), +15% Global Tax (previously +10%), +10% Reform Progress Growth (new), -2 Global Unrest (replacing the -10% War Exhaustion Reduction Cost) and +0.5 Yearly Naval Tradition (new).
+   - Qing's Core Creation Cost from its ideas has been buffed from 20% to 25% so it can keep up with Yuan.
+   - Adjusted the French ideas. They now have -50% War Taxes Cost (in addition to +10% National tax), +15% Morale of Armies and +0.5 Yearly Army Tradition (replacing +20% Morale of Armies), National Unrest -1 and +10% Reform Progress Growth (replacing the +1 Diplomatic Relation), -10% Core Creation Cost and +5 Maximum Absolutism (replacing the -10% Technology Cost), +15% Fort Defense and +50% Garrison Army Damage (instead of -20% Fort Maintenance), and -10% Development Cost as a Tradition (replacing the +2 Tolerance of Heretics and +2 Tolerance of Heathens).
+   - Added a new set of National Ideas for Revolutionary France.
+   - Adjusted the Spanish Ideas. They now have Church Power and Fervor in case of being Protestant or Reformed (added to Devout Christianism), replaced the Treasure Fleet idea with the Castilian idea School of Salamanca and added +10% Reform Progress Growth to it,  A Spanish Armada now gets +25% Naval Force Limit modifier (replaces +1 Naval Leader Maneuver, which has been moved to Grand Armada Naval Doctrine), added -5 Estate Loyalty on Revoking Privileges to Rein in the Cortes.
+   - Adjusted the Castilian ideas. The Tradition now has a +25% Naval Force Limit Modifier (replaces +25% Marines Force Limit), and +10% Reform Progress Growth (added to School of Salamanca idea).
+
+# Missions
+   - You can now complete the Polish mission 'Delegate with the Emperor' as the Emperor of the HRE.
+   - The English "Strategic Control" is no longer soft-blocked when you force a PU over France before finishing the mission.
+   - The Burgundian mission "Chivalry is not Dead" now gives +25 Permanent Power Project. This is mostly a small addition to them as the Angevin Kingdom uses the same event.
+   - The Polish mission 'Break Livonia' now grants claims to conquer Pomerania.
+
+# Setup
+   - Added a missing escalated level of crownland between 80 and 100.
+   - Renamed the province Kelang to Tamsui.
+   - Valladolid is now part of the North Castile area and Asturias is now part of the Leon area.
+   - Renamed the Asturias and Castile areas to North and South Castile.
+   - Changed the trade goods of many provinces in Iberia to better reflect historical accuracy.
+   - Muscovy is now a Historical Rival of the Great Horde.
+   - Aveiro and Algarvae now produce Salt.
+   - The Patagonia and Amazonas trade node now has a connection to Cuiaba. Lima has now a connection to the Polynesian Triangle. These changes aim to make colonizing South America more profitable for Asian countries.
+   - Zaporizhzhia has now Eastern technology instead of Nomad one.
+   - The Hudson Bay Trade now flows into California.
+   - The Anatolian minors now start with the Beylik government reform.
+   - All French appanages now start with the Appanage government reform.
+   - The starting ruler of Augsburg now remembers that he went to university at some point and has gained 4 Diplo points.
+   - The Great Horde has now its capital in Sarai. Additionally, Sarai now starts with the "Tatar Yoke" triggered province modifier if Domination is active.
+
+# Other
+   - You will no longer be informed that seizing land will cause rebels when you have a government reform that disables rebels spawning from seizing crown land.
+   - Colonial subjects should no longer get access to "Establish a Colonial Subject" Estate Agendas.
+   - Pashas now give -20% Local Governing, 20% Local Minimum Autonomy, -0.1 Monthly Local Autonomy (basically, they have a higher base Autonomy, but they reach this base faster now), -33% Local State Maintenance Modifier and +10 Local Tolerance of Heathens.
+   - Zhuang can now be sinicized.
+   - The Zacatecas Great Project now ensures the province has Gold.
+   - AI has now a 90% chance to automatically complete an estate agenda.
+   - Self Governing Colonies now have access to Burghers and Nobles. (Note: Judging the events for the colonies, they were intended to have them ever since 1.31...).
+   - Combined the special unit custom nation ideas into one.
+   - Moved many random events from the bi-yearly pulse to an empty 4-yearly pulse to increase performance and, paradoxically, make them more likely to fire in the game.
+   - The state edict "Centralization Effot" now decreases local autonomy by -0.03 instead of.
+   - The global modifier "Disembark Time" has been renamed into "Disembark Speed".
+   - All Estate disasters can now gain progress unless their respective estate hast at least 60% Loyalty instead of 50%.
+   - Forming the Holy Roman Empire with Domination adds a new Holy Imperial Monarchy to your country.
+   - The Ikko-Ikki rebels will now try to enforce the Ikko-Ikki government reform.
+   - The admin costs of Subject Upgrades now scale down with all power cost modifiers.
+   - The French Wars of Religion can now also fire if you are Hussite or Anglican.
+   - Forming Scandinavia while having the Unified Kalmar Monarchy reform will now form Scandinavia but with the "Kalmar Union" as a name and the yellow from the flag as the map color.
+   - The Religious Turmoil disaster can now fire for Hussite and Anglican countries too.
+   - Added a Casus belli for Confucian nations against countries with other religions when you get the "Deus Vult" CB or when you finish Humanist ideas. The reason for this addition is the impossibility to use the Deus Vult CB against countries which religion you have harmonized with.
+   - Added the "Sultanate of Rûm" and the "Ruthenian Tsardom" as new government reforms for Rûm and Ruthenia.
+   - The triggered province modifier "Paektu Mountain" can now be active too if the religion of the province is Mahayana.
+   - The triggered modifier for the occupation of Rome is now province-triggered.
+   - Mali is no longer an endgame tag.
+   - You can no longer gain the "Babbling Buffoon" ruler trait if you have more than 5 diplomatic stats.
+   - The Naval Doctrine of Portugal now decreases Naval Barrage cost by 50%.
+   - Replaced the bonus for the Korean naval doctrine with a +20% Hull Size Modifier.
+   - Estate breakaways from the Cossacks are now Eastern and have the Sich Rada reform. They are no longer hordes.
+   - The Unify China Casus belli now gives only territorial cores instead of full cores upon occupying a province.
+   - Strong Duchies is now available if you have a combination of 2 marches, vassals or personal unions.
+   - The government reform "Separate the Clergy from State" now also disables the Brahmin's estate.
+   - The Teutons are properly no longer accepted to join the HRE when they choose to stick to their crusader path.
+   - Re-enabled the event "National decline".
+   - The event "Prospering Times" now upgrades a province greatly as it is a one-time-only event for countries.
+   - The event "Incompetent Cousin" now specifies which of your subjects the cousin has.
+   - Adjusted the colonial borders of the new world so they no longer split areas apart.
+   - Added to the events "The Republic of Salé" and "The Pirate Queen of Tétouan" a third option that allows you to ignore the Pirate Republic entirely. The AI will still always release the pirates.
+   - The Naval Doctrine 'Grand Armada' now also grants +25 Marines force limit +1 Naval Leader Maneuver.
+
+###################
+# Bugfixes
+###################
+   - Fixed OOS related to cardinal IDs.
+   - Fixed desync related to countries that are called to join a war but haven't yet for hot joiners.
+   - Fixed CTD related to losing merchants when the trade node interface is open.
+   - Fixed a desync that could happen when a country changes religion, invites a religious scholar, and there's a player that's lagging enough.
+   - Fixed so the build flagship button is greyed out when light ships cost more than heavies and you can't afford it.
+   - Fixed OOS related to modifier from trade centers applied to countries not resetting when trade center decreases in level.
+   - OOS fix related to mercenary companies keeping track of which country they belong to, which didn't handle tag switching.
+   - Fixed issue with automated improved relations entry text in outliner that wouldn't align to the right.
+   - Fixed so that terrain bonus for combat map marker is displayed positive for positive values.
+   - Improved logic for automatically computing the amount of money when demanding/offering peace.
+   - Fixed issues with random factors regarding missions and their events always being the same.
+   - Fixed a crash related to government reform properties not existing.
+   - Moved federation strength computation to code, removed script functions with effects due to them causing crashes/desyncs.
+   - Fixed an issue where the "carolean_infantry" where mentions Cawa units instead of Carolean units.
+   - Fixed policies "Diplomatic Consolidation Act" and "Colonial Improvement Act" not displaying any value in the policy window.
+   - Fixed on actions triggers when culture and religion change via the events.
+   - Fixed desync in great projects executing on_built effect when loading a save game.
+   - Fixed issue with ambient map objects visibility is reset after loading a save.
+   - The event "Muslim-Born Men Enroll as Janissaries" gives now 5% Discipline to the Janissaries instead of a pathetic 1.5% (which was originally supposed to be 15% Discipline apparently...).
+   - Fixed several script-related errors which inflated the error log over the period of a game.
+   - Fixed a race condition crash related to AI taking decisions.
+   - The special_units_forcelimit modifier now applies to all special units.

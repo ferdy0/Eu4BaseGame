@@ -156,6 +156,9 @@ east_african_trade_slot2 = {
 				}
 				treasury = 200
 			}
+			any_owned_province = {
+				province_has_center_of_trade_of_level = 2
+			}
 		}
 		effect = {
 			add_country_modifier = {

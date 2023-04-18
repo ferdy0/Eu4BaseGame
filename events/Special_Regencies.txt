@@ -334,7 +334,7 @@ country_event = {
 		add_meritocracy_effect = yes
 		if = {
 			limit = {
-				has_global_flag = sinicized_vietnamese_flag
+				has_updated_culture = { culture = vietnamese }
 			}
 			define_advisor = {
 				name = "Nguyen Thi Anh"
@@ -361,7 +361,7 @@ country_event = {
 		name = special_regency_events.4.b
 		if = {
 			limit = {
-				has_global_flag = sinicized_vietnamese_flag
+				has_updated_culture = { culture = vietnamese }
 			}
 			define_ruler = {
 				name = "Nguyen Thi Anh"
@@ -522,7 +522,7 @@ country_event = {
 		}
 		if = {
 			limit = {
-				has_global_flag = sinicized_korean_flag
+				has_updated_culture = { culture = korean }
 			}
 			define_ruler = {
 				name = "Jung Soon"
@@ -559,7 +559,7 @@ country_event = {
 		}
 		if = {
 			limit = {
-				has_global_flag = sinicized_korean_flag
+				has_updated_culture = { culture = korean }
 			}
 			define_ruler = {
 				name = "Jung Soon"

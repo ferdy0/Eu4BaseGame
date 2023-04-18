@@ -369,6 +369,7 @@ country_event = {
 		#	}
 		#}
 		change_tag = LVA
+		on_change_tag_effect = yes
 		restore_country_name_effect = yes
 		if = {
 			limit = { has_custom_ideas = no }
@@ -1305,7 +1306,7 @@ country_event = {
 			value = 1
 		}
 		show_points_needed_for_livionian_government_of_category = { adm = yes }
-		add_stat_or_monarch_power = {
+		change_ruler_stat = {
 			stat = adm
 			amount = 1
 		}
@@ -1322,7 +1323,7 @@ country_event = {
 			value = 1
 		}
 		show_points_needed_for_livionian_government_of_category = { dip = yes }
-		add_stat_or_monarch_power = {
+		change_ruler_stat = {
 			stat = dip
 			amount = 1
 		}
@@ -1339,7 +1340,7 @@ country_event = {
 			value = 1
 		}
 		show_points_needed_for_livionian_government_of_category = { mil = yes }
-		add_stat_or_monarch_power = {
+		change_ruler_stat = {
 			stat = mil
 			amount = 1
 		}
