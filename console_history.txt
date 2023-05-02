@@ -14016,3 +14016,64 @@ debug_mode
 tag kam
 tag mge
 ti
+debug_mode
+tag l46
+tag l37
+tag l43
+tag s70
+tag f65
+tag f69
+debug_mode
+mission mge_culture_laizhou
+mission mge_culture_nanjing
+mission mge_culture_laizhou
+integrate mng
+mission mge_culture_laizhou
+mission mge_culture_nanjing
+mission mge_culture_laizhou
+yesman
+own_core 2741
+own_core 1015
+own_core 4651
+integrate mng
+own_core 4651
+own_core 1015
+own_core 2741
+yesman
+own_core 4651
+own_core 1015
+own_core 2741
+integrate mng
+yesman
+debug_mode
+opinion
+add_opinion
+add_opinion hik
+
+add_opinion hik
+debug_mode
+tag mge
+debug_mode
+integrate mng
+ti
+debug_mode
+tag hik
+tag mge
+ti
+debug_mode
+tag dai
+tag lxa
+tag mge
+debug_mode
+own_core JAP 2744
+own_core 2744 JAP
+vassalize jap
+mission mge_culture_canton
+vassalize jap
+ally
+own_core 2744
+vassalize jap
+own_core 2744 JAP
+yesman
+opinion jap
+ADD_opinion jap
