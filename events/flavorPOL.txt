@@ -848,6 +848,7 @@ country_event = {
 			has_ruler_modifier = pol_sejm_refuse_timer
 		}
 		government = monarchy
+		NOT = { has_reform = polish_autocratic_monarchy }
 	}
 	
 	mean_time_to_happen = {
@@ -891,6 +892,7 @@ country_event = {
 			has_ruler_modifier = pol_sejm_refuse_timer
 		}
 		government = monarchy
+		NOT = { has_reform = polish_autocratic_monarchy }
 	}
 	
 	mean_time_to_happen = {
@@ -926,6 +928,7 @@ country_event = {
 			has_ruler_modifier = pol_sejm_refuse_timer
 		}
 		government = monarchy
+		NOT = { has_reform = polish_autocratic_monarchy }
 	}
 	
 	mean_time_to_happen = {
@@ -1641,7 +1644,10 @@ country_event = {
 			random_owned_province = {
 				limit = {
 					is_capital = no
-					culture = polish
+					OR = {
+						culture = polish
+						culture = polish_new
+					}
 					religion = catholic
 					NOT = { province_id = 260 }
 				}
@@ -1650,7 +1656,10 @@ country_event = {
 			random_owned_province = {
 				limit = {
 					is_capital = no
-					culture = polish
+					OR = {
+						culture = polish
+						culture = polish_new
+					}
 					religion = catholic
 					NOT = { province_id = 260 }
 					NOT = { has_province_flag = reading_brest_bible }
@@ -1983,7 +1992,7 @@ country_event = {
 		give_estate_land_share_large = { estate = estate_nobles }
 		if = {
 			limit = { NOT = { has_reform = celestial_empire } }
-			change_government_to_republic = yes
+			change_government = republic
 			add_government_reform = noble_elite_reform
 		}
 		hidden_effect = {
@@ -2059,7 +2068,7 @@ country_event = {
 	}
 }
 
-####Lions of the North#### scripted by William 'Big Boss' Samelis
+####Lions of the North#### scripted by Big Boss
 
 country_event = { #The Little Kings Uprising
 	id = flavor_pol.23
@@ -2664,20 +2673,19 @@ country_event = { #The Crown of Rome
 		}
 		if = { 
 			limit = { 
-				BYZ = { 
+				LAE = { 
 					NOT = { is_subject_of = ROOT } 
 				}
 			}
 			thrace_area = {
-				add_core = BYZ 
+				add_core = LAE 
 			}
-			release = BYZ 
-			vassalize = BYZ 
+			release = LAE 
+			vassalize = LAE 
 		}
-		BYZ = { 
+		LAE = { 
 			change_religion = catholic
 			set_dynasty = ROOT
-			override_country_name = LAE
 			set_country_flag = is_LAE_flag
 			hidden_effect = { 
 				every_owned_province = { 
@@ -2689,7 +2697,13 @@ country_event = { #The Crown of Rome
 					change_culture = ROOT
 				}
 			}
-			add_accepted_culture = polish
+			if = {
+				limit = { has_updated_culture = { culture = slavic } }
+				add_accepted_culture = polish_new
+			}
+			else = {
+				add_accepted_culture = polish
+			}
 		}
 		151 = { 
 			if = { 

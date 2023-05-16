@@ -108,7 +108,7 @@ dlc031 = {
 	}
 }
 
-#Songs of the New World
+#Songs of Exploration
 dlc036 = {
 	reason = {
 		tooltip_desc = "dlc036_reason_colonists"
@@ -305,3 +305,8 @@ dlc114 = {
 
 #dlc117 is in Lions of the North
 #dlc118 is in Lions of the North
+
+#dlc121 is in Domination
+#dlc122 is in Domination
+#dlc123 is in Domination
+#dlc124 is in Domination

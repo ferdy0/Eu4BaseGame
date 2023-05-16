@@ -7,5 +7,5 @@ egs_staging_id = "b9a7ed6d1d3a4acba24e54598c9afc4c"
 pops_id = "eu4_dlc095_golden_century"
 affects_checksum = no
 affects_compatability = yes
-checksum = "bcae53b7d043d3289cd54b6623cbea55"
+checksum = "08ffc1b969dd0e94acf191381073454c"
 category = "expansion"
