@@ -125,8 +125,7 @@ poland_sca_slot_1 = { #Made by William 'Big Boss' S.
 				limit = { has_parliament = yes } 
 				current_size_of_parliament = 10 
 				num_of_issues_passed = { 
-					tooltip = pol_6_issues_passed
-					value = 6
+					amount = 6
 				}
 				stability = 2 
 				monthly_adm = 10 
@@ -138,8 +137,7 @@ poland_sca_slot_1 = { #Made by William 'Big Boss' S.
 			}
 		}
 		effect = {
-			custom_tooltip = pol_unlock_new_issues_tt 
-			set_country_flag = pol_new_issues_tt
+			unlock_new_issues = yes
 			if =  {
 				limit = { 
 					has_dlc = "Rights of Man"
@@ -737,7 +735,7 @@ poland_sca_slot_2_a = {
 			}
 			custom_tooltip = pol_alternatively_every_required_province_tt
 			tooltip = {
-				add_stat_or_monarch_power = {
+				change_ruler_stat = {
 					stat = mil
 					amount = 2
 				}
@@ -765,7 +763,7 @@ poland_sca_slot_2_a = {
 					erzgebirge_area = { add_nationalism = -5 }
 					bohemia_area = { add_nationalism = -5 }
 					lusatia_area = { add_nationalism = -5 }
-					add_stat_or_monarch_power = {
+					change_ruler_stat = {
 						stat = mil
 						amount = 2
 					}
@@ -800,7 +798,7 @@ poland_sca_slot_2_a = {
 			OR = { 
 				unrest = 1 
 				NOT = { country_or_non_sovereign_subject_holds = ROOT }
-				average_autonomy_above_min = 5
+				local_autonomy_above_min = 5
 			}
 		}
 		trigger = { 
@@ -826,31 +824,31 @@ poland_sca_slot_2_a = {
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 }
+						NOT = { local_autonomy_above_min = 5 }
 					}
 					alfold_area = { 
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 }
+						NOT = { local_autonomy_above_min = 5 }
 					}
 					transdanubia_area = { 
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 }
+						NOT = { local_autonomy_above_min = 5 }
 					}
 					transylvania_area = {
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 }
+						NOT = { local_autonomy_above_min = 5 }
 					}
 					southern_transylvania_area = { 
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 } 
+						NOT = { local_autonomy_above_min = 5 } 
 					}
 				}
 			}
@@ -872,31 +870,31 @@ poland_sca_slot_2_a = {
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 } 
+						NOT = { local_autonomy_above_min = 5 } 
 					}
 					moravia_area = { 
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 } 
+						NOT = { local_autonomy_above_min = 5 } 
 					}
 					bohemia_area = { 
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 } 
+						NOT = { local_autonomy_above_min = 5 } 
 					}
 					erzgebirge_area = { 
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 } 
+						NOT = { local_autonomy_above_min = 5 } 
 					}
 					lusatia_area = { 
 						type = all 
 						country_or_non_sovereign_subject_holds = ROOT 
 						NOT = { unrest = 1 }
-						NOT = { average_autonomy_above_min = 5 } 
+						NOT = { local_autonomy_above_min = 5 } 
 					}
 				}
 			}
@@ -952,7 +950,7 @@ poland_sca_slot_2_a = {
 					}
 				}
 			}
-			add_stat_or_monarch_power = {
+			change_ruler_stat = {
 				stat = dip
 				amount = 2
 			}
@@ -999,9 +997,7 @@ poland_sca_slot_2_b = {
 					ruler_has_personality = free_thinker_personality 
 					ruler_has_personality = scholar_personality 
 					ruler_total_stats = {
-						custom_tooltip = pol_ruler_ts_14
 						stats = 14 
-						who = ROOT
 					}
 				}
 			}
@@ -1009,9 +1005,7 @@ poland_sca_slot_2_b = {
 				OR = { 
 					full_idea_group = innovativeness_ideas 
 					ruler_total_stats = {
-						custom_tooltip = pol_ruler_ts_14
 						stats = 14 
-						who = ROOT
 					}
 				}
 			}
@@ -1081,9 +1075,7 @@ poland_sca_slot_2_plc_1 = {
 					ruler_has_personality = free_thinker_personality 
 					ruler_has_personality = scholar_personality 
 					ruler_total_stats = {
-						custom_tooltip = pol_ruler_ts_14
 						stats = 14 
-						who = ROOT
 					}
 				}
 			}
@@ -1091,9 +1083,7 @@ poland_sca_slot_2_plc_1 = {
 				OR = { 
 					full_idea_group = innovativeness_ideas 
 					ruler_total_stats = {
-						custom_tooltip = pol_ruler_ts_14
 						stats = 14 
-						who = ROOT
 					}
 				}
 			}
@@ -1891,7 +1881,7 @@ poland_sca_slot_3_a = {
 				}
 				else_if = { 
 					limit = { mercantilism = 25 } 
-					add_stat_or_monarch_power = {
+					change_ruler_stat = {
 						stat = dip
 						amount = 1
 					}
@@ -1982,7 +1972,7 @@ poland_sca_slot_3_a = {
 				type = all 
 				NOT = { unrest = 1 } 
 				num_of_times_improved = 3 
-				NOT = { average_home_autonomy = 5 }
+				NOT = { local_autonomy_above_min = 5 }
 			}
 		}
 		effect = {
@@ -2119,7 +2109,10 @@ poland_sca_slot_3_b = {
 					region = russia_region
 				}
 				total_development = 100
-				culture_group = east_slavic
+				OR = {
+					culture_group = east_slavic
+					culture_group = slavic
+				}
 				is_subject = no
 			}
 		}
@@ -2138,7 +2131,10 @@ poland_sca_slot_3_b = {
 								region = russia_region
 							}
 							total_development = 100
-							culture_group = east_slavic
+							OR = {
+								culture_group = east_slavic
+								culture_group = slavic
+							}
 							is_subject = no
 						}
 					}
@@ -2273,9 +2269,11 @@ poland_sca_slot_3_b = {
 		}
 		effect = { 
 			custom_tooltip = pol_economic_hegemony_tt
-			add_country_modifier = { 
-				name = pol_efficienct_development_modifier
-				duration = 9125 
+			tooltip = { 
+				add_country_modifier = { 
+					name = pol_efficienct_development_modifier
+					duration = 9125 
+				}
 			}
 			custom_tooltip = pol_naval_hegemony_tt
 			tooltip = { 
@@ -2349,7 +2347,7 @@ poland_sca_slot_3_plc_1 = {
 				add_ruler_personality = industrious_personality 
 			}
 			else = { 
-				add_stat_or_monarch_power = {
+				change_ruler_stat = {
 					stat = adm
 					amount = 1
 				}
@@ -2481,7 +2479,10 @@ poland_sca_slot_3_plc_1 = {
 					region = russia_region
 				}
 				total_development = 100
-				culture_group = east_slavic
+				OR = {
+					culture_group = east_slavic
+					culture_group = slavic
+				}
 				is_subject = no
 			}
 		}
@@ -2496,7 +2497,10 @@ poland_sca_slot_3_plc_1 = {
 								region = russia_region
 							}
 							total_development = 100
-							culture_group = east_slavic
+							OR = {
+								culture_group = east_slavic
+								culture_group = slavic
+							}
 							is_subject = no
 						}
 					}
@@ -2682,7 +2686,7 @@ poland_sca_slot_3_plc_1 = {
 			}
 			else = {
 				OR = { 
-					num_of_heavy_ship = 250 
+					navy_size = 500 
 					army_size = 1000 
 					monthly_income = 1000 
 				}
@@ -2714,28 +2718,47 @@ poland_sca_slot_3_plc_1 = {
 			}
 			hidden_effect = {
 				if = { 
-					limit = { 
-						OR = { 
-							is_hegemon_of_type = economic_hegemon
-							monthly_income = 1000  
+					limit = { has_dlc = "Emperor" }
+					if = { 
+						limit = { is_hegemon_of_type = economic_hegemon }
+						add_country_modifier = { 
+							name = pol_efficienct_development_modifier
+							duration = 9125 
 						}
+						set_country_flag = enable_upgrading_centers_of_trade_dev
+						set_country_flag = enable_supplemental_development_flag
+					}
+					else_if = {
+						limit = { is_hegemon_of_type = naval_hegemon }
+						add_country_modifier = { 
+							name = pol_global_maritime_empire_modifier
+							duration = -1 
+						}
+					}
+					else = {
+						add_country_modifier = { 
+							name = pol_poland_rise_modifier
+							duration = -1 
+						}
+					}
+				}
+				else_if = {
+					limit = { monthly_income = 1000 }
+					add_country_modifier = { 
+						name = pol_efficienct_development_modifier
+						duration = 9125 
 					}
 					set_country_flag = enable_upgrading_centers_of_trade_dev
 					set_country_flag = enable_supplemental_development_flag
 				}
 				else_if = {
-					limit = { 
-						OR = { 
-							is_hegemon_of_type = naval_hegemon
-							num_of_heavy_ship = 250 
-						}
-					}
+					limit = { navy_size = 500 }
 					add_country_modifier = { 
 						name = pol_global_maritime_empire_modifier
 						duration = -1 
 					}
 				}
-				else = {
+				else = { 
 					add_country_modifier = { 
 						name = pol_poland_rise_modifier
 						duration = -1 
@@ -4210,7 +4233,7 @@ poland_sca_slot_5_branching_lit_hre = {
 				name = pol_imperial_polish_decrees_modifier
 				duration = 9125 
 			}
-			add_stat_or_monarch_power = {
+			change_ruler_stat = {
 				stat = dip
 				amount = 2
 			}
@@ -4233,6 +4256,7 @@ poland_sca_slot_5_branching_lit_east = {
 			tag = PLC 
 		}
 		has_country_flag = pol_chose_pu_flag
+		NOT = { has_country_flag = pol_denied_pu_flag }
 	}
 	has_country_shield = yes
 	
@@ -4505,6 +4529,7 @@ poland_sca_slot_5_branching_hre_west = {
 			tag = PLC 
 		}
 		has_country_flag = pol_denied_pu_flag 
+		NOT = { has_country_flag = pol_chose_pu_flag }
 	}
 	has_country_shield = yes
 	
@@ -4512,8 +4537,13 @@ poland_sca_slot_5_branching_hre_west = {
 		icon = mission_pol_delegate_emperor 
 		required_missions = { pol_varna_aftermath } 
 		position = 2 
-		trigger = { 
+		trigger = {
 			if = {
+				limit = { is_emperor = yes } 
+				is_emperor = yes 
+				imperial_influence = 45
+			}
+			else_if = {
 				limit = { hre_size = 1 }
 				emperor = {
 					OR = {
@@ -4650,11 +4680,11 @@ poland_sca_slot_5_branching_hre_west = {
 				}
 			}
 			else = {
-				add_stat_or_monarch_power = {
+				change_ruler_stat = {
 					stat = dip
 					amount = 2
 				}
-				add_stat_or_monarch_power = {
+				change_ruler_stat = {
 					stat = mil
 					amount = 1
 				}
@@ -4707,7 +4737,7 @@ poland_sca_slot_5_branching_hre_west = {
 			else = {
 
 			}
-			add_stat_or_monarch_power = {
+			change_ruler_stat = {
 				stat = adm
 				amount = 2
 			}

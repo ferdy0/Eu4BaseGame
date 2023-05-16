@@ -53,7 +53,7 @@
  protectorate_no_overlord_dow:0 "Ihr könnt Euren Protektoraten nicht den Krieg erklären."
  relation_fight:0 "erkläre Krieg mit"
  relation_rival:0 "rivalisiere"
- relation_ally:0 "verbünde"
+ relation_ally:0 "Verbündeter"
  relation_marry:0 "habe eine Staatsehe mit"
  THEIR_SUBJECT_TYPE_NO_ALLOW:0 "Sie sind ein(e) $SUBJECTTYPE$."
  tributary_state:0 "Tributstaat"

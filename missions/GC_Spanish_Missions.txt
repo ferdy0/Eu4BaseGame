@@ -4,9 +4,11 @@ gc_spain_1 = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -102,9 +104,11 @@ gc_spain_1_b = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -267,6 +271,7 @@ gc_spain_1_b = {
 		trigger = {
 			if = {
 				limit = {
+					has_dlc = "Golden Century"
 					religion = catholic
 				}
 				2021 = {
@@ -308,9 +313,11 @@ gc_spain_2 = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -410,41 +417,6 @@ gc_spain_2 = {
 		}
 	}
 
-	gc_cas_spa_reconquista_two = {
-		icon = mission_cannons_firing
-		required_missions = {
-			gc_cas_spa_navarra
-			gc_cas_spa_reconquista_one
-		}
-		position = 3
-
-		# free mission
-
-		provinces_to_highlight = {
-			OR = {
-				area = beieras_area
-				area = alentejo_area
-			}
-			NOT = { owned_by = ROOT }
-		}
-
-		trigger = {
-			beieras_area = {
-				type = all
-				owned_by = ROOT
-			}
-			alentejo_area = {
-				type = all
-				owned_by = ROOT
-			}
-		}
-
-		effect = {
-			add_prestige = 25
-			add_adm_power = 100
-		}
-	}
-
 	gc_cas_spa_expel_moriscos = {
 		icon = mission_expel_the_moriscos
 		required_missions = { gc_cas_spa_iberia_christian }
@@ -485,9 +457,11 @@ gc_spain_2_b = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -649,6 +623,7 @@ gc_spain_2_b = {
 		trigger = {
 			if = {
 				limit = {
+					has_dlc = "Golden Century"
 					religion = catholic
 				}
 				custom_trigger_tooltip = {
@@ -774,9 +749,11 @@ gc_spain_3 = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -979,9 +956,11 @@ gc_spain_3_b = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -1365,6 +1344,7 @@ gc_spain_3_b = {
 		trigger = {
 			if = {
 				limit = {
+					has_dlc = "Golden Century"
 					religion = catholic
 				}
 				custom_trigger_tooltip = {
@@ -1439,9 +1419,11 @@ gc_spain_4 = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -1731,9 +1713,11 @@ gc_spain_4_b = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		tag = SPA
 		NOT = { primary_culture = aragonese }
 		NOT = { primary_culture = catalan }
@@ -1931,9 +1915,11 @@ gc_spain_4_c = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -1982,9 +1968,11 @@ gc_spain_4_d = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -2157,15 +2145,76 @@ gc_spain_4_d = {
 	}
 }
 
+gc_castile_spain_5 = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential_on_load = {
+		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
+	}
+	potential = {
+		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
+		OR = {
+			tag = CAS
+			AND = {
+				tag = SPA
+				NOT = { primary_culture = aragonese }
+				NOT = { primary_culture = catalan }
+			}
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	gc_cas_spa_reconquista_two = {
+		icon = mission_cannons_firing
+		required_missions = {
+			gc_cas_spa_reconquista_three
+		}
+		position = 2
+
+		# free mission
+
+		provinces_to_highlight = {
+			OR = {
+				area = beieras_area
+				area = alentejo_area
+			}
+			NOT = { owned_by = ROOT }
+		}
+
+		trigger = {
+			beieras_area = {
+				type = all
+				owned_by = ROOT
+			}
+			alentejo_area = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+
+		effect = {
+			add_prestige = 25
+			add_adm_power = 100
+		}
+	}
+}
+
+
 gc_spain_5_a = {
 	slot = 5
 	generic = no
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		tag = SPA
 		NOT = { primary_culture = aragonese }
 		NOT = { primary_culture = catalan }
@@ -2342,9 +2391,11 @@ gc_spain_5_c = {
 	ai = yes
 	potential_on_load = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 	}
 	potential = {
 		has_dlc = "Golden Century"
+		NOT = { has_dlc = "Domination" }
 		OR = {
 			tag = CAS
 			AND = {
@@ -2371,6 +2422,7 @@ gc_spain_5_c = {
 		trigger = {
 			if = {
 				limit = {
+					has_dlc = "Golden Century"
 					religion = catholic
 				}
 				custom_trigger_tooltip = {
