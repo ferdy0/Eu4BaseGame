@@ -22,7 +22,7 @@
  CANT_REFILL_GARRISON_MERCENARY_COMPANY:0 "Söldnerkompanien können nicht dazu benutzt werden, um unsere Garnisonen aufzufüllen."
  MERCENARY_COMPANY_MANPOWER_INSTANT:1 "Die Söldnerkompanie $COMPANY|Y$ hat $MANPOWER|Y$ Männer in der Reserve, und Letztere steigt monatlich um $GROWTH|Y$ an. Die Söldnerkompanie wird ihre Regimenter diesen Monat mit $REINFORCE|Y$ neuen Männern verstärken."
  MERCENARY_COMPANY_MANPOWER_DELAYED:1 "Söldnerkompanien schöpfen Rekruten aus ihrer eigenen Rekrutenreserve ab, um sich zu verstärken. Während die Kompanie angeheuert ist, wächst die Rekrutenreserve langsam. Ist die Kompanie nicht im Feld, erholt sie sich viel schneller."
- MERCENARY_COMPANY_EFFECTS:0 "Aus $COMPANY|Y$-Traditionen:\n"
+ MERCENARY_COMPANY_EFFECTS:0 "Von den Traditionen der Söldnerkompanie $COMPANY|Y$:\n"
  REINFORCE_MERCENARY_COMPANY_EXTRA:0 " und $VALUE$ aus $COMPANY|Y$"
  MERC_COMP_MANPOWER_BASE:0 "Die maximale Rekrutenreserve von $MP|Y$ basiert auf $VAL|Y$ ursprünglichen Regimentern."
  MERC_COMP_MANPOWER_CHANGE:0 " Modifiziert um $VAL|+=2%$ aufgrund von:\n$WHY$"
@@ -145,8 +145,8 @@
  merc_sekban:0 "Sekban"
  merc_zanj_company:0 "Zanj-Kompanie"
  merc_knights_templar:1 "§JTempelritter§!"
- merc_black_army:0 "§JSchwarze Armee§!" # [LocEditor:AwaitingBatchUpdate]
- merc_black_army_2:0 "§JReserve der Schwarzen Armee§!" # [LocEditor:AwaitingBatchUpdate]
+ merc_black_army:1 "§JSchwarze Armee§!"
+ merc_black_army_2:1 "§JReserve der Schwarzen Armee§!"
  merc_lombard_free_company:0 "Lombardische Freie Kompanie"
  merc_tuscan_free_company:0 "Toskanische Freie Kompanie"
  twenty_good_men:0 "Zwanzig gute Männer"

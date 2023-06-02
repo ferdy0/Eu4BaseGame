@@ -1,0 +1,11 @@
+name = "March of Power Music Pack"
+archive = "dlc/dlc124_domination_pre_order_bonus/dlc124.zip"
+steam_id = "2350610"
+egs_id = "8ca2af752d72475280a6dac9f4b656b0"
+egs_prod_id = "9b4b0d146bf943bda8069d356e28b691"
+egs_staging_id = "842c5d8d25d8476fa6869a0d10369e6c"
+pops_id = "dlc124_domination_pre_order_bonus"
+affects_checksum = no
+affects_compatability = no
+checksum = "c506f755900648b3a18c04daeaef5fd7"
+category = "music"

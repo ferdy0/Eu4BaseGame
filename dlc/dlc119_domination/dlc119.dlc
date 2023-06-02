@@ -1,0 +1,11 @@
+name = "Domination"
+archive = "dlc/dlc119_domination/dlc119.zip"
+steam_id = "2223660"
+egs_id = "6c8fe8325aab41128d3153d48d295f61"
+egs_prod_id = "6537b644764849298ea484a9467f76d6"
+egs_staging_id = "dd994bc1689b407e998ce78ad1f4c610"
+pops_id = "eu4_dlc119_domination"
+affects_checksum = no
+affects_compatability = yes
+checksum = "7597b3e472a9d8fdf53caeb834e79ad0"
+category = "expansion"

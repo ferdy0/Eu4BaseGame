@@ -177,7 +177,7 @@ lotn_idea_dip_modifiers = {
 	category = DIP
 	
 	custom_can_colony_boost_development = {
-		can_colony_boost_development = yes
+		colony_development_boost = 1
 		level_cost_1 = 50
 		max_level = 1
 		
@@ -428,13 +428,6 @@ lotn_idea_dip_modifiers = {
     #        factor = 0
     #    }
     #}
-    #custom_cannons_for_hunting_pirates_in_fleet = {	#Not functional
-    #    cannons_for_hunting_pirates_in_fleet = 0.5
-    #    level_cost_1 = 0
-    #    chance = {
-    #        factor = 0
-    #    }
-    #}
     #custom_movement_speed_onto_off_boat_modifier = {   #regiment_disembark_speed exists
     #    movement_speed_onto_off_boat_modifier = 0.25
     #    level_cost_1 = 0
@@ -512,26 +505,27 @@ lotn_idea_dip_modifiers = {
 lotn_idea_mil_modifiers = {
 	category = MIL
 	
-	custom_has_carolean = {
-		has_carolean = yes
-		amount_of_carolean = 0.1
-		level_cost_1 = 25
-		max_level = 1
-		
-		chance = {
-			factor = 0
-		}
-		enabled = {
-			has_dlc = "Lions of the North"
-		}
-	}
+	#custom_has_carolean = {
+	#	has_carolean = yes
+	#	amount_of_carolean = 0.1
+	#	level_cost_1 = 25
+	#	max_level = 1
+	#	
+	#	chance = {
+	#		factor = 0
+	#	}
+	#	enabled = {
+	#		has_dlc = "Lions of the North"
+	#	}
+	#}
 	
 	custom_amount_of_carolean = {
+		has_carolean = yes
 		amount_of_carolean = 0.25
-		level_cost_1 = 5
-		level_cost_2 = 10
-		level_cost_3 = 15
-		level_cost_4 = 20
+		level_cost_1 = 10
+		level_cost_2 = 20
+		level_cost_3 = 30
+		level_cost_4 = 40
 		
 		chance = {
 			factor = 0
@@ -541,26 +535,27 @@ lotn_idea_mil_modifiers = {
 		}
 	}
 	
-	custom_can_recruit_hussars = {
-		can_recruit_hussars = yes
-		amount_of_hussars = 4
-		level_cost_1 = 25
-		max_level = 1
-		
-		chance = {
-			factor = 0
-		}
-		enabled = {
-			has_dlc = "Lions of the North"
-		}
-	}
+	#custom_can_recruit_hussars = {
+	#	can_recruit_hussars = yes
+	#	amount_of_hussars = 4
+	#	level_cost_1 = 25
+	#	max_level = 1
+	#	
+	#	chance = {
+	#		factor = 0
+	#	}
+	#	enabled = {
+	#		has_dlc = "Lions of the North"
+	#	}
+	#}
 	
 	custom_amount_of_hussars = {
-		amount_of_hussars = 4
-		level_cost_1 = 5
-		level_cost_2 = 10
-		level_cost_3 = 15
-		level_cost_4 = 20
+		can_recruit_hussars = yes
+		amount_of_hussars = 5
+		level_cost_1 = 10
+		level_cost_2 = 20
+		level_cost_3 = 30
+		level_cost_4 = 40
 		
 		chance = {
 			factor = 0
@@ -602,11 +597,11 @@ lotn_idea_mil_modifiers = {
 	}
 	
 	custom_morale_damage = {
-		morale_damage = 0.025
-		level_cost_1 = 5
-		level_cost_2 = 10
-		level_cost_3 = 15
-		level_cost_4 = 20
+		morale_damage = 0.05
+		level_cost_1 = 6
+		level_cost_2 = 12
+		level_cost_3 = 18
+		level_cost_4 = 24
 		
 		chance = {
 			factor = 0.1
@@ -614,11 +609,11 @@ lotn_idea_mil_modifiers = {
 	}
 	
 	custom_morale_damage_received = {
-		morale_damage_received = -0.025
-		level_cost_1 = 5
-		level_cost_2 = 10
-		level_cost_3 = 15
-		level_cost_4 = 20
+		morale_damage_received = -0.05
+		level_cost_1 = 6
+		level_cost_2 = 12
+		level_cost_3 = 18
+		level_cost_4 = 24
 		
 		chance = {
 			factor = 0.1
@@ -626,7 +621,7 @@ lotn_idea_mil_modifiers = {
 	}
 	
 	custom_attack_bonus_in_capital_terrain = {
-		attack_bonus_in_capital_terrain = yes
+		attack_bonus_in_capital_terrain = 1
 		level_cost_1 = 50
 		max_level = 1
 		
