@@ -231,7 +231,7 @@
  INFLUENCE_FROM_ESTATE_LOYALTY:0 "Loyauté des $ESTATE|Y$ de $OVERLORD|Y$"
  vassal_liberty_affected_by_loyalty:0 "L'aspiration à l'indépendance des vassaux dépend de la loyauté"
  can_give_agendas_without_interaction:1 "Requêtes des ordres n'importe quand"
- CONDITIONAL_MODIFIER_DESC:0 "Si ces conditions\n$CONDITIONS$ sont remplies :\n$MODIFIERS$"
+ CONDITIONAL_MODIFIER_DESC:0 "\nSi les conditions suivantes sont remplies :\n$CONDITIONS$\nAlors :\n$MODIFIERS$"
  FAILED_ESTATE_AGENDA_TITLE:0 "Pas de réponse donnée à une requête"
  FAILED_ESTATE_AGENDA_DESC:0 "Du fait des changements survenus dans le pays, les ordres renoncent à leur requête $NAME|Y$, ce qui se traduit par :\n$EFFECT$"
  TIMED_OUT_ESTATE_AGENDA_DESC:0 "Nous avons épuisé la patience des ordres pour ce qui concerne leur requête $NAME|Y$, pour laquelle ils attendaient une réponse avant le $EXPIRY|Y$. Cela se traduit par :\n$EFFECT$"

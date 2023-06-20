@@ -639,7 +639,7 @@
  GRANT_CLAIM:0 "Transférer une revendication"
  GRANT_PROVINCE_NO_ELIGBLE:0 "Nous ne possédons aucune province limitrophe de cette dépendance (ou qui lui serait accessible par la mer) que nous pourrions lui accorder."
  GRANT_CORE_CLAIM_NO_ELIGBLE:0 "Nous ne possédons aucune légitimité ou revendication sur une province limitrophe de cette dépendance (ou qui lui serait accessible par la mer) que nous pourrions lui transférer."
- THEY_WOULD_BE_OVEREXTENDED:0 "Cela placerait ce pays dans une situation de surexpansion."
+ THEY_WOULD_BE_OVEREXTENDED:2 "Cela placerait ce pays dans une situation de surexpansion : celle-ci est actuellement de $VAL|Y1%$ et la province en rajouterait §Y$ADD|1$%§!."
  GRANT_PROVINCE_DESC:0 "Accorde l'une de nos provinces à cette dépendance. Elle en serait des plus satisfaites."
  GRANT_CORE_PROVINCE_DESC:0 "Accorder la province de $PROV|Y$ et la légitimité dessus à cette dépendance va diminuer son aspiration à la liberté de $LD$, jusqu'à $LD_TOTAL$."
  GRANT_NONCORE_PROVINCE_DESC:0 "Accorder la province de $PROV|Y$ à cette dépendance va diminuer son aspiration à la liberté de $LD$, jusqu'à $LD_TOTAL$, et faire monter sa surexpansion à $OVEREXT$."

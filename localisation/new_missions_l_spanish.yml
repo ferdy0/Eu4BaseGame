@@ -1499,7 +1499,7 @@
  gc_cas_spa_army_ready_title:0 "Preparar la Reconquista"
  gc_cas_spa_army_ready_desc:0 "Demasiado tiempo hemos faltado a nuestro deber de cuidar de todos los pueblos de la Península. Preparémonos para unirlos todos bajo un solo estandarte."
  gc_cas_spa_army_ready2_title:0 "Preparar la Reconquista"
- gc_cas_spa_army_ready2_desc:0 "Demasiado tiempo hemos faltado a nuestro deber de cuidar de todos los pueblos de la Península. Preparémonos para unirlos todos bajo un solo estandarte."
+ gc_cas_spa_army_ready2_desc:0 "Demasiado tiempo hemos incumplido nuestro deber de cuidar de las gentes de Iberia. Debemos prepararnos para unirlos bajo nuestro estandarte."
  gc_cas_spa_reconquista_one_title:0 "Reclamar Andalucía"
  gc_cas_spa_reconquista_one_desc:0 "Los moros han disfrutado de nuestra paciencia durante siglos. Expulsémoslos y reclamemos Andalucía para la Corona de [Root.GetName]."
  gc_cas_spa_reconquista_one_ct:0 "§Y[Root.GetName]§! gana §YRestauración de la unión§! Casus belli sobre §Y[POR.GetName]§! si antes se ha cumplido la misión '§YSubyugar Navarra§!'."

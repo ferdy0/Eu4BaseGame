@@ -28,6 +28,8 @@ l_german:
  string_DesDer_female:0 "Der"
  string_zumzur_male:0 "zum"
  string_zumzur_female:0 "zur"
+ string_ZumZur_male:0 "Zum"
+ string_ZumZur_female:0 "Zur"
  string_unseresunserer_male:0 "unseres"
  string_UnseresUnserer_male:0 "Unseres"
  string_unseresunserer_female:0 "unserer"

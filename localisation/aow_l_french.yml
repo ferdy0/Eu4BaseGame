@@ -967,7 +967,7 @@
  ALREADY_MEMBER_OF_LEAGUE:0 "§R– Nous sommes déjà membres d'une ligue religieuse.§!"
  RECENTLY_JOINED_LEAGUE:0 "§R– Nous avons récemment intégré une ligue, aussi ne pourrons-nous la quitter avant le $DATE|Y$.§!"
  manchu_nation_1_title:1 "Adopter l'identité mandchoue"
- manchu_nation_1_desc:0 "Les trois capitales des anciennes tribus jurchens étant sous notre strict contrôle, il est maintenant temps de proclamer l'unicité de notre peuple en assumant notre nouvelle identité, celle des Mandchous."
+ manchu_nation_1_desc:0 "Les trois capitales des anciennes tribus jürchens étant sous notre strict contrôle, il est maintenant temps de proclamer l'unicité de notre peuple en assumant notre nouvelle identité, celle des Mandchous."
  cb_sengoku:0 "Sengoku"
  cb_sengoku_desc:0 "Nous devrions étendre notre influence au sein du shôgunat en nous emparant des territoires d'un clan voisin."
  british_nation_diplomatically_title:0 "Former diplomatiquement la nation britannique"

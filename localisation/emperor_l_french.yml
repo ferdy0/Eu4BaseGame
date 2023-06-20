@@ -485,7 +485,7 @@
  HAS_ESTATE_LOANS:0 "A emprunté aux ordres"
  HAS_NO_ESTATE_LOANS:0 "N'a pas emprunté aux ordres"
  GRANT_PRIVILEGE:3 "Le privilège $PRIVILEGE|Y$ va être concédé aux $ESTATE|Y$ :\n$EFFECT$\n$MODIFIERS$"
- REVOKE_PRIVILEGE:1 "Le privilège $PRIVILEGE|Y$ des $ESTATE|Y$ va être révoqué, avec pour conséquences :\n$EFFECT$"
+ REVOKE_PRIVILEGE:2 "Le privilège $PRIVILEGE|Y$ des $ESTATE|Y$ va être révoqué, qui se traduisait par :\n$EFFECT$\n$MODIFIERS$"
  # Provoke revolts
  PROVOKE_REVOLT:0 "Pousser à la révolte"
  PROVOKE_REVOLT_INSTANT:0 "Provoque les rebelles pour les pousser à se révolter immédiatement. Ils auront alors $EXTRA$ de soutien supplémentaire, soit $SIZE|Y$ unités au total."
