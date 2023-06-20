@@ -11105,3 +11105,17 @@ SLACKEN_AUTODISABLE =
 		icon=no
 	}
 }
+SIDETRUCEENDS=
+{
+	msg_icontype="diplo"
+	category="cat_diplomacy"
+	option="no"
+	to_me=
+	{
+		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=no
+	}
+}
