@@ -1020,7 +1020,7 @@ dlc115 = {
 dlc119 = {
 	reason = { # Mission trees and unique content
 		tooltip_desc = "dlc119_reason_new_content"
-		tooltip_reason = "dlc119_reason_new_content"
+		tooltip_reason = "dlc119_reason_new_content_reason"
 		weight = 100
 		trigger = {
 			OR = {
@@ -1035,7 +1035,9 @@ dlc119 = {
 				tag = BRA
 				tag = POR
 				tag = KOR
-
+				capital_scope = { 
+					region = japan_region
+				}
 				#Manchu countries				
 				tag = MJZ
 				tag = KRC
@@ -1044,11 +1046,7 @@ dlc119 = {
 				tag = NHX
 				tag = MHX
 			}
-			OR = {
-				capital_scope = { 
-					region = japan_region
-				}
-			}
+			
 		}
 	}
 	reason = {
@@ -1086,24 +1084,17 @@ dlc119 = {
 		weight = 30
 		trigger = {
 			OR = {
-				OR = {
-					tag = TUR
-					tag = RUM
-				}
-				OR = {
-					has_reform = celestial_empire
-					is_emperor_of_china = yes 
-					capital_scope = {
-						OR = {
-							superregion = china_superregion
-							superregion = far_east_superregion
-						}
+				tag = TUR
+				tag = RUM
+				has_reform = celestial_empire
+				is_emperor_of_china = yes 
+				capital_scope = {
+					OR = {
+						superregion = china_superregion
+						superregion = far_east_superregion
 					}
 				}
-				OR = {
-					primary_culture = anglois
-					culture_group = french
-				}
+				culture_group = french
 			}
 		}
 	}
