@@ -485,7 +485,7 @@
  HAS_ESTATE_LOANS:0 "Tiene préstamos de estamentos"
  HAS_NO_ESTATE_LOANS:0 "No tiene préstamos de estamentos"
  GRANT_PRIVILEGE:3 "Se concederá $PRIVILEGE|Y$ a $ESTATE|Y$, lo que da:\n$EFFECT$\n$MODIFIERS$"
- REVOKE_PRIVILEGE:1 "$ESTATE|Y$ perderá $PRIVILEGE|Y$, lo que tendrá este efecto:\n$EFFECT$"
+ REVOKE_PRIVILEGE:2 "Se retirará $PRIVILEGE|Y$ a $ESTATE|Y$, lo que da:\n$EFFECT$\n$MODIFIERS$"
  # Provoke revolts
  PROVOKE_REVOLT:0 "Provocar revuelta"
  PROVOKE_REVOLT_INSTANT:0 "Provoca que los rebeldes se rebelen inmediatamente. Serán $EXTRA$ más fuertes de lo normal, con un total de $SIZE|Y$ regimientos."

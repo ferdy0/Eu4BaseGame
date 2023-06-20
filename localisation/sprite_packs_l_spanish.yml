@@ -299,7 +299,15 @@
  dlc119_SUL_sprite_pack:0 "Animaciones Filipinas"
  dlc119_TOU_sprite_pack:0 "Animaciones Tolosanas"
  dlc119_WUU_sprite_pack:0 "Animaciones del Sur de China"
- 
+
+ dlc120_AIN_sprite_pack:0 "Animaciones Ainu"
+ dlc120_CDL_sprite_pack:0 "Animaciones Dali"
+ dlc120_CHP_sprite_pack:0 "Animaciones Champañesas"
+ dlc120_LIE_sprite_pack:0 "Animaciones Valonas"
+ dlc120_LOR_sprite_pack:0 "Animaciones Lorenesas"
+ dlc120_SUL_sprite_pack:0 "Animaciones Filipinas"
+ dlc120_TOU_sprite_pack:0 "Animaciones Tolosanas"
+ dlc120_WUU_sprite_pack:0 "Animaciones del Sur de China"
 
 # === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
  dlc106_aboriginal_sprite_pack:0 "Animaciones Aborígenes australianos"

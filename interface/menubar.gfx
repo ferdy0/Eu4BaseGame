@@ -786,6 +786,12 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 		noOfFrames = 2
 	}
+		spriteType = {
+		name = "GFX_mapmode_parliament_seats"
+		texturefile = "gfx//interface//mapmode_parliament_seats.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		noOfFrames = 2
+	}
 	
 	spriteType = {
 		name = "GFX_mapmode_bg"

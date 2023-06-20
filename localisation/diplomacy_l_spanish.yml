@@ -746,7 +746,7 @@
  VASSAL_CREATE_DESC:0 "$COUNTRY|Y$ se convertirá en vasallo con las siguientes provincias: $LIST$."
  HAVE_FLEET_BASING:0 "Tenemos Derechos de Fondeo en su nación."
  HAVE_NOT_FLEET_BASING:0 "NO tenemos Derechos de Fondeo en su nación."
- DIPLOMATIC_REPUTATION:0 "Reputación Diplomática"
+ DIPLOMATIC_REPUTATION:0 "La reputación diplomática aumenta las posibilidades de que las distintas ofertas diplomáticas sean aceptadas por otros países, mejora las posibilidades de heredar en una unión personal y acelera los procesos de anexión diplomática e integración."
  released_in_peace:0 "Liberado en Paz"
  returned_core_to_me:0 "Territorio devuelto"
  IS_GUARANTEE_NO_WAR:0 "No puedes declarar Guerra a un país que has garantizado."
