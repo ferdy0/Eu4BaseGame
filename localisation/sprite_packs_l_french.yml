@@ -299,7 +299,15 @@
  dlc119_SUL_sprite_pack:0 "Unités philippines"
  dlc119_TOU_sprite_pack:0 "Unités toulousaines"
  dlc119_WUU_sprite_pack:0 "Unités de Chine du Sud"
- 
+
+ dlc120_AIN_sprite_pack:0 "Unités aïnoues"
+ dlc120_CDL_sprite_pack:0 "Unités Dali"
+ dlc120_CHP_sprite_pack:0 "Unités champenoises"
+ dlc120_LIE_sprite_pack:0 "Unités wallonnes"
+ dlc120_LOR_sprite_pack:0 "Unités lorraines"
+ dlc120_SUL_sprite_pack:0 "Unités philippines"
+ dlc120_TOU_sprite_pack:0 "Unités toulousaines"
+ dlc120_WUU_sprite_pack:0 "Unités de Chine du Sud"
 
 # === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
  dlc106_aboriginal_sprite_pack:0 "Unités aborigènes d'Australie"

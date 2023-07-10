@@ -639,7 +639,7 @@
  GRANT_CLAIM:0 "Conceder reclamación"
  GRANT_PROVINCE_NO_ELIGBLE:0 "No poseemos ninguna provincia contigua a ellos (o accesibles por mar) que les podamos conceder."
  GRANT_CORE_CLAIM_NO_ELIGBLE:0 "No tienen núcleos ni reclamaciones adyacentes a ellos (o accesibles por mar) que les podamos conceder."
- THEY_WOULD_BE_OVEREXTENDED:0 "Esto podría llevar a una sobreextensión."
+ THEY_WOULD_BE_OVEREXTENDED:2 "Esto provocará su sobreextensión. Su sobreextensión actual es de un $VAL|1%$ y la provincia añadiría un $ADD|1$% más."
  GRANT_PROVINCE_DESC:0 "Concederles una de nuestras propias provincias. Esto les agradaría enormemente."
  GRANT_CORE_PROVINCE_DESC:0 "Les concedemos $PROV|Y$ y nuestro núcleo en él. Su deseo de libertad se reducirá en $LD$ y llega a ser $LD_TOTAL$."
  GRANT_NONCORE_PROVINCE_DESC:0 "Les concedemos $PROV|Y$. Su deseo de libertad se reducirá en $LD$ y llega a ser $LD_TOTAL$, y su sobreextensión aumentará a $OVEREXT$."

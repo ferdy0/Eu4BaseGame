@@ -155,7 +155,7 @@
  SEND_COLONIST_TOOLTIP:1 "Enviar un colono a $PROVINCE|Y$.\nFundará una colonia de nuestra cultura y religión primaria si se cumplen ciertos criterios."
  SEND_COLONIST_LABEL_TOOLTIP:1 "Podemos enviar un colono a $PROVINCE|Y$.\nFundará una colonia de nuestra cultura y religión primaria si se cumplen ciertos criterios."
  SEND_COLONIST_TOOLTIP_EXTRA:0 "Esta provincia también está disponible para la expulsión de una minoría si tuviéramos alguna de la que deseásemos librarnos."
- EXPEL_MINORITY_TOOLTIP:0 "Podemos expulsar una minoría a $PROVINCE|Y$.\nLa cultura y religión de la provincia origen serán transferidas a la nueva colonia, dejando la provincia de origen con nuestra cultura y religión primaria."
+ EXPEL_MINORITY_TOOLTIP:1 "Podemos expulsar a una minoría a $PROVINCE|Y$.\nLa cultura y religión de la provincia originaria se trasplantará a la nueva colonia."
  SELECT_MINORITY_TOOLTIP:0 "Expulsar minorías $MINORITY|Y$ a $PROVINCE|Y$ los reemplazará lentamente por súbditos de nuestra cultura y religión."
  SELECT_MINORITY_TOOLTIP_EXTRA_ACCEPTED:0 "Esta minoría es §Yaceptada§! y poseemos $NUM|Y$ provincias elegibles para esto."
  SELECT_MINORITY_TOOLTIP_EXTRA_NOT_ACCEPTED:0 "Esta minoría §Rno es aceptada§! y poseemos $NUM|Y$ provincias elegibles para esto."

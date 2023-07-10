@@ -102,7 +102,7 @@
  DIPLO_THEY_WON_WAR:0 "$WHO$ a gagné la guerre : "
  DIPLO_WAR_STALLED:0 "La guerre est dans une impasse : "
  DIPLO_RIVAL_COLONIST:0 "$WHO$ est une puissance coloniale : "
- DIPLO_WAR_UNOCCUPIED_FORTS:0 "Demande $PROV$ sans occuper aucune forteresse des environs : "
+ DIPLO_WAR_UNOCCUPIED_FORTS:1 "Demande $PROV$ sans occuper aucune des forteresses qui en sont accessibles par voie de terre : "
  DIPLO_WAR_INCONCLUSIVE:0 "A besoin d'un score de guerre d'au moins $VAL$ pour faire une demande : "
  DIPLO_UNREASONABLE_DEMANDS:0 "Exigences déraisonnables : "
  DIPLO_UNDESIRABLE_PEACE:0 "Termes indésirables : "
